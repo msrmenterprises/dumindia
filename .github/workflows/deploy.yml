@@ -24,6 +24,6 @@ jobs:
       run: |
         lftp -f "
         open -u ${{ secrets.FTP_USERNAME }},${{ secrets.FTP_PASSWORD }} ftp://dumindia.in
-        mirror -R ./ /home/dumindia/public_html/
+        mirror -R ./ /public_html/
         quit
         "

@@ -1,0 +1,29 @@
+name: Deploy to GoDaddy
+
+# Trigger this action whenever there is a push to the 'main' branch
+on:
+  push:
+    branches:
+      - main  # Change this if you are working with a different branch
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    
+    steps:
+    # Checkout the repository
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    # Install lftp to use for FTP deployment
+    - name: Install lftp
+      run: sudo apt-get install lftp
+
+    # Deploy to GoDaddy via FTP
+    - name: Deploy to GoDaddy
+      run: |
+        lftp -f "
+        open -u ${{ secrets.FTP_USERNAME }},${{ secrets.FTP_PASSWORD }} ftp://your-domain.com
+        mirror -R ./ /home/dumindia/public_html/
+        quit
+        "

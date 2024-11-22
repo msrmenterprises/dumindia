@@ -1,4 +1,4 @@
-<?php include "include/header.php"; ?>
+<?php include "../include/header.php"; ?>
 
 <!-- key objective starts here -->
 <div class="row k_inbanner">

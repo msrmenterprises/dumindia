@@ -1096,14 +1096,14 @@ Please contact : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid.
 				<h1 style="color: #8cc63e; text-align: center;">DUM 2017</h1>
 			</div>
 			<div class="col-sm-12 buckyroberts_dum_contactus_icons_div" style="color: #ffffff; text-align: center;">
-				<span><a href="dumindia2017/agenda-2017.php" style="color: #ffffff;">Agenda</a></span>&nbsp;&nbsp; | &nbsp;&nbsp;
+				<span><a href="agenda-2017.php" style="color: #ffffff;">Agenda</a></span>&nbsp;&nbsp; | &nbsp;&nbsp;
 				<!-- <span><a href="contact_us-2017.php" style="color: #ffffff;">Contact Us</a></span>&nbsp;&nbsp; | &nbsp;&nbsp; -->
-				<span><a href="dumindia2017/confirmed_utility.php" style="color: #ffffff;">Confirmed Utilities</a></span>&nbsp;&nbsp; | &nbsp; &nbsp;
+				<span><a href="confirmed_utility.php" style="color: #ffffff;">Confirmed Utilities</a></span>&nbsp;&nbsp; | &nbsp; &nbsp;
 				<span><a href="images/DUM Brochure_v6.pdf" style="color: #ffffff;">Download Brochure</a></span>&nbsp;&nbsp; | &nbsp;&nbsp;
-				<span><a href="dumindia2017/knowledge-2017.php" style="color: #ffffff;">Knowledge</a></span>&nbsp;&nbsp; | &nbsp;&nbsp;
-				<span><a href="dumindia2017/site_visit-2017.php" style="color: #ffffff;">Site Visit</a></span>&nbsp;&nbsp; | &nbsp;&nbsp;
-				<span><a href="dumindia2017/speakers-2017.php" style="color: #ffffff;">Speakers</a></span>&nbsp;&nbsp; | &nbsp;&nbsp;
-				<span><a href="dumindia2017/organiser-2017.php" style="color: #ffffff;">Organiser</a></span>&nbsp;&nbsp; | &nbsp;&nbsp;
+				<span><a href="knowledge-2017.php" style="color: #ffffff;">Knowledge</a></span>&nbsp;&nbsp; | &nbsp;&nbsp;
+				<span><a href="site_visit-2017.php" style="color: #ffffff;">Site Visit</a></span>&nbsp;&nbsp; | &nbsp;&nbsp;
+				<span><a href="speakers-2017.php" style="color: #ffffff;">Speakers</a></span>&nbsp;&nbsp; | &nbsp;&nbsp;
+				<span><a href="organiser-2017.php" style="color: #ffffff;">Organiser</a></span>&nbsp;&nbsp; | &nbsp;&nbsp;
 				<span><a href="gallery.php" style="color: #ffffff;">Gallery</a></span>
 			</div>
 			<div class="col-sm-12 buckyroberts_dum_contactus_icons_div" style="margin-top: 20px;">

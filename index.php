@@ -88,7 +88,7 @@ font-size: 12px;
 
 	<div class="k_cheading">
 
-		<h1>DUM 2024 <span class="k_greencolor">at a Glance</span> </h1>
+		<h1>DUM 2024 <span class="k_greencolor">at a Glance1</span> </h1>
 
 		<img src="images/kborder_bottom.png" alt="">
 

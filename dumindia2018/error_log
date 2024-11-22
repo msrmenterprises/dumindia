@@ -1,0 +1,93 @@
+[03-Nov-2017 12:42:13 UTC] PHP Notice:  Undefined index: email1 in /home/dumindia/public_html/contact_us.php on line 35
+[03-Nov-2017 12:42:13 UTC] PHP Notice:  Undefined index: usrname1 in /home/dumindia/public_html/contact_us.php on line 41
+[03-Nov-2017 12:42:13 UTC] PHP Notice:  Undefined index: txtarea in /home/dumindia/public_html/contact_us.php on line 45
+[03-Nov-2017 12:44:33 UTC] PHP Notice:  Undefined index: email1 in /home/dumindia/public_html/contact_us.php on line 35
+[03-Nov-2017 12:44:33 UTC] PHP Notice:  Undefined index: usrname1 in /home/dumindia/public_html/contact_us.php on line 41
+[03-Nov-2017 12:44:33 UTC] PHP Notice:  Undefined index: txtarea in /home/dumindia/public_html/contact_us.php on line 45
+[21-Jun-2018 10:10:29 UTC] PHP Warning:  require(sendgrid/vendor/sendgrid-php.php): failed to open stream: No such file or directory in /home/dumindia/public_html/receivemail.php on line 4
+[21-Jun-2018 10:10:29 UTC] PHP Fatal error:  require(): Failed opening required 'sendgrid/vendor/sendgrid-php.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/dumindia/public_html/receivemail.php on line 4
+[21-Jun-2018 10:10:48 UTC] PHP Fatal error:  Uncaught Error: Class 'SendGrid\Mail\Mail' not found in /home/dumindia/public_html/receivemail.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dumindia/public_html/receivemail.php on line 7
+[21-Jun-2018 10:10:50 UTC] PHP Fatal error:  Uncaught Error: Class 'SendGrid\Mail\Mail' not found in /home/dumindia/public_html/receivemail.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dumindia/public_html/receivemail.php on line 7
+[21-Jun-2018 10:10:57 UTC] PHP Warning:  require(sendgrid/vendor/sendgrid-php.php): failed to open stream: No such file or directory in /home/dumindia/public_html/receivemail.php on line 4
+[21-Jun-2018 10:10:57 UTC] PHP Fatal error:  require(): Failed opening required 'sendgrid/vendor/sendgrid-php.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/dumindia/public_html/receivemail.php on line 4
+[21-Jun-2018 10:57:01 UTC] PHP Warning:  require(sendgrid/vendor/sendgrid-php.php): failed to open stream: No such file or directory in /home/dumindia/public_html/receivemail.php on line 4
+[21-Jun-2018 10:57:01 UTC] PHP Fatal error:  require(): Failed opening required 'sendgrid/vendor/sendgrid-php.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/dumindia/public_html/receivemail.php on line 4
+[21-Jun-2018 11:12:55 UTC] PHP Warning:  require(/home/dumindia/public_html/vendor/composer/../../lib/SendGrid.php): failed to open stream: No such file or directory in /home/dumindia/public_html/vendor/composer/autoload_real.php on line 66
+[21-Jun-2018 11:12:55 UTC] PHP Fatal error:  require(): Failed opening required '/home/dumindia/public_html/vendor/composer/../../lib/SendGrid.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/dumindia/public_html/vendor/composer/autoload_real.php on line 66
+[21-Jun-2018 11:12:57 UTC] PHP Warning:  require(/home/dumindia/public_html/vendor/composer/../../lib/SendGrid.php): failed to open stream: No such file or directory in /home/dumindia/public_html/vendor/composer/autoload_real.php on line 66
+[21-Jun-2018 11:12:57 UTC] PHP Fatal error:  require(): Failed opening required '/home/dumindia/public_html/vendor/composer/../../lib/SendGrid.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/dumindia/public_html/vendor/composer/autoload_real.php on line 66
+[21-Jun-2018 11:13:35 UTC] PHP Warning:  require(/home/dumindia/public_html/vendor/composer/../../lib/SendGrid.php): failed to open stream: No such file or directory in /home/dumindia/public_html/vendor/composer/autoload_real.php on line 66
+[21-Jun-2018 11:13:35 UTC] PHP Fatal error:  require(): Failed opening required '/home/dumindia/public_html/vendor/composer/../../lib/SendGrid.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/dumindia/public_html/vendor/composer/autoload_real.php on line 66
+[21-Jun-2018 11:13:48 UTC] PHP Warning:  require(/home/dumindia/public_html/vendor/vendor/autoload.php): failed to open stream: No such file or directory in /home/dumindia/public_html/vendor/sendgrid-php.php on line 2
+[21-Jun-2018 11:13:48 UTC] PHP Fatal error:  require(): Failed opening required '/home/dumindia/public_html/vendor/vendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/dumindia/public_html/vendor/sendgrid-php.php on line 2
+[21-Jun-2018 11:13:50 UTC] PHP Warning:  require(/home/dumindia/public_html/vendor/vendor/autoload.php): failed to open stream: No such file or directory in /home/dumindia/public_html/vendor/sendgrid-php.php on line 2
+[21-Jun-2018 11:13:50 UTC] PHP Fatal error:  require(): Failed opening required '/home/dumindia/public_html/vendor/vendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/dumindia/public_html/vendor/sendgrid-php.php on line 2
+[21-Jun-2018 11:14:04 UTC] PHP Fatal error:  Uncaught Error: Class 'SendGrid\Mail\Mail' not found in /home/dumindia/public_html/testing.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/dumindia/public_html/testing.php on line 4
+[21-Jun-2018 11:14:13 UTC] PHP Warning:  require(/home/dumindia/public_html/vendor/composer/../../lib/SendGrid.php): failed to open stream: No such file or directory in /home/dumindia/public_html/vendor/composer/autoload_real.php on line 66
+[21-Jun-2018 11:14:13 UTC] PHP Fatal error:  require(): Failed opening required '/home/dumindia/public_html/vendor/composer/../../lib/SendGrid.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/dumindia/public_html/vendor/composer/autoload_real.php on line 66
+[23-Jun-2018 12:58:48 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/dumindia/public_html/contact_us.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dumindia/public_html/contact_us.php on line 12
+[23-Jun-2018 12:59:03 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/dumindia/public_html/contact_us.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dumindia/public_html/contact_us.php on line 12
+[23-Jun-2018 13:02:00 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/dumindia/public_html/contact_us.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dumindia/public_html/contact_us.php on line 12
+[23-Jun-2018 13:03:05 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/dumindia/public_html/contact_us.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dumindia/public_html/contact_us.php on line 12
+[23-Jun-2018 13:03:59 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/dumindia/public_html/contact_us.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dumindia/public_html/contact_us.php on line 12
+[23-Jun-2018 13:04:42 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/dumindia/public_html/contact_us.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dumindia/public_html/contact_us.php on line 12
+[23-Jun-2018 13:05:12 Asia/Kolkata] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/dumindia/public_html/contact_us.php on line 12
+[23-Jun-2018 13:05:42 Asia/Kolkata] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/dumindia/public_html/contact_us.php on line 12
+[23-Jun-2018 13:05:42 Asia/Kolkata] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/dumindia/public_html/contact_us.php on line 15
+[23-Jun-2018 13:05:42 Asia/Kolkata] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/dumindia/public_html/contact_us.php on line 19
+[23-Jun-2018 14:07:02 Asia/Kolkata] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/dumindia/public_html/contact_us.php on line 12
+[23-Jun-2018 14:07:02 Asia/Kolkata] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/dumindia/public_html/contact_us.php on line 15
+[23-Jun-2018 14:07:02 Asia/Kolkata] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/dumindia/public_html/contact_us.php on line 19
+[13-Jul-2018 10:01:45 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/dumindia/public_html/mailtrack.php on line 41
+[31-Aug-2018 16:08:06 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/dumindia/public_html/exhibitor-resigtration.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dumindia/public_html/exhibitor-resigtration.php on line 10
+[31-Aug-2018 16:35:17 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/dumindia/public_html/exhibitor-resigtration.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dumindia/public_html/exhibitor-resigtration.php on line 14
+[31-Aug-2018 16:35:51 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/dumindia/public_html/exhibitor-resigtration.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dumindia/public_html/exhibitor-resigtration.php on line 14
+[31-Aug-2018 16:40:02 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/dumindia/public_html/exhibitor-resigtration.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dumindia/public_html/exhibitor-resigtration.php on line 15
+[31-Aug-2018 16:42:12 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/dumindia/public_html/exhibitor-resigtration.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dumindia/public_html/exhibitor-resigtration.php on line 16
+[03-Sep-2018 10:17:45 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/dumindia/public_html/submit-best-practice.php on line 33
+[03-Sep-2018 10:17:48 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/dumindia/public_html/submit-best-practice.php on line 33
+[03-Sep-2018 10:23:39 UTC] PHP Parse error:  syntax error, unexpected 'text' (T_STRING), expecting ',' or ';' in /home/dumindia/public_html/submit-best-practice.php on line 88
+[03-Sep-2018 10:23:42 UTC] PHP Parse error:  syntax error, unexpected 'text' (T_STRING), expecting ',' or ';' in /home/dumindia/public_html/submit-best-practice.php on line 88
+[03-Sep-2018 10:23:45 UTC] PHP Parse error:  syntax error, unexpected 'text' (T_STRING), expecting ',' or ';' in /home/dumindia/public_html/submit-best-practice.php on line 88

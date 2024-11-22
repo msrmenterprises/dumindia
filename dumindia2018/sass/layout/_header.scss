@@ -1,0 +1,44 @@
+.k_logo_here
+{
+	 margin-top: 3px;
+}
+
+.k_logo_main
+{
+	text-align: center;
+    margin-top: 3px;
+    margin-bottom: 2px;
+}
+
+.k_nav
+{
+	background:$dum-green;
+	color:#fff;
+	border:0px;
+	margin-bottom:0px;
+	border-radius:0px;
+	li
+	{
+		a
+		{
+			color: #fff !important;
+		    text-transform: capitalize;
+		    font-family: 'Roboto Condensed';
+		    color: #fff;
+		    font-size: 19px;
+		    letter-spacing: 0.5px;
+		    @media(max-width:780px)
+		    {
+		    	font-size: 16px;
+		    }
+		    span
+		    {
+		    	margin-left: 18px;
+		    	@media(max-width:768px)
+		    	{
+		    		display: none;
+		    	}
+		    }
+		}
+	}
+}

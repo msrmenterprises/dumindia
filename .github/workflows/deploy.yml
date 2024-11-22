@@ -23,7 +23,7 @@ jobs:
     - name: Deploy to GoDaddy
       run: |
         lftp -f "
-        open -u ${{ secrets.FTP_USERNAME }},${{ secrets.FTP_PASSWORD }} ftp://your-domain.com
+        open -u ${{ secrets.FTP_USERNAME }},${{ secrets.FTP_PASSWORD }} ftp://dumindia.in
         mirror -R ./ /home/dumindia/public_html/
         quit
         "

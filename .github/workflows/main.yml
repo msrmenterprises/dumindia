@@ -1,4 +1,7 @@
-on: push
+on:
+  push:
+    branches:
+      - main
 name: 🚀 Deploy website on push
 jobs:
   web-deploy:
@@ -14,3 +17,9 @@ jobs:
         server: ftp.dumindia.in
         username: github_actions@dumindia.in
         password: ${{ secrets.FTP_PASSWORD }}
+        git-ftp-args: "--changed-only"
+        exclude: |
+          **/dumindia2018/**
+          **/dumindia2019/**
+          **/dumindia2020/**
+          

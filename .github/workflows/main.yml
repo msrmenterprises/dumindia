@@ -14,3 +14,8 @@ jobs:
         server: ftp.dumindia.in
         username: github_actions@dumindia.in
         password: ${{ secrets.FTP_PASSWORD }}
+        exclude: |
+          **/dumindia2018/**
+          **/dumindia2019/**
+          **/dumindia2020/**
+          

@@ -1,29 +1,30 @@
-name: Deploy to GoDaddy
-
-# Trigger this action whenever there is a push to the 'main' branch
 on:
   push:
     branches:
-      - main  # Change this if you are working with a different branch
+      - main
+
+name: 🚀 Deploy website on push
 
 jobs:
-  deploy:
+  web-deploy:
+    name: 🎉 Deploy
     runs-on: ubuntu-latest
-    
     steps:
-    # Checkout the repository
-    - name: Checkout code
-      uses: actions/checkout@v2
+      - name: 🚚 Get latest code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # Ensures the full Git history is fetched to track changes
 
-    # Install lftp to use for FTP deployment
-    - name: Install lftp
-      run: sudo apt-get install lftp
-
-    # Deploy to GoDaddy via FTP
-    - name: Deploy to GoDaddy
-      run: |
-        lftp -f "
-        open -u ${{ secrets.FTP_USERNAME }},${{ secrets.FTP_PASSWORD }} ftp://dumindia.in
-        mirror -R ./ /public_html/
-        quit
-        "
+      - name: 📂 Sync files
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: ftp.dumindia.in
+          username: github_actions@dumindia.in
+          password: ${{ secrets.FTP_PASSWORD }}
+          git-ftp-args: "--changed-only" # Ensures only changed files are synced
+          exclude: |
+            dumindia2018/**
+            dumindia2019/**
+            dumindia2020/**
+          state-name: ".ftp-deploy-sync-state.json" # Keeps track of changes on the server
+          log-level: "verbose" # Enables detailed logging for debugging purposes

@@ -679,11 +679,11 @@ Please contact : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid.
 <li><a href="https://www.pgvcl.com/" target="_blank"><img src="images/utilities2019/2. PGVCL.png" style="height:155px;">Paschim Gujarat Vij Company Limited</a></li>
 <li><a href="https://www.kesco.co.in/" target="_blank"><img src="images/2024/kanpur_electrict.png" style="height:155px;">Kanpur Electricity Supply Company Limited</a></li>
 <li><a href="https://www.upcl.org/" target="_blank"><img src="images/Uttarakhand Power Corporation Limited logo.jpg" style="height:155px;">Uttarakhand Power Corporation Limited </a></li>
-<li><a href="https://www.mgvcl.com/" target="_blank"><img src="images/utilities2019/Madhya Gujarat Vij. Co. Ltd.jpg" style="height:102px;">Madhya Gujarat Vij Company Limited</a></li>
+<li><a href="https://www.mgvcl.com/" target="_blank"><img src="images/2024/mgvcl.png" style="height:102px;">Madhya Gujarat Vij Company Limited</a></li>
 <li><a href="https://www.kseb.in/" target="_blank"><img src="images/KSEB_Logo_2022-new.jpg" style="height: 100px;">Kerala State Electricity Board</a></li>
 <li><a href="https://energy.rajasthan.gov.in/jvvnl/#/home/dptHome" target="_blank"><img src="images/Jaipur Vidut Vitran Nigam Limited logo.png" style="height: 100px;">Jaipur Vidyut Vitran Nigam Limited</a></li>
 <li><a href="https://www.apdcl.org/" target="_blank"><img src="images/images_2018/APDCL_logo.png">Assam Power Distribution Company Limited</a></li>
-<li><a href="http://www.mpez.co.in/portal/Jabalpur_home.portal" target="_blank"><img src="images/utilities2019/12. MPMKVVCL logo.jpeg" style="height:155px;">Madhya Pradesh Poorv Kshetra Vidyut Vitaran Company Ltd.</a></li>
+<li><a href="http://www.mpez.co.in/portal/Jabalpur_home.portal" target="_blank"><img src="images/2024/mppkc.png" style="height:155px;">Madhya Pradesh Poorv Kshetra Vidyut Vitaran Company Ltd.</a></li>
 <li><a href="https://www.goaelectricity.gov.in/" target="_blank"><img src="images/utilities2019/8. Goa Electricity Department.jpeg" style="height:155px;">Government of Goa, Electricity Department</a></li>
 	</ul>
 <!--<div class="k_cheading k_white_haeding">

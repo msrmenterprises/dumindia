@@ -452,7 +452,7 @@ if($pass == "DUM14152024#%")
         </tbody>
     </table>
 	
-	<div class="header">MILLION SMART METERS TO DRIVE DIGITALIZATION OF DISCOMS | 15:30~17:00</div>
+	<div class="header">SESSION 3: LEVERAGING 250 MILLION SMART METERS TO DRIVE DIGITALIZATION OF DISCOMS | 15:30~17:00</div>
     <table>
         <thead>
             <tr>
@@ -1407,6 +1407,7 @@ if($pass == "DUM14152024#%")
         </tr>
     </table>
 
+    <center>
     <div class="session-header">DUM 2024 Exhibition</div>
     <p><a href="https://flic.kr/s/aHBqjBSmGK" class="link">Exhibition Video Link</a></p>
     <p><a href="https://flic.kr/s/aHBqjBSmGK" class="link">Exhibition Photos Link</a></p>
@@ -1414,6 +1415,15 @@ if($pass == "DUM14152024#%")
     <div class="session-header">DUM 2024 Branding</div>
     <p><a href="https://flic.kr/s/aHBqjBSnii" class="link">Branding Video Link</a></p>
     <p><a href="https://flic.kr/s/aHBqjBSnii" class="link">Branding Photos Link</a></p>
+</center>
+
+    <center><a href="presentations2023.php" target="_blank"><h6>DUM 2023 presentations</h6></a></center>
+    <center><a href="presentations2022.php" target="_blank"><h6>DUM 2022 presentations</h6></a></center>
+  <center><a href="presentations2021.php" target="_blank"><h6>DUM 2021 presentations</h6></a></center>
+    <center><a href="presentations2020.php" target="_blank"><h6>DUM 2020 presentations</h6></a></center>
+    <center><a href="presentations.php" target="_blank"><h6>DUM 2019 presentations</h6></a></center>
+	<center><a href="presentations_2018.php" target="_blank"><h6>DUM 2018 presentations</h6></a></center>
+	<center><a href="presentations_2017.php" target="_blank"><h6>DUM 2017 presentations</h6></a></center>
 
 
 <?php 

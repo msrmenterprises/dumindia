@@ -1409,11 +1409,11 @@ if($pass == "DUM14152024#%")
 
     <center>
     <div class="session-header">DUM 2024 Exhibition</div>
-    <a href="https://flic.kr/s/aHBqjBSmGK" class="link">Exhibition Video Link</a>
+    <a href="https://flic.kr/s/aHBqjBSmGK" class="link">Exhibition Video Link</a><br/>
     <a href="https://flic.kr/s/aHBqjBSmGK" class="link">Exhibition Photos Link</a>
 
     <div class="session-header">DUM 2024 Branding</div>
-    <a href="https://flic.kr/s/aHBqjBSnii" class="link">Branding Video Link</a>
+    <a href="https://flic.kr/s/aHBqjBSnii" class="link">Branding Video Link</a><br/>
     <a href="https://flic.kr/s/aHBqjBSnii" class="link">Branding Photos Link</a>
 </center>
 

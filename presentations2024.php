@@ -1409,12 +1409,12 @@ if($pass == "DUM14152024#%")
 
     <center>
     <div class="session-header">DUM 2024 Exhibition</div>
-    <p><a href="https://flic.kr/s/aHBqjBSmGK" class="link">Exhibition Video Link</a></p>
-    <p><a href="https://flic.kr/s/aHBqjBSmGK" class="link">Exhibition Photos Link</a></p>
+    <a href="https://flic.kr/s/aHBqjBSmGK" class="link">Exhibition Video Link</a>
+    <a href="https://flic.kr/s/aHBqjBSmGK" class="link">Exhibition Photos Link</a>
 
     <div class="session-header">DUM 2024 Branding</div>
-    <p><a href="https://flic.kr/s/aHBqjBSnii" class="link">Branding Video Link</a></p>
-    <p><a href="https://flic.kr/s/aHBqjBSnii" class="link">Branding Photos Link</a></p>
+    <a href="https://flic.kr/s/aHBqjBSnii" class="link">Branding Video Link</a>
+    <a href="https://flic.kr/s/aHBqjBSnii" class="link">Branding Photos Link</a>
 </center>
 
     <center><a href="presentations2023.php" target="_blank"><h6>DUM 2023 presentations</h6></a></center>

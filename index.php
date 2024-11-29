@@ -655,7 +655,7 @@ Please contact : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid.
 		<img src="images/kborder_bottomg.png" alt="">
 	</div>
 	<ul class="k_confirmed_als">
-	<li><a href="https://uppcl.org/uppcl/hi/" target="_blank"><img src="images/2024/uppcl.png" style="height:155px;"> Uttar Pradesh Power Corporation Limited</a></li> 
+	<li><a href="https://uppcl.org/uppcl/hi/" target="_blank"><img src="images/2024/uppcl1.png" style="height:155px;"> Uttar Pradesh Power Corporation Limited</a></li> 
 <li><a href="https://pvvnl.org/" target="_blank"><img src="images/utilities2019/1. PVVNL.jpg" style="height:155px;">Pashchimanchal Vidyut Vitran Nigam Limited</a></li>
 <li><a href="https://puvvnl.up.nic.in/" target="_blank"><img src="images/utilities2019/5. PUVVNL Logo.jpeg" style="height:155px;">Purvanchal Vidyut Vitran Nigam Limited</a></li>
 <li><a href="http://www.mvvnl.in/" target="_blank"><img src="images/Madhyanchal Vidyut Vitran Nigam Ltd.png" style="height:155px;">Madhyanchal Vidyut Vitran Nigam Ltd </a></li>

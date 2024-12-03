@@ -1407,7 +1407,128 @@ if($pass == "DUM14152024#%")
         </tr>
     </table>
 
-    <center>
+    <div class="header">Exhibition and Branding</div>
+    
+
+    <table>
+        <tr>
+            <th>S.No</th>
+            <th>Name</th>
+            <th>Designation</th>
+            <th>Organisation</th>
+            <th>Category</th>
+            <th>Presentation/Speech</th>
+            <th>Video Link</th>
+            <th>Photos Link</th>
+			
+        </tr>
+
+        <tr>
+            <td>1</td>
+            <td>DUM 2024</td>
+            <td>Exhibition</td>
+            <td></td>
+            <td></td>
+            <td><a href="https://flic.kr/s/aHBqjBSmGK" class="link">Video</a></td>
+            <td><a href="https://flic.kr/s/aHBqjBSmGK" class="link">Photos</a></td>
+			
+        </tr>
+
+        <tr>
+            <td>2</td>
+            <td>DUM 2024</td>
+            <td>Branding</td>
+            <td></td>
+            <td></td>
+            <td><a href="https://flic.kr/s/aHBqjBSnii" class="link">Video</a></td>
+            <td><a href="https://flic.kr/s/aHBqjBSnii" class="link">Photos</a></td>
+			
+        </tr>
+
+        <tr>
+            <td>2</td>
+            <td>DUM 2024</td>
+            <td>Branding</td>
+            <td></td>
+            <td></td>
+            <td><a href="https://flic.kr/s/aHBqjBSnii" class="link">Video</a></td>
+            <td><a href="https://flic.kr/s/aHBqjBSnii" class="link">Photos</a></td>
+			
+        </tr>
+
+        <tr>
+            <td>3</td>
+            <td>DUM 2023</td>
+            <td>Presentations</td>
+            <td></td>
+            <td></td>
+            <td><a href="presentations2023.php" class="link">Video</a></td>
+            <td><a href="presentations2023.php" class="link">Photos</a></td>
+			
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>DUM 2022</td>
+            <td>Presentations</td>
+            <td></td>
+            <td></td>
+            <td><a href="presentations2022.php" class="link">Video</a></td>
+            <td><a href="presentations2022.php" class="link">Photos</a></td>
+			
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>DUM 2021</td>
+            <td>Presentations</td>
+            <td></td>
+            <td></td>
+            <td><a href="presentations2021.php" class="link">Video</a></td>
+            <td><a href="presentations2021.php" class="link">Photos</a></td>
+			
+        </tr>
+        <tr>
+            <td>6</td>
+            <td>DUM 2020</td>
+            <td>Presentations</td>
+            <td></td>
+            <td></td>
+            <td><a href="presentations2020.php" class="link">Video</a></td>
+            <td><a href="presentations2020.php" class="link">Photos</a></td>
+			
+        </tr>
+        <tr>
+            <td>7</td>
+            <td>DUM 2019</td>
+            <td>Presentations</td>
+            <td></td>
+            <td></td>
+            <td><a href="presentations.php" class="link">Video</a></td>
+            <td><a href="presentations.php" class="link">Photos</a></td>
+			
+        </tr>
+        <tr>
+            <td>8</td>
+            <td>DUM 2018</td>
+            <td>Presentations</td>
+            <td></td>
+            <td></td>
+            <td><a href="presentations_2018.php" class="link">Video</a></td>
+            <td><a href="presentations_2018.php" class="link">Photos</a></td>
+			
+        </tr>
+        <tr>
+            <td>9</td>
+            <td>DUM 2017</td>
+            <td>Presentations</td>
+            <td></td>
+            <td></td>
+            <td><a href="presentations_2017.php" class="link">Video</a></td>
+            <td><a href="presentations_2017.php" class="link">Photos</a></td>
+			
+        </tr>
+    </table>    
+
+    <!-- <center>
     <div class="session-header">DUM 2024 Exhibition</div>
     <a href="https://flic.kr/s/aHBqjBSmGK" class="link">Exhibition Video Link</a><br/>
     <a href="https://flic.kr/s/aHBqjBSmGK" class="link">Exhibition Photos Link</a>
@@ -1415,15 +1536,15 @@ if($pass == "DUM14152024#%")
     <div class="session-header">DUM 2024 Branding</div>
     <a href="https://flic.kr/s/aHBqjBSnii" class="link">Branding Video Link</a><br/>
     <a href="https://flic.kr/s/aHBqjBSnii" class="link">Branding Photos Link</a>
-</center>
+</center> -->
 
-    <center><a href="presentations2023.php" target="_blank"><h6>DUM 2023 presentations</h6></a></center>
+    <!-- <center><a href="presentations2023.php" target="_blank"><h6>DUM 2023 presentations</h6></a></center>
     <center><a href="presentations2022.php" target="_blank"><h6>DUM 2022 presentations</h6></a></center>
   <center><a href="presentations2021.php" target="_blank"><h6>DUM 2021 presentations</h6></a></center>
     <center><a href="presentations2020.php" target="_blank"><h6>DUM 2020 presentations</h6></a></center>
     <center><a href="presentations.php" target="_blank"><h6>DUM 2019 presentations</h6></a></center>
 	<center><a href="presentations_2018.php" target="_blank"><h6>DUM 2018 presentations</h6></a></center>
-	<center><a href="presentations_2017.php" target="_blank"><h6>DUM 2017 presentations</h6></a></center>
+	<center><a href="presentations_2017.php" target="_blank"><h6>DUM 2017 presentations</h6></a></center> -->
 
 
 <?php 

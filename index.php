@@ -685,7 +685,12 @@ Please contact : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid.
 <li><a href="https://www.apdcl.org/" target="_blank"><img src="images/images_2018/APDCL_logo.png">Assam Power Distribution Company Limited</a></li>
 <li><a href="http://www.mpez.co.in/portal/Jabalpur_home.portal" target="_blank"><img src="images/2024/mppkc.png" style="height:155px;">Madhya Pradesh Poorv Kshetra Vidyut Vitaran Company Ltd.</a></li>
 <li><a href="https://www.goaelectricity.gov.in/" target="_blank"><img src="images/utilities2019/8. Goa Electricity Department.jpeg" style="height:155px;">Government of Goa, Electricity Department</a></li>
-	</ul>
+<li><a href="https://cescrajasthan.co.in/open.php" target="_blank"><img src="images/2024/cesc_rajasthan.png" style="height:155px;">CESC Rajasthan</a></li>
+<li><a href="https://energy.rajasthan.gov.in/jdvvnl/#/home/dptHome" target="_blank"><img src="images/2024/jodhpur_vidhut.jpeg" style="height:155px;">Jodhpur Vidyut Virtan Nigam Limited</a></li>
+<li><a href="https://www.wbsedcl.in/irj/go/km/docs/internet/new_website/Home.html" target="_blank"><img src="images/2024/wbsedcl.png" style="height:155px;">West Bengal State Electricity Distribution Company Limited</a></li>
+<li><a href="https://jbvnl.co.in/" target="_blank"><img src="images/2024/bijli.jpeg" style="height:155px;">Jharkhand Bijli Vitran Nigam Limited</a></li>
+
+</ul>
 <!--<div class="k_cheading k_white_haeding">
 		<h1>CONFIRMED UTILITIES  <span class="k_greencolor">OF DUM 2023</span> </h1>
 		<img src="images/kborder_bottomg.png" alt="">

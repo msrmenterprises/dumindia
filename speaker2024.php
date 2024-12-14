@@ -202,6 +202,24 @@
 				</div>
 			</div>
 	</div>
+
+	<div class="row speaker_row">
+    <div class="k_list_part">
+        <div class="col-sm-12 dum_speaker">
+            <a>
+                <div class="speaker_img">
+                    <img src="images/2024/amarjeet_singh.png" style="width:60%">
+                </div>
+                <div class="speaker_content">
+                    <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize;">
+                        Amarjeet Singh<br>CEO<br>BSES Yamuna Power Limited
+                    </h1>
+                    <p>Mr. Amarjeet Singh is the CEO of BSES Yamuna Power Ltd., an electricity distribution utility catering to parts of the National Capital. Prior to this role, he was the CFO of BSES Rajdhani Power Ltd. for over six years. A Chartered Accountant with over 24 years of experience spanning exports, contracts, manufacturing, and power utilities, his expertise lies in cost mitigation, particularly in Power Purchase Costs, which make up ~80% of a utility's balance sheet.</p>
+                </div>
+            </a>
+        </div>
+    </div>
+</div>
 	
 	
 	
@@ -244,6 +262,43 @@
 			</div>
 		</div>
 	</div>
+
+	<div class="row speaker_row">
+    <div class="k_list_part">
+        <div class="col-sm-12 dum_speaker">
+            <a>
+                <div class="speaker_img">
+                    <img src="images/2024/deepak_raizada.png" style="width:60%">
+                </div>
+                <div class="speaker_content">
+                    <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize;">
+                        Deepak Raizada<br>Chief Engineer<br>Uttar Pradesh Power Corporation Limited
+                    </h1>
+                    <p>Deepak Raizada has over 34 years of experience in Uttar Pradesh's power sector, with 18 years focused on power procurement processes and renewable energy portfolio management at UPPCL. A civil engineer from IIT Roorkee and an energy management graduate, he contributed to restructuring UPSEB and led capacity-building projects under CIDA, enhancing skills in load forecasting, revenue requirements, and electricity pricing.</p>
+                </div>
+            </a>
+        </div>
+    </div>
+</div>
+
+<div class="row speaker_row">
+    <div class="k_list_part">
+        <div class="col-sm-12 dum_speaker">
+            <a>
+                <div class="speaker_img">
+                    <img src="images/2024/dhruv_suri.png" style="width:60%">
+                </div>
+                <div class="speaker_content">
+                    <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize;">
+                        Dhruv Suri<br>Stanford University
+                    </h1>
+                    <p>Dhruv Suri is pursuing a master’s degree and a PhD in energy resources engineering at Stanford University. He co-founded Candela Energy to provide rural villages access to life-improving products. With a bachelor’s in aeronautical engineering from Manipal Institute of Technology and research experience at MIT D-Lab, Dhruv focuses on energy access for vulnerable communities.</p>
+                </div>
+            </a>
+        </div>
+    </div>
+</div>
+
 	
 	<div class="row speaker_row">
 		<div class="k_list_part ">
@@ -285,6 +340,24 @@
 				</div>
 			</div>
 	</div>
+
+	<div class="row speaker_row">
+    <div class="k_list_part">
+        <div class="col-sm-12 dum_speaker">
+            <a>
+                <div class="speaker_img">
+                    <img src="images/2024/jeevan_jethani.png" style="width:60%">
+                </div>
+                <div class="speaker_content">
+                    <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize;">
+                        Jeevan Kumar Jethani<br>Scientist-F<br>MNRE
+                    </h1>
+                    <p>Jeevan Kumar Jethani, Director/Scientist-F at MNRE, has over 25 years in the power/renewable energy sector. He played a pivotal role in formulating the National Solar Mission and Green Energy Corridors project and oversees rooftop and off-grid solar projects, contributing to India’s renewable energy initiatives.</p>
+                </div>
+            </a>
+        </div>
+    </div>
+</div>
 	
 	<div class="row speaker_row">
 		<div class="k_list_part ">
@@ -302,6 +375,42 @@
 				</div>
 			</div>
 	</div>
+
+	<div class="row speaker_row">
+    <div class="k_list_part">
+        <div class="col-sm-12 dum_speaker">
+            <a>
+                <div class="speaker_img">
+                    <img src="images/2024/mohak_mangal.png" style="width:60%">
+                </div>
+                <div class="speaker_content">
+                    <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize;">
+                        Mohak Mangal<br>Stanford University
+                    </h1>
+                    <p>Mohak Mangal, a development economist turned YouTube sensation, holds degrees from Singapore Management University, Yale University, and Stanford University. With a passion for global socio-economic issues, Mohak uses his platform to educate and inspire millions on topics ranging from poverty to economics.</p>
+                </div>
+            </a>
+        </div>
+    </div>
+</div>
+
+<div class="row speaker_row">
+    <div class="k_list_part">
+        <div class="col-sm-12 dum_speaker">
+            <a>
+                <div class="speaker_img">
+                    <img src="images/2024/nitish_kumar.png" style="width:60%">
+                </div>
+                <div class="speaker_content">
+                    <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize;">
+                        Nitish Kumar<br>Managing Director<br>Dakshinanchal Vidyut Vitran Nigam Limited
+                    </h1>
+                    <p>Nitish Kumar, a 2010 batch IAS officer, leads DVVNL as its Managing Director. With a foundation in mining engineering and a decade in government service, he focuses on sustainable electricity distribution and service modernization for Uttar Pradesh’s consumers.</p>
+                </div>
+            </a>
+        </div>
+    </div>
+</div>
 	
 	<!-- Speaker 9: Praveer Singh -->
   <div class="row speaker_row"><div class="k_list_part "><div class="col-sm-12 dum_speaker">
@@ -322,6 +431,24 @@
 			</div>
 		</div>
 	</div>
+
+	<div class="row speaker_row">
+    <div class="k_list_part">
+        <div class="col-sm-12 dum_speaker">
+            <a>
+                <div class="speaker_img">
+                    <img src="images/2024/vipul_k_joisher.png" style="width:60%">
+                </div>
+                <div class="speaker_content">
+                    <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize;">
+                        Vipul K Joisher<br>Director<br>Aditya Green Energy Pvt. Ltd.
+                    </h1>
+                    <p>Vipul K. Joisher, founder and Director of Aditya Green Energy Pvt. Ltd., has led the company to commission over 2,000 rooftop projects (53 MW) and 35 large-scale projects (112 MW). With over 15 years in renewable energy, he has driven projects under PM Kusum C and MSKVY 2.0, achieving 95% market share in Maharashtra districts like Latur and Dharashiv. His focus on local engagement and innovation underlines his leadership in renewable energy.</p>
+                </div>
+            </a>
+        </div>
+    </div>
+</div>
 	
 	 <!-- Speaker 1: KR Jyothilal -->
   <div class="row speaker_row"><div class="k_list_part "><div class="col-sm-12 dum_speaker">

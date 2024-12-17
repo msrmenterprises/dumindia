@@ -840,15 +840,244 @@ and white papers on variety of topics.</p>
   <div class="row speaker_row"><div class="k_list_part "><div class="col-sm-12 dum_speaker">
     <a>
       <div class="speaker_img">
-        <img src="images/2024/shivram_bikkina.png" style="width:60%">
+        <img src="images/2024/shashank_mishra.png" style="width:60%">
       </div>
       <div class="speaker_content">
-        <h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Shivram Bikkina<br>Chief Solar Rooftop & EV Charging Business<br>Tata Power</h1>
-        <p>Shivram Bikkina is the Chief of Tata Power’s Solar Rooftop and EV Charging business, overseeing the division’s P&L with an oversight of all activities across the value chain. He is leading Tata Power’s initiative to provide a broad range of renewable energy solutions to C&I consumers and hassle-free & high-quality rooftop solutions consumers nationwide. Additionally, he spearheads the expansion of Tata Power’s EV charging infrastructure, addressing diverse requirements such as home charging, bus charging, fleet charging and public charging.  </p>
-		<p>He comes with a rich experience of managing consumer businesses across India and South Asia and across varied industries such as consumer durables to renewables. Prior to Tata Power, Shivram spent 18 years in Whirlpool of India Ltd where he was heading South Asia business.</p>
+        <h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Shashank Mishra<br>Joint Secretary<br>Distribution
+Ministry of Power</h1>
+        <p>Mr. Mishra is the Joint Secretary – Distribution, Ministry of Power (MoP) Government of India. Before joining the MoP, Mr. Misra has worked in the Department of Revenue, Ministry of Finance, Government of India. He is 2007 batch IAS officer and an exemplary member in the Madhya Pradesh cadre. Shashank Misra has served as the Managing Director of Madhya Pradesh Road Development Corporation Limited, Madhya Pradesh Building Development Corporation Limited, and Madhya Pradesh State Asset Management Company Limited. His credibility earned him the chairmanship of Ujjain Smart City Limited, and he also served as the CEO of Madhya Pradesh Rural Road Development Authority.</p>
       </div>
     </a>
-			</div>
+	</div>
+
+
+	<!-- Speaker 8: Shivram Bikkina -->
+	<div class="row speaker_row"><div class="k_list_part "><div class="col-sm-12 dum_speaker">
+    <a>
+      <div class="speaker_img">
+        <img src="images/2024/shashank_mishra.png" style="width:60%">
+      </div>
+      <div class="speaker_content">
+        <h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Atul Bali<br>Executive Director, PGCIL and Director, NSGM<br>Ministry of Power</h1>
+        <p>Mr. Bali is currently working as Director, National Smart Grid Mission which has been established by Govt of India to plan and monitor the implementation of policies and programmes related to Smart Grid activities in India. He also holds the position of ED, PGCIL, and has played a key role in implementation of various Smart Grid Pilot Projects across various utilities in India. He carries over 31 years of experience in power sector including design, engineering, monitoring and successful implementation of SCADA/EMS/DMS projects. He has worked in NHPC, POWERGRID and PFC. He has also supervised the implementation of IT based distribution reform projects under RAPDRP. </p>
+      </div>
+    </a>
+	</div>
+
+
+	<div class="row speaker_row"><div class="k_list_part "><div class="col-sm-12 dum_speaker">
+    <a>
+      <div class="speaker_img">
+        <img src="images/2024/shashank_mishra.png" style="width:60%">
+      </div>
+      <div class="speaker_content">
+        <h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Saahas<br>COO<br>Polaris Smart Metering Pvt. Ltd.</h1>
+        <p>Saahas is heading the Strategy and Operations at Polaris Smart Metering Private Limited. Saahas is having overall experience of more than 18 years in the field of Strategy and Operations.<br/>
+
+Saahas has close to 19 yrs. of both industry and consulting experience across Sales & Growth, Project
+<br/>
+Strategy, Procurement & Implementation of large capital projects. He has vast experience in institutionalizing Business Excellence Models to deliver complex programs and projects leveraging his experience of working with reputed organizations in India & abroad. He has been associated with the smart metering program in India for the last 3+ years across different roles covering business growth, operational excellence, quality initiatives and strategic partnerships.
+<br/>
+Saahas has done his Bachelor of Engineering in Mechanical from Punjab Engineering College, Post
+Graduate Diploma in Financial Management from NMIMS Global and has attended Post Graduate
+<br/>
+Program in Business Analytics from Great Lake Institute.
+</p>
+      </div>
+    </a>
+	</div>
+
+		<div class="row speaker_row"><div class="k_list_part "><div class="col-sm-12 dum_speaker">
+		<a>
+		<div class="speaker_img">
+		<img src="images/2024/shashank_mishra.png" style="width:60%">
+		</div>
+		<div class="speaker_content">
+		<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Swapandeep Banerjee<br>Senior Technical Consultant<br>Trilliant, Inc</h1>
+		<p>Mr. Banerjee has an overall experience of 18 years, in Telecom OSS/BSS and AMI domain. He has implemented Telecom Billing solutions across Australia, Europe and South East Asia. He has also worked with MasterCard and BMW. In Trilliant he is the first technical recruit and started with EESL Phase 1 project. He is has been actively involved in IntelliSmart Projects for the implementations. Presently he is the solution Architect for AMI project at Trilliant.
+		</p>
+		</div>
+		</a>
+		</div>
+
+		<div class="row speaker_row"><div class="k_list_part "><div class="col-sm-12 dum_speaker">
+		<a>
+		<div class="speaker_img">
+		<img src="images/2024/shashank_mishra.png" style="width:60%">
+		</div>
+		<div class="speaker_content">
+		<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Saurav Shah<br>Executive Director<br>Power Finance Corporation</h1>
+		<p>Mr. Saurav Shah is 2009 batch IPS officer of the Bihar cadre, he is spear heading the Revamped Distribution Sector Scheme (RDSS). RDSS is Government of India's priority program in the power distribution sector having an out lay of Rs.3000 billion and is aimed at transformation of the sector. 
+He was also instrumental in successful completion and closure of Integrated Power Development Scheme (IPDS) & the erst while Restructured Accelerated Power Distribution and Reforms Programme (R-APDRP) worth Rs600 million.
+
+		</p>
+		</div>
+		</a>
+		</div>
+
+		<div class="row speaker_row"><div class="k_list_part "><div class="col-sm-12 dum_speaker">
+		<a>
+		<div class="speaker_img">
+		<img src="images/2024/shashank_mishra.png" style="width:60%">
+		</div>
+		<div class="speaker_content">
+		<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Shambhu Kumar<br>Managing Director<br>Purvanchal Vidyut Vitaran Nigam Limited</h1>
+		<p>Mr. Kumar is 2010 batch IAS officer, presently he is the Managing Director of Purvanchal Vidyut Vitaran Nigam Limited (PuVVNL). 
+Mr. Kumar has been Special Secretary, Govt. of UP, Secondary Education Deptt and well  know for his contributions during Corona as a District Magistrate. Now he is contributing in power sector, he oversees the distribution of electricity to millions of people in the Purvanchal region of Uttar Pradesh, India. Under his leadership, the company aims to ensure reliable and efficient power supply to its consumers while promoting sustainable development and grid modernization. 
+
+
+		</p>
+		</div>
+		</a>
+		</div>
+
+
+		<div class="row speaker_row"><div class="k_list_part "><div class="col-sm-12 dum_speaker">
+		<a>
+		<div class="speaker_img">
+		<img src="images/2024/shashank_mishra.png" style="width:60%">
+		</div>
+		<div class="speaker_content">
+		<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Yogesh Kumar<br>Director- Commercial<br>Madhyanchal Vidyut Vitaran Nigam Ltd</h1>
+		<p>Mr. Yogesh is a director commercial at MVVNL. He has a vast experience at senior positions in UPPCL, he served more than 18 years as Superintending Engineer. He expertise lies in IT, which he used to design, plan and implement projects. He has successfully completed many schemes i.e. RGGY, RAPDRP. Having vast experience to handle big projects. 
+
+
+		</p>
+		</div>
+		</a>
+		</div>
+
+
+
+		<div class="row speaker_row"><div class="k_list_part "><div class="col-sm-12 dum_speaker">
+		<a>
+		<div class="speaker_img">
+		<img src="images/2024/shashank_mishra.png" style="width:60%">
+		</div>
+		<div class="speaker_content">
+		<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Anand Budholia<br>Group CIO<br>BSES</h1>
+		<p>Mr. Anand Budholia is group CIO at BSES Yamuna & Rajdhani. As a technology professional, he carries three decades of experience in strategic planning, project management, ERP implementation and support, business analytics, software development, financial monitoring, and disaster recovery planning. At BSES, he is managing the overall Information Technology functions, which include SAP, Business Applications, IT Infrastructure, software development, Technical support services and financial monitoring systems for corporate office, Power Plants, Mines and Support services. 
+
+
+		</p>
+		</div>
+		</a>
+		</div>
+
+		<div class="row speaker_row"><div class="k_list_part "><div class="col-sm-12 dum_speaker">
+		<a>
+		<div class="speaker_img">
+		<img src="images/2024/shashank_mishra.png" style="width:60%">
+		</div>
+		<div class="speaker_content">
+		<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Pankaj Kumar<br>Managing Director<br>Uttar Pradesh Power Corporation Limited</h1>
+		<p>Shri Pankaj Kumar is the Managing Director of Uttar Pradesh Power Corporation Limited (UPPCL). He is an Indian Administrative Service (IAS) officer of 2002 batch. Pankaj Kumar holds a Bachelor's degree in Philosophy. With a career spanning over two decades, Shri Kumar has held various positions in the Indian power sector, including leadership roles in generation, transmission, and distribution companies. His expertise lies in strategic planning, operational improvement, and team management. Under his leadership, Uttar Pradesh Power Corporation Limited aims to enhance power supply, reduce transmission losses, and promote renewable energy initiatives. His leadership role at UPPCL includes overseeing the operational and administrative functions of the organization, which is crucial for managing the electricity supply and services in Uttar Pradesh.  
+
+
+		</p>
+		</div>
+		</a>
+		</div>
+
+		<div class="row speaker_row"><div class="k_list_part "><div class="col-sm-12 dum_speaker">
+		<a>
+		<div class="speaker_img">
+		<img src="images/2024/shashank_mishra.png" style="width:60%">
+		</div>
+		<div class="speaker_content">
+		<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Sumit Gupta<br>CEO<br>AssetPlus Consulting</h1>
+		<p>Sumit has been a solution evangelist for Smart Grid, Renewable Energy and Power Management in past. He brings in over 20 years of industry experience spanning over the Domain of Energy & Utility, and currently as a CEO provides direction to AssetPlus Consulting which focuses on strategic decision-making support to Utilities.  
+
+
+		</p>
+		</div>
+		</a>
+		</div>
+
+
+		<div class="row speaker_row"><div class="k_list_part "><div class="col-sm-12 dum_speaker">
+		<a>
+		<div class="speaker_img">
+		<img src="images/2024/shashank_mishra.png" style="width:60%">
+		</div>
+		<div class="speaker_content">
+		<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">SK Senapati<br>Head-Sales & Commercial Services <br>L&T PT&D Digital Energy Solutions</h1>
+		<p>Mr. S.K. Senapati embarked on his professional journey with L&T, where he initially joined as a Design Engineer. Through his unwavering commitment and skills, he has ascended the ranks and currently holds the position of Head of Sales and Commercial at L&T-Digital Energy Solutions. With rich and diverse experience in Solutioning and deployment of cutting-edge Software Solutions. 
+			Mr. Senapati career spans an impressive 25 years, during which he has made significant contributions in domains such as Renewables, Storage, Industrial Electrification, infrastructural projects (such as Airports and Metro systems), Intelligent IT Parks, Power Transmission, Power Distribution, and the Oil & Gas Sector. Mr. Senapati has played a crucial role in driving advancements in various sectors, including Renewables, Storage, Microgrids, EV Charging Infrastructure, Hybrid Network Operations Centres (NOCs), Energy Efficiency, and Analytics. 		</p>
+		</div>
+		</a>
+		</div>
+
+		<div class="row speaker_row"><div class="k_list_part "><div class="col-sm-12 dum_speaker">
+		<a>
+		<div class="speaker_img">
+		<img src="images/2024/shashank_mishra.png" style="width:60%">
+		</div>
+		<div class="speaker_content">
+		<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Lalit Jain<br>Product Marketing Head<br>Industrial Automation 
+Phoenix Contact India Pvt. Ltd
+</h1>
+		<p>Mr. Jain is an Electronics & Communication Engineer with app 16 years of experience, specializes in Industrial Automation solutions, including networking and communication technologies, safety systems, IIoT, Digital Twin, cybersecurity, and control systems. As the Product Marketing Head at Phoenix Contact India Pvt. Ltd, he leads initiatives in Industry Management & Automation. Lalit is an active participant and speaker at industry exhibitions and conferences, sharing insights on cutting-edge automation technologies and trends. His expertise drives innovation and strategic growth in the field of industrial automation.
+
+		</p>
+		</div>
+		</a>
+		</div>
+
+
+		<div class="row speaker_row"><div class="k_list_part "><div class="col-sm-12 dum_speaker">
+		<a>
+		<div class="speaker_img">
+		<img src="images/2024/shashank_mishra.png" style="width:60%">
+		</div>
+		<div class="speaker_content">
+		<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Mukesh Dadhich<br>Head-Business Development, Sustainability and Clean Technology<br>BSES Yamuna Power Limited
+</h1>
+		<p>Mukesh Dadhich is having professional experience of more than 28 years mainly in Power Distribution Sector. He is an Electrical Engineer from ECK Kota with an added qualification of PGDBM (Energy Management) from MDI, Gurugram. Presently Mukesh is heading Sustainability and Clean Technology and Business development functions at BSES Yamuna Power limited which is a premier power distribution utility serving over 1.8 million consumers in central and eastern parts of Delhi. He has been driving various initiatives in the areas of Renewable Energy , E-mobility, Energy Storage, New technologies, research based projects, Energy Efficiency, ESG and has been frequently involved with Govt agencies and think tanks on policy front.  He has in depth experience in utilities domain and has been instrumental in bringing in innovative technologies and programs related to managed charging solutions, auto demand response, renewable energy generation forecasting, urban microgrids and is keenly working on bringing in decarbonizing framework for power distribution utilities. Under his leadership BYPL is contributing greatly to development of EV charging infrastructure in the license area and beyond.
+			
+		</p>
+		</div>
+		</a>
+		</div>
+
+
+		<div class="row speaker_row"><div class="k_list_part "><div class="col-sm-12 dum_speaker">
+		<a>
+		<div class="speaker_img">
+		<img src="images/2024/shashank_mishra.png" style="width:60%">
+		</div>
+		<div class="speaker_content">
+		<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">TRIPTA THAKUR<br>Director General<br>NPTI
+</h1>
+		<p>Tripta Thakur is Director General, National Power Training Institute (NPTI), apex body of Ministry of Power, Government of India. She was earlier Head and Professor, Electrical Engineering Department at the National Institute of Technology, MANIT-Bhopal, India. She is a graduate in Electrical Engineering with master’s degree in Power Electronics from IIT-Kanpur and has a PhD from IIT-Delhi. She has been recipient of several awards such as Commonwealth Research Scholar at University of Dundee (2005-2008), UK, Commonwealth Academic fellow at Durham University Business School (2014), UK, COFUND Senior researcher at Durham University Business School (2016), Visiting Faculty at Asian Institute of Technology, Bangkok (2010), technical member for International Electrotechnical Commission (IEC), SEG4 Group, ISGF (MoP) working group member etc. She has teaching and research experience of 28 years and has nearly 100 publications to her credit. She has also been a consultant for evolving a possible Common South Asian Electricity Markets. She has done various consultancies for Distribution companies in India.
+			
+		</p>
+		</div>
+		</a>
+		</div>
+
+
+		<div class="row speaker_row"><div class="k_list_part "><div class="col-sm-12 dum_speaker">
+		<a>
+		<div class="speaker_img">
+		<img src="images/2024/shashank_mishra.png" style="width:60%">
+		</div>
+		<div class="speaker_content">
+		<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Ayush Kumar <br>CEO <br>Sai Computers Limited
+</h1>
+		<p>Mr. Ayush Kumar is a visionary leader in the power distribution sector, known for driving transformative advancements as the CEO of Sai Computers Limited (SCL). He has successfully expanded SCL’s Distribution Franchisee operations across Northeast India, achieving exceptional improvements in operational efficiency and customer satisfaction. With a strong focus on innovation, Mr. Kumar has pioneered the implementation of AI-driven solutions for power utilities, leveraging data analytics and machine learning to enhance asset management, optimize distribution, and significantly reduce AT&C losses. His expertise in integrating advanced technology to solve complex challenges has made SCL a trusted partner for utilities, setting new industry standards for performance and reliability. Mr. Kumar’s efforts have garnered wide acclaim from utilities and industry leaders, affirming his commitment to delivering impactful, future-ready solutions that elevate the power sector. 
+			
+		</p>
+		</div>
+		</a>
+		</div>
+
+
+
+
+
+
+
 		</div>
 	</div>
 

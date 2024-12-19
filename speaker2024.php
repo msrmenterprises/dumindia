@@ -849,6 +849,8 @@ Ministry of Power</h1>
       </div>
     </a>
 	</div>
+	</div>
+		</div>
 
 
 	<!-- Speaker 8: Shivram Bikkina -->
@@ -863,6 +865,8 @@ Ministry of Power</h1>
       </div>
     </a>
 	</div>
+	</div>
+		</div>
 
 
 	<div class="row speaker_row"><div class="k_list_part "><div class="col-sm-12 dum_speaker">
@@ -886,6 +890,8 @@ Program in Business Analytics from Great Lake Institute.
       </div>
     </a>
 	</div>
+	</div>
+		</div>
 
 		<div class="row speaker_row"><div class="k_list_part "><div class="col-sm-12 dum_speaker">
 		<a>
@@ -898,6 +904,8 @@ Program in Business Analytics from Great Lake Institute.
 		</p>
 		</div>
 		</a>
+		</div>
+		</div>
 		</div>
 
 		<div class="row speaker_row"><div class="k_list_part "><div class="col-sm-12 dum_speaker">
@@ -913,6 +921,8 @@ He was also instrumental in successful completion and closure of Integrated Powe
 		</p>
 		</div>
 		</a>
+		</div>
+		</div>
 		</div>
 
 		<div class="row speaker_row"><div class="k_list_part "><div class="col-sm-12 dum_speaker">
@@ -930,6 +940,8 @@ Mr. Kumar has been Special Secretary, Govt. of UP, Secondary Education Deptt and
 		</div>
 		</a>
 		</div>
+		</div>
+		</div>
 
 
 		<div class="row speaker_row"><div class="k_list_part "><div class="col-sm-12 dum_speaker">
@@ -945,6 +957,8 @@ Mr. Kumar has been Special Secretary, Govt. of UP, Secondary Education Deptt and
 		</p>
 		</div>
 		</a>
+		</div>
+		</div>
 		</div>
 
 
@@ -963,6 +977,8 @@ Mr. Kumar has been Special Secretary, Govt. of UP, Secondary Education Deptt and
 		</div>
 		</a>
 		</div>
+		</div>
+		</div>
 
 		<div class="row speaker_row"><div class="k_list_part "><div class="col-sm-12 dum_speaker">
 		<a>
@@ -977,6 +993,8 @@ Mr. Kumar has been Special Secretary, Govt. of UP, Secondary Education Deptt and
 		</p>
 		</div>
 		</a>
+		</div>
+		</div>
 		</div>
 
 		<div class="row speaker_row"><div class="k_list_part "><div class="col-sm-12 dum_speaker">
@@ -993,6 +1011,8 @@ Mr. Kumar has been Special Secretary, Govt. of UP, Secondary Education Deptt and
 		</div>
 		</a>
 		</div>
+		</div>
+		</div>
 
 
 		<div class="row speaker_row"><div class="k_list_part "><div class="col-sm-12 dum_speaker">
@@ -1006,6 +1026,8 @@ Mr. Kumar has been Special Secretary, Govt. of UP, Secondary Education Deptt and
 			Mr. Senapati career spans an impressive 25 years, during which he has made significant contributions in domains such as Renewables, Storage, Industrial Electrification, infrastructural projects (such as Airports and Metro systems), Intelligent IT Parks, Power Transmission, Power Distribution, and the Oil & Gas Sector. Mr. Senapati has played a crucial role in driving advancements in various sectors, including Renewables, Storage, Microgrids, EV Charging Infrastructure, Hybrid Network Operations Centres (NOCs), Energy Efficiency, and Analytics. 		</p>
 		</div>
 		</a>
+		</div>
+		</div>
 		</div>
 
 		<div class="row speaker_row"><div class="k_list_part "><div class="col-sm-12 dum_speaker">
@@ -1023,6 +1045,8 @@ Phoenix Contact India Pvt. Ltd
 		</div>
 		</a>
 		</div>
+		</div>
+		</div>
 
 
 		<div class="row speaker_row"><div class="k_list_part "><div class="col-sm-12 dum_speaker">
@@ -1038,6 +1062,8 @@ Phoenix Contact India Pvt. Ltd
 		</p>
 		</div>
 		</a>
+		</div>
+		</div>
 		</div>
 
 
@@ -1055,6 +1081,8 @@ Phoenix Contact India Pvt. Ltd
 		</div>
 		</a>
 		</div>
+		</div>
+		</div>
 
 
 		<div class="row speaker_row"><div class="k_list_part "><div class="col-sm-12 dum_speaker">
@@ -1071,15 +1099,419 @@ Phoenix Contact India Pvt. Ltd
 		</div>
 		</a>
 		</div>
-
-
-
-
-
-
-
 		</div>
-	</div>
+		</div>
+
+
+		<div class="row speaker_row"><div class="k_list_part "><div class="col-sm-12 dum_speaker">
+		<a>
+		<div class="speaker_img">
+		<img src="images/2024/sandipSinha.png" style="width:60%">
+		</div>
+		<div class="speaker_content">
+		<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Sandip Sinha<br>Vice President - Sales <br>Trilliant, Inc
+</h1>
+		<p>Sandip Sinha is Regional Vice President – Sales at Trilliant Networks India Private Limited and is responsible for driving the growth of business in India. 
+			Sandip has completed bachelor of electrical engineering from Bangalore University and MBA from IIT Delhi. He has nearly 28 years of extensive industry experience, in HIL, ABB/Hitachi Energy, Zycus and Itron where he has held various management positions in the field of, Manufacturing, Testing, sales and Marketing, project management and services primarily in Energy Automation and communication domain.
+ 
+			
+		</p>
+		</div>
+		</a>
+		</div>
+		</div>
+		</div>
+
+		<div class="row speaker_row"><div class="k_list_part "><div class="col-sm-12 dum_speaker">
+		<a>
+		<div class="speaker_img">
+		<img src="images/2024/sandipSinha.png" style="width:60%">
+		</div>
+		<div class="speaker_content">
+		<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Anish Mandal<br>Partner<br>Deloitte
+</h1>
+		<p>Anish is currently a Partner with Deloitte South Asia and leads the New Energy and Energy Transition focus of the firm. <br/>
+		He also spearheads the Asia Pacific Sustainability Centre of Excellence.<br/>
+His team also focuses on energy transition, energy modeling, providing specialized advisory to clients on capacity expansion modeling, integrated resource planning, resource adequacy and capacity market design, energy portfolio management for distribution utilities, electricity markets, market price forecasts, renewable energy integration, round the clock renewables energy supply modeling, etc. 
+<br/>He has an experience of close to two-decades in advising global and regional clients in the power and energy domain.
+
+ 
+			
+		</p>
+		</div>
+		</a>
+		</div>
+		</div>
+		</div>
+
+
+		<div class="row speaker_row"><div class="k_list_part "><div class="col-sm-12 dum_speaker">
+		<a>
+		<div class="speaker_img">
+		<img src="images/2024/sandipSinha.png" style="width:60%">
+		</div>
+		<div class="speaker_content">
+		<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Sanjoy Mukherjee<br>Executive Director-Technical - Distribution<br>CESC Limited, Kolkata
+</h1>
+		<p>Mr. Sanjoy Mukherjee is presently Executive Director (Distribution Technical) in CESC Limited. Mr. Mukherjee has worked in the areas of Transmission & Distribution Network planning and designing, commissioning, technology adoption, automation and Thermal Power Projects development, etc. <br/>
+		He is passionate about Smart Grid applications and is responsible for its deployment in CESC.
+
+
+ 
+			
+		</p>
+		</div>
+		</a>
+		</div>
+		</div>
+		</div>
+
+
+		<div class="row speaker_row"><div class="k_list_part "><div class="col-sm-12 dum_speaker">
+		<a>
+		<div class="speaker_img">
+		<img src="images/2024/sandipSinha.png" style="width:60%">
+		</div>
+		<div class="speaker_content">
+		<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Shailendra Dubey<br>Director<br>Inventive Software Solutions
+</h1>
+		<p>Mr. Shailendra Dubey is the Director at Inventive Software Solutions, is the visionary of the flagship UGO One technology platform for distribution utilities. With over 20 years of experience across various utilities, he has played a key role in driving their digital transformation from legacy systems to smart solutions. <br/>
+		His in-depth knowledge of utility operations, from field actions to boardroom strategy, has been instrumental in shaping the value-added features of UGO One.
+
+		</p>
+		</div>
+		</a>
+		</div>
+		</div>
+		</div>
+
+		<div class="row speaker_row">
+			<div class="k_list_part ">
+				<div class="col-sm-12 dum_speaker">
+					<a>
+						<div class="speaker_img">
+							<img src="images/2024/sandipSinha.png" style="width:60%">
+						</div>
+						<div class="speaker_content">
+							<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Shailendra Dubey<br>Director<br>Inventive Software Solutions
+							</h1>
+							<p>Mr. Shailendra Dubey is the Director at Inventive Software Solutions, is the visionary of the flagship UGO One technology platform for distribution utilities. With over 20 years of experience across various utilities, he has played a key role in driving their digital transformation from legacy systems to smart solutions. <br/>
+							His in-depth knowledge of utility operations, from field actions to boardroom strategy, has been instrumental in shaping the value-added features of UGO One.
+
+							</p>
+						</div>
+					</a>
+				</div>
+			</div>
+		</div>
+
+		<div class="row speaker_row">
+			<div class="k_list_part ">
+				<div class="col-sm-12 dum_speaker">
+					<a>
+						<div class="speaker_img">
+							<img src="images/2024/rajneeshbhadur.png" style="width:60%">
+						</div>
+						<div class="speaker_content">
+							<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Rajneesh Bahadur<br>Regional Head<br>Havells India Limited
+							</h1>
+							<p>Rajneesh Bahadur is Regional Head for UP & Uttarakhand for Havells India Ltd ‘s Low Voltage Switchgear, Control gear and Power Quality Solutions business.<br/>
+							 He is a seasoned professional with 30 years’ work experience in Power Distribution, Transmission and Utilization domain. 
+							 He did his B.Tech in Electrical Engineering from Institute of Engineering & Technology (IET), Lucknow in year 1994 and worked in Low Voltage , Medium Voltage Switchgear and Transformers in Crompton Greaves Ltd and Schneider Electric before joining Havells India Ltd in year 2020. 
+							 <br/>For past 4 years he is extensively involved in this exciting journey of innovation & growth of Havells India Ltd’s Industrial Product Division (IP) having manufacturing base at Havells’ state of the art Sahibabad manufacturing unit. 
+
+							</p>
+						</div>
+					</a>
+				</div>
+			</div>
+		</div>
+
+		<div class="row speaker_row">
+			<div class="k_list_part ">
+				<div class="col-sm-12 dum_speaker">
+					<a>
+						<div class="speaker_img">
+							<img src="images/2024/rajneeshbhadur.png" style="width:60%">
+						</div>
+						<div class="speaker_content">
+							<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Nidhi Narang<br>Director - Finance<br>Uttar Pradesh Power Corporation Limited
+							</h1>
+							<p>Shri Nidhi Kumar Narang is Director (Finance) of U. P. Power Corporation Limited since June, 2022. He is B. Com (Hons), LLB and MBA (Finance) and a Gold Medalist from the Power Management Institute of NTPC. Further, he has acquired skill upgrades from Euromoney & Kellog’ s School of Management, Chicago in Valuations, Mergers & Acquisitions and from UTD Dallas in Advanced International accounting in oil & gas. 
+								<br/>He has been a finance professional in the Power and Infrastructure sectors and in a career spanning over 43 years, has diverse and varied experience in Business strategy & structuring, Corporate Finance including fund raising, business valuations, Mergers & Acquisitions, Cost Control, Systems & MIS, Direct & indirect Taxes, Electricity Tariff Regulations, Fuel Sourcing, Exploration & Production activities for oil & gas, etc. <br/>
+							He is also holding the additional charge as Director (Commerce), looking after all the commercial activities and consumer services.
+							</p>
+						</div>
+					</a>
+				</div>
+			</div>
+		</div>
+
+
+		<div class="row speaker_row">
+			<div class="k_list_part ">
+				<div class="col-sm-12 dum_speaker">
+					<a>
+						<div class="speaker_img">
+							<img src="images/2024/hanifqureshi.png" style="width:60%">
+						</div>
+						<div class="speaker_content">
+							<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Hanif Qureshi<br>Additional Secretary<br>Ministry of Heavy Industries, GOI
+							</h1>
+							<p>Dr. Hanif Qureshi, an Indian Police Service (IPS) officer of the Haryana cadre and a TEDx speaker, holds a B.Tech. in Electrical Engineering, M.Tech. in IT, an MBA, and a Ph.D. from the University of Cincinnati. A prolific scholar, he has published 38 peer-reviewed articles and authored two books. 
+								<br/>In his career, Dr. Qureshi has held significant roles, including CEO of Haryana Wakf Board, where he established Mewat Engineering College, and Secretary of Haryana’s New and Renewable Energy Department, contributing to major renewable energy policies. 
+								<br/>He has served as Superintendent of Police in eight districts and Commissioner of Police in Faridabad and Panchkula. Currently, as CEO of the National Automotive Board and Additional Secretary (Automobiles), Govt. of India, Dr. Qureshi is instrumental in advancing India’s automobile sector, overseeing key projects and schemes like FAME India and PLI initiatives.
+
+							</p>
+						</div>
+					</a>
+				</div>
+			</div>
+		</div>
+
+
+		<div class="row speaker_row">
+			<div class="k_list_part ">
+				<div class="col-sm-12 dum_speaker">
+					<a>
+						<div class="speaker_img">
+							<img src="images/2024/ishaduhan.png" style="width:60%">
+						</div>
+						<div class="speaker_content">
+							<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Isha Duhan<br>Managing Director<br>PVVNL
+							</h1>
+							<p>Mrs. Isha Duhan, a 2014 batch IAS officer, has built an exemplary career in public service, demonstrating strong leadership and effective governance across various roles. 
+								<br/>Starting as an Assistant Magistrate and Collector in Meerut, she progressed to Joint Magistrate in Varanasi and Chief Development Officer in Bulandshahr and Meerut. 
+								<br/>Her leadership skills were notably displayed as Vice Chairman of the Varanasi Development Authority and as District Magistrate and Collector of Chandouli. 
+								<br/>In 2023, she served as Additional Commissioner for the Meerut Division and the Commercial Tax Department in Gautam Budh Nagar. Since February 27, 2024, she has held the position of Managing Director of PVVNL in Meerut, where she continues to contribute significantly to the energy sector.
+
+							</p>
+						</div>
+					</a>
+				</div>
+			</div>
+		</div>
+
+		<div class="row speaker_row">
+			<div class="k_list_part ">
+				<div class="col-sm-12 dum_speaker">
+					<a>
+						<div class="speaker_img">
+							<img src="images/2024/ishaduhan.png" style="width:60%">
+						</div>
+						<div class="speaker_content">
+							<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Isha Duhan<br>Managing Director<br>PVVNL
+							</h1>
+							<p>Mrs. Isha Duhan, a 2014 batch IAS officer, has built an exemplary career in public service, demonstrating strong leadership and effective governance across various roles. 
+								<br/>Starting as an Assistant Magistrate and Collector in Meerut, she progressed to Joint Magistrate in Varanasi and Chief Development Officer in Bulandshahr and Meerut. 
+								<br/>Her leadership skills were notably displayed as Vice Chairman of the Varanasi Development Authority and as District Magistrate and Collector of Chandouli. 
+								<br/>In 2023, she served as Additional Commissioner for the Meerut Division and the Commercial Tax Department in Gautam Budh Nagar. Since February 27, 2024, she has held the position of Managing Director of PVVNL in Meerut, where she continues to contribute significantly to the energy sector.
+
+							</p>
+						</div>
+					</a>
+				</div>
+			</div>
+		</div>
+
+		<div class="row speaker_row">
+			<div class="k_list_part ">
+				<div class="col-sm-12 dum_speaker">
+					<a>
+						<div class="speaker_img">
+							<img src="images/2024/praveenRathore.png" style="width:60%">
+						</div>
+						<div class="speaker_content">
+							<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Praveen Rathore<br>Regional Manager- Power Distribution<br>Eaton India
+							</h1>
+							<p>Shri Praveen Rathore leads Power Distribution Assembly Medium Voltage Switchgear business in North INDIA at Eaton Power Quality India, bringing 20+ years of rich expertise from global industry leaders ABB & Torrent Power. 
+								<br/>A pioneer in sustainable power technologies, he champions the development of SF6-free switching technologies and environmentally responsible alternatives for medium voltage power distribution. 
+								<br/>Through his work at Eaton, he actively contributes to India's vision of energy self-reliance, focusing on innovative solutions that align with the nation's commitment to sustainable power infrastructure.
+							</p>
+						</div>
+					</a>
+				</div>
+			</div>
+		</div>
+
+
+		<div class="row speaker_row">
+			<div class="k_list_part ">
+				<div class="col-sm-12 dum_speaker">
+					<a>
+						<div class="speaker_img">
+							<img src="images/2024/arjunsinha.png" style="width:60%">
+						</div>
+						<div class="speaker_content">
+							<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Arjun Sinha Roy<br>Co-Founder and CEO<br>Iraseus
+							</h1>
+							<p>Shri Arjun Sinha Roy, CEO and Co-Founder of iRasus Technologies, is a seasoned professional with 25 years of experience in telecommunications, IoT, energy efficiency, and renewable energy. 
+								<br/>An alumnus of BITS Pilani, he earned a BE (Hons) in Mechanical Engineering in 1999. Throughout his career, Arjun has developed mobile and IoT-based systems across sectors such as transportation, renewable energy, and food and dairy, working with companies like Comviva, OnMobile, and Netcore. 
+								<br/>In 2018, he co-founded iRasus Technologies with the goal of making the transition to clean technology safe, affordable, and reliable.
+
+							</p>
+						</div>
+					</a>
+				</div>
+			</div>
+		</div>
+
+		<div class="row speaker_row">
+			<div class="k_list_part ">
+				<div class="col-sm-12 dum_speaker">
+					<a>
+						<div class="speaker_img">
+							<img src="images/2024/awadeshjha.png" style="width:60%">
+						</div>
+						<div class="speaker_content">
+							<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Awadhesh Jha<br>Executive Director, GLIDA INDIA and Chairperson of CPO Association of India 
+							</h1>
+							<p>Awadhesh Jha, Executive Director at GLIDA (formerly Fortum Charge & Drive India), leads the company’s mission to build a seamless public EV charging network across India, emphasizing sustainable technology and user convenience. 
+								<br/>Since 2017, GLIDA has grown to support over 60,000 users with 850+ charging points across 17 states, 31 cities, and 15 highways. With the innovative “Charge-Thru” feature, GLIDA offers app-free EV charging, aiming for a one-third share of India’s market by 2030.With 30+ years in the energy sector, Awadhesh has held leadership roles in both government and private sectors, focusing on policy, sustainability, and project development. 
+								<br/>An advocate for EV adoption, he combines his engineering background and MBA from IIM Lucknow to drive strategic, sustainable growth in the electric mobility space.
+
+							</p>
+						</div>
+					</a>
+				</div>
+			</div>
+		</div>
+
+
+		<div class="row speaker_row">
+			<div class="k_list_part ">
+				<div class="col-sm-12 dum_speaker">
+					<a>
+						<div class="speaker_img">
+							<img src="images/2024/anupamshukla.png" style="width:60%">
+						</div>
+						<div class="speaker_content">
+							<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Anupam Shukla<br>Managing Director<br/>Uttar Pradesh New and Renewable Energy Development Agency
+							</h1>
+							<p>Anupam Shukla, a 2016 batch IAS officer currently serving as the Director of Uttar Pradesh Non-Conventional Energy Sources (UPNEDA) and Special Secretary in the Energy and Additional Energy Sources Department, has been given the additional responsibility of Managing Director of UP Renewable & EV Infrastructure Limited.
+							</p>
+						</div>
+					</a>
+				</div>
+			</div>
+		</div>
+
+
+		<div class="row speaker_row">
+			<div class="k_list_part ">
+				<div class="col-sm-12 dum_speaker">
+					<a>
+						<div class="speaker_img">
+							<img src="images/2024/eckehardtroster.png" style="width:60%">
+						</div>
+						<div class="speaker_content">
+							<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Eckehard Troster<br>CEO<br/>Energynautics
+							</h1>
+							<p>Dr. Troster is managing director and senior consultant of Energynautics, with 15 years of experience grid integration of renewable and decentralized generation. 
+								<br/>He has been involved in grid integration projects all around the world, including Europe, the United States, Southeast Asia, India, Bangladesh and the Dominican Republic. Dr. Tröster holds a diploma and PhD in electrical engineering from the University of Technology Darmstadt. He is the author of more than 50 reviewed reports and internationally published articles and is a frequent speaker at international events, such as the international solar integration workshop of which he is a co-organizer.
+							</p>
+						</div>
+					</a>
+				</div>
+			</div>
+		</div>
+
+		<div class="row speaker_row">
+			<div class="k_list_part ">
+				<div class="col-sm-12 dum_speaker">
+					<a>
+						<div class="speaker_img">
+							<img src="images/2024/samuelpaul.png" style="width:60%">
+						</div>
+						<div class="speaker_content">
+							<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Samuel Paul N<br>Managing Director<br/>Kanpur Electricity Supply Company Limited
+							</h1>
+							<p>Samuel Paul, IAS, is the Managing Director of Kanpur Electricity Supply Company Limited (KESCO). He has gained recognition for his work in public service, particularly in the areas of public administration, policy implementation, and developmental governance.
+							</p>
+						</div>
+					</a>
+				</div>
+			</div>
+		</div>
+
+		<div class="row speaker_row">
+			<div class="k_list_part ">
+				<div class="col-sm-12 dum_speaker">
+					<a>
+						<div class="speaker_img">
+							<img src="images/2024/vala.png" style="width:60%">
+						</div>
+						<div class="speaker_content">
+							<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">RJ Vala<br>Chief Engineer - Distribution<br/>Paschim Gujarat Vij Company Limited
+							</h1>
+							<p>Mr. Vala is the Chief Engineer of Gujarat’s largest DICOM PGVCL, having vast experience of over 27 years in Power Sector. He is the key person behind the Gujarat’s success for installing over 4.3 GW (Giga Watt) of Solar Rooftops
+							</p>
+						</div>
+					</a>
+				</div>
+			</div>
+		</div>
+
+
+		<div class="row speaker_row">
+			<div class="k_list_part ">
+				<div class="col-sm-12 dum_speaker">
+					<a>
+						<div class="speaker_img">
+							<img src="images/2024/samuelpaul.png" style="width:60%">
+						</div>
+						<div class="speaker_content">
+							<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Dhananjay R Aundekar<br/>Executive Director<br/>Maharashtra State Electricity Distribution Company Limited
+							</h1>
+							<p>Dhananjay R. Aundhekar is an accomplished professional with over 25 years of experience in the electricity and power distribution sector. He currently serves as the Executive Director-III (Infra) at Maharashtra State Electricity Distribution Company Limited (MSEDCL), one of the largest power distribution companies in India, responsible for supplying electricity to the state of Maharashtra. 
+								<br/>Dhananjay holds a Bachelor's degree in Electrical Engineering (BE) and he pursued a Master's degree in Business Administration (MBA) with a specialization in Finance.</p>
+						</div>
+					</a>
+				</div>
+			</div>
+		</div>
+
+
+		<div class="row speaker_row">
+			<div class="k_list_part ">
+				<div class="col-sm-12 dum_speaker">
+					<a>
+						<div class="speaker_img">
+							<img src="images/2024/zakirrather.png" style="width:60%">
+						</div>
+						<div class="speaker_content">
+							<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">ZAKIR RATHER<br/>Associate Professor<br/>IIT Bombay
+							</h1>
+							<p>Zakir is an electrical engineer by training, with PhD from Aalborg University, Denmark. He has been working in renewable energy (RE) and electric mobility sector for past 13 years, with around 4 years of industry experience in Europe. 
+								<br/>He has been closely working on EV adoption, EV charging infrastructure and its grid integration in Indian EV ecosystem for past more than 8 years. 
+								He, in close collaboration with the Danish National transmission system operator, Energinet.dk, has extensively worked on the Danish grid. 
+								<br/>He is currently working as Associate Professor with the Department of Energy Science and Engineering, Indian Institute of Technology (IIT) Bombay, where the focus of his work continues to be on Electric Vehicles (EVs), , grid integration of Electric Vehicles, grid integration of renewables, power system operation under high penetration of renewable generation and EVs, carbon neutral energy systems, hydrogen storage and related areas. He is an Editor of IEEE Transactions on Sustainable Energy, Editor of IETE Technical Review, Guest Editor of International Journal of Power and Energy Systems, a Senior Member of IEEE, IEEE Power & Energy Society, IEEE Smart Grid Community, 
+								IEEE Industrial Electronics Society, and Danish Smart Grid Research Forum. </p>
+						</div>
+					</a>
+				</div>
+			</div>
+		</div>
+
+		<div class="row speaker_row">
+			<div class="k_list_part ">
+				<div class="col-sm-12 dum_speaker">
+					<a>
+						<div class="speaker_img">
+							<img src="images/2024/manoharlal.png" style="width:60%">
+						</div>
+						<div class="speaker_content">
+							<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Manohar Lal Khattar<br/>Hon’ble Minister of Power<br/>Government of India
+							</h1>
+							<p>Shri Manohar Lal Khattar, a BJP leader, currently serves as the Minister of Power and Housing & Urban Affairs in the central government, having taken office in June 2024. 
+								<br/>Previously, he served as the 10th Chief Minister of Haryana from 2014 to 2024, representing Karnal. Known for his governance-focused reforms, he introduced digital initiatives like e-services and a biometric attendance system in Haryana’s government offices. 
+								<br/>Shri Khattar also promoted gender equality, launching the Beti Bachao, Beti Padhao initiative in Haryana and establishing all-women police stations in each district. His dedication to transparency, digital access, and social reform has shaped both Haryana’s development and his current role in national governance.
+							</p>
+						</div>
+					</a>
+				</div>
+			</div>
+		</div>
 
   
 	

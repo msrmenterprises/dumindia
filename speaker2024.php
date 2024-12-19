@@ -185,6 +185,21 @@
 			</div>
 		</div>
 	</div>
+
+	<!-- Speaker 8: Shivram Bikkina -->
+	<div class="row speaker_row"><div class="k_list_part "><div class="col-sm-12 dum_speaker">
+    <a>
+      <div class="speaker_img">
+        <img src="images/2024/shashank_mishra.png" style="width:60%">
+      </div>
+      <div class="speaker_content">
+        <h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Atul Bali<br>Executive Director, PGCIL and Director, NSGM<br>Ministry of Power</h1>
+        <p>Mr. Bali is currently working as Director, National Smart Grid Mission which has been established by Govt of India to plan and monitor the implementation of policies and programmes related to Smart Grid activities in India. He also holds the position of ED, PGCIL, and has played a key role in implementation of various Smart Grid Pilot Projects across various utilities in India. He carries over 31 years of experience in power sector including design, engineering, monitoring and successful implementation of SCADA/EMS/DMS projects. He has worked in NHPC, POWERGRID and PFC. He has also supervised the implementation of IT based distribution reform projects under RAPDRP. </p>
+      </div>
+    </a>
+	</div>
+	</div>
+		</div>
 	
 	<div class="row speaker_row">
 		<div class="k_list_part ">
@@ -853,20 +868,109 @@ Ministry of Power</h1>
 		</div>
 
 
-	<!-- Speaker 8: Shivram Bikkina -->
-	<div class="row speaker_row"><div class="k_list_part "><div class="col-sm-12 dum_speaker">
-    <a>
-      <div class="speaker_img">
-        <img src="images/2024/shashank_mishra.png" style="width:60%">
-      </div>
-      <div class="speaker_content">
-        <h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Atul Bali<br>Executive Director, PGCIL and Director, NSGM<br>Ministry of Power</h1>
-        <p>Mr. Bali is currently working as Director, National Smart Grid Mission which has been established by Govt of India to plan and monitor the implementation of policies and programmes related to Smart Grid activities in India. He also holds the position of ED, PGCIL, and has played a key role in implementation of various Smart Grid Pilot Projects across various utilities in India. He carries over 31 years of experience in power sector including design, engineering, monitoring and successful implementation of SCADA/EMS/DMS projects. He has worked in NHPC, POWERGRID and PFC. He has also supervised the implementation of IT based distribution reform projects under RAPDRP. </p>
-      </div>
-    </a>
-	</div>
-	</div>
+		<div class="row speaker_row">
+			<div class="k_list_part ">
+				<div class="col-sm-12 dum_speaker">
+					<a>
+						<div class="speaker_img">
+							<img src="images/2024/manoharlal.png" style="width:60%">
+						</div>
+						<div class="speaker_content">
+							<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Manohar Lal Khattar<br/>Hon’ble Minister of Power<br/>Government of India
+							</h1>
+							<p>Shri Manohar Lal Khattar, a BJP leader, currently serves as the Minister of Power and Housing & Urban Affairs in the central government, having taken office in June 2024. 
+								<br/>Previously, he served as the 10th Chief Minister of Haryana from 2014 to 2024, representing Karnal. Known for his governance-focused reforms, he introduced digital initiatives like e-services and a biometric attendance system in Haryana’s government offices. 
+								<br/>Shri Khattar also promoted gender equality, launching the Beti Bachao, Beti Padhao initiative in Haryana and establishing all-women police stations in each district. His dedication to transparency, digital access, and social reform has shaped both Haryana’s development and his current role in national governance.
+							</p>
+						</div>
+					</a>
+				</div>
+			</div>
 		</div>
+
+		<div class="row speaker_row">
+			<div class="k_list_part ">
+				<div class="col-sm-12 dum_speaker">
+					<a>
+						<div class="speaker_img">
+							<img src="images/2024/aksharma.png" style="width:60%">
+						</div>
+						<div class="speaker_content">
+							<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">AK Sharma<br/>Hon’ble Minister for Energy<br/>Government of Uttar Pradesh
+							</h1>
+							<p>Shri Arvind Kumar Sharma, an esteemed politician and former IAS officer from Uttar Pradesh, is a Cabinet Minister in the UP government. 
+								<br/>An alumnus of Allahabad University, he served over 20 years with Prime Minister Modi, notably leading Gujarat’s Vibrant Gujarat Summits as CEO of the Gujarat Infrastructure Development Board. His impactful roles include Joint and Additional Secretary in the Prime Minister's Office and Secretary in the MSME Ministry, where he championed small business growth. Shri Sharma's contributions to infrastructure, including the Delhi-Mumbai Industrial Corridor, underscore his dedication to India's development.
+
+							</p>
+						</div>
+					</a>
+				</div>
+			</div>
+		</div>
+
+		<div class="row speaker_row">
+			<div class="k_list_part ">
+				<div class="col-sm-12 dum_speaker">
+					<a>
+						<div class="speaker_img">
+							<img src="images/2024/arvindkumar.png" style="width:60%">
+						</div>
+						<div class="speaker_content">
+							<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Arvind Kumar<br/>Chairman<br/>Uttar Pradesh Electricity Regulatory Commission
+							</h1>
+							<p>Shri Arvind Kumar, an 1988 batch IAS officer, assumed the role of Chairman of the Uttar Pradesh Electricity Regulatory Commission (UPERC) on 17 July 2023. 
+								<br/>With a BTech in Electrical Engineering and an MTech in Communication and Radar Engineering from IIT Delhi, Shri Kumar has held several key positions, including District Magistrate in multiple districts and Principal Secretary in various departments in Uttar Pradesh. 
+								<br/>He has also served as Managing Director of Purvanchal Vidyut Vitaran Nigam Ltd. and IIDC, contributing significantly to infrastructure and industrial development in the state.
+							</p>
+						</div>
+					</a>
+				</div>
+			</div>
+		</div>
+
+
+		<div class="row speaker_row">
+			<div class="k_list_part ">
+				<div class="col-sm-12 dum_speaker">
+					<a>
+						<div class="speaker_img">
+							<img src="images/2024/narendrabhooshan.png" style="width:60%">
+						</div>
+						<div class="speaker_content">
+							<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Narendra Bhooshan<br/>Additional Chief Secretary, Energy<br/>Govt of Uttar Pradesh
+							</h1>
+							<p>Shri Narendra Bhooshan, an IAS officer from the 1992 batch, has a distinguished career marked by key roles across energy, infrastructure, and public administration. 
+								<br/>With a B.E. in Electronics and Communication, he has served as District Magistrate, Additional MD of UP Power Corporation, and CEO of Greater Noida. Currently, as Principal Secretary for Energy and Panchayati Raj in Uttar Pradesh, he leads major initiatives in sustainable energy development and rural advancement, showcasing his dedication to impactful governance and innovation in public service.
+
+							</p>
+						</div>
+					</a>
+				</div>
+			</div>
+		</div>
+
+		<div class="row speaker_row">
+			<div class="k_list_part ">
+				<div class="col-sm-12 dum_speaker">
+					<a>
+						<div class="speaker_img">
+							<img src="images/2024/narendrabhooshan.png" style="width:60%">
+						</div>
+						<div class="speaker_content">
+							<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Ranvir Prasad<br/>Managing Director<br/>UPPTCL/UPRVUNL
+							</h1>
+							<p>Shri Ranvir Prasad is a distinguished IAS officer with over 20 years of experience in public administration, governance, and policy implementation. 
+								<br/>Currently serving as Managing Director of UPRVUNL (GENCO) and UPPTCL (TRANSCO), since March 2024, he oversees key energy generation and transmission operations in Uttar Pradesh. Previously, he served as Housing Commissioner and Secretary Housing (2022–2024), Consolidation Commissioner, and Secretary Revenue and Relief Commissioner, showcasing his expertise in urban development, land consolidation, and disaster management.
+							<br/>His tenure includes significant leadership roles such as Divisional Commissioner of Bareilly and District Magistrate across multiple districts, including Lalitpur and Mainpuri. Beyond Uttar Pradesh, Shri Prasad contributed to Tamil Nadu's development as District Collector and CEO of the Chennai Metropolitan Development Authority, notably leading tsunami relief efforts in Nagapattinam. A dynamic leader, he combines administrative acumen with a commitment to public service and governance excellence.
+							</p>
+						</div>
+					</a>
+				</div>
+			</div>
+		</div>	
+
+
+	
 
 
 	<div class="row speaker_row"><div class="k_list_part "><div class="col-sm-12 dum_speaker">
@@ -1493,47 +1597,9 @@ His team also focuses on energy transition, energy modeling, providing specializ
 			</div>
 		</div>
 
-		<div class="row speaker_row">
-			<div class="k_list_part ">
-				<div class="col-sm-12 dum_speaker">
-					<a>
-						<div class="speaker_img">
-							<img src="images/2024/manoharlal.png" style="width:60%">
-						</div>
-						<div class="speaker_content">
-							<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Manohar Lal Khattar<br/>Hon’ble Minister of Power<br/>Government of India
-							</h1>
-							<p>Shri Manohar Lal Khattar, a BJP leader, currently serves as the Minister of Power and Housing & Urban Affairs in the central government, having taken office in June 2024. 
-								<br/>Previously, he served as the 10th Chief Minister of Haryana from 2014 to 2024, representing Karnal. Known for his governance-focused reforms, he introduced digital initiatives like e-services and a biometric attendance system in Haryana’s government offices. 
-								<br/>Shri Khattar also promoted gender equality, launching the Beti Bachao, Beti Padhao initiative in Haryana and establishing all-women police stations in each district. His dedication to transparency, digital access, and social reform has shaped both Haryana’s development and his current role in national governance.
-							</p>
-						</div>
-					</a>
-				</div>
-			</div>
-		</div>
+		
 
-  
-	
-	 
-	
-	 
-	
-	
-	
-	
-	
-	
-	
-	
-	
 
-	
-	
-	
-	
-	
-	
 
 </div>
 

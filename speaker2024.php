@@ -1314,7 +1314,7 @@ His team also focuses on energy transition, energy modeling, providing specializ
 				<div class="col-sm-12 dum_speaker">
 					<a>
 						<div class="speaker_img">
-							<img src="images/2024/speakers/rajneeshbhadur.png" style="width:60%">
+							<img src="images/2024/speakers/rajneesh.png" style="width:60%">
 						</div>
 						<div class="speaker_content">
 							<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Rajneesh Bahadur<br>Regional Head<br>Havells India Limited
@@ -1336,7 +1336,7 @@ His team also focuses on energy transition, energy modeling, providing specializ
 				<div class="col-sm-12 dum_speaker">
 					<a>
 						<div class="speaker_img">
-							<img src="images/2024/speakers/rajneeshbhadur.png" style="width:60%">
+							<img src="images/2024/speakers/nidhi.png" style="width:60%">
 						</div>
 						<div class="speaker_content">
 							<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Nidhi Narang<br>Director - Finance<br>Uttar Pradesh Power Corporation Limited
@@ -1357,7 +1357,7 @@ His team also focuses on energy transition, energy modeling, providing specializ
 				<div class="col-sm-12 dum_speaker">
 					<a>
 						<div class="speaker_img">
-							<img src="images/2024/speakers/hanifqureshi.png" style="width:60%">
+							<img src="images/2024/speakers/hanif.png" style="width:60%">
 						</div>
 						<div class="speaker_content">
 							<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Hanif Qureshi<br>Additional Secretary<br>Ministry of Heavy Industries, GOI
@@ -1379,7 +1379,7 @@ His team also focuses on energy transition, energy modeling, providing specializ
 				<div class="col-sm-12 dum_speaker">
 					<a>
 						<div class="speaker_img">
-							<img src="images/2024/speakers/ishaduhan.png" style="width:60%">
+							<img src="images/2024/speakers/isha.png" style="width:60%">
 						</div>
 						<div class="speaker_content">
 							<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Isha Duhan<br>Managing Director<br>PVVNL
@@ -1423,7 +1423,7 @@ His team also focuses on energy transition, energy modeling, providing specializ
 				<div class="col-sm-12 dum_speaker">
 					<a>
 						<div class="speaker_img">
-							<img src="images/2024/speakers/praveenRathore.png" style="width:60%">
+							<img src="images/2024/speakers/praveen.png" style="width:60%">
 						</div>
 						<div class="speaker_content">
 							<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Praveen Rathore<br>Regional Manager- Power Distribution<br>Eaton India
@@ -1444,7 +1444,7 @@ His team also focuses on energy transition, energy modeling, providing specializ
 				<div class="col-sm-12 dum_speaker">
 					<a>
 						<div class="speaker_img">
-							<img src="images/2024/speakers/arjunsinha.png" style="width:60%">
+							<img src="images/2024/speakers/arjun.png" style="width:60%">
 						</div>
 						<div class="speaker_content">
 							<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Arjun Sinha Roy<br>Co-Founder and CEO<br>Iraseus
@@ -1465,7 +1465,7 @@ His team also focuses on energy transition, energy modeling, providing specializ
 				<div class="col-sm-12 dum_speaker">
 					<a>
 						<div class="speaker_img">
-							<img src="images/2024/speakers/awadeshjha.png" style="width:60%">
+							<img src="images/2024/speakers/awadesh.png" style="width:60%">
 						</div>
 						<div class="speaker_content">
 							<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Awadhesh Jha<br>Executive Director, GLIDA INDIA and Chairperson of CPO Association of India 
@@ -1487,7 +1487,7 @@ His team also focuses on energy transition, energy modeling, providing specializ
 				<div class="col-sm-12 dum_speaker">
 					<a>
 						<div class="speaker_img">
-							<img src="images/2024/speakers/anupamshukla.png" style="width:60%">
+							<img src="images/2024/speakers/anupam.png" style="width:60%">
 						</div>
 						<div class="speaker_content">
 							<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Anupam Shukla<br>Managing Director<br/>Uttar Pradesh New and Renewable Energy Development Agency
@@ -1506,7 +1506,7 @@ His team also focuses on energy transition, energy modeling, providing specializ
 				<div class="col-sm-12 dum_speaker">
 					<a>
 						<div class="speaker_img">
-							<img src="images/2024/speakers/eckehardtroster.png" style="width:60%">
+							<img src="images/2024/speakers/eckeherd.png" style="width:60%">
 						</div>
 						<div class="speaker_content">
 							<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Eckehard Troster<br>CEO<br/>Energynautics

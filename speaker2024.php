@@ -190,7 +190,7 @@
 	<div class="row speaker_row"><div class="k_list_part "><div class="col-sm-12 dum_speaker">
     <a>
       <div class="speaker_img">
-        <img src="images/2024/speakers/shashank_mishra.png" style="width:60%">
+        <img src="images/2024/speakers/atulbali.png" style="width:60%">
       </div>
       <div class="speaker_content">
         <h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Atul Bali<br>Executive Director, PGCIL and Director, NSGM<br>Ministry of Power</h1>
@@ -361,7 +361,7 @@
         <div class="col-sm-12 dum_speaker">
             <a>
                 <div class="speaker_img">
-                    <img src="images/2024/speakers/jeevan_jethani.png" style="width:60%">
+                    <img src="images/2024/speakers/jk_jethani.png" style="width:60%">
                 </div>
                 <div class="speaker_content">
                     <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize;">
@@ -976,7 +976,7 @@ Ministry of Power</h1>
 	<div class="row speaker_row"><div class="k_list_part "><div class="col-sm-12 dum_speaker">
     <a>
       <div class="speaker_img">
-        <img src="images/2024/speakers/shashank_mishra.png" style="width:60%">
+        <img src="images/2024/speakers/saahas.png" style="width:60%">
       </div>
       <div class="speaker_content">
         <h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Saahas<br>COO<br>Polaris Smart Metering Pvt. Ltd.</h1>
@@ -1000,7 +1000,7 @@ Program in Business Analytics from Great Lake Institute.
 		<div class="row speaker_row"><div class="k_list_part "><div class="col-sm-12 dum_speaker">
 		<a>
 		<div class="speaker_img">
-		<img src="images/2024/speakers/shashank_mishra.png" style="width:60%">
+		<img src="images/2024/speakers/swapandeep.png" style="width:60%">
 		</div>
 		<div class="speaker_content">
 		<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Swapandeep Banerjee<br>Senior Technical Consultant<br>Trilliant, Inc</h1>
@@ -1015,7 +1015,7 @@ Program in Business Analytics from Great Lake Institute.
 		<div class="row speaker_row"><div class="k_list_part "><div class="col-sm-12 dum_speaker">
 		<a>
 		<div class="speaker_img">
-		<img src="images/2024/speakers/shashank_mishra.png" style="width:60%">
+		<img src="images/2024/speakers/sauravshah.png" style="width:60%">
 		</div>
 		<div class="speaker_content">
 		<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Saurav Shah<br>Executive Director<br>Power Finance Corporation</h1>
@@ -1032,7 +1032,7 @@ He was also instrumental in successful completion and closure of Integrated Powe
 		<div class="row speaker_row"><div class="k_list_part "><div class="col-sm-12 dum_speaker">
 		<a>
 		<div class="speaker_img">
-		<img src="images/2024/speakers/shashank_mishra.png" style="width:60%">
+		<img src="images/2024/speakers/shambhukumar.png" style="width:60%">
 		</div>
 		<div class="speaker_content">
 		<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Shambhu Kumar<br>Managing Director<br>Purvanchal Vidyut Vitaran Nigam Limited</h1>
@@ -1051,7 +1051,7 @@ Mr. Kumar has been Special Secretary, Govt. of UP, Secondary Education Deptt and
 		<div class="row speaker_row"><div class="k_list_part "><div class="col-sm-12 dum_speaker">
 		<a>
 		<div class="speaker_img">
-		<img src="images/2024/speakers/shashank_mishra.png" style="width:60%">
+		<img src="images/2024/speakers/yogeshkumar.png" style="width:60%">
 		</div>
 		<div class="speaker_content">
 		<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Yogesh Kumar<br>Director- Commercial<br>Madhyanchal Vidyut Vitaran Nigam Ltd</h1>
@@ -1070,7 +1070,7 @@ Mr. Kumar has been Special Secretary, Govt. of UP, Secondary Education Deptt and
 		<div class="row speaker_row"><div class="k_list_part "><div class="col-sm-12 dum_speaker">
 		<a>
 		<div class="speaker_img">
-		<img src="images/2024/speakers/shashank_mishra.png" style="width:60%">
+		<img src="images/2024/speakers/anandbudholia.png" style="width:60%">
 		</div>
 		<div class="speaker_content">
 		<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Anand Budholia<br>Group CIO<br>BSES</h1>
@@ -1087,7 +1087,7 @@ Mr. Kumar has been Special Secretary, Govt. of UP, Secondary Education Deptt and
 		<div class="row speaker_row"><div class="k_list_part "><div class="col-sm-12 dum_speaker">
 		<a>
 		<div class="speaker_img">
-		<img src="images/2024/speakers/shashank_mishra.png" style="width:60%">
+		<img src="images/2024/speakers/pankajkumar.png" style="width:60%">
 		</div>
 		<div class="speaker_content">
 		<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Pankaj Kumar<br>Managing Director<br>Uttar Pradesh Power Corporation Limited</h1>
@@ -1104,7 +1104,7 @@ Mr. Kumar has been Special Secretary, Govt. of UP, Secondary Education Deptt and
 		<div class="row speaker_row"><div class="k_list_part "><div class="col-sm-12 dum_speaker">
 		<a>
 		<div class="speaker_img">
-		<img src="images/2024/speakers/shashank_mishra.png" style="width:60%">
+		<img src="images/2024/speakers/sumitgupta.png" style="width:60%">
 		</div>
 		<div class="speaker_content">
 		<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Sumit Gupta<br>CEO<br>AssetPlus Consulting</h1>
@@ -1122,7 +1122,7 @@ Mr. Kumar has been Special Secretary, Govt. of UP, Secondary Education Deptt and
 		<div class="row speaker_row"><div class="k_list_part "><div class="col-sm-12 dum_speaker">
 		<a>
 		<div class="speaker_img">
-		<img src="images/2024/speakers/shashank_mishra.png" style="width:60%">
+		<img src="images/2024/speakers/sk.png" style="width:60%">
 		</div>
 		<div class="speaker_content">
 		<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">SK Senapati<br>Head-Sales & Commercial Services <br>L&T PT&D Digital Energy Solutions</h1>
@@ -1137,7 +1137,7 @@ Mr. Kumar has been Special Secretary, Govt. of UP, Secondary Education Deptt and
 		<div class="row speaker_row"><div class="k_list_part "><div class="col-sm-12 dum_speaker">
 		<a>
 		<div class="speaker_img">
-		<img src="images/2024/speakers/shashank_mishra.png" style="width:60%">
+		<img src="images/2024/speakers/lalitjain.png" style="width:60%">
 		</div>
 		<div class="speaker_content">
 		<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Lalit Jain<br>Product Marketing Head<br>Industrial Automation 
@@ -1156,7 +1156,7 @@ Phoenix Contact India Pvt. Ltd
 		<div class="row speaker_row"><div class="k_list_part "><div class="col-sm-12 dum_speaker">
 		<a>
 		<div class="speaker_img">
-		<img src="images/2024/speakers/shashank_mishra.png" style="width:60%">
+		<img src="images/2024/speakers/muksh.png" style="width:60%">
 		</div>
 		<div class="speaker_content">
 		<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Mukesh Dadhich<br>Head-Business Development, Sustainability and Clean Technology<br>BSES Yamuna Power Limited
@@ -1174,7 +1174,7 @@ Phoenix Contact India Pvt. Ltd
 		<div class="row speaker_row"><div class="k_list_part "><div class="col-sm-12 dum_speaker">
 		<a>
 		<div class="speaker_img">
-		<img src="images/2024/speakers/shashank_mishra.png" style="width:60%">
+		<img src="images/2024/speakers/triptha.png" style="width:60%">
 		</div>
 		<div class="speaker_content">
 		<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">TRIPTA THAKUR<br>Director General<br>NPTI
@@ -1192,7 +1192,7 @@ Phoenix Contact India Pvt. Ltd
 		<div class="row speaker_row"><div class="k_list_part "><div class="col-sm-12 dum_speaker">
 		<a>
 		<div class="speaker_img">
-		<img src="images/2024/speakers/shashank_mishra.png" style="width:60%">
+		<img src="images/2024/speakers/ayushkumar.png" style="width:60%">
 		</div>
 		<div class="speaker_content">
 		<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Ayush Kumar <br>CEO <br>Sai Computers Limited
@@ -1210,7 +1210,7 @@ Phoenix Contact India Pvt. Ltd
 		<div class="row speaker_row"><div class="k_list_part "><div class="col-sm-12 dum_speaker">
 		<a>
 		<div class="speaker_img">
-		<img src="images/2024/speakers/sandipSinha.png" style="width:60%">
+		<img src="images/2024/speakers/sandipsinha.png" style="width:60%">
 		</div>
 		<div class="speaker_content">
 		<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Sandip Sinha<br>Vice President - Sales <br>Trilliant, Inc
@@ -1229,7 +1229,7 @@ Phoenix Contact India Pvt. Ltd
 		<div class="row speaker_row"><div class="k_list_part "><div class="col-sm-12 dum_speaker">
 		<a>
 		<div class="speaker_img">
-		<img src="images/2024/speakers/sandipSinha.png" style="width:60%">
+		<img src="images/2024/speakers/anishmandal.png" style="width:60%">
 		</div>
 		<div class="speaker_content">
 		<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Anish Mandal<br>Partner<br>Deloitte
@@ -1252,7 +1252,7 @@ His team also focuses on energy transition, energy modeling, providing specializ
 		<div class="row speaker_row"><div class="k_list_part "><div class="col-sm-12 dum_speaker">
 		<a>
 		<div class="speaker_img">
-		<img src="images/2024/speakers/sandipSinha.png" style="width:60%">
+		<img src="images/2024/speakers/sanjoy.png" style="width:60%">
 		</div>
 		<div class="speaker_content">
 		<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Sanjoy Mukherjee<br>Executive Director-Technical - Distribution<br>CESC Limited, Kolkata
@@ -1274,7 +1274,7 @@ His team also focuses on energy transition, energy modeling, providing specializ
 		<div class="row speaker_row"><div class="k_list_part "><div class="col-sm-12 dum_speaker">
 		<a>
 		<div class="speaker_img">
-		<img src="images/2024/speakers/sandipSinha.png" style="width:60%">
+		<img src="images/2024/speakers/shailendra.png" style="width:60%">
 		</div>
 		<div class="speaker_content">
 		<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Shailendra Dubey<br>Director<br>Inventive Software Solutions

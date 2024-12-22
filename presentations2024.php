@@ -1569,7 +1569,7 @@ else
 			<h1><span class="k_greencolor">Password Protected Page</span> </h1>
 			<img src="images/kborder_bottom.png" alt="">
 			</div>
-			<form method="POST" action="presentations2024.php" class="k_form">
+			<form method="POST" action="https://dumindia.in/presentations2024.php" class="k_form">
             
             Enter Password To Open Presentation <input type="password" name="pass"></input><br/><br/>
             <input type="submit" name="submit" value="Go"></input>

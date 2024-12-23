@@ -26,12 +26,12 @@
     padding: 5px !important;
 }
     .ppone{width:5%}
-    .pptwo{width:20%}
-    .ppthree{width:20%}
+    .pptwo{width:15%}
+    .ppthree{width:30%}
     .ppfour{width:20%}
-    .ppfive{width:10%}
-    .ppsix{width:10%}
-    .ppseven{width:10%}
+    .ppfive{width:15%}
+    .ppsix{width:5%}
+    .ppseven{width:5%}
     .ppeight{width:5%}
     </style>
 <?php
@@ -284,16 +284,14 @@ if($pass == "DUM14152024#%")
     <table>
         <thead>
             <tr>
-                <th>S.No.</th>
-                <th>Name</th>
-                <th>Designation</th>
-                <th>Organisation</th>
-                <th>Category</th>
-                <th>Presentation/Speech</th>
-                <th>Video Link</th>
-                <th>Photos Link</th>
-				<!-- <!--<th>View PDF</th>
-				<th>Download PDF</th> --> -->
+                <th class="ppone">S.No</th>
+                <th class="pptwo">Name</th>
+                <th class="ppthree">Designation</th>
+                <th class="ppfour">Organisation</th>
+                <th class="ppfive">Category</th>
+                <th class="ppsix">Presentation/Speech</th>
+                <th class="ppseven">Video link</th>
+                <th class="ppeight">Photos Link</th>
             </tr>
         </thead>
         <tbody>
@@ -460,16 +458,14 @@ if($pass == "DUM14152024#%")
     <table>
         <thead>
             <tr>
-                <th>S.No</th>
-                <th>Name</th>
-                <th>Designation</th>
-                <th>Organisation</th>
-                <th>Category</th>
-                <th>Presentation/Speech</th>
-                <th>Video Link</th>
-                <th>Photos Link</th>
-				<!--<th>View PDF</th>
-				<th>Download PDF</th> -->
+                <th class="ppone">S.No</th>
+                <th class="pptwo">Name</th>
+                <th class="ppthree">Designation</th>
+                <th class="ppfour">Organisation</th>
+                <th class="ppfive">Category</th>
+                <th class="ppsix">Presentation/Speech</th>
+                <th class="ppseven">Video link</th>
+                <th class="ppeight">Photos Link</th>
             </tr>
         </thead>
         <tbody>
@@ -640,16 +636,14 @@ if($pass == "DUM14152024#%")
     <table>
         <thead>
             <tr>
-                <th>S.No</th>
-                <th>Name</th>
-                <th>Designation</th>
-                <th>Organisation</th>
-                <th>Category</th>
-                <th>Presentation/Speech</th>
-                <th>Video Link</th>
-                <th>Photos Link</th>
-				<!--<th>View PDF</th>
-				<th>Download PDF</th> -->
+                <th class="ppone">S.No</th>
+                <th class="pptwo">Name</th>
+                <th class="ppthree">Designation</th>
+                <th class="ppfour">Organisation</th>
+                <th class="ppfive">Category</th>
+                <th class="ppsix">Presentation/Speech</th>
+                <th class="ppseven">Video link</th>
+                <th class="ppeight">Photos Link</th>
             </tr>
         </thead>
         <tbody>
@@ -823,16 +817,14 @@ if($pass == "DUM14152024#%")
     <table>
         <thead>
             <tr>
-                <th>S.No</th>
-                <th>Name</th>
-                <th>Designation</th>
-                <th>Organisation</th>
-                <th>Category</th>
-                <th>Presentation/Speech</th>
-                <th>Video Link</th>
-                <th>Photos Link</th>
-				<!--<th>View PDF</th>
-				<th>Download PDF</th> -->
+                <th class="ppone">S.No</th>
+                <th class="pptwo">Name</th>
+                <th class="ppthree">Designation</th>
+                <th class="ppfour">Organisation</th>
+                <th class="ppfive">Category</th>
+                <th class="ppsix">Presentation/Speech</th>
+                <th class="ppseven">Video link</th>
+                <th class="ppeight">Photos Link</th>
             </tr>
         </thead>
         <tbody>
@@ -859,16 +851,14 @@ if($pass == "DUM14152024#%")
     <table>
         <thead>
             <tr>
-                <th>S.No.</th>
-                <th>Name</th>
-                <th>Designation</th>
-                <th>Organisation</th>
-                <th>Category</th>
-                <th>Presentation/Speech</th>
-                <th>Video Link</th>
-                <th>Photos Link</th>
-				<!--<th>View PDF</th>
-				<th>Download PDF</th> -->
+                <th class="ppone">S.No</th>
+                <th class="pptwo">Name</th>
+                <th class="ppthree">Designation</th>
+                <th class="ppfour">Organisation</th>
+                <th class="ppfive">Category</th>
+                <th class="ppsix">Presentation/Speech</th>
+                <th class="ppseven">Video link</th>
+                <th class="ppeight">Photos Link</th>
             </tr>
         </thead>
         <tbody>
@@ -998,16 +988,14 @@ if($pass == "DUM14152024#%")
     <table>
         <thead>
             <tr>
-                <th>S.No.</th>
-                <th>Name</th>
-                <th>Designation</th>
-                <th>Organisation</th>
-                <th>Category</th>
-                <th>Presentation/Speech</th>
-                <th>Video Link</th>
-                <th>Photos Link</th>
-				<!--<th>View PDF</th>
-				<th>Download PDF</th> -->
+                <th class="ppone">S.No</th>
+                <th class="pptwo">Name</th>
+                <th class="ppthree">Designation</th>
+                <th class="ppfour">Organisation</th>
+                <th class="ppfive">Category</th>
+                <th class="ppsix">Presentation/Speech</th>
+                <th class="ppseven">Video link</th>
+                <th class="ppeight">Photos Link</th>
             </tr>
         </thead>
         <tbody>
@@ -1140,16 +1128,14 @@ if($pass == "DUM14152024#%")
     <table>
         <thead>
             <tr>
-                <th>S.No.</th>
-                <th>Name</th>
-                <th>Designation</th>
-                <th>Organisation</th>
-                <th>Category</th>
-                <th>Presentation/Speech</th>
-                <th>Video Link</th>
-                <th>Photos Link</th>
-				<!--<th>View PDF</th>
-				<th>Download PDF</th> -->
+                <th class="ppone">S.No</th>
+                <th class="pptwo">Name</th>
+                <th class="ppthree">Designation</th>
+                <th class="ppfour">Organisation</th>
+                <th class="ppfive">Category</th>
+                <th class="ppsix">Presentation/Speech</th>
+                <th class="ppseven">Video link</th>
+                <th class="ppeight">Photos Link</th>
             </tr>
         </thead>
         <tbody>
@@ -1342,17 +1328,15 @@ if($pass == "DUM14152024#%")
 
     <table>
         <tr>
-            <th>S.No</th>
-            <th>Name</th>
-            <th>Designation</th>
-            <th>Organisation</th>
-            <th>Category</th>
-            <th>Presentation/Speech</th>
-            <th>Video Link</th>
-            <th>Photos Link</th>
-			<!--<th>View PDF</th>
-				<th>Download PDF</th> -->
-        </tr>
+                <th class="ppone">S.No</th>
+                <th class="pptwo">Name</th>
+                <th class="ppthree">Designation</th>
+                <th class="ppfour">Organisation</th>
+                <th class="ppfive">Category</th>
+                <th class="ppsix">Presentation/Speech</th>
+                <th class="ppseven">Video link</th>
+                <th class="ppeight">Photos Link</th>
+            </tr>
         <tr>
             <td>85</td>
             <td>Arvind Kumar</td>
@@ -1416,16 +1400,15 @@ if($pass == "DUM14152024#%")
 
     <table>
         <tr>
-            <th>S.No</th>
-            <th>Name</th>
-            <th>Designation</th>
-            <th>Organisation</th>
-            <th>Category</th>
-            <th>Presentation/Speech</th>
-            <th>Video Link</th>
-            <th>Photos Link</th>
-			
-        </tr>
+                <th class="ppone">S.No</th>
+                <th class="pptwo">Name</th>
+                <th class="ppthree">Designation</th>
+                <th class="ppfour">Organisation</th>
+                <th class="ppfive">Category</th>
+                <th class="ppsix">Presentation/Speech</th>
+                <th class="ppseven">Video link</th>
+                <th class="ppeight">Photos Link</th>
+            </tr>
 
         <tr>
             <td>1</td>

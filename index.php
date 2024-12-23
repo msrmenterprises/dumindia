@@ -88,26 +88,26 @@ font-size: 12px;
 
 	<div class="k_cheading">
 
-		<h1>DUM 2024 <span class="k_greencolor">at a Glance</span> </h1>
+		<h1>DUM 2025 <span class="k_greencolor">at a Glance</span> </h1>
 
 		<img src="images/kborder_bottom.png" alt="">
 
 	</div>
 
-	<p class="k_p" style="text-align:justify;"><strong>ISGF has the pleasure of inviting key stakeholders in the DISCOM domains to the 8th Edition of Distribution Utility Meet (www.dumindia.in) in Lucknow, Uttar Pradesh on 14 to 15 November 2024 in partnership with Uttar Pradesh Power Corporation Limited (UPPCL) and the Energy Department of the Government of Uttar Pradesh. DUM 2024 will provide a unique platform for all the DISCOM community to share each other's experiences in dealing with efforts towards energy transition, grid modernization and digitalization on a fast track as we leapfrog towards a Net Zero power sector in India. In the post pandemic world, it is imperative that utilities do not make the same mistakes but learn from each other, and from global expertise/experiences. Experts from leading utilities from the USA, Europe, Japan, South Korea and Japan will be invited to participate in DUM 2024 and share their valuable experiences.
+	<p class="k_p" style="text-align:justify;"><strong>ISGF has the pleasure of inviting key stakeholders in the DISCOM domains to the 9th Edition of Distribution Utility Meet <a href="http://www.dumindia.in/">(DISTRIBUTION UTILITY MEET )</a> in Mumbai, Maharashtra, India  on 06 to 07 November 2025 in partnership with Maharashtra State Electricity Distribution Company Limited and the Tata Power Company Limited. DUM 2025 will provide a unique platform for all the DISCOM community to share each other's experiences in dealing with efforts towards energy transition, grid modernization and digitalization on a fast track as we leapfrog towards a Net Zero power sector in India. In the post pandemic world, it is imperative that utilities do not make the same mistakes but learn from each other, and from global expertise/experiences. Experts from leading utilities from the USA, Europe, Japan, South Korea and Japan will be invited to participate in DUM 2025 and share their valuable experiences.
 
 		</strong></p>
 
 		<div class="k_cheading">
 
-		<h1>DUM 2024 <span class="k_greencolor">PROGRAM</span> </h1>
+		<h1>DUM 2025 <span class="k_greencolor">PROGRAM</span> </h1>
 
 		<img src="images/kborder_bottom.png" alt="">
 		
 		
 
 	</div>
-		<img src="images/ProgramStructure.png" alt="Program Structure for Dum 2024" width="100%">
+		<img src="images/2025/ProgramStructure.png" alt="Program Structure for Dum 2024" width="100%">
 	<!--<img src="http://dumindia.in/DUM 2023 PROGRAM.png" width="780" height="295"></img>-->
 
 </div>
@@ -948,7 +948,8 @@ Please contact : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid.
 		<!-- map starts here -->
 		<div class="row k_map">
 			<!--<iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d237630.0074118501!2d77.09802989702487!3d28.55246629984706!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x390ce3cf1dfeece7%3A0xee690c3f5b362567!2sThe+Eros+Hotel%2C+Eros+Hotel%2C+Nehru+Place%2C+New+Delhi%2C+Delhi%2C+India!3m2!1d28.550435!2d77.24913!5e0!3m2!1sen!2sin!4v1566398556531!5m2!1sen!2sin" width="100%" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
-		    --><iframe src="https://www.google.com/maps/embed/v1/place?q=The+Centrum,+Golf+City,+Lucknow,+Uttar+Pradesh,+India&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8" width="100%" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+		    -->
+			<iframe src="https://www.google.com/maps/embed/v1/place?q=Mumbia,+Maharastra,+India&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8" width="100%" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
 		    <!--<iframe src="https://maps.google.com/maps?q=Lucknow%2C+Uttar+Pradesh&t=&z=12&ie=UTF8&iwloc=&output=embed" width="100%" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>-->
 		   <!--<a href="https://pdflist.com/" alt="pdf">Pdf</a></div><style>.mapouter{position:relative;text-align:right;width:600px;height:400px;}.gmap_canvas {overflow:hidden;background:none!important;width:600px;height:400px;}.gmap_iframe {width:600px!important;height:400px!important;}</style></div>
 		<!--<div class="mapouter"><div class="gmap_canvas"><iframe class="gmap_iframe" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=600&amp;height=400&amp;hl=en&amp;q=Taj Vivanta Bhubaneshwar Odisha&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe><a href="https://piratebay-proxys.com/">Piratebay</a></div><style>.mapouter{position:relative;text-align:right;width:600px;height:400px;}.gmap_canvas {overflow:hidden;background:none!important;width:600px;height:400px;}.gmap_iframe {width:600px!important;height:400px!important;}</style></div>

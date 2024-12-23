@@ -14,11 +14,11 @@
 
 	<ul>
 
-		<li><a href="images/invite.ics" class="k_green" style="cursor: pointer;" class="pull-left"><i class="fa fa-calendar" aria-hidden="true"></i>14 - 15 November 2024</a></li>
+		<li><a href="images/invite.ics" class="k_green" style="cursor: pointer;" class="pull-left"><i class="fa fa-calendar" aria-hidden="true"></i>06 - 07 November 2025</a></li>
 
 		<!--<li><a data-toggle="modal" data-target="#myModal" class="pull-right" style="cursor: pointer;" ><i class="fa fa-map-marker" aria-hidden="true"></i>Bhubaneswar, Odisha </a></li>
 
-	    --><li><a data-toggle="modal" data-target="#" class="pull-right" style="cursor: pointer;" ><i class="fa fa-map-marker" aria-hidden="true"></i>Centrum Hotel, Lucknow, Uttar Pradesh </a></li>
+	    --><li><a data-toggle="modal" data-target="#" class="pull-right" style="cursor: pointer;" ><i class="fa fa-map-marker" aria-hidden="true"></i>Mumbai, Maharashtra, India </a></li>
 
 	</ul>
 
@@ -937,9 +937,9 @@ Please contact : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid.
 			<!--<li><a data-toggle="modal" data-target="#myModal" class="k_green" style="cursor: pointer;"><i class="fa fa-map-marker" aria-hidden="true"></i>
 				-->
 							<li><a data-toggle="modal" data-target="#" class="k_green" style="cursor: pointer;"><i class="fa fa-map-marker" aria-hidden="true"></i>
-				<br>Centrum Hotel, Lucknow, Uttar Pradesh </a></li>
+				<br>Mumbai, Maharashtra, India </a></li>
 				<li><a href="images/invite.ics" target="_blank" class="k_blue"><i class="fa fa-calendar" aria-hidden="true"></i>
-					<br>14 - 15 November 2024</a></li>
+					<br>06 - 07 November 2025</a></li>
 				</ul>
 			</div>
 		</div>
@@ -1125,7 +1125,7 @@ Please contact : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid.
 					</div>
 					<div class="col-sm-4 col-xs-4 buckyroberts_dum_contactus_icons">
 						<h4><i class="fa fa-map-marker" aria-hidden="true"></i></h4>
-						<p>14 - 15 November 2024 <br>Centrum Hotel, Lucknow, Uttar Pradesh </p>
+						<p>06 - 07 November 2025 <br>Mumbai, Maharashtra, India </p>
 					</div>
 					<div class="col-sm-4 col-xs-4 buckyroberts_dum_contactus_icons">
 						<h4><i class="fa fa-phone" aria-hidden="true"></i></h4>

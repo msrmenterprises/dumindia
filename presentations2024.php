@@ -25,6 +25,14 @@
 		td, th {
     padding: 5px !important;
 }
+    .ppone{width:5%}
+    .pptwo{width:20%}
+    .ppthree{width:20%}
+    .ppfour{width:20%}
+    .ppfive{width:10%}
+    .ppsix{width:10%}
+    .ppseven{width:10%}
+    .ppeight{width:5%}
     </style>
 <?php
 include("include/header.php");
@@ -53,14 +61,14 @@ if($pass == "DUM14152024#%")
 <table>
     <thead>
         <tr>
-            <th>S.No</th>
-            <th>Name</th>
-            <th>Designation</th>
-            <th>Organisation</th>
-            <th>Category</th>
-            <th>Presentation/Speech</th>
-            <th>Video link</th>
-            <th>Photos Link</th>
+            <th class="ppone">S.No</th>
+            <th class="pptwo">Name</th>
+            <th class="ppthree">Designation</th>
+            <th class="ppfour">Organisation</th>
+            <th class="ppfive">Category</th>
+            <th class="ppsix">Presentation/Speech</th>
+            <th class="ppseven">Video link</th>
+            <th class="ppeight">Photos Link</th>
 			
 			
         </tr>

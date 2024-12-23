@@ -12,7 +12,7 @@
 	</div>
 	<br>
 	<!--<div class="k_register k_contact_us">-->
-	<iframe src="dumpdf/Dum24.pdf" style="width:90%;height:500px;"></iframe><br><br>
+	<iframe src="/dumindia/dumpdf/Dum24.pdf" style="width:90%;height:500px;"></iframe><br><br>
 		<!--<div class="col-sm-12" style="text-align: center;">
 			<iframe src="http://dumindia.in/dumpdf/Dum 2024 Agenda Abridged.pdf" style="width:100%;height:700px;"></iframe><br><br>
 			

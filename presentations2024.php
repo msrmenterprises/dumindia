@@ -69,9 +69,7 @@ if($pass == "DUM14152024#%")
             <th class="ppsix">Presentation/Speech</th>
             <th class="ppseven">Video link</th>
             <th class="ppeight">Photos Link</th>
-			
-			
-        </tr>
+		</tr>
     </thead>
     <tbody>
         <tr>
@@ -187,18 +185,16 @@ if($pass == "DUM14152024#%")
 <div class="header">SESSION – 1: SPECIAL PLENARY SESSION - SUSTAINABILITY OF DISCOMs (PART 1) | 11.30 ~ 13.00</div>
     <table>
         <thead>
-            <tr>
-                <th>S.No.</th>
-                <th>Name</th>
-                <th>Designation</th>
-                <th>Organisation</th>
-                <th>Category</th>
-                <th>Presentation/Speech</th>
-                <th>Video Link</th>
-                <th>Photos Link</th>
-				<!-- <!--<th>View PDF</th>
-				<th>Download PDF</th> --> -->
-            </tr>
+        <tr>
+            <th class="ppone">S.No</th>
+            <th class="pptwo">Name</th>
+            <th class="ppthree">Designation</th>
+            <th class="ppfour">Organisation</th>
+            <th class="ppfive">Category</th>
+            <th class="ppsix">Presentation/Speech</th>
+            <th class="ppseven">Video link</th>
+            <th class="ppeight">Photos Link</th>
+		</tr>
         </thead>
         <tbody>
             <tr>

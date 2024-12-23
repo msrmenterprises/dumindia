@@ -1,3 +1,7 @@
+<style>
+	.key_div h3{font-size:18px;}
+	.key_div img{width:40%;height:70% }
+</style>
 <?php include "include/header.php"; ?>
 
 <div class="row k_inbanner">
@@ -10,8 +14,8 @@
 		Our Gallery
 	</h1>
 	<h2 style="text-align: center; padding-bottom: 10px;">Glimpses of DUM 2024</h2>
-	<h3 style="text-align: left; padding-bottom: 10px;">DISTRIBUTION UTILITY MEET (DUM) 2024 |  LUCKNOW, UTTAR PRADESH </h3>
-	<br/><br/>
+	<h4 style="text-align: center; padding-bottom: 10px;">DISTRIBUTION UTILITY MEET (DUM) 2024 |  LUCKNOW, UTTAR PRADESH </h4>
+	
 
 	<h3 style="text-align: left; padding-bottom: 10px;">DUM 2024 Inaugural Conference Session 14_NOVEMBER 2024 (THURSDAY)</h3>
 	<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720322052811" title="DUM_2024 | Exhibition Inaugural | 14 Nov 2024">

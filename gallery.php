@@ -44,24 +44,35 @@
 		<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 	
 
-	<h3 style="text-align: left; padding-bottom: 10px;">DUM 2024 Inaugural Conference Session 14_NOVEMBER 2024 (THURSDAY)</h3>
+	<h3 style="text-align: left; padding-bottom: 10px;">Cultural Program_14 November 2024 (Thursday)_19:30~23:00</h3>
+	<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720322029971" title="DUM_2024 | Cultural Program | 14 Nov 2024">
+		<img src="https://live.staticflickr.com/65535/54150847584_e797775d5c_z.jpg" width="640" height="480" alt="DUM_2024 | Cultural Program | 14 Nov 2024"/></a>
+		<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 	
 
-	<h3 style="text-align: left; padding-bottom: 10px;">DUM 2024 Inaugural Conference Session 14_NOVEMBER 2024 (THURSDAY)</h3>
+	<h3 style="text-align: left; padding-bottom: 10px;">DUM 2024 Session 5: Special Plenary Session – Sustainability of DISCOMs (Part 2)_15 November 2024 (Friday)_10:00~11:30</h3>
+	<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720322031012" title="DUM_2024 | Session 5: Special Plenary Session - Sustainability of DISCOMs (Part 2) | 10:00 ~ 11:30 IST | 15 Nov 2024">
+		<img src="https://live.staticflickr.com/65535/54149697787_47bb655b51_z.jpg" width="640" height="480" alt="DUM_2024 | Session 5: Special Plenary Session - Sustainability of DISCOMs (Part 2) | 10:00 ~ 11:30 IST | 15 Nov 2024"/></a>
+		<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 	
 
-	<h3 style="text-align: left; padding-bottom: 10px;">DUM 2024 Inaugural Conference Session 14_NOVEMBER 2024 (THURSDAY)</h3>
+	<h3 style="text-align: left; padding-bottom: 10px;">DUM Session 6: Electric Vehicle (EV) Charging Infrastructure and Grid Integration (Session Partner: L&T PTD Digital Energy Solutions)_15 November 2024 (Friday)_11:30~13:00</h3>
+	<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720322049374" title="DUM_2024 | Session 6: Electric Vehicle (EV) Charging Infrastructure and Grid Integration | 11:30 ~ 13:00 IST | 15 Nov 2024">
+		<img src="https://live.staticflickr.com/65535/54149712492_21c654aab4_z.jpg" width="640" height="480" alt="DUM_2024 | Session 6: Electric Vehicle (EV) Charging Infrastructure and Grid Integration | 11:30 ~ 13:00 IST | 15 Nov 2024"/></a>
+		<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 
-	<h3 style="text-align: left; padding-bottom: 10px;">DUM 2024 Inaugural Conference Session 14_NOVEMBER 2024 (THURSDAY)</h3>
+	<h3 style="text-align: left; padding-bottom: 10px;">DUM 2024 Session 7: RE, EV and Grid Stability and Challenges of 10 Million Rooftop Solar PV Systems (Session Partner: GIZ)_15 November 2024 (Friday)_14:00~16:00</h3>
+	<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720322031912" title="DUM_2024 | Session 7: RE, EV and Grid Stability and Challenges of 10 Million Rooftop Solar PV Systems | Session Partner: GIZ | 14:00 ~ 16:00 IST | 15 Nov 2024">
+		<img src="https://live.staticflickr.com/65535/54151092945_1b41e04d66_z.jpg" width="640" height="480" alt="DUM_2024 | Session 7: RE, EV and Grid Stability and Challenges of 10 Million Rooftop Solar PV Systems | Session Partner: GIZ | 14:00 ~ 16:00 IST | 15 Nov 2024"/></a>
+		<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 	
 
-	<h3 style="text-align: left; padding-bottom: 10px;">DUM 2024 Inaugural Conference Session 14_NOVEMBER 2024 (THURSDAY)</h3>
+	<h3 style="text-align: left; padding-bottom: 10px;">DUM 2024 Valedictory Session_18 November 2022 (Friday)_16:30~17:30</h3>
+	<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720322051275" title="DUM_2024 | Valedictory Session | 15 Nov 2024">
+		<img src="https://live.staticflickr.com/65535/54152717368_81cdc5b68e_z.jpg" width="640" height="480" alt="DUM_2024 | Valedictory Session | 15 Nov 2024"/></a>
+		<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 	
-
-	<h3 style="text-align: left; padding-bottom: 10px;">DUM 2024 Inaugural Conference Session 14_NOVEMBER 2024 (THURSDAY)</h3>
-	
-	<h3 style="text-align: left; padding-bottom: 10px;">DUM 2024 Inaugural Conference Session 14_NOVEMBER 2024 (THURSDAY)</h3>
 
 
 	

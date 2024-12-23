@@ -1001,13 +1001,13 @@ Please contact : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid.
 			</div> 
 			
 			<div class="col-sm-12 buckyroberts_dum_contactus_icons_div" style="color: #ffffff; text-align: center;">
-				<span><a href="http://dumindia.in/agenda.php" style="color: #ffffff;">Agenda</a></span>&nbsp;&nbsp; | &nbsp;&nbsp; 
+				<span><a href="http://dumindia.in/dumindia2024/agenda.php" style="color: #ffffff;">Agenda</a></span>&nbsp;&nbsp; | &nbsp;&nbsp; 
 				
-				<span><a href="http://dumindia.in/confirmed-exhibitor.php" style="color: #ffffff;">Confirmed Exhibitors</a></span>&nbsp;&nbsp; | &nbsp;&nbsp;
-				<span><a href="http://dumindia.in/confirmed_utility.php" style="color: #ffffff;">Confirmed Utilities</a></span>&nbsp;&nbsp; | &nbsp; &nbsp;
-               <span><a href="http://dumindia.in/brochure.php" style="color: #ffffff;">Download Brochure</a></span>&nbsp;&nbsp; | &nbsp;&nbsp;
-				<span><a href="http://dumindia.in/organiser.php" style="color: #ffffff;">Organiser</a></span>&nbsp;&nbsp; | &nbsp;&nbsp;
-				<span><a href="http://dumindia.in/speaker.php" style="color: #ffffff;">Speakers</a></span>&nbsp;&nbsp; | &nbsp;&nbsp;
+				<span><a href="http://dumindia.in/dumindia2024/confirmed-exhibitor.php" style="color: #ffffff;">Confirmed Exhibitors</a></span>&nbsp;&nbsp; | &nbsp;&nbsp;
+				<span><a href="http://dumindia.in/dumindia2024/confirmed_utility.php" style="color: #ffffff;">Confirmed Utilities</a></span>&nbsp;&nbsp; | &nbsp; &nbsp;
+               <span><a href="http://dumindia.in/dumindia2024/brochure.php" style="color: #ffffff;">Download Brochure</a></span>&nbsp;&nbsp; | &nbsp;&nbsp;
+				<span><a href="http://dumindia.in/dumindia2024/organiser.php" style="color: #ffffff;">Organiser</a></span>&nbsp;&nbsp; | &nbsp;&nbsp;
+				<span><a href="http://dumindia.in/dumindia2024/speaker.php" style="color: #ffffff;">Speakers</a></span>&nbsp;&nbsp; | &nbsp;&nbsp;
 				
 			</div>	
 

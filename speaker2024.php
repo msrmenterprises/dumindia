@@ -81,29 +81,46 @@
 				</div>
 			</div>
 	</div>
-	
-	<div class="row speaker_row">
-	<div class="k_list_part ">
-			
-			
-			<div class="col-sm-12 dum_speaker">
-				<a>
-					<div class="speaker_img">
-						<img src="images/2024/speakers/amal.png" style="width:60%">
-					</div>
-					<div class="speaker_content">
-						<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">
-							 Amal Sinha <br/>Director & CEO<br/>BSES Rajdhani Power Ltd. and BSES Yamuna Power Ltd.
-						</h1>
-						<p>Amal Sinha, an alumnus of Delhi's prestigious Shri Ram College of Commerce (SRCC), is a seasoned Chartered and Cost Accountant with over 37 years of expertise in the power and manufacturing sectors. His professional journey spans key areas, including corporate finance, strategic planning, budgetary and financial control, audits, regulatory affairs, and Indian Accounting Standards</p>
-						<p>Mr. Sinha's career includes notable roles with prominent organizations like L&T and Escorts Ltd. Since 2006, he has been instrumental at BSES Rajdhani Power Ltd., a joint venture between Reliance Infrastructure Ltd. and the Delhi Government, where he currently serves as Director and Group CEO, leading BSES's distribution businesses in Delhi.</p>
-						
 
-					</div>
-				</a>
+	<div class="row speaker_row">
+			<div class="k_list_part ">
+				<div class="col-sm-12 dum_speaker">
+					<a>
+						<div class="speaker_img">
+							<img src="images/2024/speakers/aksharma.png" style="width:60%">
+						</div>
+						<div class="speaker_content">
+							<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">AK Sharma<br/>Hon’ble Minister for Energy<br/>Government of Uttar Pradesh
+							</h1>
+							<p>Shri Arvind Kumar Sharma, an esteemed politician and former IAS officer from Uttar Pradesh, is a Cabinet Minister in the UP government. 
+								<br/>An alumnus of Allahabad University, he served over 20 years with Prime Minister Modi, notably leading Gujarat’s Vibrant Gujarat Summits as CEO of the Gujarat Infrastructure Development Board. His impactful roles include Joint and Additional Secretary in the Prime Minister's Office and Secretary in the MSME Ministry, where he championed small business growth. Shri Sharma's contributions to infrastructure, including the Delhi-Mumbai Industrial Corridor, underscore his dedication to India's development.
+
+							</p>
+						</div>
+					</a>
+				</div>
 			</div>
 		</div>
-	</div>	
+
+		<div class="row speaker_row">
+			<div class="k_list_part ">
+				<div class="col-sm-12 dum_speaker">
+					<a>
+						<div class="speaker_img">
+							<img src="images/2024/speakers/arvindkumar.png" style="width:60%">
+						</div>
+						<div class="speaker_content">
+							<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Arvind Kumar<br/>Chairman<br/>Uttar Pradesh Electricity Regulatory Commission
+							</h1>
+							<p>Shri Arvind Kumar, an 1988 batch IAS officer, assumed the role of Chairman of the Uttar Pradesh Electricity Regulatory Commission (UPERC) on 17 July 2023. 
+								<br/>With a BTech in Electrical Engineering and an MTech in Communication and Radar Engineering from IIT Delhi, Shri Kumar has held several key positions, including District Magistrate in multiple districts and Principal Secretary in various departments in Uttar Pradesh. 
+								<br/>He has also served as Managing Director of Purvanchal Vidyut Vitaran Nigam Ltd. and IIDC, contributing significantly to infrastructure and industrial development in the state.
+							</p>
+						</div>
+					</a>
+				</div>
+			</div>
+		</div>
 		
 		
 		<div class="row speaker_row">
@@ -200,6 +217,26 @@
 	</div>
 	</div>
 		</div>
+
+	
+	<div class="row speaker_row">
+		<div class="k_list_part">
+			<div class="col-sm-12 dum_speaker">
+				<a>
+					<div class="speaker_img">
+						<img src="images/2024/speakers/amarjeetsingh.png" style="width:60%">
+					</div>
+					<div class="speaker_content">
+						<h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize;">
+							Amarjeet Singh<br>CEO<br>BSES Yamuna Power Limited
+						</h1>
+						<p>Mr. Amarjeet Singh is the CEO of BSES Yamuna Power Ltd., an electricity distribution utility catering to parts of the National Capital. Prior to this role, he was the CFO of BSES Rajdhani Power Ltd. for over six years. A Chartered Accountant with over 24 years of experience spanning exports, contracts, manufacturing, and power utilities, his expertise lies in cost mitigation, particularly in Power Purchase Costs, which make up ~80% of a utility's balance sheet.</p>
+					</div>
+				</a>
+			</div>
+		</div>
+	</div>
+	
 	
 	<div class="row speaker_row">
 		<div class="k_list_part ">
@@ -218,23 +255,6 @@
 			</div>
 	</div>
 
-	<div class="row speaker_row">
-    <div class="k_list_part">
-        <div class="col-sm-12 dum_speaker">
-            <a>
-                <div class="speaker_img">
-                    <img src="images/2024/speakers/amarjeetsingh.png" style="width:60%">
-                </div>
-                <div class="speaker_content">
-                    <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize;">
-                        Amarjeet Singh<br>CEO<br>BSES Yamuna Power Limited
-                    </h1>
-                    <p>Mr. Amarjeet Singh is the CEO of BSES Yamuna Power Ltd., an electricity distribution utility catering to parts of the National Capital. Prior to this role, he was the CFO of BSES Rajdhani Power Ltd. for over six years. A Chartered Accountant with over 24 years of experience spanning exports, contracts, manufacturing, and power utilities, his expertise lies in cost mitigation, particularly in Power Purchase Costs, which make up ~80% of a utility's balance sheet.</p>
-                </div>
-            </a>
-        </div>
-    </div>
-</div>
 	
 	
 	
@@ -337,6 +357,24 @@
 			</div>
 		</div>
 	</div>
+
+	<div class="row speaker_row">
+		<div class="k_list_part">
+			<div class="col-sm-12 dum_speaker">
+				<a>
+					<div class="speaker_img">
+						<img src="images/2024/speakers/jk_jethani.png" style="width:60%">
+					</div>
+					<div class="speaker_content">
+						<h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize;">
+							Jeevan Kumar Jethani<br>Scientist-F<br>MNRE
+						</h1>
+						<p>Jeevan Kumar Jethani, Director/Scientist-F at MNRE, has over 25 years in the power/renewable energy sector. He played a pivotal role in formulating the National Solar Mission and Green Energy Corridors project and oversees rooftop and off-grid solar projects, contributing to India’s renewable energy initiatives.</p>
+					</div>
+				</a>
+			</div>
+		</div>
+	</div>
 	
 	<div class="row speaker_row">
 		<div class="k_list_part ">
@@ -357,22 +395,40 @@
 	</div>
 
 	<div class="row speaker_row">
-    <div class="k_list_part">
-        <div class="col-sm-12 dum_speaker">
-            <a>
-                <div class="speaker_img">
-                    <img src="images/2024/speakers/jk_jethani.png" style="width:60%">
-                </div>
-                <div class="speaker_content">
-                    <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize;">
-                        Jeevan Kumar Jethani<br>Scientist-F<br>MNRE
-                    </h1>
-                    <p>Jeevan Kumar Jethani, Director/Scientist-F at MNRE, has over 25 years in the power/renewable energy sector. He played a pivotal role in formulating the National Solar Mission and Green Energy Corridors project and oversees rooftop and off-grid solar projects, contributing to India’s renewable energy initiatives.</p>
-                </div>
-            </a>
-        </div>
-    </div>
-</div>
+		<div class="k_list_part ">
+			<div class="col-sm-12 dum_speaker">
+				<a>
+					<div class="speaker_img">
+						<img src="images/2024/speakers/kr_jyothilal.png" style="width:60%">
+					</div>
+					<div class="speaker_content">
+						<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">KR Jyothilal<br>Additional Chief Secretary<br>Government of Kerala</h1>
+						<p>Shri K.R. Jyothilal IAS, a 1993 batch IAS officer is currently the Additional Chief Secretary, General Administration, Power and Forest & Wildlife Departments, Government of Kerala. Armed with a B Tech from IIT Madras and MBA from ICFAI, Mr. Jyothilal has earlier been the Collector of Trivandrum and Kannur, and held portfolios in IT, Transport, Revenue (Devaswoms), I&PRD, Printing and Stationery, Sainik Welfare, Taxes (Excise), Agriculture, Animal Husbandry, Fisheries, Food and Civil Supplies, Tourism, Parliamentary Affairs, Ports, Aviation among others. He has been instrumental in projects related to hitech agriculture, Smart City Kochi, KMRL, KMTA, Kannur airport, e-mobility and hydrogen economy</p>
+					</div>
+				</a>
+			</div>
+		</div>
+	</div>
+
+	<div class="row speaker_row">
+			<div class="k_list_part ">
+				<div class="col-sm-12 dum_speaker">
+					<a>
+						<div class="speaker_img">
+							<img src="images/2024/speakers/manoharlal.png" style="width:60%">
+						</div>
+						<div class="speaker_content">
+							<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Manohar Lal Khattar<br/>Hon’ble Minister of Power<br/>Government of India
+							</h1>
+							<p>Shri Manohar Lal Khattar, a BJP leader, currently serves as the Minister of Power and Housing & Urban Affairs in the central government, having taken office in June 2024. 
+								<br/>Previously, he served as the 10th Chief Minister of Haryana from 2014 to 2024, representing Karnal. Known for his governance-focused reforms, he introduced digital initiatives like e-services and a biometric attendance system in Haryana’s government offices. 
+								<br/>Shri Khattar also promoted gender equality, launching the Beti Bachao, Beti Padhao initiative in Haryana and establishing all-women police stations in each district. His dedication to transparency, digital access, and social reform has shaped both Haryana’s development and his current role in national governance.
+							</p>
+						</div>
+					</a>
+				</div>
+			</div>
+		</div>
 	
 	<div class="row speaker_row">
 		<div class="k_list_part ">
@@ -426,6 +482,26 @@
         </div>
     </div>
 </div>
+
+<div class="row speaker_row">
+			<div class="k_list_part ">
+				<div class="col-sm-12 dum_speaker">
+					<a>
+						<div class="speaker_img">
+							<img src="images/2024/speakers/narendrabhooshan.png" style="width:60%">
+						</div>
+						<div class="speaker_content">
+							<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Narendra Bhooshan<br/>Additional Chief Secretary, Energy<br/>Govt of Uttar Pradesh
+							</h1>
+							<p>Shri Narendra Bhooshan, an IAS officer from the 1992 batch, has a distinguished career marked by key roles across energy, infrastructure, and public administration. 
+								<br/>With a B.E. in Electronics and Communication, he has served as District Magistrate, Additional MD of UP Power Corporation, and CEO of Greater Noida. Currently, as Principal Secretary for Energy and Panchayati Raj in Uttar Pradesh, he leads major initiatives in sustainable energy development and rural advancement, showcasing his dedication to impactful governance and innovation in public service.
+
+							</p>
+						</div>
+					</a>
+				</div>
+			</div>
+		</div>
 	
 	<!-- Speaker 9: Praveer Singh -->
   <div class="row speaker_row"><div class="k_list_part "><div class="col-sm-12 dum_speaker">
@@ -434,7 +510,7 @@
         <img src="images/2024/speakers/praveer_singh.png" style="width:60%">
       </div>
       <div class="speaker_content">
-        <h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Praveer Singh<br>CEO & Managing Director<br>The Tata Power Company Limited</h1>
+        <h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Praveer Sinha<br>CEO & Managing Director<br>The Tata Power Company Limited</h1>
         <p>A seasoned power professional, with an illustrious career spanning nearly four decades, Dr. Sinha has held pivotal leadership roles across the power sector value chain.</p>
 		<p>Under his current leadership, Tata Power is undergoing a profound transformation, transitioning from a century old power utility into a new-aged sustainable, technology oriented and customer centric green energy solutions company. The company has made a substantial shift towards renewable energy with nearly 40% of its portfolio as currently clean and green and it aims to become carbon neutral by 2045.</p>
 		<p>A strong advocate of 'Sustainable Is Attainable', his vision aims to empower millions of Indians across urban and rural areas, facilitating the transition of enterprises, homes, mobility, and beyond towards a sustainable future, thus advancing the country’s energy transition agenda. Besides leading the growth in renewable energy, he has incubated and scaled several new-age energy solutions businesses such as solar rooftop, EV charging, micro grids and smart energy management solutions within the company, marking significant milestones in India’s energy landscape.</p>
@@ -447,63 +523,6 @@
 		</div>
 	</div>
 
-	<div class="row speaker_row">
-    <div class="k_list_part">
-        <div class="col-sm-12 dum_speaker">
-            <a>
-                <div class="speaker_img">
-                    <img src="images/2024/speakers/vipul.png" style="width:60%">
-                </div>
-                <div class="speaker_content">
-                    <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize;">
-                        Vipul K Joisher<br>Director<br>Aditya Green Energy Pvt. Ltd.
-                    </h1>
-                    <p>Vipul K. Joisher, founder and Director of Aditya Green Energy Pvt. Ltd., has led the company to commission over 2,000 rooftop projects (53 MW) and 35 large-scale projects (112 MW). With over 15 years in renewable energy, he has driven projects under PM Kusum C and MSKVY 2.0, achieving 95% market share in Maharashtra districts like Latur and Dharashiv. His focus on local engagement and innovation underlines his leadership in renewable energy.</p>
-                </div>
-            </a>
-        </div>
-    </div>
-</div>
-	
-	 <!-- Speaker 1: KR Jyothilal -->
-  <div class="row speaker_row"><div class="k_list_part "><div class="col-sm-12 dum_speaker">
-    <a>
-      <div class="speaker_img">
-        <img src="images/2024/speakers/kr_jyothilal.png" style="width:60%">
-      </div>
-      <div class="speaker_content">
-        <h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">KR Jyothilal<br>Additional Chief Secretary<br>Government of Kerala</h1>
-        <p>Shri K.R. Jyothilal IAS, a 1993 batch IAS officer is currently the Additional Chief Secretary, General Administration, Power and Forest & Wildlife Departments, Government of Kerala. Armed with a B Tech from IIT Madras and MBA from ICFAI, Mr. Jyothilal has earlier been the Collector of Trivandrum and Kannur, and held portfolios in IT, Transport, Revenue (Devaswoms), I&PRD, Printing and Stationery, Sainik Welfare, Taxes (Excise), Agriculture, Animal Husbandry, Fisheries, Food and Civil Supplies, Tourism, Parliamentary Affairs, Ports, Aviation among others. He has been instrumental in projects related to hitech agriculture, Smart City Kochi, KMRL, KMTA, Kannur airport, e-mobility and hydrogen economy</p>
-      </div>
-    </a>
-			</div>
-		</div>
-	</div>
-	
-	<div class="row speaker_row">
-		<div class="k_list_part ">
-			<div class="col-sm-12 dum_speaker">
-				<a>
-				  <div class="speaker_img">
-					<img src="images/2024/speakers/manu_srivastava.png" style="width:60%">
-				  </div>
-				  <div class="speaker_content">
-					<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Manu Srivastava <br>Additional Chief Secretary - Energy<br>Government of Madhya Pradesh</h1>
-					<p>A 1991 batch Indian Administrative Service officer, Manu Srivastava holds B.Tech. and M.Tech. degrees in Electrical Engineering from IIT Delhi. </p>
-					<p>Out of the 33 years of experience, Manu has worked for 18 years in energy sector, namely, natural gas, electricity, and renewable energy. </p>
-					<p>He has lead path-breaking innovative projects in the field of solar energy. </p>
-					<p>His 750 MW Rewa Project has proved to be an inflection point in the history of solar energy in India: it was the first project in the country to provide solar energy at rates lower than that of coal-based power. It is the only project in the country supplying power to an institutional customer - Delhi Metro is running on this project – 65% of its daytime demand is met with solar power from Rewa. The project has been awarded World Bank Group’s President’s Award. Case study on the project is being used in Harvard University and Singapore Management University. </p>
-					<p>His Solar Rooftop projects have established a new way of setting up solar rooftop projects in the country – zero investment by the beneficiary and savings for 25 years. In this model, MP got the lowest rate in the country. The project has been successfully implemented in over hundred organisations in the state. </p>
-					<p>Both these projects have been selected by Capacity Building Commission, Government of India as among the top 15 “Innovations in Public Administration” in the country. </p>
-					<p>He is engaged, both nationally and internationally, as an expert in renewable energy. He is presently heading Energy department and New & Renewable Energy department in the Government of Madhya Pradesh as Additional Chief Secretary.</p>
-					
-					
-				  </div>
-				</a>
-				</div>
-			</div>
-	</div>
-	
 	<div class="row speaker_row">
 		<div class="k_list_part ">
 			
@@ -529,7 +548,7 @@
 			</div>
 		</div>
 	</div>
-	
+
 	<div class="row speaker_row">
 		<div class="k_list_part ">
 			<div class="col-sm-12 dum_speaker">
@@ -551,9 +570,7 @@
 			</div>
 		</div>
 	</div>
-	
-	
-	
+
 	<div class="row speaker_row">
 		<div class="k_list_part ">
 			<div class="col-sm-12 dum_speaker">
@@ -574,6 +591,8 @@
 			</div>
 		</div>
 	</div>
+
+	
 	
 	<div class="row speaker_row">
 		<div class="k_list_part ">
@@ -749,6 +768,106 @@ and white papers on variety of topics.</p>
 				</div>
 			</div>
 	</div>
+
+	
+
+		<div class="row speaker_row">
+			<div class="k_list_part ">
+				<div class="col-sm-12 dum_speaker">
+					<a>
+						<div class="speaker_img">
+							<img src="images/2024/speakers/narendrabhooshan.png" style="width:60%">
+						</div>
+						<div class="speaker_content">
+							<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Ranvir Prasad<br/>Managing Director<br/>UPPTCL/UPRVUNL
+							</h1>
+							<p>Shri Ranvir Prasad is a distinguished IAS officer with over 20 years of experience in public administration, governance, and policy implementation. 
+								<br/>Currently serving as Managing Director of UPRVUNL (GENCO) and UPPTCL (TRANSCO), since March 2024, he oversees key energy generation and transmission operations in Uttar Pradesh. Previously, he served as Housing Commissioner and Secretary Housing (2022–2024), Consolidation Commissioner, and Secretary Revenue and Relief Commissioner, showcasing his expertise in urban development, land consolidation, and disaster management.
+							<br/>His tenure includes significant leadership roles such as Divisional Commissioner of Bareilly and District Magistrate across multiple districts, including Lalitpur and Mainpuri. Beyond Uttar Pradesh, Shri Prasad contributed to Tamil Nadu's development as District Collector and CEO of the Chennai Metropolitan Development Authority, notably leading tsunami relief efforts in Nagapattinam. A dynamic leader, he combines administrative acumen with a commitment to public service and governance excellence.
+							</p>
+						</div>
+					</a>
+				</div>
+			</div>
+		</div>	
+
+
+	
+
+
+	<div class="row speaker_row"><div class="k_list_part "><div class="col-sm-12 dum_speaker">
+    <a>
+      <div class="speaker_img">
+        <img src="images/2024/speakers/saahas.png" style="width:60%">
+      </div>
+      <div class="speaker_content">
+        <h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Saahas<br>COO<br>Polaris Smart Metering Pvt. Ltd.</h1>
+        <p>Saahas is heading the Strategy and Operations at Polaris Smart Metering Private Limited. Saahas is having overall experience of more than 18 years in the field of Strategy and Operations.<br/>
+
+Saahas has close to 19 yrs. of both industry and consulting experience across Sales & Growth, Project
+<br/>
+Strategy, Procurement & Implementation of large capital projects. He has vast experience in institutionalizing Business Excellence Models to deliver complex programs and projects leveraging his experience of working with reputed organizations in India & abroad. He has been associated with the smart metering program in India for the last 3+ years across different roles covering business growth, operational excellence, quality initiatives and strategic partnerships.
+<br/>
+Saahas has done his Bachelor of Engineering in Mechanical from Punjab Engineering College, Post
+Graduate Diploma in Financial Management from NMIMS Global and has attended Post Graduate
+<br/>
+Program in Business Analytics from Great Lake Institute.
+</p>
+      </div>
+    </a>
+	</div>
+	</div>
+		</div>
+
+		<div class="row speaker_row"><div class="k_list_part "><div class="col-sm-12 dum_speaker">
+		<a>
+		<div class="speaker_img">
+		<img src="images/2024/speakers/swapandeep.png" style="width:60%">
+		</div>
+		<div class="speaker_content">
+		<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Swapandeep Banerjee<br>Senior Technical Consultant<br>Trilliant, Inc</h1>
+		<p>Mr. Banerjee has an overall experience of 18 years, in Telecom OSS/BSS and AMI domain. He has implemented Telecom Billing solutions across Australia, Europe and South East Asia. He has also worked with MasterCard and BMW. In Trilliant he is the first technical recruit and started with EESL Phase 1 project. He is has been actively involved in IntelliSmart Projects for the implementations. Presently he is the solution Architect for AMI project at Trilliant.
+		</p>
+		</div>
+		</a>
+		</div>
+		</div>
+		</div>
+
+		<div class="row speaker_row"><div class="k_list_part "><div class="col-sm-12 dum_speaker">
+		<a>
+		<div class="speaker_img">
+		<img src="images/2024/speakers/sauravshah.png" style="width:60%">
+		</div>
+		<div class="speaker_content">
+		<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Saurav Shah<br>Executive Director<br>Power Finance Corporation</h1>
+		<p>Mr. Saurav Shah is 2009 batch IPS officer of the Bihar cadre, he is spear heading the Revamped Distribution Sector Scheme (RDSS). RDSS is Government of India's priority program in the power distribution sector having an out lay of Rs.3000 billion and is aimed at transformation of the sector. 
+He was also instrumental in successful completion and closure of Integrated Power Development Scheme (IPDS) & the erst while Restructured Accelerated Power Distribution and Reforms Programme (R-APDRP) worth Rs600 million.
+
+		</p>
+		</div>
+		</a>
+		</div>
+		</div>
+		</div>
+
+		<div class="row speaker_row"><div class="k_list_part "><div class="col-sm-12 dum_speaker">
+		<a>
+		<div class="speaker_img">
+		<img src="images/2024/speakers/shambhukumar.png" style="width:60%">
+		</div>
+		<div class="speaker_content">
+		<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Shambhu Kumar<br>Managing Director<br>Purvanchal Vidyut Vitaran Nigam Limited</h1>
+		<p>Mr. Kumar is 2010 batch IAS officer, presently he is the Managing Director of Purvanchal Vidyut Vitaran Nigam Limited (PuVVNL). 
+Mr. Kumar has been Special Secretary, Govt. of UP, Secondary Education Deptt and well  know for his contributions during Corona as a District Magistrate. Now he is contributing in power sector, he oversees the distribution of electricity to millions of people in the Purvanchal region of Uttar Pradesh, India. Under his leadership, the company aims to ensure reliable and efficient power supply to its consumers while promoting sustainable development and grid modernization. 
+
+
+		</p>
+		</div>
+		</a>
+		</div>
+		</div>
+		</div>
 	
 	<div class="row speaker_row">
 		<div class="k_list_part ">
@@ -867,185 +986,32 @@ Ministry of Power</h1>
 	</div>
 		</div>
 
-
-		<div class="row speaker_row">
-			<div class="k_list_part ">
-				<div class="col-sm-12 dum_speaker">
-					<a>
-						<div class="speaker_img">
-							<img src="images/2024/speakers/manoharlal.png" style="width:60%">
-						</div>
-						<div class="speaker_content">
-							<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Manohar Lal Khattar<br/>Hon’ble Minister of Power<br/>Government of India
-							</h1>
-							<p>Shri Manohar Lal Khattar, a BJP leader, currently serves as the Minister of Power and Housing & Urban Affairs in the central government, having taken office in June 2024. 
-								<br/>Previously, he served as the 10th Chief Minister of Haryana from 2014 to 2024, representing Karnal. Known for his governance-focused reforms, he introduced digital initiatives like e-services and a biometric attendance system in Haryana’s government offices. 
-								<br/>Shri Khattar also promoted gender equality, launching the Beti Bachao, Beti Padhao initiative in Haryana and establishing all-women police stations in each district. His dedication to transparency, digital access, and social reform has shaped both Haryana’s development and his current role in national governance.
-							</p>
-						</div>
-					</a>
-				</div>
-			</div>
-		</div>
-
-		<div class="row speaker_row">
-			<div class="k_list_part ">
-				<div class="col-sm-12 dum_speaker">
-					<a>
-						<div class="speaker_img">
-							<img src="images/2024/speakers/aksharma.png" style="width:60%">
-						</div>
-						<div class="speaker_content">
-							<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">AK Sharma<br/>Hon’ble Minister for Energy<br/>Government of Uttar Pradesh
-							</h1>
-							<p>Shri Arvind Kumar Sharma, an esteemed politician and former IAS officer from Uttar Pradesh, is a Cabinet Minister in the UP government. 
-								<br/>An alumnus of Allahabad University, he served over 20 years with Prime Minister Modi, notably leading Gujarat’s Vibrant Gujarat Summits as CEO of the Gujarat Infrastructure Development Board. His impactful roles include Joint and Additional Secretary in the Prime Minister's Office and Secretary in the MSME Ministry, where he championed small business growth. Shri Sharma's contributions to infrastructure, including the Delhi-Mumbai Industrial Corridor, underscore his dedication to India's development.
-
-							</p>
-						</div>
-					</a>
-				</div>
-			</div>
-		</div>
-
-		<div class="row speaker_row">
-			<div class="k_list_part ">
-				<div class="col-sm-12 dum_speaker">
-					<a>
-						<div class="speaker_img">
-							<img src="images/2024/speakers/arvindkumar.png" style="width:60%">
-						</div>
-						<div class="speaker_content">
-							<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Arvind Kumar<br/>Chairman<br/>Uttar Pradesh Electricity Regulatory Commission
-							</h1>
-							<p>Shri Arvind Kumar, an 1988 batch IAS officer, assumed the role of Chairman of the Uttar Pradesh Electricity Regulatory Commission (UPERC) on 17 July 2023. 
-								<br/>With a BTech in Electrical Engineering and an MTech in Communication and Radar Engineering from IIT Delhi, Shri Kumar has held several key positions, including District Magistrate in multiple districts and Principal Secretary in various departments in Uttar Pradesh. 
-								<br/>He has also served as Managing Director of Purvanchal Vidyut Vitaran Nigam Ltd. and IIDC, contributing significantly to infrastructure and industrial development in the state.
-							</p>
-						</div>
-					</a>
-				</div>
-			</div>
-		</div>
-
-
-		<div class="row speaker_row">
-			<div class="k_list_part ">
-				<div class="col-sm-12 dum_speaker">
-					<a>
-						<div class="speaker_img">
-							<img src="images/2024/speakers/narendrabhooshan.png" style="width:60%">
-						</div>
-						<div class="speaker_content">
-							<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Narendra Bhooshan<br/>Additional Chief Secretary, Energy<br/>Govt of Uttar Pradesh
-							</h1>
-							<p>Shri Narendra Bhooshan, an IAS officer from the 1992 batch, has a distinguished career marked by key roles across energy, infrastructure, and public administration. 
-								<br/>With a B.E. in Electronics and Communication, he has served as District Magistrate, Additional MD of UP Power Corporation, and CEO of Greater Noida. Currently, as Principal Secretary for Energy and Panchayati Raj in Uttar Pradesh, he leads major initiatives in sustainable energy development and rural advancement, showcasing his dedication to impactful governance and innovation in public service.
-
-							</p>
-						</div>
-					</a>
-				</div>
-			</div>
-		</div>
-
-		<div class="row speaker_row">
-			<div class="k_list_part ">
-				<div class="col-sm-12 dum_speaker">
-					<a>
-						<div class="speaker_img">
-							<img src="images/2024/speakers/narendrabhooshan.png" style="width:60%">
-						</div>
-						<div class="speaker_content">
-							<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Ranvir Prasad<br/>Managing Director<br/>UPPTCL/UPRVUNL
-							</h1>
-							<p>Shri Ranvir Prasad is a distinguished IAS officer with over 20 years of experience in public administration, governance, and policy implementation. 
-								<br/>Currently serving as Managing Director of UPRVUNL (GENCO) and UPPTCL (TRANSCO), since March 2024, he oversees key energy generation and transmission operations in Uttar Pradesh. Previously, he served as Housing Commissioner and Secretary Housing (2022–2024), Consolidation Commissioner, and Secretary Revenue and Relief Commissioner, showcasing his expertise in urban development, land consolidation, and disaster management.
-							<br/>His tenure includes significant leadership roles such as Divisional Commissioner of Bareilly and District Magistrate across multiple districts, including Lalitpur and Mainpuri. Beyond Uttar Pradesh, Shri Prasad contributed to Tamil Nadu's development as District Collector and CEO of the Chennai Metropolitan Development Authority, notably leading tsunami relief efforts in Nagapattinam. A dynamic leader, he combines administrative acumen with a commitment to public service and governance excellence.
-							</p>
-						</div>
-					</a>
-				</div>
-			</div>
-		</div>	
-
-
 	
+		<div class="row speaker_row">
+    <div class="k_list_part">
+        <div class="col-sm-12 dum_speaker">
+            <a>
+                <div class="speaker_img">
+                    <img src="images/2024/speakers/vipul.png" style="width:60%">
+                </div>
+                <div class="speaker_content">
+                    <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize;">
+                        Vipul K Joisher<br>Director<br>Aditya Green Energy Pvt. Ltd.
+                    </h1>
+                    <p>Vipul K. Joisher, founder and Director of Aditya Green Energy Pvt. Ltd., has led the company to commission over 2,000 rooftop projects (53 MW) and 35 large-scale projects (112 MW). With over 15 years in renewable energy, he has driven projects under PM Kusum C and MSKVY 2.0, achieving 95% market share in Maharashtra districts like Latur and Dharashiv. His focus on local engagement and innovation underlines his leadership in renewable energy.</p>
+                </div>
+            </a>
+        </div>
+    </div>
+</div>
 
 
-	<div class="row speaker_row"><div class="k_list_part "><div class="col-sm-12 dum_speaker">
-    <a>
-      <div class="speaker_img">
-        <img src="images/2024/speakers/saahas.png" style="width:60%">
-      </div>
-      <div class="speaker_content">
-        <h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Saahas<br>COO<br>Polaris Smart Metering Pvt. Ltd.</h1>
-        <p>Saahas is heading the Strategy and Operations at Polaris Smart Metering Private Limited. Saahas is having overall experience of more than 18 years in the field of Strategy and Operations.<br/>
+		
 
-Saahas has close to 19 yrs. of both industry and consulting experience across Sales & Growth, Project
-<br/>
-Strategy, Procurement & Implementation of large capital projects. He has vast experience in institutionalizing Business Excellence Models to deliver complex programs and projects leveraging his experience of working with reputed organizations in India & abroad. He has been associated with the smart metering program in India for the last 3+ years across different roles covering business growth, operational excellence, quality initiatives and strategic partnerships.
-<br/>
-Saahas has done his Bachelor of Engineering in Mechanical from Punjab Engineering College, Post
-Graduate Diploma in Financial Management from NMIMS Global and has attended Post Graduate
-<br/>
-Program in Business Analytics from Great Lake Institute.
-</p>
-      </div>
-    </a>
-	</div>
-	</div>
-		</div>
-
-		<div class="row speaker_row"><div class="k_list_part "><div class="col-sm-12 dum_speaker">
-		<a>
-		<div class="speaker_img">
-		<img src="images/2024/speakers/swapandeep.png" style="width:60%">
-		</div>
-		<div class="speaker_content">
-		<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Swapandeep Banerjee<br>Senior Technical Consultant<br>Trilliant, Inc</h1>
-		<p>Mr. Banerjee has an overall experience of 18 years, in Telecom OSS/BSS and AMI domain. He has implemented Telecom Billing solutions across Australia, Europe and South East Asia. He has also worked with MasterCard and BMW. In Trilliant he is the first technical recruit and started with EESL Phase 1 project. He is has been actively involved in IntelliSmart Projects for the implementations. Presently he is the solution Architect for AMI project at Trilliant.
-		</p>
-		</div>
-		</a>
-		</div>
-		</div>
-		</div>
-
-		<div class="row speaker_row"><div class="k_list_part "><div class="col-sm-12 dum_speaker">
-		<a>
-		<div class="speaker_img">
-		<img src="images/2024/speakers/sauravshah.png" style="width:60%">
-		</div>
-		<div class="speaker_content">
-		<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Saurav Shah<br>Executive Director<br>Power Finance Corporation</h1>
-		<p>Mr. Saurav Shah is 2009 batch IPS officer of the Bihar cadre, he is spear heading the Revamped Distribution Sector Scheme (RDSS). RDSS is Government of India's priority program in the power distribution sector having an out lay of Rs.3000 billion and is aimed at transformation of the sector. 
-He was also instrumental in successful completion and closure of Integrated Power Development Scheme (IPDS) & the erst while Restructured Accelerated Power Distribution and Reforms Programme (R-APDRP) worth Rs600 million.
-
-		</p>
-		</div>
-		</a>
-		</div>
-		</div>
-		</div>
-
-		<div class="row speaker_row"><div class="k_list_part "><div class="col-sm-12 dum_speaker">
-		<a>
-		<div class="speaker_img">
-		<img src="images/2024/speakers/shambhukumar.png" style="width:60%">
-		</div>
-		<div class="speaker_content">
-		<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Shambhu Kumar<br>Managing Director<br>Purvanchal Vidyut Vitaran Nigam Limited</h1>
-		<p>Mr. Kumar is 2010 batch IAS officer, presently he is the Managing Director of Purvanchal Vidyut Vitaran Nigam Limited (PuVVNL). 
-Mr. Kumar has been Special Secretary, Govt. of UP, Secondary Education Deptt and well  know for his contributions during Corona as a District Magistrate. Now he is contributing in power sector, he oversees the distribution of electricity to millions of people in the Purvanchal region of Uttar Pradesh, India. Under his leadership, the company aims to ensure reliable and efficient power supply to its consumers while promoting sustainable development and grid modernization. 
+		
 
 
-		</p>
-		</div>
-		</a>
-		</div>
-		</div>
-		</div>
+		
 
 
 		<div class="row speaker_row"><div class="k_list_part "><div class="col-sm-12 dum_speaker">
@@ -1271,23 +1237,7 @@ His team also focuses on energy transition, energy modeling, providing specializ
 		</div>
 
 
-		<div class="row speaker_row"><div class="k_list_part "><div class="col-sm-12 dum_speaker">
-		<a>
-		<div class="speaker_img">
-		<img src="images/2024/speakers/shailendra.png" style="width:60%">
-		</div>
-		<div class="speaker_content">
-		<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Shailendra Dubey<br>Director<br>Inventive Software Solutions
-</h1>
-		<p>Mr. Shailendra Dubey is the Director at Inventive Software Solutions, is the visionary of the flagship UGO One technology platform for distribution utilities. With over 20 years of experience across various utilities, he has played a key role in driving their digital transformation from legacy systems to smart solutions. <br/>
-		His in-depth knowledge of utility operations, from field actions to boardroom strategy, has been instrumental in shaping the value-added features of UGO One.
-
-		</p>
-		</div>
-		</a>
-		</div>
-		</div>
-		</div>
+		
 
 		<div class="row speaker_row">
 			<div class="k_list_part ">
@@ -1396,27 +1346,7 @@ His team also focuses on energy transition, energy modeling, providing specializ
 			</div>
 		</div>
 
-		<div class="row speaker_row">
-			<div class="k_list_part ">
-				<div class="col-sm-12 dum_speaker">
-					<a>
-						<div class="speaker_img">
-							<img src="images/2024/speakers/ishaduhan.png" style="width:60%">
-						</div>
-						<div class="speaker_content">
-							<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Isha Duhan<br>Managing Director<br>PVVNL
-							</h1>
-							<p>Mrs. Isha Duhan, a 2014 batch IAS officer, has built an exemplary career in public service, demonstrating strong leadership and effective governance across various roles. 
-								<br/>Starting as an Assistant Magistrate and Collector in Meerut, she progressed to Joint Magistrate in Varanasi and Chief Development Officer in Bulandshahr and Meerut. 
-								<br/>Her leadership skills were notably displayed as Vice Chairman of the Varanasi Development Authority and as District Magistrate and Collector of Chandouli. 
-								<br/>In 2023, she served as Additional Commissioner for the Meerut Division and the Commercial Tax Department in Gautam Budh Nagar. Since February 27, 2024, she has held the position of Managing Director of PVVNL in Meerut, where she continues to contribute significantly to the energy sector.
-
-							</p>
-						</div>
-					</a>
-				</div>
-			</div>
-		</div>
+		
 
 		<div class="row speaker_row">
 			<div class="k_list_part ">

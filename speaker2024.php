@@ -435,7 +435,7 @@
 			<div class="col-sm-12 dum_speaker">
 				<a>
 				  <div class="speaker_img">
-					<img src="images/2024/speakers/murali_baggu.png" style="width:60%">
+					<img src="images/2025/speakers/MuraliBaggu.png" style="width:60%">
 				  </div>
 				  <div class="speaker_content">
 					<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Murali Baggu<br>Laboratory Program Manager - Grid Integration<br>NREL</h1>
@@ -601,7 +601,7 @@
 			<div class="col-sm-12 dum_speaker">
 				<a>
 					<div class="speaker_img">
-						<img src="images/2024/speakers/ramKrishan.png" style="width:60%">
+						<img src="images/2025/speakers/RamkrishnaSingh.jpg" style="width:60%">
 					</div>
 					<div class="speaker_content">
 						<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">
@@ -669,7 +669,7 @@ Grids and Smart Cities around the world.</p>
 			<div class="col-sm-12 dum_speaker">
 				<a>
 					<div class="speaker_img">
-						<img src="images/speakers/reji.PNG"  style="width:60%">
+						<img src="images/speakers/2025/RejiKumarPillai.jpg"  style="width:60%">
 					</div>
 					<div class="speaker_content">
 						<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">
@@ -713,7 +713,7 @@ and white papers on variety of topics.</p>
 			<div class="col-sm-12 dum_speaker">
 				<a>
 					<div class="speaker_img">
-						<img src="images/2024/speakers/prsal.png"  style="width:60%">
+						<img src="images/2025/speakers/RSSelvam.jpg"  style="width:60%">
 					</div>
 					<div class="speaker_content">
 						<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">
@@ -733,7 +733,7 @@ and white papers on variety of topics.</p>
   <div class="row speaker_row"><div class="k_list_part "><div class="col-sm-12 dum_speaker">
     <a>
       <div class="speaker_img">
-        <img src="images/2024/speakers/rajesh_bansal.png" style="width:60%">
+        <img src="images/2025/speakers/RajeshBansal.jpg" style="width:60%">
       </div>
       <div class="speaker_content">
         <h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Rajesh Bansal<br>CIO<br>Inventive Software Solutions Pvt. Ltd.</h1>
@@ -754,7 +754,7 @@ and white papers on variety of topics.</p>
 			<div class="col-sm-12 dum_speaker">
 				<a>
 				  <div class="speaker_img">
-					<img src="images/2024/speakers/ravi_seethapathy.png" style="width:60%">
+					<img src="images/2025/speakers/RaviSeethapathy.jpg" style="width:60%">
 				  </div>
 				  <div class="speaker_content">
 					<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Ravi Seethapathy<br>Advisor<br>ISGF</h1>

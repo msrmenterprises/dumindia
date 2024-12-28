@@ -36,7 +36,7 @@
 			<div class="col-sm-12 dum_speaker">
 				<a>
 				  <div class="speaker_img">
-					<img src="images/2024/speakers/abha_shukla.png" style="width:60%">
+					<img src="images/2025/speakers/AbhaShukla.png" style="width:60%">
 				  </div>
 				  <div class="speaker_content">
 					<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Abha Shukla<br>ACS – Energy<br>Government of Maharashtra</h1>

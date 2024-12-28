@@ -87,7 +87,7 @@
 				<div class="col-sm-12 dum_speaker">
 					<a>
 						<div class="speaker_img">
-							<img src="images/2025/speakers/AkSharma.jpg" style="width:60%">
+							<img src="images/2025/speakers/AKSharma.jpg" style="width:60%">
 						</div>
 						<div class="speaker_content">
 							<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">AK Sharma<br/>Hon’ble Minister for Energy<br/>Government of Uttar Pradesh

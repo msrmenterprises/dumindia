@@ -52,7 +52,7 @@
 			<div class="col-sm-12 dum_speaker">
 				<a>
 				  <div class="speaker_img">
-					<img src="images/2024/speakers/anant_venkat.png" style="width:60%">
+					<img src="images/2025/speakers/AnantVenkateswaran.png" style="width:60%">
 				  </div>
 				  <div class="speaker_content">
 					<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Anant Venkateswaran<br>Advisor<br>ISGF</h1>
@@ -69,7 +69,7 @@
 			<div class="col-sm-12 dum_speaker">
 				<a>
 				  <div class="speaker_img">
-					<img src="images/2024/speakers/alok_mishra.png" style="width:60%">
+					<img src="images/2025/speakers/AlokMishra.png" style="width:60%">
 				  </div>
 				  <div class="speaker_content">
 					<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Alok Mishra<br>Business Lead, Power Grid, Asia Pacific<br>DNV</h1>
@@ -87,7 +87,7 @@
 				<div class="col-sm-12 dum_speaker">
 					<a>
 						<div class="speaker_img">
-							<img src="images/2024/speakers/aksharma.png" style="width:60%">
+							<img src="images/2025/speakers/AkSharma.jpg" style="width:60%">
 						</div>
 						<div class="speaker_content">
 							<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">AK Sharma<br/>Hon’ble Minister for Energy<br/>Government of Uttar Pradesh
@@ -107,7 +107,7 @@
 				<div class="col-sm-12 dum_speaker">
 					<a>
 						<div class="speaker_img">
-							<img src="images/2024/speakers/arvindkumar.png" style="width:60%">
+							<img src="images/2025/speakers/ArvindKumar.jpg" style="width:60%">
 						</div>
 						<div class="speaker_content">
 							<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Arvind Kumar<br/>Chairman<br/>Uttar Pradesh Electricity Regulatory Commission
@@ -128,7 +128,7 @@
 			<div class="col-sm-12 dum_speaker">
 				<a>
 					<div class="speaker_img">
-						<img src="images/2024/speakers/arun.png" style="width:60%">
+						<img src="images/2025/speakers/ArunGoyal.jpg" style="width:60%">
 					</div>
 					<div class="speaker_content">
 						<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">
@@ -152,7 +152,7 @@
   <div class="row speaker_row"><div class="k_list_part "><div class="col-sm-12 dum_speaker">
     <a>
       <div class="speaker_img">
-        <img src="images/2024/speakers/arvind_singh.png" style="width:60%">
+        <img src="images/2025/speakers/ArvindSingh.png" style="width:60%">
       </div>
       <div class="speaker_content">
         <h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Arvind Singh<br>CEO<br>Tata Power Central Odisha Distribution Limited</h1>

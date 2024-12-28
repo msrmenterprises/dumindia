@@ -152,7 +152,7 @@
   <div class="row speaker_row"><div class="k_list_part "><div class="col-sm-12 dum_speaker">
     <a>
       <div class="speaker_img">
-        <img src="images/2025/speakers/ArvindSingh.png" style="width:60%">
+        <img src="images/2025/speakers/ArvindSingh.jpg" style="width:60%">
       </div>
       <div class="speaker_content">
         <h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Arvind Singh<br>CEO<br>Tata Power Central Odisha Distribution Limited</h1>
@@ -189,7 +189,7 @@
 			<div class="col-sm-12 dum_speaker">
 				<a>
 					<div class="speaker_img">
-						<img src="images/2024/speakers/ashutosh.png"  style="width:60%">
+						<img src="images/2025/speakers/AshutoshGoel.jpg"  style="width:60%">
 					</div>
 					<div class="speaker_content">
 						<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">
@@ -243,7 +243,7 @@
 			<div class="col-sm-12 dum_speaker">
 				<a>
 				  <div class="speaker_img">
-					<img src="images/2024/speakers/bb_mehta.png" style="width:60%">
+					<img src="images/2025/speakers/BBMehta.png" style="width:60%">
 				  </div>
 				  <div class="speaker_content">
 					<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">BB Mehta<br>Director<br>SLDC, Odisha</h1>
@@ -263,7 +263,7 @@
 			<div class="col-sm-12 dum_speaker">
 				<a>
 					<div class="speaker_img">
-						<img src="images/2024/speakers/deepak.png" style="width:60%">
+						<img src="images/2025/speakers/DeepakPandeyKimbal.png" style="width:60%">
 					</div>
 					<div class="speaker_content">
 						<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">
@@ -283,7 +283,7 @@
   <div class="row speaker_row"><div class="k_list_part "><div class="col-sm-12 dum_speaker">
     <a>
       <div class="speaker_img">
-        <img src="images/2024/speakers/dwarka_srinath.png" style="width:60%">
+        <img src="images/2025/speakers/DwarkaSrinath.jpg" style="width:60%">
       </div>
       <div class="speaker_content">
         <h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Dwarka Srinath<br>CDIO<br>The Tata Power Company Limited</h1>
@@ -303,7 +303,7 @@
         <div class="col-sm-12 dum_speaker">
             <a>
                 <div class="speaker_img">
-                    <img src="images/2024/speakers/deepak_raizada.png" style="width:60%">
+                    <img src="images/2025/speakers/DeepakRaizada.jpg" style="width:60%">
                 </div>
                 <div class="speaker_content">
                     <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize;">
@@ -321,7 +321,7 @@
         <div class="col-sm-12 dum_speaker">
             <a>
                 <div class="speaker_img">
-                    <img src="images/2024/speakers/dhruv_suri.png" style="width:60%">
+                    <img src="images/2025/speakers/DhruvSuri.png" style="width:60%">
                 </div>
                 <div class="speaker_content">
                     <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize;">
@@ -340,7 +340,7 @@
 			<div class="col-sm-12 dum_speaker">
 				<a>
 					<div class="speaker_img">
-						<img src="images/2024/speakers/hemant.png" style="width:60%">
+						<img src="images/2025/speakers/HemantVerma.jpg" style="width:60%">
 					</div>
 					<div class="speaker_content">
 						<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">

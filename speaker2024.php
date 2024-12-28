@@ -669,7 +669,7 @@ Grids and Smart Cities around the world.</p>
 			<div class="col-sm-12 dum_speaker">
 				<a>
 					<div class="speaker_img">
-						<img src="images/speakers/2025/RejiKumarPillai.jpg"  style="width:60%">
+						<img src="images/2025/speakers/RejiKumarPillai.jpg"  style="width:60%">
 					</div>
 					<div class="speaker_content">
 						<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">
@@ -776,7 +776,7 @@ and white papers on variety of topics.</p>
 				<div class="col-sm-12 dum_speaker">
 					<a>
 						<div class="speaker_img">
-							<img src="images/2024/speakers/narendrabhooshan.png" style="width:60%">
+							<img src="images/2025/speakers/RanvirPrasad.jpg" style="width:60%">
 						</div>
 						<div class="speaker_content">
 							<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Ranvir Prasad<br/>Managing Director<br/>UPPTCL/UPRVUNL
@@ -874,7 +874,7 @@ Mr. Kumar has been Special Secretary, Govt. of UP, Secondary Education Deptt and
 			<div class="col-sm-12 dum_speaker">
 				<a>
 				  <div class="speaker_img">
-					<img src="images/2024/speakers/sr_pandey.png" style="width:60%">
+					<img src="images/2025/speakers/SRPandey.png" style="width:60%">
 				  </div>
 				  <div class="speaker_content">
 					<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">SR Pandey<br>Member<br>Gujarat Electricity Regulatory Commission</h1>
@@ -894,7 +894,7 @@ Mr. Kumar has been Special Secretary, Govt. of UP, Secondary Education Deptt and
 			<div class="col-sm-12 dum_speaker">
 				<a>
 				  <div class="speaker_img">
-					<img src="images/2024/speakers/sushanta_ray.png" style="width:60%">
+					<img src="images/2025/speakers/SushantaKumarRay.png" style="width:60%">
 				  </div>
 				  <div class="speaker_content">
 					<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Sushanta Kumar Ray Mohapatra <br>Member<br>Odisha Electricity Regulatory Commission</h1>
@@ -920,7 +920,7 @@ Mr. Kumar has been Special Secretary, Govt. of UP, Secondary Education Deptt and
   <div class="row speaker_row"><div class="k_list_part "><div class="col-sm-12 dum_speaker">
     <a>
       <div class="speaker_img">
-        <img src="images/2024/speakers/shiv_kaushik.png" style="width:60%">
+        <img src="images/2025/speakers/ShivKaushik.jpg" style="width:60%">
       </div>
       <div class="speaker_content">
         <h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Shiv Kaushik<br>Executive Director - BD & Branding<br>Inventive Software Solutions Pvt. Ltd.</h1>
@@ -937,7 +937,7 @@ Mr. Kumar has been Special Secretary, Govt. of UP, Secondary Education Deptt and
   <div class="row speaker_row"><div class="k_list_part "><div class="col-sm-12 dum_speaker">
     <a>
       <div class="speaker_img">
-        <img src="images/2024/speakers/shailendra_dubey.png" style="width:60%">
+        <img src="images/2025/speakers/ShailenderDubey.png" style="width:60%">
       </div>
       <div class="speaker_content">
         <h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Shailendra Dubey<br>Director - Technology<br>Inventive Software Solutions Pvt. Ltd.</h1>
@@ -954,7 +954,7 @@ Mr. Kumar has been Special Secretary, Govt. of UP, Secondary Education Deptt and
   <div class="row speaker_row"><div class="k_list_part "><div class="col-sm-12 dum_speaker">
     <a>
       <div class="speaker_img">
-        <img src="images/2024/speakers/sanjay_banga.png" style="width:60%">
+        <img src="images/2025/speakers/SanjayBanga.jpg" style="width:60%">
       </div>
       <div class="speaker_content">
         <h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Sanjay Banga<br>President – Transmission and Distribution<br>Tata Power</h1>
@@ -1017,7 +1017,7 @@ Ministry of Power</h1>
 		<div class="row speaker_row"><div class="k_list_part "><div class="col-sm-12 dum_speaker">
 		<a>
 		<div class="speaker_img">
-		<img src="images/2024/speakers/yogeshkumar.png" style="width:60%">
+		<img src="images/2025/speakers/YogeshKumar.png" style="width:60%">
 		</div>
 		<div class="speaker_content">
 		<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Yogesh Kumar<br>Director- Commercial<br>Madhyanchal Vidyut Vitaran Nigam Ltd</h1>
@@ -1239,26 +1239,7 @@ His team also focuses on energy transition, energy modeling, providing specializ
 
 		
 
-		<div class="row speaker_row">
-			<div class="k_list_part ">
-				<div class="col-sm-12 dum_speaker">
-					<a>
-						<div class="speaker_img">
-							<img src="images/2024/speakers/sandipSinha.png" style="width:60%">
-						</div>
-						<div class="speaker_content">
-							<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Shailendra Dubey<br>Director<br>Inventive Software Solutions
-							</h1>
-							<p>Mr. Shailendra Dubey is the Director at Inventive Software Solutions, is the visionary of the flagship UGO One technology platform for distribution utilities. With over 20 years of experience across various utilities, he has played a key role in driving their digital transformation from legacy systems to smart solutions. <br/>
-							His in-depth knowledge of utility operations, from field actions to boardroom strategy, has been instrumental in shaping the value-added features of UGO One.
-
-							</p>
-						</div>
-					</a>
-				</div>
-			</div>
-		</div>
-
+		
 		<div class="row speaker_row">
 			<div class="k_list_part ">
 				<div class="col-sm-12 dum_speaker">
@@ -1455,7 +1436,7 @@ His team also focuses on energy transition, energy modeling, providing specializ
 				<div class="col-sm-12 dum_speaker">
 					<a>
 						<div class="speaker_img">
-							<img src="images/2024/speakers/samuelpaul.png" style="width:60%">
+							<img src="images/2025/speakers/SamuelPaulN.png" style="width:60%">
 						</div>
 						<div class="speaker_content">
 							<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Samuel Paul N<br>Managing Director<br/>Kanpur Electricity Supply Company Limited
@@ -1473,7 +1454,7 @@ His team also focuses on energy transition, energy modeling, providing specializ
 				<div class="col-sm-12 dum_speaker">
 					<a>
 						<div class="speaker_img">
-							<img src="images/2024/speakers/vala.png" style="width:60%">
+							<img src="images/2025/speakers/RJVala.jpg" style="width:60%">
 						</div>
 						<div class="speaker_content">
 							<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">RJ Vala<br>Chief Engineer - Distribution<br/>Paschim Gujarat Vij Company Limited
@@ -1492,7 +1473,7 @@ His team also focuses on energy transition, energy modeling, providing specializ
 				<div class="col-sm-12 dum_speaker">
 					<a>
 						<div class="speaker_img">
-							<img src="images/2024/speakers/samuelpaul.png" style="width:60%">
+							<img src="images/2025/speakers/DhananjayAundekar.jpg" style="width:60%">
 						</div>
 						<div class="speaker_content">
 							<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Dhananjay R Aundekar<br/>Executive Director<br/>Maharashtra State Electricity Distribution Company Limited
@@ -1511,7 +1492,7 @@ His team also focuses on energy transition, energy modeling, providing specializ
 				<div class="col-sm-12 dum_speaker">
 					<a>
 						<div class="speaker_img">
-							<img src="images/2024/speakers/zakirrather.png" style="width:60%">
+							<img src="images/2025/speakers/ZakirRather.png" style="width:60%">
 						</div>
 						<div class="speaker_content">
 							<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">ZAKIR RATHER<br/>Associate Professor<br/>IIT Bombay

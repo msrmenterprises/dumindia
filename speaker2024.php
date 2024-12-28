@@ -381,7 +381,7 @@
 			<div class="col-sm-12 dum_speaker">
 				<a>
 				  <div class="speaker_img">
-					<img src="images/2024/speakers/kuldeep_sharma.png" style="width:60%">
+					<img src="images/2025/speakers/KuldeepSharma.jpg" style="width:60%">
 				  </div>
 				  <div class="speaker_content">
 					<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Kuldeep Sharma<br>Head Renewable Energy and DISCOMs<br>GIZ</h1>
@@ -399,7 +399,7 @@
 			<div class="col-sm-12 dum_speaker">
 				<a>
 					<div class="speaker_img">
-						<img src="images/2024/speakers/kr_jyothilal.png" style="width:60%">
+						<img src="images/2025/speakers/KRJyothilal.png" style="width:60%">
 					</div>
 					<div class="speaker_content">
 						<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">KR Jyothilal<br>Additional Chief Secretary<br>Government of Kerala</h1>
@@ -415,7 +415,7 @@
 				<div class="col-sm-12 dum_speaker">
 					<a>
 						<div class="speaker_img">
-							<img src="images/2024/speakers/manoharlal.png" style="width:60%">
+							<img src="images/2025/speakers/ManoharLal.jpg" style="width:60%">
 						</div>
 						<div class="speaker_content">
 							<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Manohar Lal Khattar<br/>Hon’ble Minister of Power<br/>Government of India
@@ -488,7 +488,7 @@
 				<div class="col-sm-12 dum_speaker">
 					<a>
 						<div class="speaker_img">
-							<img src="images/2024/speakers/narendrabhooshan.png" style="width:60%">
+							<img src="images/2025/speakers/NarendraBhooshan.jpg" style="width:60%">
 						</div>
 						<div class="speaker_content">
 							<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Narendra Bhooshan<br/>Additional Chief Secretary, Energy<br/>Govt of Uttar Pradesh
@@ -507,7 +507,7 @@
   <div class="row speaker_row"><div class="k_list_part "><div class="col-sm-12 dum_speaker">
     <a>
       <div class="speaker_img">
-        <img src="images/2024/speakers/praveer_singh.png" style="width:60%">
+        <img src="images/2025/speakers/PraveerSinha.png" style="width:60%">
       </div>
       <div class="speaker_content">
         <h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">Praveer Sinha<br>CEO & Managing Director<br>The Tata Power Company Limited</h1>
@@ -530,7 +530,7 @@
 			<div class="col-sm-12 dum_speaker">
 				<a>
 					<div class="speaker_img">
-						<img src="images/2024/speakers/pujari.png" style="width:60%">
+						<img src="images/2025/speakers/PKPujari.jpg" style="width:60%">
 					</div>
 					<div class="speaker_content">
 						<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">
@@ -554,7 +554,7 @@
 			<div class="col-sm-12 dum_speaker">
 				<a>
 					<div class="speaker_img">
-						<img src="images/2024/speakers/prKumar.png" style="width:60%">
+						<img src="images/2025/speakers/PRKumar.jpg" style="width:60%">
 					</div>
 					<div class="speaker_content">
 						<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">

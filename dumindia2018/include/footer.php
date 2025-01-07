@@ -54,7 +54,11 @@
 
 </div>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
-   <script type='text/javascript' src='unitegallery/js/jquery-11.0.min.js'></script>
+   <!-- <script type='text/javascript' src='unitegallery/js/jquery-11.0.min.js'></script> -->
+   <script
+  src="https://code.jquery.com/jquery-3.7.1.min.js"
+  integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo="
+  crossorigin="anonymous"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 
 

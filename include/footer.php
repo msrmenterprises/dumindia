@@ -72,7 +72,7 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 
 
-<script src="/js/pgwslider.js"></script>
+<script src="https://dumindia.in/js/pgwslider.js"></script>
 <script>
 $(document).ready(function() {
     $('.pgwSlider').pgwSlider();
@@ -80,10 +80,10 @@ $(document).ready(function() {
 </script>
 
 
-  <script src="/js/flipclock.js"></script>
+  <script src="https://dumindia.in/js/flipclock.js"></script>
 	 <!--font awesome js-->
     <script src="https://use.fontawesome.com/505ad70894.js"></script>	
-	<script src="/js/script.js"></script>
+	<script src="https://dumindia.in/js/script.js"></script>
 
 
 <script>
@@ -114,7 +114,7 @@ jQuery(document).ready(function()
   jQuery("#gallery").unitegallery();
 }); 
 </script>
-	<script type="text/javascript" src="/js/stellarnav.min.js"></script>
+	<script type="text/javascript" src="https://dumindia.in/js/stellarnav.min.js"></script>
 	<script type="text/javascript">
 		jQuery(document).ready(function($) {
 			jQuery('.stellarnav').stellarNav({

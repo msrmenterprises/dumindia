@@ -39,7 +39,7 @@
   <link rel="stylesheet" type="text/css" href="css/flipclock.css">
   <link rel="stylesheet" type="text/css" media="all" href="css/stellarnav.min.css">
 
-  <link rel='stylesheet' href='unitegallery/css/unite-gallery.css' type='text/css' />
+  <!-- <link rel='stylesheet' href='unitegallery/css/unite-gallery.css' type='text/css' /> -->
 
   <link rel="stylesheet" type="text/css" href="css/style.css">
 

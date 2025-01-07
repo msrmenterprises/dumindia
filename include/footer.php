@@ -72,7 +72,7 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 
 
-<script src="js/pgwslider.js"></script>
+<script src="/js/pgwslider.js"></script>
 <script>
 $(document).ready(function() {
     $('.pgwSlider').pgwSlider();
@@ -80,10 +80,10 @@ $(document).ready(function() {
 </script>
 
 
-  <script src="js/flipclock.js"></script>
+  <script src="/js/flipclock.js"></script>
 	 <!--font awesome js-->
     <script src="https://use.fontawesome.com/505ad70894.js"></script>	
-	<script src="js/script.js"></script>
+	<script src="/js/script.js"></script>
 
 
 <script>
@@ -105,8 +105,8 @@ for (i = 0; i < acc.length; i++) {
 
 
 
-<script type='text/javascript' src='unitegallery/js/unitegallery.min.js'></script>  
-<script type='text/javascript' src='unitegallery/themes/tiles/ug-theme-tiles.js'></script>
+<!-- <script type='text/javascript' src='unitegallery/js/unitegallery.min.js'></script>  
+<script type='text/javascript' src='unitegallery/themes/tiles/ug-theme-tiles.js'></script> -->
 
 <script type="text/javascript">
 jQuery(document).ready(function()
@@ -114,7 +114,7 @@ jQuery(document).ready(function()
   jQuery("#gallery").unitegallery();
 }); 
 </script>
-	<script type="text/javascript" src="js/stellarnav.min.js"></script>
+	<script type="text/javascript" src="/js/stellarnav.min.js"></script>
 	<script type="text/javascript">
 		jQuery(document).ready(function($) {
 			jQuery('.stellarnav').stellarNav({

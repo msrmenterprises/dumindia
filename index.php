@@ -200,9 +200,9 @@ font-size: 12px;
 		<li><a href="https://www.mahadiscom.in/en/home/" target="_blank"><img src="images/MSEDCL_logo.jpg" style="height:120px;">MSEDCL</a></li>
 		<li><a href="https://www.tatapower.com/" target="_blank"><img src="images/2024/tatapower.png" style="height: 135px;">Tata Power </a></li>
 
-        /* <li><a href="https://uppcl.org/uppcl/hi/" target="_blank"><img src="images/2024/uppcl.png" style="height:155px;"> UPPCL</a></li> 
+        <!--<li><a href="https://uppcl.org/uppcl/hi/" target="_blank"><img src="images/2024/uppcl.png" style="height:155px;"> UPPCL</a></li> 
 
-		<li><a href="https://uppcl.org/uppcl/hi/" target="_blank"><img src="/images/UPREV_Logo D.png" style="height: 135px;">UPREV </a></li> */
+		<li><a href="https://uppcl.org/uppcl/hi/" target="_blank"><img src="/images/UPREV_Logo D.png" style="height: 135px;">UPREV </a></li>-->
 
 		</ul>
 
@@ -221,11 +221,11 @@ font-size: 12px;
 		<br>
 		<ul class="k_confirmed_als">
 		<li><a href="" target="_blank"><img src="/images/2025/AIDA.png" alt="" style="height: 135px;">All India Discoms Association (AIDA)</a></li>
-		/* <li><a href="https://upneda.org.in/" target="_blank"><img src="/images/UP Department of Energy.png" alt="" style="height: 135px;">UP Department of Energy</a></li>
+		<!--<li><a href="https://upneda.org.in/" target="_blank"><img src="/images/UP Department of Energy.png" alt="" style="height: 135px;">UP Department of Energy</a></li>
 		<li><a href="https://powermin.gov.in/" target="_blank"><img src="/images/MOP.png" style="width: 183px;">Ministry of Power</a></li>
 		<li><a href="https://cea.nic.in/?lang=en" target="_blank"><img src="/images/CEA.jpg" style="width: 183px;">Electricity Authority</a></li>
-		<li><a href="https://www.niti.gov.in/" target="_blank"><img src="/images/NITI Aayog.png" style="height: 135px;">NITI Aayog</a></li>
-		<!--<li><a href="https://www.keralatourism.org/" target="_blank"><img src="/images/Kerala.png" style="height: 135px;">Kerala Tourism</a></li>--> */
+		<li><a href="https://www.niti.gov.in/" target="_blank"><img src="/images/NITI Aayog.png" style="height: 135px;">NITI Aayog</a></li> -->
+		<!--<li><a href="https://www.keralatourism.org/" target="_blank"><img src="/images/Kerala.png" style="height: 135px;">Kerala Tourism</a></li>-->
 		</ul>
 	</div>	
 

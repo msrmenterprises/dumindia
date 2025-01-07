@@ -40,30 +40,31 @@ ISGF has the pleasure of inviting key stakeholders in the DISCOM domains to the 
 <li><strong> 04 November 2023 - Boat Trip to Kumarakom* (Optional)</strong></li>
 <li><strong> 05 November 2023 - Visit to Guruvayur Sri Krishna Temple and Athirapally Water Falls* (Optional)</strong></li></ul>-->
 	
-<h1 class="key_head">
+<!-- <h1 class="key_head">
 		ABOUT HOST CITY LUCKNOW IN UTTAR PRADESH
 	</h1>
 	<p>Lucknow is the capital city of Uttar Pradesh, the most populous state (>250 million people!) in India. Located in what was historically known as the Awadh region, Lucknow has always been a multicultural city. Courtly manners, beautiful gardens, poetry, music, and fine cuisine patronized by the Persian-loving Nawabs of the city are well known amongst Indians and students of South Asian culture and history. It is a centre of Hindi and Urdu literature. Lucknow is popularly known as the ‘The City of Nawabs”. It is also known as the Golden City of the East, Shiraz-i-Hind and The Constantinople of India.
 <br/>
-Today, Lucknow is a vibrant city that is witnessing an economic boom and is among the top ten fastest growing metro cities of India and is the second largest city of east, north and central India after Delhi. Straddling across the river Gomti, modern Lucknow is a bustling metropolis and continues to be an important centre of governance, administration, education, commerce, aerospace, finance, pharmaceuticals, technology, design, culture, tourism, music and poetry.</p>
+Today, Lucknow is a vibrant city that is.</p> -->
 	<h1 class="key_head">
-		KEY OBJECTIVE OF DUM 2024
+		KEY OBJECTIVE OF DUM 2025
 	</h1>
-	<ul><li> <strong> Experience Sharing and Hand Holding each other</strong></li>
-<li><strong> Leveraging the Digital Data from 250 million Smart Meters for Digitalization of DISCOMs</strong></li>
-<li><strong> Discuss and Evaluate New and Emerging Technologies, Business Models</strong></li>
-<li><strong> Monetization Options for DISCOMs</strong></li>
-<li><strong> Discuss the Distribution Grids Challenges of Managing 10 million Rooftops PV Systems</strong></li>
-<li><strong> Evaluate Regulatory, Policy, Financial and Business Challenges of DISCOMs</strong></li>
+	<ul>
+		<li> <strong> Experience Sharing and Hand Holding each other</strong></li>
+		<li><strong> Leveraging the Digital Data from 250 million Smart Meters for Digitalization of DISCOMs</strong></li>
+		<li><strong> Discuss and Evaluate New and Emerging Technologies, Business Models</strong></li>
+		<li><strong> Monetization Options for DISCOMs</strong></li>
+		<li><strong> Discuss the Distribution Grids Challenges of Managing 10 million Rooftops PV Systems</strong></li>
+		<li><strong> Evaluate Regulatory, Policy, Financial and Business Challenges of DISCOMs</strong></li>
 	</ul>
 	<h1 class="key_head">
-		KEY HIGHLIGHTS OF DUM 2023
+		KEY HIGHLIGHTS OF DUM 2024
 	</h1>
-	<ul><li> <strong> 270+ Utility Officials Participated</strong></li>
-<li><strong> 45 Utilities Participated</strong></li>
-<li><strong> 325 Delegates Participated</strong></li>
-<li><strong> 56 Experts Participated from Government, Utilities, Regulatory Commissions, Academia and Industry as Speakers</strong></li>
-<li><strong> 38 Partners and Exhibitors from Utility & Technology Companies showcased the products</strong></li>
+	<ul>
+		<li> <strong> 362+ Utility Officials Participated</strong></li>
+		<li><strong> 39 Utilities Participated</strong></li>
+		<li><strong> 73 Experts Participated from Government, Utilities, Regulatory Commissions, Academia and Industry as Speakers</strong></li>
+		<li><strong> 38 Partners and Exhibitors from Utility & Technology Companies showcased the products</strong></li>
 	</ul>
 	</p>
 </div>

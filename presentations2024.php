@@ -1395,7 +1395,7 @@ if($pass == "DUM14152024#%")
         </tr>
     </table>
 
-    <div class="header">Exhibition and Branding</div>
+    <div class="header">Previous Year Presentations</div>
     
 
     <table>
@@ -1410,7 +1410,7 @@ if($pass == "DUM14152024#%")
                 <th class="ppeight">Photos Link</th>
             </tr>
 
-        <tr>
+        <!-- <tr>
             <td>1</td>
             <td>DUM 2024</td>
             <td>Exhibition</td>
@@ -1444,10 +1444,10 @@ if($pass == "DUM14152024#%")
             <td><a href="https://flic.kr/s/aHBqjBSnii" class="link">Video</a></td>
             <td><a href="https://flic.kr/s/aHBqjBSnii" class="link">Photos</a></td>
 			
-        </tr>
+        </tr> -->
 
         <tr>
-            <td>3</td>
+            <td>1</td>
             <td>DUM 2023</td>
             <td>Presentations</td>
             <td></td>
@@ -1458,7 +1458,7 @@ if($pass == "DUM14152024#%")
 			
         </tr>
         <tr>
-            <td>4</td>
+            <td>2</td>
             <td>DUM 2022</td>
             <td>Presentations</td>
             <td></td>
@@ -1469,7 +1469,7 @@ if($pass == "DUM14152024#%")
 			
         </tr>
         <tr>
-            <td>5</td>
+            <td>3</td>
             <td>DUM 2021</td>
             <td>Presentations</td>
             <td></td>
@@ -1480,7 +1480,7 @@ if($pass == "DUM14152024#%")
 			
         </tr>
         <tr>
-            <td>6</td>
+            <td>4</td>
             <td>DUM 2020</td>
             <td>Presentations</td>
             <td></td>
@@ -1491,7 +1491,7 @@ if($pass == "DUM14152024#%")
 			
         </tr>
         <tr>
-            <td>7</td>
+            <td>5</td>
             <td>DUM 2019</td>
             <td>Presentations</td>
             <td></td>
@@ -1502,7 +1502,7 @@ if($pass == "DUM14152024#%")
 			
         </tr>
         <tr>
-            <td>8</td>
+            <td>6</td>
             <td>DUM 2018</td>
             <td>Presentations</td>
             <td></td>
@@ -1513,7 +1513,7 @@ if($pass == "DUM14152024#%")
 			
         </tr>
         <tr>
-            <td>9</td>
+            <td>7</td>
             <td>DUM 2017</td>
             <td>Presentations</td>
             <td></td>

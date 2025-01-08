@@ -515,6 +515,28 @@ His team also focuses on energy transition, energy modeling, providing specializ
 			</div>
 		</div>
 	</div>
+
+	<div class="row speaker_row">
+		<div class="k_list_part ">
+			<div class="col-sm-12 dum_speaker">
+				<a>
+					<div class="speaker_img">
+						<img src="images/2025/speakers/HanifQureshi.jpg" style="width:60%">
+					</div>
+					<div class="speaker_content">
+						<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">
+						Shri Hanif Qureshi<br/> Additional Secretary <br/> DHI
+						</h1>
+						<p>Dr. Hanif Qureshi, an Indian Police Service (IPS) officer of the Haryana cadre and a TEDx speaker, holds a B.Tech. in Electrical Engineering, M.Tech. in IT, an MBA, and a Ph.D. from the University of Cincinnati. A prolific scholar, he has published 38 peer-reviewed articles and authored two books. In his career, Dr. Qureshi has held significant roles, including CEO of Haryana Wakf Board, where he established Mewat Engineering College, and Secretary of Haryana’s New and Renewable Energy Department, contributing to major renewable energy policies. </p>
+						 <p>He has served as Superintendent of Police in eight districts and Commissioner of Police in Faridabad and Panchkula. Currently, as CEO of the National Automotive Board and Additional Secretary (Automobiles), Govt. of India, Dr. Qureshi is instrumental in advancing India’s automobile sector, overseeing key projects and schemes like FAME India and PLI initiatives.</p>
+						
+					</div>
+				</a>
+			</div>
+		</div>
+	</div>
+
+	
 	
 
 	<div class="row speaker_row">

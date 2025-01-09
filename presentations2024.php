@@ -1450,77 +1450,77 @@ if($pass == "DUM14152024#%")
             <td>1</td>
             <td>DUM 2023</td>
             <td>Presentations</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td><a href="presentations2023.php" class="link">Video</a></td>
-            <td><a href="presentations2023.php" class="link">Photos</a></td>
+            <td>Not Applicable</td>
+            <td>Not Applicable</td>
+            <td>Not Applicable</td>
+            <td><a href="https://www.youtube.com/watch?v=WWVcHN4u5u4&list=PLgSiPGd4NrcifVi7CfRpm8tmDSAAZUU4S&pp=gAQB" class="link">Video</a></td>
+            <td><a href="https://www.flickr.com/photos/indiasmartgridforum/collections/72157722224586178/" class="link">Photos</a></td>
 			
         </tr>
         <tr>
             <td>2</td>
             <td>DUM 2022</td>
             <td>Presentations</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td><a href="presentations2022.php" class="link">Video</a></td>
-            <td><a href="presentations2022.php" class="link">Photos</a></td>
+            <td>Not Applicable</td>
+            <td>Not Applicable</td>
+            <td>Not Applicable</td>
+            <td><a href="https://www.youtube.com/watch?v=e-C0VhMHIuw&list=PLgSiPGd4NrchQDQenwahAywa_X17nsQGB&pp=gAQB" class="link">Video</a></td>
+            <td><a href="https://www.flickr.com/photos/indiasmartgridforum/collections/72157721265276778/" class="link">Photos</a></td>
 			
         </tr>
         <tr>
             <td>3</td>
             <td>DUM 2021</td>
             <td>Presentations</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td><a href="presentations2021.php" class="link">Video</a></td>
-            <td><a href="presentations2021.php" class="link">Photos</a></td>
+            <td>Not Applicable</td>
+            <td>Not Applicable</td>
+            <td>Not Applicable</td>
+            <td><a href="https://www.youtube.com/watch?v=bx9s28u8qcs&list=PLgSiPGd4Nrcj6YQE_otL91d73uYpB2vpu&pp=gAQB" class="link">Video</a></td>
+            <td><a href="https://www.flickr.com/photos/indiasmartgridforum/collections/72157720172706046/" class="link">Photos</a></td>
 			
         </tr>
         <tr>
             <td>4</td>
             <td>DUM 2020</td>
             <td>Presentations</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td><a href="presentations2020.php" class="link">Video</a></td>
-            <td><a href="presentations2020.php" class="link">Photos</a></td>
+            <td>Not Applicable</td>
+            <td>Not Applicable</td>
+            <td>Not Applicable</td>
+            <td><a href="https://www.youtube.com/watch?v=yC73asR5zas&list=PLgSiPGd4NrcgJ_vx0hauSJaa4yy74UIVp&pp=gAQB" class="link">Video</a></td>
+            <td><a href="https://www.flickr.com/photos/indiasmartgridforum/collections/72157718570173302/" class="link">Photos</a></td>
 			
         </tr>
         <tr>
             <td>5</td>
             <td>DUM 2019</td>
             <td>Presentations</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td><a href="presentations.php" class="link">Video</a></td>
-            <td><a href="presentations.php" class="link">Photos</a></td>
+            <td>Not Applicable</td>
+            <td>Not Applicable</td>
+            <td>Not Applicable</td>
+            <td><a href="#" class="link">Video</a></td>
+            <td><a href="https://www.flickr.com/photos/indiasmartgridforum/collections/72157711828520547/" class="link">Photos</a></td>
 			
         </tr>
         <tr>
             <td>6</td>
             <td>DUM 2018</td>
             <td>Presentations</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td><a href="presentations_2018.php" class="link">Video</a></td>
-            <td><a href="presentations_2018.php" class="link">Photos</a></td>
+            <td>Not Applicable</td>
+            <td>Not Applicable</td>
+            <td>Not Applicable</td>
+            <td><a href="#" class="link">Video</a></td>
+            <td><a href="https://www.flickr.com/photos/indiasmartgridforum/collections/72157673707740587/" class="link">Photos</a></td>
 			
         </tr>
         <tr>
             <td>7</td>
             <td>DUM 2017</td>
             <td>Presentations</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td><a href="presentations_2017.php" class="link">Video</a></td>
-            <td><a href="presentations_2017.php" class="link">Photos</a></td>
+            <td>Not Applicable</td>
+            <td>Not Applicable</td>
+            <td>Not Applicable</td>
+            <td><a href="#" class="link">Video</a></td>
+            <td><a href="https://www.flickr.com/photos/indiasmartgridforum/collections/72157694469354085/" class="link">Photos</a></td>
 			
         </tr>
     </table>    

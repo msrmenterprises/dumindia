@@ -683,7 +683,7 @@ if($pass == "DUM14152024#%")
                 <td>Presentation</td>
 				<td><a href="http://dumindia.in/dumpdf/2024/42.pdf">View/Download</a></td>
 				
-                <td><a href="dumpdf/2024/42.pdf" target="_blank">View/Download</a></td>
+                <td><a href="#" target="_blank">Video Link</a></td>
                 <td><a href="https://flic.kr/s/aHBqjBSeLL" target="_blank">Photos Link</a></td>
 				<!-- <td><a href="dumpdf/2024/42.pdf" target="_blank">View</a></td>
 			<td><a href="dumpdf/2024/42.pdf" download>Download</a></td> -->
@@ -709,7 +709,7 @@ if($pass == "DUM14152024#%")
                 <td>LnT</td>
                 <td>Presentation</td>
 				<td><a href="http://dumindia.in/dumpdf/2024/44.pdf">View/Download</a></td>
-                <td><a href="dumpdf/2024/44.pdf" target="_blank">View/Download</a></td>
+                <td><a href="#" target="_blank">Video Link</a></td>
                 <td><a href="https://flic.kr/s/aHBqjBSeLL" target="_blank">Photos Link</a></td>
 				<!-- <td><a href="dumpdf/2024/44.pdf" target="_blank">View</a></td>
 			<td><a href="dumpdf/2024/44.pdf" download>Download</a></td> -->
@@ -721,7 +721,7 @@ if($pass == "DUM14152024#%")
                 <td>Phoenix Contact India Pvt. Ltd</td>
                 <td>Presentation</td>
 				<td><a href="http://dumindia.in/dumpdf/2024/45.pdf">View/Download</a></td>
-                <td><a href="dumpdf/2024/45.pdf" target="_blank">View/Download</a></td>
+                <td><a href="#" target="_blank">Video Link</a></td>
                 <td><a href="https://flic.kr/s/aHBqjBSeLL" target="_blank">Photos Link</a></td>
 				<!-- <td><a href="dumpdf/2024/45.pdf" target="_blank">View</a></td>
 			<td><a href="dumpdf/2024/45.pdf" download>Download</a></td> -->
@@ -761,7 +761,7 @@ if($pass == "DUM14152024#%")
                 <td>Stelmec</td>
                 <td>Presentation</td>
 				<td><a href="http://dumindia.in/dumpdf/2024/48.pdf">View/Download</a></td>
-                <td></td>
+                <td><a href="#" target="_blank">Video Link</a></td>
                 <td><a href="https://flic.kr/s/aHBqjBSeLL" target="_blank">Photos Link</a></td>
 				<!-- <td><a href="dumpdf/2024/48.pdf" target="_blank">View</a></td>
 			<td><a href="dumpdf/2024/48.pdf" download>Download</a></td> -->

@@ -404,18 +404,17 @@ display: none;
       <li><a href="">home <span>|</span></a></li>
       <li><a href="http://dumindia.in/key_objective.php">About DUM  <span>|</span></a>
         <ul>
-		  <li><a href="brochure.php">DUM Brochure</a></li>
-           <li><a href="partners.php">DUM Partners</a></li>		 
-		  <li><a href="key_themes.php">Key Themes</a></li>
-		   <li><a href="key_objective.php">Key Objective of DUM</a></li>
-		   <li><a href="knowledge-partners.php">Knowledge Partners</a></li> 
-		   <li><a href="media-and-marketing-partner-2023.php">Media Partners</a></li>
-		   <li><a href="organiser.php">Organisers</a></li>
-		    <li><a href="post-event-outcome-report.php">Post Event Outcome Report</a></li>
-			 <li><a href="supporting-by-2024.php">Supported by</a></li>
-			 <li><a href="target-audience.php">Target Audience</a></li>
-        
+            <li><a href="key_objective.php">About</a></li>    
+            <li><a href="brochure.php">DUM Brochure</a></li>
+            <li><a href="partners.php">DUM Partners</a></li>		 
+            <li><a href="key_themes.php">Key Themes</a></li>
 
+            <li><a href="knowledge-partners.php">Knowledge Partners</a></li> 
+            <li><a href="media-and-marketing-partner-2023.php">Media Partners</a></li>
+            <li><a href="organiser.php">Organisers</a></li>
+            <li><a href="post-event-outcome-report.php">Post Event Outcome Report</a></li>
+            <li><a href="supporting-by-2024.php">Supported by</a></li>
+            <li><a href="target-audience.php">Target Audience</a></li>
         </ul>
       </li>
       <li><a>Utility Participation  <span>|</span></a>

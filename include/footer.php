@@ -58,12 +58,12 @@
 .k_fixed_social ul li a img {
   width: 40px; /* Set icon size */
   height: 40px;
-  transition: transform 0.3s ease, box-shadow 0.3s ease; /* Add hover effects */
+  transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out; /* Reduce transition duration */
 }
 
 .k_fixed_social ul li a img:hover {
-  transform: scale(1.1); /* Slightly enlarge on hover */
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Add shadow on hover */
+  transform: scale(1.15); /* Slightly enlarge on hover */
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3); /* Add a subtle shadow */
 }
 
 .k_fixed_social ul li a {

@@ -35,15 +35,51 @@
 
 
 <!-- social links -->
+ <style type="text/css">
+  .k_fixed_social {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 1000;
+}
+
+.k_fixed_social ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  gap: 10px; /* Add spacing between icons */
+}
+
+.k_fixed_social ul li {
+  display: inline-block;
+}
+
+.k_fixed_social ul li a img {
+  width: 40px; /* Set icon size */
+  height: 40px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease; /* Add hover effects */
+}
+
+.k_fixed_social ul li a img:hover {
+  transform: scale(1.1); /* Slightly enlarge on hover */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Add shadow on hover */
+}
+
+.k_fixed_social ul li a {
+  display: inline-block;
+  text-decoration: none;
+}
+  </style>
  <div class="k_fixed_social k_icons_header social-width head-vin-icon-web">
           <ul>
-            <li class="f1"><a href="https://www.facebook.com/Distribution-Utility-Meet-DUM-1203351576478554/" target="_blank"><img src="images/fb.png"></a></li>
-            <li class="f1"><a href="https://www.linkedin.com/company/28480899/" target="_blank"><img src="images/LinkedIn22.png"></a></li>		
-		    <li><a href="https://twitter.com/DUM_India" target="_blank"><img src="images/tw.png"></a></li>
-				<!--<li><a href=""><img src="images/k_icon3.jpg"></a></li>
-        <li><a href=""><img src="images/k_icon4.jpg"></a></li>-->
-      </ul>
-    </div>
+            <li class="f1"><a href="https://www.facebook.com/Distribution-Utility-Meet-DUM-1203351576478554/" target="_blank"><img src="images/facebook_5968764.png"></a></li>
+            <li class="f1"><a href="https://www.linkedin.com/company/28480899/" target="_blank"><img src="images/social_15707753.png"></a></li>		
+            <li><a href="https://twitter.com/DUM_India" target="_blank"><img src="images/twitter_5969020.png"></a></li>
+            <li><a href="https://www.youtube.com/@INDIASMARTGRIDFORUM_" target="_blank"><img src="images/social_15707814.png"></a></li>
+            <li><a href="https://www.instagram.com/indiasmartgridforum/" target="_blank"><img src="images/instagram_4138124.png"></a></li>
+        </ul>
+  </div>
 <!-- social links -->
 
 <!-- modal for location starts-->

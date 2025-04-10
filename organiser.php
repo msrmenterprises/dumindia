@@ -26,8 +26,8 @@
 	</div>
 
 	<ul class="">
-	<li><a href="https://www.tatapower.com/" target="_blank"><img src="/images/tatapower.png" alt="" style="height: 120px;">The Tata Power Company Limited</a></li> 
-	<li><a href="https://www.mahadiscom.in/en/home/" target="_blank"><img src="images/MSEDCL_logo.jpg" style="height:120px;">Maharashtra State Electricity Distribution Co. Ltd </a></li>
+	<li><a href="https://www.tatapower.com/" target="_blank"><img src="/images/tatapower.png" alt="" style="height: 120px;"></a></li> 
+	<li><a href="https://www.mahadiscom.in/en/home/" target="_blank"><img src="images/MSEDCL_logo.jpg" style="height:120px;"></a></li>
 	        <!-- <li><a href="https://uppcl.org/uppcl/hi/" target="_blank"><img src="/images/UPPCL (2).jpg" alt="" style="width:150px; height: 140px;"></a></li>  
 	        <li><a href="https://uppcl.org/uppcl/hi/" target="_blank"><img src="/images/UPREV_Logo D.png" alt="" style="width:150px; height: 135px;"></a></li>   -->
 		<!--<li><a href="https://www.kseb.in/index.php?lang=en"" target="_blank"><img src="/images/KSEB_Logo_2022.png" alt="" style="width:200px; height: 140px;"></a></li>  

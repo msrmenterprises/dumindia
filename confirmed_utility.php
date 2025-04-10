@@ -16,45 +16,55 @@
 	<img src="images/baner1.jpg" alt="">
 </div>
 <div class="row dum_container key_div">
+
+<div class="k_cheading">
+		<h1><span class="k_greencolor">DUM 2025 </span>CONFIRMED UTILITIES</h1>
+		<img src="images/kborder_bottomg.png" alt="">
+</div>
+<ul class="k_confirmed_als">
+	<li><a href="https://www.tatapower.com/" target="_blank"><img src="/images/tatapower.png" alt="" style="height: 120px;">The Tata Power Company Limited</a></li> 
+	<li><a href="https://www.mahadiscom.in/en/home/" target="_blank"><img src="images/MSEDCL_logo.jpg" style="height:120px;">Maharashtra State Electricity Distribution Co. Ltd </a></li>
+</ul>
+
 <div class="k_cheading">
 		<h1><span class="k_greencolor">DUM 2024 </span>CONFIRMED UTILITIES</h1>
 		<img src="images/kborder_bottomg.png" alt="">
 </div>
 <ul class="k_confirmed_als">
-<li><a href="https://uppcl.org/uppcl/hi/" target="_blank"><img src="images/2024/uppcl1.png" style="height:155px;"> Uttar Pradesh Power Corporation Limited</a></li> 
-<li><a href="https://pvvnl.org/" target="_blank"><img src="images/utilities2019/1. PVVNL.jpg" style="height:155px;">Pashchimanchal Vidyut Vitran Nigam Limited</a></li>
-<li><a href="https://puvvnl.up.nic.in/" target="_blank"><img src="images/utilities2019/5. PUVVNL Logo.jpeg" style="height:155px;">Purvanchal Vidyut Vitran Nigam Limited</a></li>
-<li><a href="http://www.mvvnl.in/" target="_blank"><img src="images/Madhyanchal Vidyut Vitran Nigam Ltd.png" style="height:155px;">Madhyanchal Vidyut Vitran Nigam Ltd </a></li>
- <li><a href="https://www.noidapower.com/" target="_blank"><img src="images/utilities2019/npcl.png" style="height: 120px;">Noida power Company Limited</a></li>
-<li><a href="https://www.mahadiscom.in/en/home/" target="_blank"><img src="images/MSEDCL_logo.jpg" style="height:120px;">Maharashtra State Electricity Distribution Co. Ltd </a></li>
-<li><a href="https://upptcl.org/upptcl" target="_blank"><img src="images/utilities2019/8. UP power transmission corp. ltd.jpg" style="height: 120px;">Uttar Pradesh Power Transmission Corporation Limited</a></li>           <li><a href="https://www.dvvnl.org/" target="_blank"><img src="images/utilities2019/2. DVVNL logo.png" style="height:155px;">Dakshinanchal Vidyut Vitran Nigam Limited</a></li>
-<li><a href="https://www.adanielectricity.com/" target="_blank"><img src="images/2024/AdaniElectricity.png" style="height:155px;">Adani Electricity Mumbai Limited</a></li>
-<li><a href="https://www.tpcentralodisha.com/" target="_blank"><img src="images/2024/TPCODL.png" style="height:155px;">Tata Power Central Odisha Distribution Limited</a></li>
-<li><a href="https://pdd.jk.gov.in/#" target="_blank"><img src="images/2024/JKPowerDepartment.jpg" style="height:155px;">Jammu & Kashmir Power Development Department</a></li>
-<li><a href="https://www.ugvcl.com/" target="_blank"><img src="images/2024/UGVCL.png" style="height:155px;">Uttar Gujarat Vij Company Limited</a></li>
-<li><a href="https://www.tatapower.com/" target="_blank"><img src="/images/tatapower.png" alt="" style="height: 120px;">The Tata Power Company Limited</a></li>
-<li><a href="https://www.tatapower-ddl.com/" target="_blank"><img src="images/utilities2019/tatapowerdlll.png" style="height: 120px;">Tata Power Delhi Distribution Limited </a></li>
-<li><a href="https://www.tpnodl.com/" target="_blank"><img src="images/TPNODL.jpg" style="height: 155px;">Tata Power Northern Odisha Distribution Limited</a></li>
-<li><a href="https://www.tpsouthernodisha.com/" target="_blank"><img src="images/TPSODL.jpg" style="height: 155px;">Tata Power Southern Odisha Distribution Limited</a></li>
-<li><a href="https://www.tpwesternodisha.com/" target="_blank"><img src="images/TPWODL.jpg" style="height: 155px;">Tata Power Western Odisha Distribution Limited</a></li>
-<li><a href="https://www.cesc.co.in/home" target="_blank"><img src="/images/CESC_cohost.jpg" style="height: 100px;">CESC Limited</a></li>
-<li><a href="https://www.guvnl.com/" target="_blank"><img src="images/utilities2019/gujrat.jpg" style="height:120px;">Gujarat Urja Vikas Nigam Limited</a></li>
-<li><a href="https://www.bsesdelhi.com/web/bypl" target="_blank"><img src="/images/bses.png" style="border: 2px solid #aeb4b2; height: 120px;">BSES Yamuna Power Limited</a></li>
-<li><a href="https://www.bsesdelhi.com/web/brpl" target="_blank"><img src="images/bsesllt.png" style="height: 120px;">BSES Rajdhani Power Limited</a></li>
-<li><a href="https://www.mpwz.co.in/#/home" target="_blank"><img src="images/utilities2019/4. MPPKVVCL.png" style="height:120px;">MP Paschim Kshetra Vidyut Vitaran Co. Ltd.</a></li>
-<li><a href="https://www.pgvcl.com/" target="_blank"><img src="images/utilities2019/2. PGVCL.png" style="height:155px;">Paschim Gujarat Vij Company Limited</a></li>
-<li><a href="https://www.kesco.co.in/" target="_blank"><img src="images/2024/kanpur_electrict.png" style="height:155px;">Kanpur Electricity Supply Company Limited</a></li>
-<li><a href="https://www.upcl.org/" target="_blank"><img src="images/Uttarakhand Power Corporation Limited logo.jpg" style="height:155px;">Uttarakhand Power Corporation Limited </a></li>
-<li><a href="https://www.mgvcl.com/" target="_blank"><img src="images/2024/mgvcl.png" style="height:102px;">Madhya Gujarat Vij Company Limited</a></li>
-<li><a href="https://www.kseb.in/" target="_blank"><img src="images/KSEB_Logo_2022-new.jpg" style="height: 100px;">Kerala State Electricity Board</a></li>
-<li><a href="https://energy.rajasthan.gov.in/jvvnl/#/home/dptHome" target="_blank"><img src="images/Jaipur Vidut Vitran Nigam Limited logo.png" style="height: 100px;">Jaipur Vidyut Vitran Nigam Limited</a></li>
-<li><a href="https://www.apdcl.org/" target="_blank"><img src="images/images_2018/APDCL_logo.png">Assam Power Distribution Company Limited</a></li>
-<li><a href="http://www.mpez.co.in/portal/Jabalpur_home.portal" target="_blank"><img src="images/2024/mppkc.png" style="height:155px;">Madhya Pradesh Poorv Kshetra Vidyut Vitaran Company Ltd.</a></li>
-<li><a href="https://www.goaelectricity.gov.in/" target="_blank"><img src="images/utilities2019/8. Goa Electricity Department.jpeg" style="height:155px;">Government of Goa, Electricity Department</a></li>
-<li><a href="https://cescrajasthan.co.in/open.php" target="_blank"><img src="images/2024/cesc_rajasthan.png" style="height:155px;">CESC Rajasthan</a></li>
-<li><a href="https://energy.rajasthan.gov.in/jdvvnl/#/home/dptHome" target="_blank"><img src="images/2024/jodhpur_vidhut.jpeg" style="height:155px;">Jodhpur Vidyut Virtan Nigam Limited</a></li>
-<li><a href="https://www.wbsedcl.in/irj/go/km/docs/internet/new_website/Home.html" target="_blank"><img src="images/2024/wbsedcl.png" style="height:155px;">West Bengal State Electricity Distribution Company Limited</a></li>
-<li><a href="https://jbvnl.co.in/" target="_blank"><img src="images/2024/bijli.jpeg" style="height:155px;">Jharkhand Bijli Vitran Nigam Limited</a></li>
+	<li><a href="https://uppcl.org/uppcl/hi/" target="_blank"><img src="images/2024/uppcl1.png" style="height:155px;"> Uttar Pradesh Power Corporation Limited</a></li> 
+	<li><a href="https://pvvnl.org/" target="_blank"><img src="images/utilities2019/1. PVVNL.jpg" style="height:155px;">Pashchimanchal Vidyut Vitran Nigam Limited</a></li>
+	<li><a href="https://puvvnl.up.nic.in/" target="_blank"><img src="images/utilities2019/5. PUVVNL Logo.jpeg" style="height:155px;">Purvanchal Vidyut Vitran Nigam Limited</a></li>
+	<li><a href="http://www.mvvnl.in/" target="_blank"><img src="images/Madhyanchal Vidyut Vitran Nigam Ltd.png" style="height:155px;">Madhyanchal Vidyut Vitran Nigam Ltd </a></li>
+	<li><a href="https://www.noidapower.com/" target="_blank"><img src="images/utilities2019/npcl.png" style="height: 120px;">Noida power Company Limited</a></li>
+	<li><a href="https://www.mahadiscom.in/en/home/" target="_blank"><img src="images/MSEDCL_logo.jpg" style="height:120px;">Maharashtra State Electricity Distribution Co. Ltd </a></li>
+	<li><a href="https://upptcl.org/upptcl" target="_blank"><img src="images/utilities2019/8. UP power transmission corp. ltd.jpg" style="height: 120px;">Uttar Pradesh Power Transmission Corporation Limited</a></li>           <li><a href="https://www.dvvnl.org/" target="_blank"><img src="images/utilities2019/2. DVVNL logo.png" style="height:155px;">Dakshinanchal Vidyut Vitran Nigam Limited</a></li>
+	<li><a href="https://www.adanielectricity.com/" target="_blank"><img src="images/2024/AdaniElectricity.png" style="height:155px;">Adani Electricity Mumbai Limited</a></li>
+	<li><a href="https://www.tpcentralodisha.com/" target="_blank"><img src="images/2024/TPCODL.png" style="height:155px;">Tata Power Central Odisha Distribution Limited</a></li>
+	<li><a href="https://pdd.jk.gov.in/#" target="_blank"><img src="images/2024/JKPowerDepartment.jpg" style="height:155px;">Jammu & Kashmir Power Development Department</a></li>
+	<li><a href="https://www.ugvcl.com/" target="_blank"><img src="images/2024/UGVCL.png" style="height:155px;">Uttar Gujarat Vij Company Limited</a></li>
+	<li><a href="https://www.tatapower.com/" target="_blank"><img src="/images/tatapower.png" alt="" style="height: 120px;">The Tata Power Company Limited</a></li>
+	<li><a href="https://www.tatapower-ddl.com/" target="_blank"><img src="images/utilities2019/tatapowerdlll.png" style="height: 120px;">Tata Power Delhi Distribution Limited </a></li>
+	<li><a href="https://www.tpnodl.com/" target="_blank"><img src="images/TPNODL.jpg" style="height: 155px;">Tata Power Northern Odisha Distribution Limited</a></li>
+	<li><a href="https://www.tpsouthernodisha.com/" target="_blank"><img src="images/TPSODL.jpg" style="height: 155px;">Tata Power Southern Odisha Distribution Limited</a></li>
+	<li><a href="https://www.tpwesternodisha.com/" target="_blank"><img src="images/TPWODL.jpg" style="height: 155px;">Tata Power Western Odisha Distribution Limited</a></li>
+	<li><a href="https://www.cesc.co.in/home" target="_blank"><img src="/images/CESC_cohost.jpg" style="height: 100px;">CESC Limited</a></li>
+	<li><a href="https://www.guvnl.com/" target="_blank"><img src="images/utilities2019/gujrat.jpg" style="height:120px;">Gujarat Urja Vikas Nigam Limited</a></li>
+	<li><a href="https://www.bsesdelhi.com/web/bypl" target="_blank"><img src="/images/bses.png" style="border: 2px solid #aeb4b2; height: 120px;">BSES Yamuna Power Limited</a></li>
+	<li><a href="https://www.bsesdelhi.com/web/brpl" target="_blank"><img src="images/bsesllt.png" style="height: 120px;">BSES Rajdhani Power Limited</a></li>
+	<li><a href="https://www.mpwz.co.in/#/home" target="_blank"><img src="images/utilities2019/4. MPPKVVCL.png" style="height:120px;">MP Paschim Kshetra Vidyut Vitaran Co. Ltd.</a></li>
+	<li><a href="https://www.pgvcl.com/" target="_blank"><img src="images/utilities2019/2. PGVCL.png" style="height:155px;">Paschim Gujarat Vij Company Limited</a></li>
+	<li><a href="https://www.kesco.co.in/" target="_blank"><img src="images/2024/kanpur_electrict.png" style="height:155px;">Kanpur Electricity Supply Company Limited</a></li>
+	<li><a href="https://www.upcl.org/" target="_blank"><img src="images/Uttarakhand Power Corporation Limited logo.jpg" style="height:155px;">Uttarakhand Power Corporation Limited </a></li>
+	<li><a href="https://www.mgvcl.com/" target="_blank"><img src="images/2024/mgvcl.png" style="height:102px;">Madhya Gujarat Vij Company Limited</a></li>
+	<li><a href="https://www.kseb.in/" target="_blank"><img src="images/KSEB_Logo_2022-new.jpg" style="height: 100px;">Kerala State Electricity Board</a></li>
+	<li><a href="https://energy.rajasthan.gov.in/jvvnl/#/home/dptHome" target="_blank"><img src="images/Jaipur Vidut Vitran Nigam Limited logo.png" style="height: 100px;">Jaipur Vidyut Vitran Nigam Limited</a></li>
+	<li><a href="https://www.apdcl.org/" target="_blank"><img src="images/images_2018/APDCL_logo.png">Assam Power Distribution Company Limited</a></li>
+	<li><a href="http://www.mpez.co.in/portal/Jabalpur_home.portal" target="_blank"><img src="images/2024/mppkc.png" style="height:155px;">Madhya Pradesh Poorv Kshetra Vidyut Vitaran Company Ltd.</a></li>
+	<li><a href="https://www.goaelectricity.gov.in/" target="_blank"><img src="images/utilities2019/8. Goa Electricity Department.jpeg" style="height:155px;">Government of Goa, Electricity Department</a></li>
+	<li><a href="https://cescrajasthan.co.in/open.php" target="_blank"><img src="images/2024/cesc_rajasthan.png" style="height:155px;">CESC Rajasthan</a></li>
+	<li><a href="https://energy.rajasthan.gov.in/jdvvnl/#/home/dptHome" target="_blank"><img src="images/2024/jodhpur_vidhut.jpeg" style="height:155px;">Jodhpur Vidyut Virtan Nigam Limited</a></li>
+	<li><a href="https://www.wbsedcl.in/irj/go/km/docs/internet/new_website/Home.html" target="_blank"><img src="images/2024/wbsedcl.png" style="height:155px;">West Bengal State Electricity Distribution Company Limited</a></li>
+	<li><a href="https://jbvnl.co.in/" target="_blank"><img src="images/2024/bijli.jpeg" style="height:155px;">Jharkhand Bijli Vitran Nigam Limited</a></li>
 
 </ul>
 <div class="k_cheading">

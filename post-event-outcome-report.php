@@ -18,7 +18,7 @@
 </div>
 
 <div class="row">
-    <table style="width: 100%; border-collapse: collapse; margin: 20px 0;">
+    <table style="width: 50%; border-collapse: collapse; margin: 0 auto;">
         <thead>
             <tr style="background-color: #8cc63e; color: #fff; text-align: left;">
                 <th style="padding: 10px; border: 1px solid #ddd;">Particulars</th>
@@ -27,12 +27,14 @@
         </thead>
         <tbody>
             <tr>
+                <td style="padding: 10px; border: 1px solid #ddd;">1</td>
                 <td style="padding: 10px; border: 1px solid #ddd;">DUM 2024 Outcome Report</td>
                 <td style="padding: 10px; border: 1px solid #ddd;">
                     <a href="images/2026/DUM2024_2025.pdf" target="_blank" style="color: #8cc63e; text-decoration: none;">View/Download</a>
                 </td>
             </tr>
             <tr>
+                <td style="padding: 10px; border: 1px solid #ddd;">2</td>
                 <td style="padding: 10px; border: 1px solid #ddd;">DUM 2023 Outcome Report</td>
                 <td style="padding: 10px; border: 1px solid #ddd;">
                     <a href="images/2026/DUM23Report.pdf" target="_blank" style="color: #8cc63e; text-decoration: none;">View/Download</a>

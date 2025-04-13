@@ -76,9 +76,9 @@
           <ul>
             <li class="f1"><a href="https://www.facebook.com/Distribution-Utility-Meet-DUM-1203351576478554/" target="_blank"><img src="images/facebook_5968764.png"></a></li>
             <li class="f1"><a href="https://www.linkedin.com/company/28480899/" target="_blank"><img src="images/social_15707753.png"></a></li>		
-            <li><a href="https://twitter.com/DUM_India" target="_blank"><img src="images/twitter_5969020.png"></a></li>
-            <li><a href="https://www.youtube.com/@INDIASMARTGRIDFORUM_" target="_blank"><img src="images/social_15707814.png"></a></li>
-            <li><a href="https://www.instagram.com/indiasmartgridforum/" target="_blank"><img src="images/instagram_4138124.png"></a></li>
+            <li class="f1"><a href="https://twitter.com/DUM_India" target="_blank"><img src="images/twitter_5969020.png"></a></li>
+            <li class="f1"><a href="https://www.youtube.com/@INDIASMARTGRIDFORUM_" target="_blank"><img src="images/social_15707814.png"></a></li>
+            <li class="f1"><a href="https://www.instagram.com/indiasmartgridforum/" target="_blank"><img src="images/instagram_4138124.png"></a></li>
         </ul>
   </div>
 <!-- social links -->

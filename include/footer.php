@@ -48,17 +48,18 @@
   padding: 0;
   margin: 0;
   display: flex;
+  flex-direction: column; /* Arrange icons vertically */
   gap: 10px; /* Add spacing between icons */
 }
 
 .k_fixed_social ul li {
-  display: inline-block;
+  display: block; /* Ensure each icon is on a new line */
 }
 
 .k_fixed_social ul li a img {
   width: 40px; /* Set icon size */
   height: 40px;
-  transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out; /* Reduce transition duration */
+  transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out; /* Smooth hover effect */
 }
 
 .k_fixed_social ul li a img:hover {

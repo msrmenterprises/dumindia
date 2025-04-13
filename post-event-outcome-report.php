@@ -21,6 +21,7 @@
     <table style="width: 50%; border-collapse: collapse; margin: 0 auto;">
         <thead>
             <tr style="background-color: #8cc63e; color: #fff; text-align: left;">
+                <th style="padding: 10px; border: 1px solid #ddd;">S.No.</th>
                 <th style="padding: 10px; border: 1px solid #ddd;">Particulars</th>
                 <th style="padding: 10px; border: 1px solid #ddd;">Link</th>
             </tr>

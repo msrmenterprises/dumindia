@@ -298,10 +298,10 @@ display: none;
 {
 	background: #4e71a8;
 }
-.k_fixed_social ul li:nth-child(2)
+/* .k_fixed_social ul li:nth-child(2)
 {
 	background: #1cb7eb;
-}
+} */
 .k_fixed_social ul li:first-child:hover, .k_fixed_social ul li:nth-child(2):hover
 {
     	padding-left: 10px;

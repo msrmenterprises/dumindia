@@ -294,10 +294,10 @@ display: none;
     transition: .30s all;
     width: 9px;
 }
-.k_fixed_social ul li:first-child
+/* .k_fixed_social ul li:first-child
 {
 	background: #4e71a8;
-}
+} */
 /* .k_fixed_social ul li:nth-child(2)
 {
 	background: #1cb7eb;

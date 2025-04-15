@@ -119,15 +119,44 @@ if($_SERVER["REQUEST_METHOD"] == "POST")
 	
 		<div class="row dum_container key_div" style="background: #fff;">
 	<div class="k_cheading">
-		<h1><span class="k_greencolor">EXHIBITION BOOTH AT DUM 2024</span> </h1>
+		<h1><span class="k_greencolor">EXHIBITION BOOTH AT DUM</span> </h1>
 		<img src="images/kborder_bottom.png" alt="">
 	</div>
-	<p style="text-align:center;">Utilities and select Technology Providers have the option to exhibit their products and solutions in the Booths which will give a unique experience of interacting with visitors from around the globe and explaining about their offerings/
-	Exhibition Booth is available in PLATINUM and GOLD categories<br/>
+	<p style="text-align:center;">Utilities and select Technology Providers have the option to exhibit their products and solutions in the booths which will give a unique experience of interacting with visitors from around the globe and explaining about their offerings.<br/>
+	<b>Exhibition Booths are available in following options​:<br/>
+	<table style="width: 80%; margin: 20px auto; border-collapse: collapse; text-align: left;">
+        <thead>
+            <tr style="background-color: #8cc63e; color: #fff;">
+                <th style="padding: 10px; border: 1px solid #ddd;">Exhibition Booth Option</th>
+                <th style="padding: 10px; border: 1px solid #ddd;">Exhibition Space (SQM)</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td style="padding: 10px; border: 1px solid #ddd;">Platinum</td>
+                <td style="padding: 10px; border: 1px solid #ddd;">18 SQM</td>
+            </tr>
+            <tr>
+                <td style="padding: 10px; border: 1px solid #ddd;">Gold</td>
+                <td style="padding: 10px; border: 1px solid #ddd;">9 SQM</td>
+            </tr>
+            <tr>
+                <td style="padding: 10px; border: 1px solid #ddd;">Silver</td>
+                <td style="padding: 10px; border: 1px solid #ddd;">Shared Space</td>
+            </tr>
+            <tr>
+                <td style="padding: 10px; border: 1px solid #ddd;">Start-Up</td>
+                <td style="padding: 10px; border: 1px solid #ddd;">Shared Space</td>
+            </tr>
+        </tbody>
+    </table>
 
-For Special Participation Packages, list of Features of the Booths and other inquiries<br/>
-<b>Please contact : Ms. Sneha Singhania<br/>
-Email: <a href="mailto:sneha@indiasmartgrid.org">sneha@indiasmartgrid.org</a></p>
+	<b>For Special Participation Packages, list of Features of the Booths and other inquiries<br/>
+	Please contact: <a href="mailto:sneha@indiasmartgrid.org">sneha@indiasmartgrid.org</a>
+
+	
+
+</p>
 <!--
  <img src="images/er.PNG" alt="" style="border: 1px solid #aeb4b2; width:850px; height: 350px; text-align="center;">
  

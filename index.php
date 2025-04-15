@@ -6,7 +6,7 @@
 
 <div class="row k_slider">
 
-	<h1>Distribution <br><span class="k_greencolor">Utility Meet</span></h1>
+	<!-- <h1>Distribution <br><span class="k_greencolor">Utility Meet</span></h1> -->
 
 	<br><br>
 

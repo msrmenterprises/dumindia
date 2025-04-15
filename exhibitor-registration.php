@@ -50,7 +50,10 @@
             </tr>
         </tbody>
     </table>
-    
+    <br/>
+    <b>For Special Participation Packages, list of Features of the Booths and other inquiries<br/>
+	Please contact: <a href="mailto:sneha@indiasmartgrid.org">sneha@indiasmartgrid.org</a>
+
 </div>
 	
 		

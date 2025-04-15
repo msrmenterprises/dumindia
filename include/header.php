@@ -427,7 +427,7 @@ display: none;
         
         <li><a>Exhibition   <span>|</span></a>
           <ul>
-            <li><a href="exhibitor-resigtration.php">Exhibitor Registration</a></li>
+            <li><a href="exhibitorRegistration.php">Exhibitor Registration</a></li>
             <li><a href="confirmed-exhibitor.php">Confirmed Exhibitors</a>
              
             </li>

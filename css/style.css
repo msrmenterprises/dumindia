@@ -602,7 +602,8 @@ body {
           width: 100%; } }
 
 .k_slider {
-  background: url("../images/k_header_bg.jpg");
+  /* background: url("../images/k_header_bg.jpg"); */
+  background: url("../images/2026/k_header_bgnew.jpg");
   padding: 7% 10%;
   background-size: cover;
   text-align: center; }

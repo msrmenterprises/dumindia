@@ -68,7 +68,7 @@ font-size: 12px;
     max-height: 100px; /* Set a consistent height for all images */
     max-width: 100%; /* Ensure images don't exceed their container width */
     object-fit: contain; /* Maintain aspect ratio and fit within the container */
-    border: 1px solid #2c3a64; /* Add a border for better visibility */
+    border: 1px solid #2c3a64 !important; /* Add a border for better visibility */
     display: block;
     margin: 0 auto 7px; /* Center the image and add spacing below */
 }

@@ -676,7 +676,8 @@ Please contact : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid.
 		<li><a href="http://www.mvvnl.in/" target="_blank"><img src="images/Madhyanchal Vidyut Vitran Nigam Ltd.png" style="height:155px;">Madhyanchal Vidyut Vitran Nigam Ltd </a></li>
 		<li><a href="https://www.noidapower.com/" target="_blank"><img src="images/utilities2019/npcl.png" style="height: 120px;">Noida power Company Limited</a></li>
 		<li><a href="https://www.mahadiscom.in/en/home/" target="_blank"><img src="images/MSEDCL_logo.jpg" style="height:120px;">Maharashtra State Electricity Distribution Co. Ltd </a></li>
-		<li><a href="https://upptcl.org/upptcl" target="_blank"><img src="images/utilities2019/8. UP power transmission corp. ltd.jpg" style="height: 120px;">Uttar Pradesh Power Transmission Corporation Limited</a></li>           <li><a href="https://www.dvvnl.org/" target="_blank"><img src="images/utilities2019/2. DVVNL logo.png" style="height:155px;">Dakshinanchal Vidyut Vitran Nigam Limited</a></li>
+		<li><a href="https://upptcl.org/upptcl" target="_blank"><img src="images/utilities2019/8. UP power transmission corp. ltd.jpg" style="height: 120px;">Uttar Pradesh Power Transmission Corporation Limited</a></li>           
+		<li><a href="https://www.dvvnl.org/" target="_blank"><img src="images/utilities2019/2. DVVNL logo.png" style="height:155px;">Dakshinanchal Vidyut Vitran Nigam Limited</a></li>
 		<li><a href="https://www.adanielectricity.com/" target="_blank"><img src="images/2024/AdaniElectricity.png" style="height:155px;">Adani Electricity Mumbai Limited</a></li>
 		<li><a href="https://www.tpcentralodisha.com/" target="_blank"><img src="images/2024/TPCODL.png" style="height:155px;">Tata Power Central Odisha Distribution Limited</a></li>
 		<li><a href="https://pdd.jk.gov.in/#" target="_blank"><img src="images/2024/JKPowerDepartment.jpg" style="height:155px;">Jammu & Kashmir Power Development Department</a></li>
@@ -817,8 +818,15 @@ Please contact : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid.
             <li><a href="http://www.mpez.co.in/portal/Jabalpur_home.portal" target="_blank"><img src="images/utilities2019/download (9).jpg">Madhya Pradesh Poorv Kshetra Vidyut Vitaran Company Ltd.</a></li>
 	        <li><a href="http://www.mpez.co.in/portal/Jabalpur_home.portal" target="_blank"><img src="images/utilities2019/12. MPMKVVCL logo.jpeg" style="height:155px;">Madhya Pradesh Poorv Kshetra Vidyut Vitaran Company Ltd.</a></li>
 			<li><a href="https://web.pln.co.id/" target="_blank"><img src="images/Logo_PLN.png" style="height:155px;">PLN Indonesia</a></li>
-			
-		</ul>
+			<li><a href="" target="_blank"><img src="images/utilities2019/purvanchalvidhut.png">Purvanchal Vidyut Vitran Nigam Ltd</a></li>
+			<li><a href="https://upptcl.org/upptcl" target="_blank"><img src="images/utilities2019/8. UP power transmission corp. ltd.jpg" style="height: 120px;">Uttar Pradesh Power Transmission Corporation Limited</a></li>           
+			<li><a href="https://www.dvvnl.org/" target="_blank"><img src="images/utilities2019/2. DVVNL logo.png" style="height:155px;">Dakshinanchal Vidyut Vitran Nigam Limited</a></li>
+			<li><a href="https://pdd.jk.gov.in/#" target="_blank"><img src="images/2024/JKPowerDepartment.jpg" style="height:155px;">Jammu & Kashmir Power Development Department</a></li>
+			<li><a href="https://www.ugvcl.com/" target="_blank"><img src="images/2024/UGVCL.png" style="height:155px;">Uttar Gujarat Vij Company Limited</a></li>
+			<li><a href="https://www.kesco.co.in/" target="_blank"><img src="images/2024/kanpur_electrict.png" style="height:155px;">Kanpur Electricity Supply Company Limited</a></li>
+			<li><a href="https://www.goaelectricity.gov.in/" target="_blank"><img src="images/utilities2019/8. Goa Electricity Department.jpeg" style="height:155px;">Government of Goa, Electricity Department</a></li>
+			<li><a href="https://jbvnl.co.in/" target="_blank"><img src="images/2024/bijli.jpeg" style="height:155px;">Jharkhand Bijli Vitran Nigam Limited</a></li>
+			</ul>
 
 	<!-- <p style="margin-bottom: 50px; margin-top: 20px;">
 		<a href="" class="k_read_more">see all</a>

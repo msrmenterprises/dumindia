@@ -106,7 +106,7 @@ font-size: 12px;
     width: auto;
     max-width: 100%;
     object-fit: contain;
-    border: 1px solid #aeb4b2 !important; 
+    border: 1px solid #2c3a64 !important; 
     display: block;
     margin: 0 auto 7px;
 }

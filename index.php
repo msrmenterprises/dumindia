@@ -41,6 +41,38 @@ font-size: 12px;
 
 }   
 
+.k_confirmed_als {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    justify-content: center; /* Center-align the items */
+    gap: 15px; /* Add spacing between items */
+}
+
+.k_confirmed_als li {
+    flex: 1 1 150px; /* Ensure items are responsive */
+    max-width: 200px; /* Set a maximum width for each item */
+    text-align: center;
+    margin: 10px;
+}
+
+.k_confirmed_als li a {
+    display: block;
+    text-decoration: none;
+    color: inherit;
+}
+
+.k_confirmed_als li img {
+    max-height: 100px; /* Set a consistent height for all images */
+    max-width: 100%; /* Ensure images don't exceed their container width */
+    object-fit: contain; /* Maintain aspect ratio and fit within the container */
+    border: 1px solid #aeb4b2; /* Add a border for better visibility */
+    display: block;
+    margin: 0 auto 7px; /* Center the image and add spacing below */
+}
+
 <!-- Css fr Gold Sponsor 
  
  .k_confirmed_als {

@@ -41,6 +41,7 @@
   bottom: 20px;
   right: 20px;
   z-index: 1000;
+  width:5px !important;
 }
 
 .k_fixed_social ul {

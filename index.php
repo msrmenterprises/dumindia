@@ -12,7 +12,7 @@
 
 
 
-	<ul style="position: relative;top: 229px;left: 227px;">
+	<ul style="position: relative;top: 229px;">
 
 		<li><a href="images/invite.ics" class="k_green" style="cursor: pointer;" class="pull-left"><i class="fa fa-calendar" aria-hidden="true"></i>06 - 07 November 2025</a></li>
 

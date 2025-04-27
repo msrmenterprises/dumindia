@@ -233,9 +233,8 @@ font-size: 12px;
 	<table border="1" style="width: 100%; border-collapse: collapse; text-align: center;">
     <thead>
         <tr style="background-color: #f2f2f2;">
-            <th>EXHIBITION</th>
-            <th>BOOTH OPTIONS</th>
-            <th>SPACE (SQM)</th>
+            <th>EXHIBITION BOOTH OPTIONS</th>
+            <th>EXHIBITION SPACE (SQM)</th>
         </tr>
     </thead>
     <tbody>

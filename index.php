@@ -198,11 +198,11 @@ font-size: 12px;
 
 	</div>
 
-	<p class="k_p">Traditionally participation in DUM has been by INVITATION ONLY. Utilities and select Technology Providers have the option to exhibit their products and solutions in the Exhibition Booths which will give a unique experience of interacting with visitors from around the globe and explaining about their offerings.</p>
+	<p class="k_p">Utilities and select Technology Providers have the option to exhibit their products and solutions in the Exhibition Booths which will give a unique experience of interacting with visitors from around the globe and explaining about their offerings.</p>
 
-	<p class="k_p">Exhibition Booths are available in two categories: (1) PLATINUM BOOTH and (2) GOLD BOOTH.<br/> For Special participation packages, list of features of the booth and other enquiry please write to <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid.org</a>
+	<p class="k_p">For Special participation packages, list of features of the booth and other enquiry please write to <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid.org</a>
 
-    <br/>For Delegate Participation and Registration, please write to us at <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid.org</a></p>
+    <br/>For Delegate Participation and Registration, please write to us at <a href="mailto:dum@indiasmartgrid.org">dum@indiasmartgrid.org</a></p>
 
     <div class="k_cheading"><a href="https://register.indiasmartgrid.org/">
 
@@ -213,6 +213,59 @@ font-size: 12px;
 <!-- 	<div class="col-sm-5 img-part"><img src="images/k_keythemes.jpg" alt=""></div> -->
 
 	
+
+</div>
+
+<div class="row k_container k_key_themes" style="background: #fff;">
+
+	<div class="k_cheading">
+
+		<h1>EXHIBITION BOOTH <span class="k_greencolor">AT DUM 2025</span> </h1>
+
+		<img src="images/kborder_bottom.png" alt="">
+
+	</div>
+
+	<p class="k_p">Utilities and select Technology Providers have the option to exhibit their products and solutions in the booths which will give a unique experience of interacting with visitors from around the globe and explaining about their offerings.</p>
+
+	<p class="k_p">Exhibition Booths are available in following options​:</p><br/>
+
+	<table border="1" style="width: 100%; border-collapse: collapse; text-align: center;">
+    <thead>
+        <tr style="background-color: #f2f2f2;">
+            <th>EXHIBITION</th>
+            <th>BOOTH OPTIONS</th>
+            <th>SPACE (SQM)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>PLATINUM</td>
+            <td>18 SQM</td>
+        </tr>
+        <tr>
+            <td>GOLD</td>
+            <td>9 SQM</td>
+        </tr>
+        <tr>
+            <td>SILVER</td>
+            <td>Shared Space</td>
+        </tr>
+        <tr>
+            <td>START-UP</td>
+            <td>Shared Space</td>
+        </tr>
+    </tbody>
+</table>
+
+<p>For Special Participation Packages, list of Features of the Booths and other inquiries
+Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid.org</a></p>	
+
+ </p>
+
+	<!--<img src="images/DUMMY BOOTH DUM SCREENSHOT.PNG" alt="" style="border: 1px solid #aeb4b2; width:850px; height: 350px; text-align="center;">
+
+      <div class="col-sm-5 img-part"><img src="images/k_keythemes.jpg" alt=""></div> -->
 
 </div>
 
@@ -576,29 +629,7 @@ font-size: 12px;
 
 </div>		-->	
 
-<div class="row k_container k_key_themes" style="background: #fff;">
 
-	<div class="k_cheading">
-
-		<h1>EXHIBITION BOOTH <span class="k_greencolor">AT DUM 2025</span> </h1>
-
-		<img src="images/kborder_bottom.png" alt="">
-
-	</div>
-
-	<p class="k_p">Utilities and select Technology Providers have the option to exhibit their products and solutions in the Booths which will give a unique experience of interacting with visitors from around the globe and explaining about their offerings.</p>
-
-	<p class="k_p">Exhibition Booth is available in PLATINUM and GOLD categories.For Special Participation Packages, list of Features of the Booths and other inquiries<br/>
-
-Please contact : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid.org</a></p>	
-
- </p>
-
-	<!--<img src="images/DUMMY BOOTH DUM SCREENSHOT.PNG" alt="" style="border: 1px solid #aeb4b2; width:850px; height: 350px; text-align="center;">
-
-      <div class="col-sm-5 img-part"><img src="images/k_keythemes.jpg" alt=""></div> -->
-
-</div>
 
 <!--<div class="row k_container" style="background: #fff;">
 

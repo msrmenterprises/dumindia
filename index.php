@@ -228,13 +228,13 @@ font-size: 12px;
 
 	<p class="k_p">Utilities and select Technology Providers have the option to exhibit their products and solutions in the booths which will give a unique experience of interacting with visitors from around the globe and explaining about their offerings.</p>
 
-	<p class="k_p">Exhibition Booths are available in following options​:</p><br/>
+	<p class="k_p">Exhibition Booths are available in following options​:<br/>
 
-	<table border="1" style="width: 100%; border-collapse: collapse; text-align: center;">
+	<table border="1" style="width: 50%; border-collapse: collapse; text-align: center; margin: 0 auto;">
     <thead>
         <tr style="background-color: #f2f2f2;">
-            <th>EXHIBITION BOOTH OPTIONS</th>
-            <th>EXHIBITION SPACE (SQM)</th>
+            <th style="text-align:center">EXHIBITION BOOTH OPTIONS</th>
+            <th  style="text-align:center">EXHIBITION SPACE (SQM)</th>
         </tr>
     </thead>
     <tbody>
@@ -256,6 +256,7 @@ font-size: 12px;
         </tr>
     </tbody>
 </table>
+</p>
 
 <p>For Special Participation Packages, list of Features of the Booths and other inquiries
 Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid.org</a></p>	

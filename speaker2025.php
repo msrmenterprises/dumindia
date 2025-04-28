@@ -921,7 +921,7 @@ His team also focuses on energy transition, energy modeling, providing specializ
 					<div class="speaker_img">
 						<img src="images/2026/speakers/RejiKumarPillai.jpg"  style="width:60%">
 					</div>
-					<div class="speaker_content">
+					<div class="speaker_content" style="width: 70% !important;float: left !important;">
 						<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">
 						Reji Kumar Pilla<br/> President, India Smart Grid Forum (ISGF) <br> Chairman, Global Smart Energy Federation (GSEF)
 						</h1>

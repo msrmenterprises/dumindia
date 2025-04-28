@@ -107,31 +107,57 @@
 }
 </style>
 
+<?php include "include/header.php"; ?>
+
 <!-- key themes starts here -->
 <div class="row k_inbanner">
 	<img src="images/baner1.jpg" alt="">
 </div>
 
 <div class="row dum_container">
-    <div class="k_cheading">
-	<h1><span class="k_greencolor">Contact us</span> </h1>
-	<img src="images/kborder_bottom.png" alt="">
-    </div>
+	<div class="k_cheading">
+		<h1><span class="k_greencolor">Event Information</span> </h1>
+		<img src="images/kborder_bottom.png" alt="">
+	</div>
 
+  <div class="col-sm-12 dum_contact1">
+    <a href="">Date :- 14 - 15 November, 2024   </a><br>
+    <a href="">Location:- Lucknow, Uttar Pradesh</a><br>
+    <a href="">Time: 10am to 6pm</a><br>
+  </div>
+
+  <div class="dum_contactpart1">
+    <div class="col-sm-12">
+    <h1><b><a href="http://www.indiasmartgrid.org/" target="_blank">India Smart Grid Forum</a></b></h1>
+    <a href="">Email :- dum@indiasmartgrid.org</a><br>
+    <a href="">Contact No. :- +91-11- 41057658  </a><br>
+    </div>
+  </div>
+
+	<div class="k_register">
+  <form action="" method="post" style="text-align: center;" class="k_form">
+       <input type="text" class="form_div_k" placeholder="your name" required="" name="name">
+       <input type="email" class="form_div_k" placeholder="your email" required="" name="email">
+       <textarea id="" style="height: 100px; width: 99%;  padding-top: 7px; min-width: 99%;" class="form_div_k form_div_width" cols="30" rows="10" placeholder="your message" name="txtarea" required=""></textarea>
+      
+       <br><br>
+       <input type="submit" class="register_button" required="" value="send message" name="contactf_submit">
+     </form>
+	</div>
+<br>
+<br>
+	
+</div>
+
+
+<?php include "include/footer.php"; ?>
+
+
+
+<!-- 
 	<div class="k_register k_contact_us">
     <h1 class="event_info">Event Information</h1>
-    <!-- <div class="col-sm-4" style="text-align: left;">
-      <a><b>FOR STALL DECORATION AND MEDIA REQUIREMENT AT STALLS, CONTACT EVENT MANAGER:</b> </a><br>
-      <a>Name :- Mr. Dinesh K N </a><br>
-      <a href="mailto:avland.mail@gmail.com">Email :- avland.mail@gmail.com</a><br>
-      <a>Contact No. :- +98452-08171, <br> 98454-46712 </a><br>
-    </div> -->
-
-     <!--<div class="col-sm-12 dum_contact1">
-      <a href="">Venue :- Eros Hotel, Nehru Place, New Delhi, India </a><br>
-      <a href="">Date :- 26 - 27 November, 2019   </a><br>
-      <a href="">Time :- 10am to 7pm</a>
-    </div>-->
+   
 
 <div class="col-sm-12 dum_contact1">
       <a href="">Date :- 14 - 15 November, 2024   </a><br>
@@ -157,7 +183,7 @@
        <input type="text" class="form_div_k" placeholder="your name" required="" name="name">
        <input type="email" class="form_div_k" placeholder="your email" required="" name="email">
        <textarea id="" style="height: 100px; width: 99%;  padding-top: 7px; min-width: 99%;" class="form_div_k form_div_width" cols="30" rows="10" placeholder="your message" name="txtarea" required=""></textarea>
-       <!-- <span class="k_plz_feild">* please complete the feilds correctly</span> -->
+      
        <br><br>
        <input type="submit" class="register_button" required="" value="send message" name="contactf_submit">
      </form>
@@ -170,4 +196,4 @@
 
 
 
-<?php include "include/footer.php"; ?>
+<?php include "include/footer.php"; ?> -->

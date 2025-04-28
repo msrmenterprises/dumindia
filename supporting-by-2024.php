@@ -4,6 +4,25 @@
 <div class="row k_inbanner">
 	<img src="images/baner1.jpg" alt="">
 </div>
+
+<div class="row dum_container key_div">
+	
+	<div class="k_cheading">
+		<h1><span class="k_greencolor">Dum 2025 </span>Supported By </h1>
+		<img src="images/kborder_bottom.png" alt="">
+	</div>
+	<p>
+
+		<br>
+		<ul class="k_confirmed_als">
+			<li><a href="https://aida-india.org/" target="_blank"><img src="images/2026/AIDA.png" style="border: 1px solid #aeb4b2;height: 135px;">AIDA</a></li>
+			 
+			</ul>	
+	</p>
+	 
+</div>
+
+
 <div class="row dum_container key_div">
 	
 	<div class="k_cheading">

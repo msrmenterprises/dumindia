@@ -16,6 +16,24 @@
 <div class="row k_inbanner">
 	<img src="images/baner1.jpg" alt="">
 </div>
+
+<div class="row dum_container key_div">
+	<div class="k_cheading">
+		<h1><span class="k_greencolor">DUM 2025 </span> PARTNERS </h1>
+		<img src="images/kborder_bottom.png" alt="">
+	</div>
+
+	<BR/>
+		<ul class="k_confirmed_als">
+		<h5><STRONG>HOST UTILITIES</STRONG></h5>
+		
+		<li><a href="https://www.tatapower.com/" target="_blank"><img src="images/2024/tatapower.png" style="height: 135px;">Tata Power </a></li>
+		<li><a href="https://www.mahadiscom.in/en/home/" target="_blank"><img src="images/MSEDCL_logo.jpg" style="height:120px;">MSEDCL</a></li>
+
+		</ul>
+
+</div>	
+
 <div class="row dum_container key_div">
 	<div class="k_cheading">
 		<h1><span class="k_greencolor">DUM 2024 </span> PARTNERS </h1>

@@ -165,17 +165,21 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
   <div class="row dum_contact_row">
     <!-- First Column: Event Details -->
-    <div class="col-sm-6 dum_contact1">
+    <div class="col-sm-3 dum_contact1">
+    </div>
+    <div class="col-sm-3 dum_contact1" style="float: left;">
         <a href="">Date :- 14 - 15 November, 2024</a><br>
         <a href="">Location:- Lucknow, Uttar Pradesh</a><br>
         <a href="">Time: 10am to 6pm</a><br>
     </div>
 
     <!-- Second Column: Contact Information -->
-    <div class="col-sm-6 dum_contactpart1">
-        <h1><b><a href="http://www.indiasmartgrid.org/" target="_blank">India Smart Grid Forum</a></b></h1>
+    <div class="col-sm-3 dum_contactpart1" style="float:right;">
+        <h1 style="margin:0;"><b><a href="http://www.indiasmartgrid.org/" target="_blank">India Smart Grid Forum</a></b></h1>
         <a href="mailto:dum@indiasmartgrid.org">Email :- dum@indiasmartgrid.org</a><br>
         <a href="tel:+911141057658">Contact No. :- +91-11-41057658</a><br>
+    </div>
+    <div class="col-sm-3 dum_contact1">
     </div>
 </div>
 

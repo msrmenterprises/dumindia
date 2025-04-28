@@ -15,7 +15,7 @@
 
 		<br>
 		<ul class="k_confirmed_als">
-			<li><a href="https://aida-india.org/" target="_blank"><img src="images/2026/AIDA.png" style="border: 1px solid #aeb4b2;height: 135px;">AIDA</a></li>
+			<li><a href="https://aida-india.org/" target="_blank"><img src="images/2026/AIDA.png" style="border: 1px solid #aeb4b2;">AIDA</a></li>
 			 
 			</ul>	
 	</p>

@@ -1,5 +1,5 @@
 <?php
-
+/*
 date_default_timezone_set('Asia/Kolkata');
 include "init/init.php";
 include "include/header.php"; 
@@ -64,6 +64,53 @@ if($_SERVER["REQUEST_METHOD"] == "POST")
 	    }
     	}
   }
+} */
+?>
+
+<?php
+
+date_default_timezone_set('Asia/Kolkata');
+include "init/init.php";
+include "include/header.php"; 
+require 'sendgrid_files/vendor/autoload.php'; // If you're using Composer (recommended)
+include_once('sendgrid_files/credentials.php');
+
+if ($_SERVER["REQUEST_METHOD"] == "POST") {
+    if (isset($_POST['contactf_submit'])) {
+        $FROM_EMAIL = htmlspecialchars($_POST['email']); // Preventing XSS attack
+        $from_name = htmlspecialchars($_POST['name']);  // Preventing XSS attack
+        $TO_EMAIL = 'dum@indiasmartgrid.org';
+        $txtarea = htmlspecialchars($_POST['txtarea']); // Preventing XSS attack
+
+        // Validate email format
+        if (!filter_var($FROM_EMAIL, FILTER_VALIDATE_EMAIL)) {
+            $m = "Invalid email format. Please enter a valid email.";
+            echo "<script>alert('$m');</script>";
+        } else {
+            // Prepare email content
+            $subject = "WRITE TO US – DUM 2025 Form Filled By " . $from_name;
+            $htmlContent = "
+            <div style='background: #eee; padding: 50px 50px; width: 100%; float: left;'>
+                <h1 style='text-align: left; font-weight: bold; margin-top: 0px; margin-bottom: 30px;'>Dum Contact Us Form</h1>
+                <div style='width:500px; height:auto; line-height:21px;'><strong>Name:- </strong> $from_name</div>
+                <div style='width:500px; height:auto; line-height:21px;'><strong>Email:- </strong> $FROM_EMAIL</div>
+                <div style='width:90%; height:auto; line-height:21px;'><strong>Message:- </strong> $txtarea</div>
+            </div>";
+
+            // Send email using PHP mail function
+            $headers = "MIME-Version: 1.0" . "\r\n";
+            $headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
+            $headers .= "From: $from_name <$FROM_EMAIL>" . "\r\n";
+
+            if (mail($TO_EMAIL, $subject, $htmlContent, $headers)) {
+                $m = "Your request form has been successfully submitted.";
+                echo "<script>alert('$m');</script>";
+            } else {
+                $m = "Failed to send your message. Please try again later.";
+                echo "<script>alert('$m');</script>";
+            }
+        }
+    }
 }
 ?>
 <style>

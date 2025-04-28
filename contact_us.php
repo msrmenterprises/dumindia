@@ -70,10 +70,6 @@ if($_SERVER["REQUEST_METHOD"] == "POST")
 <?php
 
 date_default_timezone_set('Asia/Kolkata');
-include "init/init.php";
-include "include/header.php"; 
-require 'sendgrid_files/vendor/autoload.php'; // If you're using Composer (recommended)
-include_once('sendgrid_files/credentials.php');
 
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
     if (isset($_POST['contactf_submit'])) {

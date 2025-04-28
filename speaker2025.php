@@ -16,8 +16,8 @@
 	font-size: 12px;
 }
 .speaker_row .dum_speaker a .speaker_content {
-    width: 70%;
-    float: left;
+    width: 70% !important;
+    float: left !important;
 }
 </style>
 

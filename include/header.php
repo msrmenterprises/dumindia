@@ -446,7 +446,7 @@ display: none;
             <li><a href="key_themes.php">Key Themes</a></li>
           </ul>
         </li>
-        <li><a href="speaker2024.php">Speakers <span>|</span></a></li>
+        <li><a href="speaker2025.php">Speakers <span>|</span></a></li>
         </li>
         <li><a href="gallery.php">Gallery  <span>|</span></a>
      </li>

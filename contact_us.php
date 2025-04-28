@@ -1,70 +1,70 @@
 <?php
 
-// date_default_timezone_set('Asia/Kolkata');
-// include "init/init.php";
-// include "include/header.php"; 
-// require 'sendgrid_files/vendor/autoload.php'; // If you're using Composer (recommended)
-// include_once('sendgrid_files/credentials.php');
+date_default_timezone_set('Asia/Kolkata');
+include "init/init.php";
+include "include/header.php"; 
+require 'sendgrid_files/vendor/autoload.php'; // If you're using Composer (recommended)
+include_once('sendgrid_files/credentials.php');
 
-// if($_SERVER["REQUEST_METHOD"] == "POST")
-// {
-//     if(isset($_POST['contactf_submit']))
-//     {
-//     $FROM_EMAIL = mysqli_real_escape_string($db, $_POST['email']); //preventing from sql injection
-//     $FROM_EMAIL = htmlspecialchars($FROM_EMAIL); //preventing from xss attack
-//      // they dont like when it comes from @gmail, prefers business emails
-//     $from_name = mysqli_real_escape_string($db, $_POST['name']);  //preventing from sql injection
-//     $from_name = htmlspecialchars($from_name); //preventing from xss attack
-//     $TO_EMAIL = 'dum@indiasmartgrid.org';
-//     // Try to be nice. Take a look at the anti spam laws. In most cases, you must
-//     $txtarea=mysqli_real_escape_string($db, $_POST['txtarea']); //preventing from sql injection 
-//     $malicious_tag=strpos($txtarea,"<"); //preventing from xss attack
-//     $malicious_tag1=strpos($txtarea,">");
-//     if($malicious_tag!== false && $malicious_tag1!== false )
-//     {
-//       $m="oops! Message pattern is not valid kindly recheck";
-//       echo "<script>alert('$m');</script>";
-//     }
-//     else
-//     {
-// 	    $time= time();
-// 	    $insert="INSERT INTO contact_detail (name, email, message, date_of) VALUES ('$from_name', '$FROM_EMAIL', '$txtarea', '$time')";
-// 	    $insert_query=mysqli_query($db, $insert);
+if($_SERVER["REQUEST_METHOD"] == "POST")
+{
+    if(isset($_POST['contactf_submit']))
+    {
+    $FROM_EMAIL = mysqli_real_escape_string($db, $_POST['email']); //preventing from sql injection
+    $FROM_EMAIL = htmlspecialchars($FROM_EMAIL); //preventing from xss attack
+     // they dont like when it comes from @gmail, prefers business emails
+    $from_name = mysqli_real_escape_string($db, $_POST['name']);  //preventing from sql injection
+    $from_name = htmlspecialchars($from_name); //preventing from xss attack
+    $TO_EMAIL = 'dum@indiasmartgrid.org';
+    // Try to be nice. Take a look at the anti spam laws. In most cases, you must
+    $txtarea=mysqli_real_escape_string($db, $_POST['txtarea']); //preventing from sql injection 
+    $malicious_tag=strpos($txtarea,"<"); //preventing from xss attack
+    $malicious_tag1=strpos($txtarea,">");
+    if($malicious_tag!== false && $malicious_tag1!== false )
+    {
+      $m="oops! Message pattern is not valid kindly recheck";
+      echo "<script>alert('$m');</script>";
+    }
+    else
+    {
+	    $time= time();
+	    $insert="INSERT INTO contact_detail (name, email, message, date_of) VALUES ('$from_name', '$FROM_EMAIL', '$txtarea', '$time')";
+	    $insert_query=mysqli_query($db, $insert);
 	    
-// 	    $subject = "WRITE TO US – DUM 2019 Form Filled By ".$_POST['name'];
-// 	    $htmlContent = '<div style="background: #eee; padding: 50px 50px; width: 100%; float: left;">
-// 	    <h1 style="text-align: left;font-weight: bold; margin-top: 0px; margin-bottom: 30px;">Dum Contact us Form</h1>
-// 	      <div style="width:500px; height:auto; line-height:21px;"><strong>Name:- </strong> '.$from_name.'</div>
-// 	      <div style="width:500px; height:auto; line-height:21px;"><strong>Email:- </strong> '.$FROM_EMAIL.'</div>
-// 	      <div style="width:90%; height:auto; line-height:21px;"><strong>Message:- </strong> '.$txtarea.'</div>
-// 	    </div>';
+	    $subject = "WRITE TO US – DUM 2019 Form Filled By ".$_POST['name'];
+	    $htmlContent = '<div style="background: #eee; padding: 50px 50px; width: 100%; float: left;">
+	    <h1 style="text-align: left;font-weight: bold; margin-top: 0px; margin-bottom: 30px;">Dum Contact us Form</h1>
+	      <div style="width:500px; height:auto; line-height:21px;"><strong>Name:- </strong> '.$from_name.'</div>
+	      <div style="width:500px; height:auto; line-height:21px;"><strong>Email:- </strong> '.$FROM_EMAIL.'</div>
+	      <div style="width:90%; height:auto; line-height:21px;"><strong>Message:- </strong> '.$txtarea.'</div>
+	    </div>';
 	
-// 	    $email = new \SendGrid\Mail\Mail(); 
-// 	    $email->setFrom($FROM_EMAIL, $from_name);
-// 	    $email->setSubject($subject);
-// 	    $email->addTo($TO_EMAIL, null);
-// 	    $email->addContent("text/html", $htmlContent);
-// 	    $sendgrid = new \SendGrid($API_KEY);
-// 	    try 
-// 	    {
-// 	      $response = $sendgrid->send($email);
-// 	      $result = $response->statusCode();
-// 	      if($result == 202)
-// 	      {
-// 	        $m="Your Request form is successfully Submitted";
-// 	        echo "<script>alert('$m');</script>";
-// 	        // print_r($response->headers());
-// 	        // print $response->body() . "\n";
-// 	      }
-// 	    }
-// 	    catch (Exception $e) 
-// 	    {
-// 	      $m='Caught exception: '.  $e->getMessage();
-// 	      echo "<script>alert('$m');</script>";
-// 	    }
-//     	}
-//   }
-// }
+	    $email = new \SendGrid\Mail\Mail(); 
+	    $email->setFrom($FROM_EMAIL, $from_name);
+	    $email->setSubject($subject);
+	    $email->addTo($TO_EMAIL, null);
+	    $email->addContent("text/html", $htmlContent);
+	    $sendgrid = new \SendGrid($API_KEY);
+	    try 
+	    {
+	      $response = $sendgrid->send($email);
+	      $result = $response->statusCode();
+	      if($result == 202)
+	      {
+	        $m="Your Request form is successfully Submitted";
+	        echo "<script>alert('$m');</script>";
+	        // print_r($response->headers());
+	        // print $response->body() . "\n";
+	      }
+	    }
+	    catch (Exception $e) 
+	    {
+	      $m='Caught exception: '.  $e->getMessage();
+	      echo "<script>alert('$m');</script>";
+	    }
+    	}
+  }
+}
 ?>
 <style>
 .dum_contactpart1
@@ -120,19 +120,21 @@
 		<img src="images/kborder_bottom.png" alt="">
 	</div>
 
-  <div class="col-sm-12 dum_contact1">
-    <a href="">Date :- 14 - 15 November, 2024   </a><br>
-    <a href="">Location:- Lucknow, Uttar Pradesh</a><br>
-    <a href="">Time: 10am to 6pm</a><br>
-  </div>
-
-  <div class="dum_contactpart1">
-    <div class="col-sm-12">
-    <h1><b><a href="http://www.indiasmartgrid.org/" target="_blank">India Smart Grid Forum</a></b></h1>
-    <a href="">Email :- dum@indiasmartgrid.org</a><br>
-    <a href="">Contact No. :- +91-11- 41057658  </a><br>
+  <div class="row dum_contact_row">
+    <!-- First Column: Event Details -->
+    <div class="col-sm-6 dum_contact1">
+        <a href="">Date :- 14 - 15 November, 2024</a><br>
+        <a href="">Location:- Lucknow, Uttar Pradesh</a><br>
+        <a href="">Time: 10am to 6pm</a><br>
     </div>
-  </div>
+
+    <!-- Second Column: Contact Information -->
+    <div class="col-sm-6 dum_contactpart1">
+        <h1><b><a href="http://www.indiasmartgrid.org/" target="_blank">India Smart Grid Forum</a></b></h1>
+        <a href="mailto:dum@indiasmartgrid.org">Email :- dum@indiasmartgrid.org</a><br>
+        <a href="tel:+911141057658">Contact No. :- +91-11-41057658</a><br>
+    </div>
+</div>
 
 	<div class="k_register">
   <form action="" method="post" style="text-align: center;" class="k_form">

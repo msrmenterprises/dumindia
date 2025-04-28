@@ -883,7 +883,7 @@ His team also focuses on energy transition, energy modeling, providing specializ
 			<div class="col-sm-12 dum_speaker">
 				<a>
 					<div class="speaker_img">
-						<img src="images/speakers/reena-suri.PNG"  style="width:60%">
+						<img src="images/2026/speakers/ReenaSuri.JPG"  style="width:60%">
 					</div>
 					<div class="speaker_content">
 						<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">
@@ -915,7 +915,7 @@ His team also focuses on energy transition, energy modeling, providing specializ
 			<div class="col-sm-12 dum_speaker">
 				<a>
 					<div class="speaker_img">
-						<img src="images/2025/speakers/RejiKumarPillai.jpg"  style="width:60%">
+						<img src="images/2026/speakers/RejiKumarPillai.jpg"  style="width:60%">
 					</div>
 					<div class="speaker_content">
 						<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">
@@ -1509,7 +1509,8 @@ Phoenix Contact India Pvt. Ltd
 
 	
 			<br/>
-	<p>For More information: <a href="http://dumindia.in/speaker2023.php">http://dumindia.in/speaker2023.php</a></p>
+			<p>For More information: <a href="http://dumindia.in/speaker2024.php">http://dumindia.in/speaker2024.php</a></p>
+			<p>For More information: <a href="http://dumindia.in/speaker2023.php">http://dumindia.in/speaker2023.php</a></p>
 
 <p>For More information: <a href="http://dumindia.in/speaker2022.php">http://dumindia.in/speaker2022.php</a></p>
 	

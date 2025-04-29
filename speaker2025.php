@@ -913,57 +913,59 @@ His team also focuses on energy transition, energy modeling, providing specializ
 	</div>
 
 	<div class="row speaker_row">
-		<div class="k_list_part ">
-			<div class="col-sm-12 dum_speaker">
-				<a>
-					<div class="speaker_img">
-						<img src="images/2026/speakers/RejiKumarPillai.jpg"  style="width:60%">
-					</div>
-					<div class="speaker_content">
-						<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">
-						Reji Kumar Pillai<br/> President, India Smart Grid Forum (ISGF) <br> Chairman, Global Smart Energy Federation (GSEF)
-						</h1>
-						<p>Reji is the President of India Smart Grid Forum (<a href="https://www.indiasmartgrid.org" target="_blank">www.indiasmartgrid.org</a>) since its
-							inception in 2011 and is also the current Chairman of the Global Smart Energy
-							Federation (GSEF). He is an internationally renowned expert with over four decades
-							of experience in the electricity sector in diverse functions covering the entire value
-							chain and across continents. He is spearheading a mission to leverage technology
-							to transform the electric grids and provide clean and reliable electricity to every
-							citizen 24x7 at affordable cost. For decades he has been actively advocating for the
-							“Right to Electricity” that would ensure lifeline supply of electricity to all which is now
-							becoming a reality in India and several other developing countries; and also
-							advocating for the “Right to Sleep” to provide climate-controlled sleeping pods in
-							low-income communities.Reji has played pivotal role in several groundbreaking
-							initiatives related to renewable energy, electric grid modernization, electric
-							mobility, energy storage and digitalization of utilities across continents during the
-							past two decades. His current areas of research and work spans: Grid Integrated
-							Vehicles, District Cooling Systems, Electric Cooking, Integration of Utilities – electricity +
-							water + city gas distribution; Grid Interactive Buildings and Campuses; Artificial
-							Intelligence, Robotics, Blockchain, Web 3.0 and Metaverse Applications for Utilities; Urban
-							Air Mobility (UAM) Systems and the Future of Transportation; and Interconnection of
-							Regional Grids in Asia - ASEAN, SAARC and GCC grids.</p>
-							<p> In November 2016, Reji was
-							unanimously elected as Chairman of Global Smart Grid Federation, now renamed as
-							Global Smart Energy Federation (GSEF), a global umbrella organization of smart
-							energy associations and utilities from around the globe headquartered in Washington
-							DC, USA that was established by the US Department of Energy in 2010. Reji is also an
-							advisor to Arab Renewable Energy Commission (AREC) since 2017; and work closely
-							with the Association of Power Utilities in Africa (APUA), International Smart Grid
-							Action Network (ISGAN) and LATAM Smart Grid Forum.
-							As an entrepreneur, Reji has built successful enterprises in India and overseas and exited them. Presently he
-							mentors several technology startups around the globe. He has studied Engineering,
-							Finance, Management and Law; worked with NTPC and IBM and has been a senior
-							consultant with ADB, World Bank and USAID. A recognized thought leader in
-							renewable energy, smart grid technologies, smart cities and electric mobility, Reji is a
-							popular key-note speaker at international symposiums and conferences. He has also
-							contributed to several articles, books, research reports and white papers on variety of
-							topics.</p>
+    <div class="k_list_part">
+        <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start; gap: 20px;">
+            <!-- Speaker Image -->
+            <div class="speaker_img" style="flex: 0 0 30%; text-align: center;">
+                <img src="images/2026/speakers/RejiKumarPillai.jpg" alt="Reji Kumar Pillai" style="width: 100%; max-width: 200px; border-radius: 10px;">
+            </div>
 
-					</div>
-				</a>
-			</div>
-		</div>
-	</div>
+            <!-- Speaker Content -->
+            <div class="speaker_content" style="flex: 1;">
+                <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px;">
+                    Reji Kumar Pillai<br/>
+                    President, India Smart Grid Forum (ISGF)<br/>
+                    Chairman, Global Smart Energy Federation (GSEF)
+                </h1>
+                <p style="text-align: justify; line-height: 1.6;">
+                    Reji is the President of India Smart Grid Forum (<a href="https://www.indiasmartgrid.org" target="_blank">www.indiasmartgrid.org</a>) since its
+                    inception in 2011 and is also the current Chairman of the Global Smart Energy
+                    Federation (GSEF). He is an internationally renowned expert with over four decades
+                    of experience in the electricity sector in diverse functions covering the entire value
+                    chain and across continents. He is spearheading a mission to leverage technology
+                    to transform the electric grids and provide clean and reliable electricity to every
+                    citizen 24x7 at affordable cost. For decades he has been actively advocating for the
+                    “Right to Electricity” that would ensure lifeline supply of electricity to all which is now
+                    becoming a reality in India and several other developing countries; and also
+                    advocating for the “Right to Sleep” to provide climate-controlled sleeping pods in
+                    low-income communities. Reji has played a pivotal role in several groundbreaking
+                    initiatives related to renewable energy, electric grid modernization, electric
+                    mobility, energy storage, and digitalization of utilities across continents during the
+                    past two decades.
+                </p>
+                <p style="text-align: justify; line-height: 1.6;">
+                    In November 2016, Reji was unanimously elected as Chairman of Global Smart Grid Federation, now renamed as
+                    Global Smart Energy Federation (GSEF), a global umbrella organization of smart
+                    energy associations and utilities from around the globe headquartered in Washington
+                    DC, USA that was established by the US Department of Energy in 2010. Reji is also an
+                    advisor to Arab Renewable Energy Commission (AREC) since 2017; and works closely
+                    with the Association of Power Utilities in Africa (APUA), International Smart Grid
+                    Action Network (ISGAN), and LATAM Smart Grid Forum.
+                </p>
+                <p style="text-align: justify; line-height: 1.6;">
+                    As an entrepreneur, Reji has built successful enterprises in India and overseas and exited them. Presently he
+                    mentors several technology startups around the globe. He has studied Engineering,
+                    Finance, Management, and Law; worked with NTPC and IBM and has been a senior
+                    consultant with ADB, World Bank, and USAID. A recognized thought leader in
+                    renewable energy, smart grid technologies, smart cities, and electric mobility, Reji is a
+                    popular keynote speaker at international symposiums and conferences. He has also
+                    contributed to several articles, books, research reports, and white papers on a variety of
+                    topics.
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
 
 	
 	

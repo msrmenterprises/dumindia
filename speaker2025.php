@@ -914,7 +914,7 @@ His team also focuses on energy transition, energy modeling, providing specializ
 
 	<div class="row speaker_row">
     <div class="k_list_part">
-        <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start; gap: 20px;">
+        <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start; ">
             <!-- Speaker Image -->
             <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
                 <img src="images/2026/speakers/RejiKumarPillai.jpg" alt="Reji Kumar Pillai" style="width: 100%; max-width: 200px; border-radius: 10px;">

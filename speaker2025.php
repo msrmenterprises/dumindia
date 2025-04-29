@@ -916,13 +916,13 @@ His team also focuses on energy transition, energy modeling, providing specializ
     <div class="k_list_part">
         <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start; gap: 20px;">
             <!-- Speaker Image -->
-            <div class="speaker_img" style="flex: 0 0 30%; text-align: center;">
+            <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
                 <img src="images/2026/speakers/RejiKumarPillai.jpg" alt="Reji Kumar Pillai" style="width: 100%; max-width: 200px; border-radius: 10px;">
             </div>
 
             <!-- Speaker Content -->
             <div class="speaker_content" style="flex: 1;">
-                <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px;">
+                <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
                     Reji Kumar Pillai<br/>
                     President, India Smart Grid Forum (ISGF)<br/>
                     Chairman, Global Smart Energy Federation (GSEF)

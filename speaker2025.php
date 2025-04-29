@@ -966,6 +966,36 @@ His team also focuses on energy transition, energy modeling, providing specializ
 			</div>
 		</div>
 	</div>
+
+	<div class="row speaker_row">
+		<div class="k_list_part ">
+			<div class="col-sm-12 dum_speaker">
+				<a>
+					<div class="speaker_img">
+						<img src="images/2026/speakers/ReenaSuri.JPG"  style="width:60%">
+					</div>
+					<div class="speaker_content">
+						<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">
+							Reena Suri<br/> Executive Director <br/> India Smart Grid Forum
+						</h1>
+							<p>Reena Suri, Executive Director of the India Smart Grid Forum (ISGF) since 2013, brings
+							over 22 years of rich experience in the energy sector. She has played a key role in
+							various ISGF projects, including the Electrification Plan for Public Transportation,
+							Blockchain for Electric Utilities, Energy Storage Roadmap for India, Smart Grid
+							Roadmap, and developing smart grid and EV infrastructure plans for the SAARC
+							Region.</p>
+							<p> Reena also led the World Bank EV Project in Kolkata. As the founder-editor of
+							the Smart Grid Bulletin, Reena has been a voice for smart grid advancements since
+							2013. She is passionate about increasing gender diversity in the energy sector, leading
+							initiatives to improve networking and mentoring programs for women, raise
+							awareness and technology skills among women, and attract women to technical
+							education by showcasing inspiring role models.</p>
+
+					</div>
+				</a>
+			</div>
+		</div>
+	</div>
 	
 	
 	

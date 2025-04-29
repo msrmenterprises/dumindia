@@ -884,22 +884,22 @@ His team also focuses on energy transition, energy modeling, providing specializ
 	
 	<div class="row speaker_row">
 		<div class="k_list_part ">
-			<div class="col-sm-12 dum_speaker">
-				<a>
-					<div class="speaker_img">
-						<img src="images/2026/speakers/ReenaSuri.JPG"  style="width:60%">
+		<div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start; ">
+				
+				<div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
+						<img src="images/2026/speakers/ReenaSuri.JPG"  style="width: 100%; max-width: 200px; border-radius: 10px;">
 					</div>
-					<div class="speaker_content">
-						<h1 class="key_head" style="font-size: 25px; text-align: left;    text-transform: capitalize;">
+					<div class="speaker_content" style="flex: 1;">
+						<h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
 							Reena Suri<br/> Executive Director <br/> India Smart Grid Forum
 						</h1>
-							<p>Reena Suri, Executive Director of the India Smart Grid Forum (ISGF) since 2013, brings
+						<p style="text-align: justify; line-height: 1.6;">Reena Suri, Executive Director of the India Smart Grid Forum (ISGF) since 2013, brings
 							over 22 years of rich experience in the energy sector. She has played a key role in
 							various ISGF projects, including the Electrification Plan for Public Transportation,
 							Blockchain for Electric Utilities, Energy Storage Roadmap for India, Smart Grid
 							Roadmap, and developing smart grid and EV infrastructure plans for the SAARC
 							Region.</p>
-							<p> Reena also led the World Bank EV Project in Kolkata. As the founder-editor of
+							<p style="text-align: justify; line-height: 1.6;">Reena also led the World Bank EV Project in Kolkata. As the founder-editor of
 							the Smart Grid Bulletin, Reena has been a voice for smart grid advancements since
 							2013. She is passionate about increasing gender diversity in the energy sector, leading
 							initiatives to improve networking and mentoring programs for women, raise
@@ -907,7 +907,7 @@ His team also focuses on energy transition, energy modeling, providing specializ
 							education by showcasing inspiring role models.</p>
 
 					</div>
-				</a>
+				
 			</div>
 		</div>
 	</div>

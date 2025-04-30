@@ -971,13 +971,13 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 			<li><a href="https://www.phoenixcontact.com/en-in/" target="_blank"><img src="/images/2026/Phoenix.jpg" style="height:100px;">Phoenix Contact</a></li>
 			<li><a href="https://trilliant.com/" target="_blank"><img src="/images/2026/Trilliant.png" style="border: 1px solid #aeb4b2;">Trilliant</a></li>
 			<li><a href="https://stelmec.com/" target="_blank"><img src="/images/2026/Stelmac.png" style="border: 1px solid #aeb4b2; height: 120px;">Stelmec</a></li>
-			<li><a href="https://www.thesaicomputers.com/" target="_blank"><img src="/images/2026/sai-computers.png" style="border: 1px solid #aeb4b2; height: 120px;">Sai Computers</a></li>
+			<li><a href="https://www.thesaicomputers.com/" target="_blank"><img src="/images/2026/Sai.png" style="border: 1px solid #aeb4b2; height: 120px;">Sai Computers</a></li>
 			<li><a href="https://kimbal.io/" target="_blank"><img src="/images/2026/Kimbal.jpeg" style="border: 1px solid #aeb4b2; height: 120px;">Kimbal</a></li>
 			<li><a href="https://havells.com/" target="_blank"><img src="/images/2026/Havells.png" style="border: 1px solid #aeb4b2; height: 120px;">Havells India Pvt Ltd</a></li>
 			<li><a href="https://aewinfra.com/" target="_blank"><img src="/images/2026/allied.png" style="border: 1px solid #aeb4b2; height: 120px;">Allied Engineerings</a></li>
 			<li><a href="https://www.eaton.com/in/en-us.html" target="_blank"><img src="/images/2026/eaton.png" style="border: 1px solid #aeb4b2;">Eaton</a></li>
 			<li><a href="https://www.dnv.com/" target="_blank"><img src="/images/2026/DNV.png" style="border: 1px solid #aeb4b2;">DNV</a></li>
-			<li><a href="https://www.3mindia.in/3M/en_IN/company-in/" target="_blank"><img src="/images/2026/sm-systems.png" style="border: 1px solid #aeb4b2; height: 120px;">SM Systems</a></li>
+			<li><a href="#" target="_blank"><img src="/images/2026/SMSystems.jpg" style="border: 1px solid #aeb4b2; height: 120px;">SM Systems</a></li>
 			<li><a href="https://bentecindia.com/" target="_blank"><img src="/images/2026/Bentec.png" style="border: 1px solid #aeb4b2; height: 120px;">Bentec</a></li>
 			<li><a href="https://www.securemeters.com/" target="_blank"><img src="/images/2026/Secure.jpg" style="border: 1px solid #aeb4b2; height: 120px;">Secure Meters</a></li>
 			<li><a href="https://www.powerxchange.io/" target="_blank"><img src="/images/2026/PowerExchange.jpeg" style="border: 1px solid #aeb4b2;">PowerXchange</a></li>
@@ -991,7 +991,7 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 			<li><a href="https://www.opal-rt.com/" target="_blank"><img src="/images/2026/Opal-RT.jpeg" style="border: 1px solid #aeb4b2;">Opal-RT</a></li>
 			<li><a href="https://www.tekuncorked.com/" target="_blank"><img src="/images/2026/Tekuncorked.jpeg" style="border: 1px solid #aeb4b2;">Tekuncorked</a></li>
 			<li><a href="https://www.rti.org/" target="_blank"><img src="/images/2026/RTIInternation.jpeg" style="height:120px;">RTI International</a></li>
-			<li><a href="https://www.kseb.in/" target="_blank"><img src="/images/2026/kseb.png" style="height:100px;">Kerala State Electricity Board Limited</a></li>
+			<li><a href="https://www.kseb.in/" target="_blank"><img src="/images/2026/KeralaState.jpg" style="height:100px;">Kerala State Electricity Board Limited</a></li>
 			<li><a href="https://www.se.com/in/en/" target="_blank"><img src="/images/2026/Schneider.jpeg" style="border: 1px solid #aeb4b2; height:120px;">Schneider Electric</a></li>
 		</ul>	
 

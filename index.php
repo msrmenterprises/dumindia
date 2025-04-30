@@ -964,6 +964,34 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 			<li><a href="https://www.visiontek.co.in/" target="_blank"><img src="/images/VISIONTEK.jpg" style="border: 1px solid #aeb4b2; height:100px;">VISIONTEK</a></li>
 			<li><a href="" target="_blank"><img src="images/utilities2019/wesco.png">Western Electricity Supply Company of Odisha</a></li>
 			
+			<li><a href="https://www.insolutions.in/" target="_blank"><img src="/images/inventive_logo.png" style="height: 135px;">Inventive Software Solutions Private Limited</a></li>
+        <li><a href="https://www.polarisgrids.com/" target="_blank"><img src="images/Polaris-logo.svg" style="border: 1px solid #aeb4b2; height: 120px;">Polaris Smart Metering</a></li>
+        <li><a href="https://ltptd-des.com/" target="_blank"><img src="/images/LT.png" style="border: 1px solid #aeb4b2; height:120px;">L&T Digital Energy Solutions - Power, Transmission and Distribution</a></li>
+        <li><a href="https://www.phoenixcontact.com/en-in/" target="_blank"><img src="/images/Logo - Phoenix Contact.jpg" style="height:100px;">Phoenix Contact</a></li>
+        <li><a href="https://trilliant.com/" target="_blank"><img src="/images/Trilliant.png" style="border: 1px solid #aeb4b2;">Trilliant</a></li>
+        <li><a href="https://stelmec.com/" target="_blank"><img src="/images/stelmac.png" style="border: 1px solid #aeb4b2; height: 120px;">Stelmec</a></li>
+        <li><a href="https://www.thesaicomputers.com/" target="_blank"><img src="/images/SaiComputers.png" style="border: 1px solid #aeb4b2; height: 120px;">Sai Computers</a></li>
+        <li><a href="https://kimbal.io/" target="_blank"><img src="/images/Kimbal.jpg" style="border: 1px solid #aeb4b2; height: 120px;">Kimbal</a></li>
+        <li><a href="https://havells.com/" target="_blank"><img src="/images/havells.png" style="border: 1px solid #aeb4b2; height: 120px;">Havells India Pvt Ltd</a></li>
+        <li><a href="https://aewinfra.com/" target="_blank"><img src="/images/allied.png" style="border: 1px solid #aeb4b2; height: 120px;">Allied Engineerings</a></li>
+        <li><a href="https://www.eaton.com/in/en-us.html" target="_blank"><img src="/images/eaton.png" style="border: 1px solid #aeb4b2;">Eaton</a></li>
+        <li><a href="https://www.dnv.com/" target="_blank"><img src="/images/DNV.jpg" style="border: 1px solid #aeb4b2;">DNV</a></li>
+        <li><a href="https://www.3mindia.in/3M/en_IN/company-in/" target="_blank"><img src="/images/sm.png" style="border: 1px solid #aeb4b2; height: 120px;">SM Systems</a></li>
+        <li><a href="https://bentecindia.com/" target="_blank"><img src="/images/bentec.png" style="border: 1px solid #aeb4b2; height: 120px;">Bentec</a></li>
+        <li><a href="https://www.securemeters.com/" target="_blank"><img src="/images/secure.png" style="border: 1px solid #aeb4b2; height: 120px;">Secure Meters</a></li>
+        <li><a href="https://www.powerxchange.io/" target="_blank"><img src="/images/powerxchange.jpeg" style="border: 1px solid #aeb4b2;">PowerXchange</a></li>
+        <li><a href="https://genuspower.com/" target="_blank"><img src="/images/genus.png" style="border: 1px solid #aeb4b2;">Genus Power Infrastructures Limited</a></li>
+        <li><a href="https://www.intellismartinfra.in/" target="_blank"><img src="/images/intellismart.png" style="border: 1px solid #aeb4b2;">Intellismart</a></li>
+        <li><a href="https://lteindia.in/" target="_blank"><img src="/images/lakshmi.png" style="border: 1px solid #aeb4b2; height:100px;">Lakshmi Transformers and Electricals</a></li>
+        <li><a href="#" target="_blank"><img src="/images/modern.png" style="border: 1px solid #aeb4b2; height:100px;">Modern Technology</a></li>
+        <li><a href="https://radius.co.in/" target="_blank"><img src="/images/radius.png" style="border: 1px solid #aeb4b2; height:100px;">Radius Synergies International Private Limited</a></li>
+        <li><a href="https://aws.amazon.com/" target="_blank"><img src="/images/AWS_logo_RGB.png" style="border: 1px solid #aeb4b2; height:130px;">Amazon Web Services</a></li>
+        <li><a href="https://www.wirepas.com/" target="_blank"><img src="/images/WIREPASS.png" style="border: 1px solid #aeb4b2; height:120px;">Wirepas</a></li>
+        <li><a href="https://www.opal-rt.com/" target="_blank"><img src="/images/opal-rt.png" style="border: 1px solid #aeb4b2;">Opal-RT</a></li>
+        <li><a href="https://www.tekuncorked.com/" target="_blank"><img src="/images/tekuncorked.png" style="border: 1px solid #aeb4b2;">Tekuncorked</a></li>
+        <li><a href="https://www.rti.org/" target="_blank"><img src="/images/rti.jpg" style="height:120px;">RTI International</a></li>
+        <li><a href="https://www.kseb.in/" target="_blank"><img src="/images/kseb.jpg" style="height:100px;">Kerala State Electricity Board Limited</a></li>
+        <li><a href="https://www.se.com/in/en/" target="_blank"><img src="/images/schneider.png" style="border: 1px solid #aeb4b2; height:120px;">Schneider Electric</a></li>
 		</ul>	
 
 	<!-- <p style="margin-bottom: 50px; margin-top: 20px;">

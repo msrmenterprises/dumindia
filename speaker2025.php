@@ -31,7 +31,7 @@
 
 	
 	<div class="k_cheading">
-		<h1><span class="k_greencolor">SPEAKER OF</span> DUM 2025 </h1>
+		<h1><span class="k_greencolor">SPEAKERS OF</span> DUM 2025 </h1>
 		<img src="images/kborder_bottom.png" alt="">
 	</div>
 	

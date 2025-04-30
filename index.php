@@ -974,7 +974,7 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 			<li><a href="https://www.thesaicomputers.com/" target="_blank"><img src="/images/2026/Sai.png" style="border: 1px solid #aeb4b2; height: 120px;">Sai Computers</a></li>
 			<li><a href="https://kimbal.io/" target="_blank"><img src="/images/2026/Kimbal.jpeg" style="border: 1px solid #aeb4b2; height: 120px;">Kimbal</a></li>
 			<li><a href="https://havells.com/" target="_blank"><img src="/images/2026/Havells.png" style="border: 1px solid #aeb4b2; height: 120px;">Havells India Pvt Ltd</a></li>
-			<li><a href="https://aewinfra.com/" target="_blank"><img src="/images/2026/allied.png" style="border: 1px solid #aeb4b2; height: 120px;">Allied Engineerings</a></li>
+			<li><a href="https://aewinfra.com/" target="_blank"><img src="/images/2026/AlliedEngineering.jpg" style="border: 1px solid #aeb4b2; height: 120px;">Allied Engineerings</a></li>
 			<li><a href="https://www.eaton.com/in/en-us.html" target="_blank"><img src="/images/2026/eaton.png" style="border: 1px solid #aeb4b2;">Eaton</a></li>
 			<li><a href="https://www.dnv.com/" target="_blank"><img src="/images/2026/DNV.png" style="border: 1px solid #aeb4b2;">DNV</a></li>
 			<li><a href="#" target="_blank"><img src="/images/2026/SMSystems.jpg" style="border: 1px solid #aeb4b2; height: 120px;">SM Systems</a></li>

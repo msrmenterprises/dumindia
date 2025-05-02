@@ -168,8 +168,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     <div class="col-sm-2">
     </div>
     <div class="col-sm-4" style="float: right;">
-        <a href="">Date :- 14 - 15 November, 2024</a><br>
-        <a href="">Location:- Lucknow, Uttar Pradesh</a><br>
+        <a href="">Date :- 06 - 07 November, 2025</a><br>
+        <a href="">Location:- Mumbai, Maharashtra</a><br>
         <a href="">Time: 10am to 6pm</a><br>
     </div>
 

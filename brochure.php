@@ -12,7 +12,7 @@
 
 	<div class="k_register k_contact_us">
 		<div class="col-sm-12" style="text-align: center;">
-			<a href="http://dumindia.in/dumpdf/Brochure.pdf" target="_blank"><img src="images/brochure-download-icon.png" alt=""></a>
+			<a href="http://dumindia.in/images/2026/Brochure.pdf" target="_blank"><img src="images/brochure-download-icon.png" alt=""></a>
 		</div>
 		<br>
 		<br>

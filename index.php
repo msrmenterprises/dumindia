@@ -4,9 +4,9 @@
 
 <!-- slider below nav starts here -->
 
-<div class="row k_slider">
+<!-- <div class="row k_slider">
 
-	<!-- <h1>Distribution <br><span class="k_greencolor">Utility Meet</span></h1> -->
+	<h1>Distribution <br><span class="k_greencolor">Utility Meet</span></h1> 
 
 	<br><br>
 
@@ -16,13 +16,13 @@
 
 		<li><a href="images/invite.ics" class="k_green" style="cursor: pointer;" class="pull-left"><i class="fa fa-calendar" aria-hidden="true"></i>06 - 07 November 2025</a></li>
 
-		<!--<li><a data-toggle="modal" data-target="#myModal" class="pull-right" style="cursor: pointer;" ><i class="fa fa-map-marker" aria-hidden="true"></i>Bhubaneswar, Odisha </a></li>
+		<li><a data-toggle="modal" data-target="#myModal" class="pull-right" style="cursor: pointer;" ><i class="fa fa-map-marker" aria-hidden="true"></i>Bhubaneswar, Odisha </a></li>
 
-	    --><li><a data-toggle="modal" data-target="#" class="pull-right" style="cursor: pointer;" ><i class="fa fa-map-marker" aria-hidden="true"></i>Mumbai, Maharashtra, India </a></li>
+	    <li><a data-toggle="modal" data-target="#" class="pull-right" style="cursor: pointer;" ><i class="fa fa-map-marker" aria-hidden="true"></i>Mumbai, Maharashtra, India </a></li>
 
 	</ul>
 
-</div>
+</div> -->
 
 <!-- slider below nav ends here -->
 

@@ -50,13 +50,11 @@ Today, Lucknow is a vibrant city that is.</p> -->
 		KEY OBJECTIVE OF DUM 2025
 	</h1>
 	<ul>
-		<li> <strong> Experience Sharing and Hand Holding each other</strong></li>
-		<li><strong> Leveraging the Digital Data from 250 million Smart Meters for Digitalization of DISCOMs</strong></li>
-		<li><strong> Discuss and Evaluate New and Emerging Technologies, Business Models</strong></li>
-		<li><strong> Monetization Options for DISCOMs</strong></li>
-		<li><strong> Discuss the Distribution Grids Challenges of Managing 10 million Rooftops PV Systems</strong></li>
-		<li><strong> Evaluate Regulatory, Policy, Financial and Business Challenges of DISCOMs</strong></li>
-	</ul>
+    <li><strong>Experience Sharing and Hand Holding Each Other</strong></li>
+    <li><strong>Discuss and Evaluate New and Emerging Technologies, Business Models and Monetization Options for DISCOMs</strong></li>
+    <li><strong>Discuss the Distribution Grids Challenges of Managing Millions of DERs</strong></li>
+    <li><strong>Propose New Regulatory, Policies to Address the Financial and Business Challenges of DISCOMs and Share Successful Interventions to Improve the Health of DISCOMs</strong></li>
+</ul>
 	<h1 class="key_head">
 		KEY HIGHLIGHTS OF DUM 2024
 	</h1>

@@ -89,7 +89,9 @@
 		<img src="images/kborder_bottom.png" alt="">
 	</div>
      <ul class="">		
-	 <li><a href="" target="_blank"><img src="/images/2025/AIDA.png" alt="" style="width:200px; height: 140px;"></a></li>
+	 <li><a href="" target="_blank"><img src="/images/2026/AIDANew.png" alt="" style="width:200px; height: 140px;"></a></li>
+	 <li><a href="#" target="_blank"><img src="images/2026/energydepartment.png" style="border: 1px solid #aeb4b2;">Energy Department of Maharashtra</a></li>
+
 		<!-- <li><a href="https://upneda.org.in/" target="_blank"><img src="images/UP Department of Energy.png" style="width:200px; height: 140px;"></a></li> -->
 		</ul>
 </div>

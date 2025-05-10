@@ -15,7 +15,8 @@
 
 		<br>
 		<ul class="k_confirmed_als">
-			<li><a href="https://aida-india.org/" target="_blank"><img src="images/2026/AIDA.png" style="border: 1px solid #aeb4b2;">AIDA</a></li>
+			<li><a href="https://aida-india.org/" target="_blank"><img src="images/2026/AIDANew.png" style="border: 1px solid #aeb4b2;">AIDA</a></li>
+			<li><a href="#" target="_blank"><img src="images/2026/energydepartment.png" style="border: 1px solid #aeb4b2;">Energy Department of Maharashtra</a></li>
 			 
 			</ul>	
 	</p>

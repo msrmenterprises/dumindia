@@ -404,7 +404,7 @@ display: none;
       <li><a href="">home <span>|</span></a></li>
       <li><a href="http://dumindia.in/key_objective.php">About DUM  <span>|</span></a>
         <ul>
-            <li><a href="key_objective.php">About</a></li>    
+            <li><a href="key_objective.php">About DUM</a></li>    
             <li><a href="brochure.php">DUM Brochure</a></li>
             <li><a href="partners.php">DUM Partners</a></li>		 
             <li><a href="key_themes.php">Key Themes</a></li>

@@ -246,10 +246,7 @@ font-size: 12px;
             <td>GOLD</td>
             <td>9 SQM</td>
         </tr>
-        /* <tr>
-            <td>SILVER</td>
-            <td>Shared Space</td>
-        </tr> */
+       
         <tr>
             <td>START-UP</td>
             <td>Shared Space</td>

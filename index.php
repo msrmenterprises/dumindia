@@ -166,7 +166,7 @@ font-size: 12px;
 
 	</div>
 
-	<p class="k_p">DUM will include plenaries sessions. Invited International Utilities and Knowledge Partners will present on select topics. Case studies and project experiences will be discussed during DUM. Key challenges to Discoms will be compiled and circulated as session themes. Presentations and discussions will be around themes as mentioned in Agenda. For Utility participation please write to <a href="mailto:yashika@indiasmartgrid.org">yashika@indiasmartgrid.org</a></p>
+	<p class="k_p">DUM will include plenary sessions. Invited International Utilities and Knowledge Partners will present on select topics. Case studies and project experiences will be discussed during DUM. Key challenges to Discoms will be compiled and circulated as session themes. Presentations and discussions will be around themes as mentioned in Agenda. For Utility participation please write to <a href="mailto:yashika@indiasmartgrid.org">yashika@indiasmartgrid.org</a></p>
 
    <!-- 	<div class="col-sm-5 img-part"><img src="images/k_keythemes.jpg" alt=""></div> -->
 

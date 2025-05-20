@@ -40,10 +40,10 @@
                 <td style="padding: 10px; border: 1px solid #ddd;">Gold</td>
                 <td style="padding: 10px; border: 1px solid #ddd;">9 SQM</td>
             </tr>
-            <tr>
+            <!-- <tr>
                 <td style="padding: 10px; border: 1px solid #ddd;">Silver</td>
                 <td style="padding: 10px; border: 1px solid #ddd;">Shared Space</td>
-            </tr>
+            </tr> -->
             <tr>
                 <td style="padding: 10px; border: 1px solid #ddd;">Start-Up</td>
                 <td style="padding: 10px; border: 1px solid #ddd;">Shared Space</td>

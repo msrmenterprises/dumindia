@@ -13,6 +13,27 @@
 .k_confirmed_als h5 {text-transform: UPPERCASE;}
 </style>
 <!-- key objective starts here -->
+
+	<div class="row k_inbanner">
+		<img src="images/baner1.jpg" alt="">
+	</div>
+	<div class="row dum_container key_div">
+		<div class="k_cheading">
+			<h1><span class="k_greencolor">DUM 2025</span> Confirmed EXHIBITORS</h1>
+			<img src="images/kborder_bottom.png" alt="">
+		</div>
+		<h5 style="text-align:center"><strong>PLATINUM EXHIBITORS </strong></h5>
+		<br/>
+		<p>
+			<ul class="k_confirmed_als">
+				<li><a href="https://www.tatapower.com/" target="_blank"><img src="/images/tatapower.png" style="border: 1px solid #aeb4b2; height: 120px;">TATA Power</a></li>
+				<li><a href="https://www.mahadiscom.in/en/home/" target="_blank"><img src="/images/MSEDL.png" style="border: 1px solid #aeb4b2; height: 120px;">MSEDL</a></li>
+				<li><a href="https://indiasmartgrid.org/" target="_blank"><img src="/images/ISGF.jpg" style="border: 1px solid #aeb4b2; height:120px;" >ISGF</a></li>
+				
+			</ul>
+		</p> 
+	</div>		
+
 <div class="row k_inbanner">
 	<img src="images/baner1.jpg" alt="">
 </div>

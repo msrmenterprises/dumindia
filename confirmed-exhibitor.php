@@ -34,9 +34,7 @@
 		</p> 
 	</div>		
 
-<div class="row k_inbanner">
-	<img src="images/baner1.jpg" alt="">
-</div>
+
 <div class="row dum_container key_div">
 <div class="k_cheading">
 		<h1><span class="k_greencolor">DUM 2024</span> Confirmed EXHIBITORS</h1>

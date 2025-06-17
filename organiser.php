@@ -91,7 +91,7 @@
      <ul class="">		
 	 <li><a href="" target="_blank"><img src="/images/2026/AIDANew.png" alt="" style="width:200px; height: 140px;"></a></li>
 	 <li><a href="#" target="_blank"><img src="images/2026/energydepartment.png" style="width:75%"></a></li>
-	<li><a href="https://powermin.gov.in/" target="_blank"><img src="/images/2026/CEA.png" style="width: 183px;"></a></li>
+	<li><a href="https://cea.nic.in/?lang=en" target="_blank"><img src="/images/2026/CEA.png" style="width: 183px;"></a></li>
 		<!-- <li><a href="https://upneda.org.in/" target="_blank"><img src="images/UP Department of Energy.png" style="width:200px; height: 140px;"></a></li> -->
 		</ul>
 </div>

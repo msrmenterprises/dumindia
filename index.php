@@ -309,7 +309,7 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 		<li><a href="https://www.niti.gov.in/" target="_blank"><img src="/images/NITI Aayog.png" style="height: 135px;">NITI Aayog</a></li> -->
 		<!--<li><a href="https://www.keralatourism.org/" target="_blank"><img src="/images/Kerala.png" style="height: 135px;">Kerala Tourism</a></li>-->
 		<li><a href='' target="_blank"><img src="images/2026/energydepartment.png">Energy Department of Maharashtra</a></li>
-		<li><a href="https://powermin.gov.in/" target="_blank"><img src="/images/2026/CEA.png" style="width: 183px;">Central Electricity Authority</a></li>
+		<li><a href="https://cea.nic.in/?lang=en" target="_blank"><img src="/images/2026/CEA.png" style="width: 183px;">Central Electricity Authority</a></li>
 		</ul>
 	</div>	
 

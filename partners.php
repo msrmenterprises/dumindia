@@ -29,7 +29,7 @@
 		
 		<li><a href="https://www.tatapower.com/" target="_blank"><img src="images/2024/tatapower.png" style="height: 135px;">Tata Power </a></li>
 		<li><a href="https://www.mahadiscom.in/en/home/" target="_blank"><img src="images/MSEDCL_logo.jpg" style="height:120px;">MSEDCL</a></li>
-		<li><a href="https://powermin.gov.in/" target="_blank"><img src="/images/2026/CEA.png" style="width: 183px;">Central Electricity of Authority</a></li>
+		<li><a href="https://cea.nic.in/?lang=en" target="_blank"><img src="/images/2026/CEA.png" style="width: 183px;">Central Electricity of Authority</a></li>
 		</ul>
 
 </div>	

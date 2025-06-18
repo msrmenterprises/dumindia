@@ -870,7 +870,7 @@ if($pass == "DUM14152024#%")
                 <td>Chair</td>
                 <td>Speech</td>
                 <td><a target="_blank" href="https://youtu.be/PA4pjF1_cNg?si=qUq-hY0WOF5gHo_b">Video</a></td>
-                <td><a target="_blank" href="https://youtu.be/PA4pjF1_cNg?si=qUq-hY0WOF5gHo_b">Photo</a></td>
+                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSfdU">Photo</a></td>
 				<!-- <td></td>
 				<td></td> -->
 				<!--<td><a target="_blank" href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
@@ -1387,7 +1387,7 @@ if($pass == "DUM14152024#%")
             <td>Speaker</td>
             <td>Speech</td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjBSmfgg" class="link">Video</a></td>
-            <td><a target="_blank" href="https://flic.kr/s/aHBqjBSmfgg" class="link">Photos</a></td>
+            <td><a target="_blank" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720322051275/" class="link">Photos</a></td>
 			<!-- <td></td>
 				<td></td> -->
 				<!--<td><a target="_blank" href="dumpdf/2024/12.pdf" target="_blank">View</a></td>

@@ -20,7 +20,7 @@
 
     <!-- Tabs Content -->
     <div class="tab-content" style="width:100%">
-        <div class="tab-pane fade in" id="photos">
+        <div class="tab-pane fade in active" id="photos">
            
 			<div>
 				<h2 style="text-align: center; padding-bottom: 10px;">Glimpses of DUM 2024</h2>

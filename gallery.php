@@ -52,14 +52,20 @@
 	.active{
 		background:#fff;
 	}
-	.gallery-card {
+	.gallery-scroll-container {
+    max-height: 700px;      /* Adjust height as needed */
+    overflow-y: auto;
+    padding-right: 10px;    /* For scrollbar space */
+    margin-bottom: 30px;
+}
+.gallery-card {
     background: #fff;
     border-radius: 8px;
     box-shadow: 0 4px 16px rgba(0,0,0,0.10);
     margin-bottom: 32px;
     padding: 24px 16px;
     text-align: center;
-    /* max-width: 700px; */
+    max-width: 850px;
     margin-left: auto;
     margin-right: auto;
 }
@@ -102,742 +108,743 @@
                 <h4>DISTRIBUTION UTILITY MEET (DUM) 2024 | LUCKNOW, UTTAR PRADESH</h4>
             </div>
 			
-            <div class="row">
-			<div class="col-md-12 gallery-card">
-				<div class="gallery-photo-title">
-					DUM 2024 Inaugural Conference Session 14_NOVEMBER 2024 (THURSDAY)
-				</div>
-				<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720322042883" title="DUM_2024 | Inauguration of Conference and Exhibition | 14 Nov 2024">
-					<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/54149472072_4707f54d02_z.jpg" width="640" height="480" alt="DUM_2024 | Inauguration of Conference and Exhibition | 14 Nov 2024"/>
-				</a>
-				<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-			</div>
-			</div>
-
-			<div class="row">
-			<div class="col-md-12 gallery-card">
-				<div class="gallery-photo-title">
-					DUM 2024 Exhibition Inaugural 14_November 2024 (Thursday)
-				</div>
-				<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720322052811" title="DUM_2024 | Exhibition Inaugural | 14 Nov 2024">
-					<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/54151870057_66bd3bd56b_z.jpg" width="640" height="480" alt="DUM_2024 | Exhibition Inaugural | 14 Nov 2024"/>
-				</a>
-				<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-			</div>
-			</div>
-
-			<div class="row">
-			<div class="col-md-12 gallery-card">
-				<div class="gallery-photo-title">
-					DUM 2024 Session 1: Special Plenary Session – Sustainability of DISCOMs (Part 1) 14_November 2024 (Thursday)_11:30~13:00
-				</div>
-				<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720322029922" title="DUM_2024 | Session1: Special Plenary Session - Sustainability of DISCOMs (Part 1) | 11:30 ~ 13:00 IST | 14 Nov 2024">
-					<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/54150894605_9eedaf10a8_z.jpg" width="640" height="480" alt="DUM_2024 | Session1: Special Plenary Session - Sustainability of DISCOMs (Part 1) | 11:30 ~ 13:00 IST | 14 Nov 2024"/>
-				</a>
-				<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-			</div>
-			</div>
-
-			<div class="row">
-			<div class="col-md-12 gallery-card">
-				<div class="gallery-photo-title">
-					DUM 2024 Session 2: Stories from Solarization of Agricultural Feeders and Other Notable Experiences from The Field_14 November 2024 (Thursday)_14:00~15:30
-				</div>
-				<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720322030077" title="DUM_2024 | Session 2: Stories From Solarization of Agricultural Feeders and Other Notable Experiences From The Field | 14:00 ~ 15:30 IST | 14 Nov 2024">
-					<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/54150454491_5363d7b6ba_z.jpg" width="640" height="480" alt="DUM_2024 | Session 2: Stories From Solarization of Agricultural Feeders and Other Notable Experiences From The Field | 14:00 ~ 15:30 IST | 14 Nov 2024"/>
-				</a>
-				<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-			</div>
-			</div>
-
-			<div class="row">
-			<div class="col-md-12 gallery-card">
-				<div class="gallery-photo-title">
-					DUM 2024 Session 3: Leveraging 250 Million Smart Meters to Drive Digitalization of DISCOMs_14 November 2024 (Thursday)_15:30~17:00
-				</div>
-				<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720322048309" title="DUM_2024 | Session 3: Leveraging 250 Million Smart Meters to Drive Digitalization of DISCOMs | Session Partner: Polaris Grids | 15:30 ~ 17:00 IST | 14 Nov 2024">
-					<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/54150755378_6bbc646c9c_z.jpg" width="640" height="480" alt="DUM_2024 | Session 3: Leveraging 250 Million Smart Meters to Drive Digitalization of DISCOMs | Session Partner: Polaris Grids | 15:30 ~ 17:00 IST | 14 Nov 2024"/>
-				</a>
-				<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-			</div>
-			</div>
-
-			<div class="row">
-			<div class="col-md-12 gallery-card">
-				<div class="gallery-photo-title">
-					DUM 2024 Session 4: Emerging Technologies for Zero Power Sector_14 November 2024 (Thursday)_17:00~18:30
-				</div>
-				<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720322029496" title="DUM_2024 | Session 4: Emerging Technologies for Net Zero Power Sector | Session Partner: L&T Digital Energy Solutions, PT&D | 17:00 ~ 18:30 IST | 14 Nov 2024">
-					<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/54150808844_0d97bbbd57_z.jpg" width="640" height="480" alt="DUM_2024 | Session 4: Emerging Technologies for Net Zero Power Sector | Session Partner: L&T Digital Energy Solutions, PT&D | 17:00 ~ 18:30 IST | 14 Nov 2024"/>
-				</a>
-				<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-			</div>
-			</div>
-
-			<div class="row">
-			<div class="col-md-12 gallery-card">
-				<div class="gallery-photo-title">
-					Cultural Program_14 November 2024 (Thursday)_19:30~23:00
-				</div>
-				<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720322029971" title="DUM_2024 | Cultural Program | 14 Nov 2024">
-					<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/54150847584_e797775d5c_z.jpg" width="640" height="480" alt="DUM_2024 | Cultural Program | 14 Nov 2024"/>
-				</a>
-				<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-			</div>
-			</div>
-
-			<div class="row">
-			<div class="col-md-12 gallery-card">
-				<div class="gallery-photo-title">
-					DUM 2024 Session 5: Special Plenary Session – Sustainability of DISCOMs (Part 2)_15 November 2024 (Friday)_10:00~11:30
-				</div>
-				<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720322031012" title="DUM_2024 | Session 5: Special Plenary Session - Sustainability of DISCOMs (Part 2) | 10:00 ~ 11:30 IST | 15 Nov 2024">
-					<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/54149697787_47bb655b51_z.jpg" width="640" height="480" alt="DUM_2024 | Session 5: Special Plenary Session - Sustainability of DISCOMs (Part 2) | 10:00 ~ 11:30 IST | 15 Nov 2024"/>
-				</a>
-				<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-			</div>
-			</div>
-
-			<div class="row">
-			<div class="col-md-12 gallery-card">
-				<div class="gallery-photo-title">
-					DUM Session 6: Electric Vehicle (EV) Charging Infrastructure and Grid Integration (Session Partner: L&T PTD Digital Energy Solutions)_15 November 2024 (Friday)_11:30~13:00
-				</div>
-				<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720322049374" title="DUM_2024 | Session 6: Electric Vehicle (EV) Charging Infrastructure and Grid Integration | 11:30 ~ 13:00 IST | 15 Nov 2024">
-					<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/54149712492_21c654aab4_z.jpg" width="640" height="480" alt="DUM_2024 | Session 6: Electric Vehicle (EV) Charging Infrastructure and Grid Integration | 11:30 ~ 13:00 IST | 15 Nov 2024"/>
-				</a>
-				<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-			</div>
-			</div>
-
-			<div class="row">
-			<div class="col-md-12 gallery-card">
-				<div class="gallery-photo-title">
-					DUM 2024 Session 7: RE, EV and Grid Stability and Challenges of 10 Million Rooftop Solar PV Systems (Session Partner: GIZ)_15 November 2024 (Friday)_14:00~16:00
-				</div>
-				<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720322031912" title="DUM_2024 | Session 7: RE, EV and Grid Stability and Challenges of 10 Million Rooftop Solar PV Systems | Session Partner: GIZ | 14:00 ~ 16:00 IST | 15 Nov 2024">
-					<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/54151092945_1b41e04d66_z.jpg" width="640" height="480" alt="DUM_2024 | Session 7: RE, EV and Grid Stability and Challenges of 10 Million Rooftop Solar PV Systems | Session Partner: GIZ | 14:00 ~ 16:00 IST | 15 Nov 2024"/>
-				</a>
-				<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-			</div>
-			</div>
-
-			<div class="row">
-			<div class="col-md-12 gallery-card">
-				<div class="gallery-photo-title">
-					DUM 2024 Valedictory Session_18 November 2022 (Friday)_16:30~17:30
-				</div>
-				<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720322051275" title="DUM_2024 | Valedictory Session | 15 Nov 2024">
-					<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/54152717368_81cdc5b68e_z.jpg" width="640" height="480" alt="DUM_2024 | Valedictory Session | 15 Nov 2024"/>
-				</a>
-				<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-			</div>
-			</div>
-
-			<!-- DUM 2023 Section -->
-			<div class="row">
+			<div class="gallery-scroll-container">
+				<div class="row">
 				<div class="col-md-12 gallery-card">
 					<div class="gallery-photo-title">
-						DUM 2023 Inauguration of Conference and Exhibition
+						DUM 2024 Inaugural Conference Session 14_NOVEMBER 2024 (THURSDAY)
 					</div>
-					<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720312522296" title="DUM_2023 | Inauguration of Conference and Exhibition | 02 Nov 2023">
-						<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/53317771071_523428b63c_z.jpg" width="480" height="345" alt="DUM_2023 | Inauguration of Conference and Exhibition | 02 Nov 2023"/>
+					<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720322042883" title="DUM_2024 | Inauguration of Conference and Exhibition | 14 Nov 2024">
+						<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/54149472072_4707f54d02_z.jpg" width="640" height="480" alt="DUM_2024 | Inauguration of Conference and Exhibition | 14 Nov 2024"/>
 					</a>
 					<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 				</div>
-			</div>
+				</div>
 
-			<div class="row">
+				<div class="row">
 				<div class="col-md-12 gallery-card">
 					<div class="gallery-photo-title">
-						DUM 2023 Plenary Session: Parallel Licenses and Other Emerging Opportunities to Discoms (Session Partner: RTI-INDIA)
+						DUM 2024 Exhibition Inaugural 14_November 2024 (Thursday)
 					</div>
-					<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720312517050" title="DUM_2023 | Plenary Session: Parallel Licenses and Other Emerging Opportunities to Discoms (Session Partner: RTI-INDIA) | 02 Nov 2023">
-						<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/53318016688_630db1e3a3_z.jpg" width="480" height="345" alt="DUM_2023 | Plenary Session: Parallel Licenses and Other Emerging Opportunities to Discoms (Session Partner: RTI-INDIA) | 02 Nov 2023"/>
+					<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720322052811" title="DUM_2024 | Exhibition Inaugural | 14 Nov 2024">
+						<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/54151870057_66bd3bd56b_z.jpg" width="640" height="480" alt="DUM_2024 | Exhibition Inaugural | 14 Nov 2024"/>
 					</a>
 					<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 				</div>
-			</div>
+				</div>
 
-			<div class="row">
+				<div class="row">
 				<div class="col-md-12 gallery-card">
 					<div class="gallery-photo-title">
-						DUM 2023 Session-1: Growth of RE and EV; and The Plan for Enhancing Grid Flexibility (Session Partner: GIZ)
+						DUM 2024 Session 1: Special Plenary Session – Sustainability of DISCOMs (Part 1) 14_November 2024 (Thursday)_11:30~13:00
 					</div>
-					<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720312516227" title="DUM_2023 | Session-1: Growth of RE and EV; and The Plan for Enhancing Grid Flexibility (Session Partner: GIZ) | 02 Nov 2023">
-						<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/53318154159_d80cfa2d82_z.jpg" width="480" height="345" alt="DUM_2023 | Session-1: Growth of RE and EV; and The Plan for Enhancing Grid Flexibility (Session Partner: GIZ) | 02 Nov 2023"/>
+					<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720322029922" title="DUM_2024 | Session1: Special Plenary Session - Sustainability of DISCOMs (Part 1) | 11:30 ~ 13:00 IST | 14 Nov 2024">
+						<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/54150894605_9eedaf10a8_z.jpg" width="640" height="480" alt="DUM_2024 | Session1: Special Plenary Session - Sustainability of DISCOMs (Part 1) | 11:30 ~ 13:00 IST | 14 Nov 2024"/>
 					</a>
 					<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 				</div>
-			</div>
+				</div>
 
-			<div class="row">
+				<div class="row">
 				<div class="col-md-12 gallery-card">
 					<div class="gallery-photo-title">
-						DUM 2023 Session-2: Discom Collaboration Platform for Economic Procurement (Session Partner: KSEBL)
+						DUM 2024 Session 2: Stories from Solarization of Agricultural Feeders and Other Notable Experiences from The Field_14 November 2024 (Thursday)_14:00~15:30
 					</div>
-					<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720312516567" title="DUM_2023 | Session-2: Discom Collaboration Platform for Economic Procurement (Session Partner: KSEBL) | 02 Nov 2023">
-						<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/53318188489_fd4acecb7e_z.jpg" width="480" height="345" alt="DUM_2023 | Session-2: Discom Collaboration Platform for Economic Procurement (Session Partner: KSEBL) | 02 Nov 2023"/>
+					<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720322030077" title="DUM_2024 | Session 2: Stories From Solarization of Agricultural Feeders and Other Notable Experiences From The Field | 14:00 ~ 15:30 IST | 14 Nov 2024">
+						<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/54150454491_5363d7b6ba_z.jpg" width="640" height="480" alt="DUM_2024 | Session 2: Stories From Solarization of Agricultural Feeders and Other Notable Experiences From The Field | 14:00 ~ 15:30 IST | 14 Nov 2024"/>
 					</a>
 					<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 				</div>
-			</div>
+				</div>
 
-			<div class="row">
+				<div class="row">
 				<div class="col-md-12 gallery-card">
 					<div class="gallery-photo-title">
-						DUM 2023 Session-3: Planning for Transport Electrification
+						DUM 2024 Session 3: Leveraging 250 Million Smart Meters to Drive Digitalization of DISCOMs_14 November 2024 (Thursday)_15:30~17:00
 					</div>
-					<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720312534598" title="DUM_2023 | Session-3: Planning for Transport Electrification | 02 Nov 2023">
-						<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/53317843506_7d4fdef945_z.jpg" width="480" height="345" alt="DUM_2023 | Session-3: Planning for Transport Electrification | 02 Nov 2023"/>
+					<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720322048309" title="DUM_2024 | Session 3: Leveraging 250 Million Smart Meters to Drive Digitalization of DISCOMs | Session Partner: Polaris Grids | 15:30 ~ 17:00 IST | 14 Nov 2024">
+						<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/54150755378_6bbc646c9c_z.jpg" width="640" height="480" alt="DUM_2024 | Session 3: Leveraging 250 Million Smart Meters to Drive Digitalization of DISCOMs | Session Partner: Polaris Grids | 15:30 ~ 17:00 IST | 14 Nov 2024"/>
 					</a>
 					<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 				</div>
-			</div>
+				</div>
 
-			<div class="row">
+				<div class="row">
 				<div class="col-md-12 gallery-card">
 					<div class="gallery-photo-title">
-						DUM 2023 Session-4: Rollout of 250 Million Smart Meters – Progress and Challenges (Session Partner: WIREPAS)
+						DUM 2024 Session 4: Emerging Technologies for Zero Power Sector_14 November 2024 (Thursday)_17:00~18:30
 					</div>
-					<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720312516822" title="DUM_2023 | Session-4: Rollout of 250 Million Smart Meters – Progress and Challenges (Session Partner: WIREPAS) | 03 Nov 2023">
-						<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/53318206009_cdca4464e0_z.jpg" width="480" height="345" alt="DUM_2023 | Session-4: Rollout of 250 Million Smart Meters – Progress and Challenges (Session Partner: WIREPAS) | 03 Nov 2023"/>
+					<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720322029496" title="DUM_2024 | Session 4: Emerging Technologies for Net Zero Power Sector | Session Partner: L&T Digital Energy Solutions, PT&D | 17:00 ~ 18:30 IST | 14 Nov 2024">
+						<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/54150808844_0d97bbbd57_z.jpg" width="640" height="480" alt="DUM_2024 | Session 4: Emerging Technologies for Net Zero Power Sector | Session Partner: L&T Digital Energy Solutions, PT&D | 17:00 ~ 18:30 IST | 14 Nov 2024"/>
 					</a>
 					<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 				</div>
-			</div>
+				</div>
 
-			<div class="row">
+				<div class="row">
 				<div class="col-md-12 gallery-card">
 					<div class="gallery-photo-title">
-						DUM 2023 Session-5: Disaster Management and Climate Readiness of Utilities
+						Cultural Program_14 November 2024 (Thursday)_19:30~23:00
 					</div>
-					<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720312517172" title="DUM_2023 | Session-5: Disaster Management and Climate Readiness of Utilities | 03 Nov 2023">
-						<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/53318106418_96560b5743_z.jpg" width="480" height="345" alt="DUM_2023 | Session-5: Disaster Management and Climate Readiness of Utilities | 03 Nov 2023"/>
+					<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720322029971" title="DUM_2024 | Cultural Program | 14 Nov 2024">
+						<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/54150847584_e797775d5c_z.jpg" width="640" height="480" alt="DUM_2024 | Cultural Program | 14 Nov 2024"/>
 					</a>
 					<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 				</div>
-			</div>
+				</div>
 
-			<div class="row">
+				<div class="row">
 				<div class="col-md-12 gallery-card">
 					<div class="gallery-photo-title">
-						DUM 2023 Session-6: New Innovations for Net Zero Power Sector (Session Partner: L&T PTD Digital Energy Solutions)
+						DUM 2024 Session 5: Special Plenary Session – Sustainability of DISCOMs (Part 2)_15 November 2024 (Friday)_10:00~11:30
 					</div>
-					<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720312517282" title="DUM_2023 | Session-6: New Innovations for Net Zero Power Sector (Session Partner: L&T PTD Digital Energy Solutions) | 03 Nov 2023">
-						<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/53317882311_7b1f121d29_z.jpg" width="480" height="345" alt="DUM_2023 | Session-6: New Innovations for Net Zero Power Sector (Session Partner: L&T PTD Digital Energy Solutions) | 03 Nov 2023"/>
+					<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720322031012" title="DUM_2024 | Session 5: Special Plenary Session - Sustainability of DISCOMs (Part 2) | 10:00 ~ 11:30 IST | 15 Nov 2024">
+						<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/54149697787_47bb655b51_z.jpg" width="640" height="480" alt="DUM_2024 | Session 5: Special Plenary Session - Sustainability of DISCOMs (Part 2) | 10:00 ~ 11:30 IST | 15 Nov 2024"/>
 					</a>
 					<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 				</div>
-			</div>
+				</div>
 
-			<div class="row">
+				<div class="row">
 				<div class="col-md-12 gallery-card">
 					<div class="gallery-photo-title">
-						DUM 2023 Session-7: Rise of The "Prosumer" and Prosumer Engagement Strategies for Net Zero Power Systems
+						DUM Session 6: Electric Vehicle (EV) Charging Infrastructure and Grid Integration (Session Partner: L&T PTD Digital Energy Solutions)_15 November 2024 (Friday)_11:30~13:00
 					</div>
-					<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720312517502" title="DUM_2023 | Session-7: Rise of The "Prosumer" and Prosumer Engagement Strategies for Net Zero Power Systems | 03 Nov 2023">
-						<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/53318140658_83efaa12a1_z.jpg" width="480" height="345" alt="DUM_2023 | Session-7: Rise of The "Prosumer" and Prosumer Engagement Strategies for Net Zero Power Systems | 03 Nov 2023"/>
+					<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720322049374" title="DUM_2024 | Session 6: Electric Vehicle (EV) Charging Infrastructure and Grid Integration | 11:30 ~ 13:00 IST | 15 Nov 2024">
+						<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/54149712492_21c654aab4_z.jpg" width="640" height="480" alt="DUM_2024 | Session 6: Electric Vehicle (EV) Charging Infrastructure and Grid Integration | 11:30 ~ 13:00 IST | 15 Nov 2024"/>
 					</a>
 					<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 				</div>
-			</div>
+				</div>
 
-			<!-- DUM 2022 Section -->
-			<div class="row">
+				<div class="row">
 				<div class="col-md-12 gallery-card">
 					<div class="gallery-photo-title">
-						DUM 2022: Inaugural Session
+						DUM 2024 Session 7: RE, EV and Grid Stability and Challenges of 10 Million Rooftop Solar PV Systems (Session Partner: GIZ)_15 November 2024 (Friday)_14:00~16:00
 					</div>
-					<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720303881263" title="DUM | Inaugural Session | 17 November 2022">
-						<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/52514252680_eeb9ea16ec_z.jpg" width="480" height="345" alt="DUM | Inaugural Session | 17 November 2022"/>
+					<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720322031912" title="DUM_2024 | Session 7: RE, EV and Grid Stability and Challenges of 10 Million Rooftop Solar PV Systems | Session Partner: GIZ | 14:00 ~ 16:00 IST | 15 Nov 2024">
+						<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/54151092945_1b41e04d66_z.jpg" width="640" height="480" alt="DUM_2024 | Session 7: RE, EV and Grid Stability and Challenges of 10 Million Rooftop Solar PV Systems | Session Partner: GIZ | 14:00 ~ 16:00 IST | 15 Nov 2024"/>
 					</a>
 					<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 				</div>
-			</div>
+				</div>
 
-			<div class="row">
+				<div class="row">
 				<div class="col-md-12 gallery-card">
 					<div class="gallery-photo-title">
-						DUM 2022: Session -1: Energy Transition Challenges to Discoms
+						DUM 2024 Valedictory Session_18 November 2022 (Friday)_16:30~17:30
 					</div>
-					<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720303883158" title="DUM | Session -1: Energy Transition Challenges to Discoms | 17 November 2022">
-						<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/52514209284_1065af9406_z.jpg" width="480" height="345" alt="DUM | Session -1: Energy Transition Challenges to Discoms | 17 November 2022"/>
+					<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720322051275" title="DUM_2024 | Valedictory Session | 15 Nov 2024">
+						<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/54152717368_81cdc5b68e_z.jpg" width="640" height="480" alt="DUM_2024 | Valedictory Session | 15 Nov 2024"/>
 					</a>
 					<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 				</div>
-			</div>
+				</div>
 
-			<div class="row">
-				<div class="col-md-12 gallery-card">
-					<div class="gallery-photo-title">
-						DUM 2022: Session - 2: AMI Rollout Plans and Challenges for Discoms
+				<!-- DUM 2023 Section -->
+				<div class="row">
+					<div class="col-md-12 gallery-card">
+						<div class="gallery-photo-title">
+							DUM 2023 Inauguration of Conference and Exhibition
+						</div>
+						<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720312522296" title="DUM_2023 | Inauguration of Conference and Exhibition | 02 Nov 2023">
+							<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/53317771071_523428b63c_z.jpg" width="480" height="345" alt="DUM_2023 | Inauguration of Conference and Exhibition | 02 Nov 2023"/>
+						</a>
+						<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 					</div>
-					<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720303867336" title="DUM | Session - 2: AMI Rollout Plans and Challenges for Discoms | 17 November 2022">
-						<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/52514435305_5c6f0aa70f_z.jpg" width="480" height="345" alt="DUM | Session - 2: AMI Rollout Plans and Challenges for Discoms | 17 November 2022"/>
-					</a>
-					<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 				</div>
-			</div>
 
-			<div class="row">
-				<div class="col-md-12 gallery-card">
-					<div class="gallery-photo-title">
-						DUM 2022: Session - 3: New Electricity Act Envisaging Separation of Carriage and Content and Retail Competition
+				<div class="row">
+					<div class="col-md-12 gallery-card">
+						<div class="gallery-photo-title">
+							DUM 2023 Plenary Session: Parallel Licenses and Other Emerging Opportunities to Discoms (Session Partner: RTI-INDIA)
+						</div>
+						<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720312517050" title="DUM_2023 | Plenary Session: Parallel Licenses and Other Emerging Opportunities to Discoms (Session Partner: RTI-INDIA) | 02 Nov 2023">
+							<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/53318016688_630db1e3a3_z.jpg" width="480" height="345" alt="DUM_2023 | Plenary Session: Parallel Licenses and Other Emerging Opportunities to Discoms (Session Partner: RTI-INDIA) | 02 Nov 2023"/>
+						</a>
+						<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 					</div>
-					<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720303883548" title="DUM | Session - 3: New Electricity Act Envisaging Separation of Carriage and Content and Retail Competition | 17 November 2022">
-						<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/52514508298_04d69a6ba7_z.jpg" width="480" height="345" alt="DUM | Session - 3: New Electricity Act Envisaging Separation of Carriage and Content and Retail Competition | 17 November 2022"/>
-					</a>
-					<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 				</div>
-			</div>
 
-			<div class="row">
-				<div class="col-md-12 gallery-card">
-					<div class="gallery-photo-title">
-						DUM 2022: Special Plenary Session: Distribution Sector Reforms - Recent Experiences and Challenges
+				<div class="row">
+					<div class="col-md-12 gallery-card">
+						<div class="gallery-photo-title">
+							DUM 2023 Session-1: Growth of RE and EV; and The Plan for Enhancing Grid Flexibility (Session Partner: GIZ)
+						</div>
+						<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720312516227" title="DUM_2023 | Session-1: Growth of RE and EV; and The Plan for Enhancing Grid Flexibility (Session Partner: GIZ) | 02 Nov 2023">
+							<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/53318154159_d80cfa2d82_z.jpg" width="480" height="345" alt="DUM_2023 | Session-1: Growth of RE and EV; and The Plan for Enhancing Grid Flexibility (Session Partner: GIZ) | 02 Nov 2023"/>
+						</a>
+						<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 					</div>
-					<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720303863315" title="DUM | Special Plenary Session: Distribution Sector Reforms - Recent Experiences and Challenges | 17 November 2022">
-						<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/52513969106_65c23f7993_z.jpg" width="480" height="345" alt="DUM | Special Plenary Session: Distribution Sector Reforms - Recent Experiences and Challenges | 17 November 2022"/>
-					</a>
-					<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 				</div>
-			</div>
 
-			<div class="row">
-				<div class="col-md-12 gallery-card">
-					<div class="gallery-photo-title">
-						DUM 2022: Cultural Program
+				<div class="row">
+					<div class="col-md-12 gallery-card">
+						<div class="gallery-photo-title">
+							DUM 2023 Session-2: Discom Collaboration Platform for Economic Procurement (Session Partner: KSEBL)
+						</div>
+						<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720312516567" title="DUM_2023 | Session-2: Discom Collaboration Platform for Economic Procurement (Session Partner: KSEBL) | 02 Nov 2023">
+							<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/53318188489_fd4acecb7e_z.jpg" width="480" height="345" alt="DUM_2023 | Session-2: Discom Collaboration Platform for Economic Procurement (Session Partner: KSEBL) | 02 Nov 2023"/>
+						</a>
+						<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 					</div>
-					<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720304081691" title="DUM_2022 | Cultural Program | 17 November 2022">
-						<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/52533494810_bbc196348c_z.jpg" width="480" height="345" alt="DUM_2022 | Cultural Program | 17 November 2022"/>
-					</a>
-					<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 				</div>
-			</div>
 
-			<div class="row">
-				<div class="col-md-12 gallery-card">
-					<div class="gallery-photo-title">
-						DUM 2022: Session - 4: Model Asset Management Guidelines for Indian Discoms
+				<div class="row">
+					<div class="col-md-12 gallery-card">
+						<div class="gallery-photo-title">
+							DUM 2023 Session-3: Planning for Transport Electrification
+						</div>
+						<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720312534598" title="DUM_2023 | Session-3: Planning for Transport Electrification | 02 Nov 2023">
+							<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/53317843506_7d4fdef945_z.jpg" width="480" height="345" alt="DUM_2023 | Session-3: Planning for Transport Electrification | 02 Nov 2023"/>
+						</a>
+						<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 					</div>
-					<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720303884548" title="DUM | Session - 4: Model Asset Management Guidelines for Indian Discoms | 18 November 2022">
-						<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/52514316539_2d3d2222e1_z.jpg" width="480" height="345" alt="DUM | Session - 4: Model Asset Management Guidelines for Indian Discoms | 18 November 2022"/>
-					</a>
-					<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 				</div>
-			</div>
 
-			<div class="row">
-				<div class="col-md-12 gallery-card">
-					<div class="gallery-photo-title">
-						DUM 2022: Session - 5: Climate Change Readiness of Discoms
+				<div class="row">
+					<div class="col-md-12 gallery-card">
+						<div class="gallery-photo-title">
+							DUM 2023 Session-4: Rollout of 250 Million Smart Meters – Progress and Challenges (Session Partner: WIREPAS)
+						</div>
+						<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720312516822" title="DUM_2023 | Session-4: Rollout of 250 Million Smart Meters – Progress and Challenges (Session Partner: WIREPAS) | 03 Nov 2023">
+							<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/53318206009_cdca4464e0_z.jpg" width="480" height="345" alt="DUM_2023 | Session-4: Rollout of 250 Million Smart Meters – Progress and Challenges (Session Partner: WIREPAS) | 03 Nov 2023"/>
+						</a>
+						<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 					</div>
-					<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720303869616" title="DUM | Session - 5: Climate Change Readiness of Discoms | 18 November 2022">
-						<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/52514622505_af6edc0c24_z.jpg" width="480" height="345" alt="DUM | Session - 5: Climate Change Readiness of Discoms | 18 November 2022"/>
-					</a>
-					<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 				</div>
-			</div>
 
-			<div class="row">
-				<div class="col-md-12 gallery-card">
-					<div class="gallery-photo-title">
-						DUM 2022: Session - 6: Customer Expectations, Supply Reliability, Safety and Service Delivery Challenges
+				<div class="row">
+					<div class="col-md-12 gallery-card">
+						<div class="gallery-photo-title">
+							DUM 2023 Session-5: Disaster Management and Climate Readiness of Utilities
+						</div>
+						<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720312517172" title="DUM_2023 | Session-5: Disaster Management and Climate Readiness of Utilities | 03 Nov 2023">
+							<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/53318106418_96560b5743_z.jpg" width="480" height="345" alt="DUM_2023 | Session-5: Disaster Management and Climate Readiness of Utilities | 03 Nov 2023"/>
+						</a>
+						<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 					</div>
-					<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720303872467" title="DUM | Session - 6: Customer Expectations, Supply Reliability, Safety and Service Delivery Challenges | 18 November 2022">
-						<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/52514695423_b33ac0e8a7_z.jpg" width="480" height="345" alt="DUM | Session - 6: Customer Expectations, Supply Reliability, Safety and Service Delivery Challenges | 18 November 2022"/>
-					</a>
-					<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 				</div>
-			</div>
 
-			<div class="row">
-				<div class="col-md-12 gallery-card">
-					<div class="gallery-photo-title">
-						DUM 2022: Session - 7: New and Emerging Technologies for Electric Utilities
+				<div class="row">
+					<div class="col-md-12 gallery-card">
+						<div class="gallery-photo-title">
+							DUM 2023 Session-6: New Innovations for Net Zero Power Sector (Session Partner: L&T PTD Digital Energy Solutions)
+						</div>
+						<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720312517282" title="DUM_2023 | Session-6: New Innovations for Net Zero Power Sector (Session Partner: L&T PTD Digital Energy Solutions) | 03 Nov 2023">
+							<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/53317882311_7b1f121d29_z.jpg" width="480" height="345" alt="DUM_2023 | Session-6: New Innovations for Net Zero Power Sector (Session Partner: L&T PTD Digital Energy Solutions) | 03 Nov 2023"/>
+						</a>
+						<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 					</div>
-					<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720303872557" title="DUM | Session - 7: New and Emerging Technologies for Electric Utilities | 18 November 2022">
-						<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/52514426624_6cc0cb276b_z.jpg" width="480" height="345" alt="DUM | Session - 7: New and Emerging Technologies for Electric Utilities | 18 November 2022"/>
-					</a>
-					<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 				</div>
-			</div>
 
-			<div class="row">
-				<div class="col-md-12 gallery-card">
-					<div class="gallery-photo-title">
-						DUM 2022: Valedictory Session
+				<div class="row">
+					<div class="col-md-12 gallery-card">
+						<div class="gallery-photo-title">
+							DUM 2023 Session-7: Rise of The "Prosumer" and Prosumer Engagement Strategies for Net Zero Power Systems
+						</div>
+						<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720312517502" title="DUM_2023 | Session-7: Rise of The "Prosumer" and Prosumer Engagement Strategies for Net Zero Power Systems | 03 Nov 2023">
+							<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/53318140658_83efaa12a1_z.jpg" width="480" height="345" alt="DUM_2023 | Session-7: Rise of The "Prosumer" and Prosumer Engagement Strategies for Net Zero Power Systems | 03 Nov 2023"/>
+						</a>
+						<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 					</div>
-					<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720303924937" title="DUM | Session: Valedictory | 18 November 2022">
-						<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/52519088425_1c429a3d6c_z.jpg" width="480" height="345" alt="DUM | Session: Valedictory | 18 November 2022"/>
-					</a>
-					<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 				</div>
-			</div>
 
-			<div class="row">
-				<div class="col-md-12 gallery-card">
-					<div class="gallery-photo-title">
-						DUM 2022: Exhibition Inaugural
+				<!-- DUM 2022 Section -->
+				<div class="row">
+					<div class="col-md-12 gallery-card">
+						<div class="gallery-photo-title">
+							DUM 2022: Inaugural Session
+						</div>
+						<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720303881263" title="DUM | Inaugural Session | 17 November 2022">
+							<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/52514252680_eeb9ea16ec_z.jpg" width="480" height="345" alt="DUM | Inaugural Session | 17 November 2022"/>
+						</a>
+						<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 					</div>
-					<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720303891590" title="DUM_2022 | Exhibition Inaugural | 17 November 2022">
-						<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/52516372181_0606812fe7_z.jpg" width="480" height="345" alt="DUM_2022 | Exhibition Inaugural | 17 November 2022"/>
-					</a>
-					<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 				</div>
-			</div>
 
-			<div class="row">
-				<div class="col-md-12 gallery-card">
-					<div class="gallery-photo-title">
-						DUM 2022: Event Branding
+				<div class="row">
+					<div class="col-md-12 gallery-card">
+						<div class="gallery-photo-title">
+							DUM 2022: Session -1: Energy Transition Challenges to Discoms
+						</div>
+						<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720303883158" title="DUM | Session -1: Energy Transition Challenges to Discoms | 17 November 2022">
+							<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/52514209284_1065af9406_z.jpg" width="480" height="345" alt="DUM | Session -1: Energy Transition Challenges to Discoms | 17 November 2022"/>
+						</a>
+						<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 					</div>
-					<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720303980683" title="DUM_2022 | Event Branding | 17-18 November 2022">
-						<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/52522170766_4cf86f7f20_z.jpg" width="480" height="345" alt="DUM_2022 | Event Branding | 17-18 November 2022"/>
-					</a>
-					<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 				</div>
-			</div>
-			<!-- DUM 2021 Section -->
-			<div class="row">
-				<div class="col-md-12 gallery-card">
-					<div class="gallery-photo-title">
-						DUM 2021: Inaugural Session
-					</div>
-					<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72157720166809989" title="DUM 2021: 18 November 2021 (Thursday)_10.30~11.30_INAUGURAL SESSION">
-						<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/51697356506_6921cf2bfa.jpg" width="480" height="345" alt="DUM 2021: 18 November 2021 (Thursday)_10.30~11.30_INAUGURAL SESSION"/>
-					</a>
-					<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-				</div>
-			</div>
 
-			<div class="row">
-				<div class="col-md-12 gallery-card">
-					<div class="gallery-photo-title">
-						DUM 2021: Session - 1: RDSS Program by Gol for DISCOMs
+				<div class="row">
+					<div class="col-md-12 gallery-card">
+						<div class="gallery-photo-title">
+							DUM 2022: Session - 2: AMI Rollout Plans and Challenges for Discoms
+						</div>
+						<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720303867336" title="DUM | Session - 2: AMI Rollout Plans and Challenges for Discoms | 17 November 2022">
+							<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/52514435305_5c6f0aa70f_z.jpg" width="480" height="345" alt="DUM | Session - 2: AMI Rollout Plans and Challenges for Discoms | 17 November 2022"/>
+						</a>
+						<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 					</div>
-					<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72157720172667811" title="DUM 2021: 18 November 2021 (Thursday)_11:30~13:30_SESSION - 1: RDSS Program by Gol for DISCOMs">
-						<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/51699162491_79bccbb118.jpg" width="480" height="345" alt="DUM 2021: 18 November 2021 (Thursday)_11:30~13:30_SESSION - 1: RDSS Program by Gol for DISCOMs"/>
-					</a>
-					<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 				</div>
-			</div>
 
-			<div class="row">
-				<div class="col-md-12 gallery-card">
-					<div class="gallery-photo-title">
-						DUM 2021: Session - 2: 250 Million Smart Meters Rollout
+				<div class="row">
+					<div class="col-md-12 gallery-card">
+						<div class="gallery-photo-title">
+							DUM 2022: Session - 3: New Electricity Act Envisaging Separation of Carriage and Content and Retail Competition
+						</div>
+						<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720303883548" title="DUM | Session - 3: New Electricity Act Envisaging Separation of Carriage and Content and Retail Competition | 17 November 2022">
+							<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/52514508298_04d69a6ba7_z.jpg" width="480" height="345" alt="DUM | Session - 3: New Electricity Act Envisaging Separation of Carriage and Content and Retail Competition | 17 November 2022"/>
+						</a>
+						<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 					</div>
-					<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72157720179617117" title="DUM 2021: 18 November 2021 (Thursday)_14:30~16:00_SESSION - 2: 250 Million Smart Meters Rollout">
-						<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/51699875624_dbd1e9dd0e.jpg" width="480" height="345" alt="DUM 2021: 18 November 2021 (Thursday)_14:30~16:00_SESSION - 2: 250 Million Smart Meters Rollout"/>
-					</a>
-					<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 				</div>
-			</div>
 
-			<div class="row">
-				<div class="col-md-12 gallery-card">
-					<div class="gallery-photo-title">
-						DUM 2021: Session-3: RE AND EV INTEGRATION WITH DISTRIBUTION GRID
+				<div class="row">
+					<div class="col-md-12 gallery-card">
+						<div class="gallery-photo-title">
+							DUM 2022: Special Plenary Session: Distribution Sector Reforms - Recent Experiences and Challenges
+						</div>
+						<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720303863315" title="DUM | Special Plenary Session: Distribution Sector Reforms - Recent Experiences and Challenges | 17 November 2022">
+							<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/52513969106_65c23f7993_z.jpg" width="480" height="345" alt="DUM | Special Plenary Session: Distribution Sector Reforms - Recent Experiences and Challenges | 17 November 2022"/>
+						</a>
+						<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 					</div>
-					<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72157720172863481" title="DUM 2021: 18 November 2021 (Thursday)_16:00~18:00_SESSION-3: RE AND EV INTEGRATION WITH DISTRIBUTION GRID">
-						<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/51700188750_995c92d13d.jpg" width="480" height="345" alt="DUM 2021: 18 November 2021 (Thursday)_16:00~18:00_SESSION-3: RE AND EV INTEGRATION WITH DISTRIBUTION GRID"/>
-					</a>
-					<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 				</div>
-			</div>
 
-			<div class="row">
-				<div class="col-md-12 gallery-card">
-					<div class="gallery-photo-title">
-						DUM 2021: Session 4: Integration of Electricity & City Gas Distribution (CGD) Utilities
+				<div class="row">
+					<div class="col-md-12 gallery-card">
+						<div class="gallery-photo-title">
+							DUM 2022: Cultural Program
+						</div>
+						<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720304081691" title="DUM_2022 | Cultural Program | 17 November 2022">
+							<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/52533494810_bbc196348c_z.jpg" width="480" height="345" alt="DUM_2022 | Cultural Program | 17 November 2022"/>
+						</a>
+						<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 					</div>
-					<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72157720179518977" title="DUM 2021: 19 November 2021 (Friday)_10.30-12.30_Session 4_Integration of Electricity & City Gas Distribution (CGD) Utilities">
-						<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/51699796569_7ec31ab1d5.jpg" width="480" height="345" alt="DUM 2021: 19 November 2021 (Friday)_10.30-12.30_Session 4_Integration of Electricity & City Gas Distribution (CGD) Utilities"/>
-					</a>
-					<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 				</div>
-			</div>
 
-			<div class="row">
-				<div class="col-md-12 gallery-card">
-					<div class="gallery-photo-title">
-						DUM 2021: Session 5: Disruptive Technologies in the Distribution Sector
+				<div class="row">
+					<div class="col-md-12 gallery-card">
+						<div class="gallery-photo-title">
+							DUM 2022: Session - 4: Model Asset Management Guidelines for Indian Discoms
+						</div>
+						<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720303884548" title="DUM | Session - 4: Model Asset Management Guidelines for Indian Discoms | 18 November 2022">
+							<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/52514316539_2d3d2222e1_z.jpg" width="480" height="345" alt="DUM | Session - 4: Model Asset Management Guidelines for Indian Discoms | 18 November 2022"/>
+						</a>
+						<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 					</div>
-					<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72157720172849011" title="DUM 2021: 19 November 2021 (Friday)_14.00-16.00_Session 5-Disruptive Technologies in the Distribution Sector-Successful Use Cases Relevant For India">
-						<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/51700177365_de42ff2de5.jpg" width="480" height="345" alt="DUM 2021: 19 November 2021 (Friday)_14.00-16.00_Session 5-Disruptive Technologies in the Distribution Sector-Successful Use Cases Relevant For India"/>
-					</a>
-					<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 				</div>
-			</div>
 
-			<div class="row">
-				<div class="col-md-12 gallery-card">
-					<div class="gallery-photo-title">
-						DUM 2021: Plenary Session: Retail Competition-Framework & Regulations
+				<div class="row">
+					<div class="col-md-12 gallery-card">
+						<div class="gallery-photo-title">
+							DUM 2022: Session - 5: Climate Change Readiness of Discoms
+						</div>
+						<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720303869616" title="DUM | Session - 5: Climate Change Readiness of Discoms | 18 November 2022">
+							<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/52514622505_af6edc0c24_z.jpg" width="480" height="345" alt="DUM | Session - 5: Climate Change Readiness of Discoms | 18 November 2022"/>
+						</a>
+						<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 					</div>
-					<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72157720169564699" title="DUM 2021: 19 November 2021 (Friday)_16.00-17.30 Plenary Session-Retail Competition-Framework & Regulations">
-						<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/51698571582_af36305cc9.jpg" width="480" height="345" alt="DUM 2021: 19 November 2021 (Friday)_16.00-17.30 Plenary Session-Retail Competition-Framework & Regulations"/>
-					</a>
-					<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 				</div>
-			</div>
 
-			<div class="row">
-				<div class="col-md-12 gallery-card">
-					<div class="gallery-photo-title">
-						DUM 2021: Exhibition Booth
+				<div class="row">
+					<div class="col-md-12 gallery-card">
+						<div class="gallery-photo-title">
+							DUM 2022: Session - 6: Customer Expectations, Supply Reliability, Safety and Service Delivery Challenges
+						</div>
+						<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720303872467" title="DUM | Session - 6: Customer Expectations, Supply Reliability, Safety and Service Delivery Challenges | 18 November 2022">
+							<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/52514695423_b33ac0e8a7_z.jpg" width="480" height="345" alt="DUM | Session - 6: Customer Expectations, Supply Reliability, Safety and Service Delivery Challenges | 18 November 2022"/>
+						</a>
+						<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 					</div>
-					<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72157720169701339" title="DUM 2021: 18-19 November 2021_EXHIBITION BOOTH">
-						<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/51698648912_e4284394c2.jpg" width="480" height="345" alt="DUM 2021: 18-19 November 2021_EXHIBITION BOOTH"/>
-					</a>
-					<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 				</div>
-			</div>
 
-			<div class="row">
-				<div class="col-md-12 gallery-card">
-					<div class="gallery-photo-title">
-						DUM 2021: Platform
+				<div class="row">
+					<div class="col-md-12 gallery-card">
+						<div class="gallery-photo-title">
+							DUM 2022: Session - 7: New and Emerging Technologies for Electric Utilities
+						</div>
+						<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720303872557" title="DUM | Session - 7: New and Emerging Technologies for Electric Utilities | 18 November 2022">
+							<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/52514426624_6cc0cb276b_z.jpg" width="480" height="345" alt="DUM | Session - 7: New and Emerging Technologies for Electric Utilities | 18 November 2022"/>
+						</a>
+						<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 					</div>
-					<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72157720167524353" title="DUM 2021: 18-19 November 2021_ PLATFORM">
-						<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/51699757428_08dda56395.jpg" width="480" height="345" alt="DUM 2021: 18-19 November 2021_ PLATFORM"/>
-					</a>
-					<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 				</div>
-			</div>
 
-			<!-- DUM 2020 Section -->
-			<div class="row">
-				<div class="col-md-12 gallery-card">
-					<div class="gallery-photo-title">
-						DUM 2020: Inaugural Session
+				<div class="row">
+					<div class="col-md-12 gallery-card">
+						<div class="gallery-photo-title">
+							DUM 2022: Valedictory Session
+						</div>
+						<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720303924937" title="DUM | Session: Valedictory | 18 November 2022">
+							<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/52519088425_1c429a3d6c_z.jpg" width="480" height="345" alt="DUM | Session: Valedictory | 18 November 2022"/>
+						</a>
+						<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 					</div>
-					<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72157717103739238" title="DUM 2020: INAUGURAL SESSION">
-						<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/50663957488_c4e43d7130_z.jpg" width="640" height="345" alt="DUM 2020: INAUGURAL SESSION"/>
-					</a>
-					<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 				</div>
-			</div>
 
-			<div class="row">
-				<div class="col-md-12 gallery-card">
-					<div class="gallery-photo-title">
-						DUM 2020: Session 1: Digitalization in Discoms
+				<div class="row">
+					<div class="col-md-12 gallery-card">
+						<div class="gallery-photo-title">
+							DUM 2022: Exhibition Inaugural
+						</div>
+						<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720303891590" title="DUM_2022 | Exhibition Inaugural | 17 November 2022">
+							<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/52516372181_0606812fe7_z.jpg" width="480" height="345" alt="DUM_2022 | Exhibition Inaugural | 17 November 2022"/>
+						</a>
+						<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 					</div>
-					<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72157717108149507" title="DUM 2020: SESSION 1_ DAY - 1: 27 NOVEMBER 2020_11:30 ~ 13:30_ (FRIDAY)">
-						<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/50663977623_2df6992501_z.jpg" width="640" height="345" alt="DUM 2020: SESSION 1_ DAY - 1: 27 NOVEMBER 2020_11:30 ~ 13:30_ (FRIDAY)"/>
-					</a>
-					<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 				</div>
-			</div>
 
-			<div class="row">
-				<div class="col-md-12 gallery-card">
-					<div class="gallery-photo-title">
-						DUM 2020: Session 2: Policies and Regulations for the Digital Discom
+				<div class="row">
+					<div class="col-md-12 gallery-card">
+						<div class="gallery-photo-title">
+							DUM 2022: Event Branding
+						</div>
+						<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720303980683" title="DUM_2022 | Event Branding | 17-18 November 2022">
+							<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/52522170766_4cf86f7f20_z.jpg" width="480" height="345" alt="DUM_2022 | Event Branding | 17-18 November 2022"/>
+						</a>
+						<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 					</div>
-					<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72157717103965473" title="DUM 2020: SESSION 2_ DAY - 1: 27 NOVEMBER 2020_14:30 ~ 16:00_ (FRIDAY)">
-						<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/50664756216_442fd96530_z.jpg" width="640" height="345" alt="DUM 2020: SESSION 2_ DAY - 1: 27 NOVEMBER 2020_14:30 ~ 16:00_ (FRIDAY)"/>
-					</a>
-					<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 				</div>
-			</div>
+				<!-- DUM 2021 Section -->
+				<div class="row">
+					<div class="col-md-12 gallery-card">
+						<div class="gallery-photo-title">
+							DUM 2021: Inaugural Session
+						</div>
+						<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72157720166809989" title="DUM 2021: 18 November 2021 (Thursday)_10.30~11.30_INAUGURAL SESSION">
+							<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/51697356506_6921cf2bfa.jpg" width="480" height="345" alt="DUM 2021: 18 November 2021 (Thursday)_10.30~11.30_INAUGURAL SESSION"/>
+						</a>
+						<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+					</div>
+				</div>
 
-			<div class="row">
-				<div class="col-md-12 gallery-card">
-					<div class="gallery-photo-title">
-						DUM 2020: Session 3: Discom Privatization Plan
+				<div class="row">
+					<div class="col-md-12 gallery-card">
+						<div class="gallery-photo-title">
+							DUM 2021: Session - 1: RDSS Program by Gol for DISCOMs
+						</div>
+						<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72157720172667811" title="DUM 2021: 18 November 2021 (Thursday)_11:30~13:30_SESSION - 1: RDSS Program by Gol for DISCOMs">
+							<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/51699162491_79bccbb118.jpg" width="480" height="345" alt="DUM 2021: 18 November 2021 (Thursday)_11:30~13:30_SESSION - 1: RDSS Program by Gol for DISCOMs"/>
+						</a>
+						<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 					</div>
-					<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72157717104061731" title="DUM 2020: DAY - 1: 27 NOVEMBER 2020 (FRIDAY)_16:00 ~ 18:00">
-						<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/50664844232_6a974b5dbf_z.jpg" width="640" height="345" alt="DUM 2020: DAY - 1: 27 NOVEMBER 2020 (FRIDAY)_16:00 ~ 18:00"/>
-					</a>
-					<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 				</div>
-			</div>
 
-			<div class="row">
-				<div class="col-md-12 gallery-card">
-					<div class="gallery-photo-title">
-						DUM 2020: Virtual Happy Hour
+				<div class="row">
+					<div class="col-md-12 gallery-card">
+						<div class="gallery-photo-title">
+							DUM 2021: Session - 2: 250 Million Smart Meters Rollout
+						</div>
+						<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72157720179617117" title="DUM 2021: 18 November 2021 (Thursday)_14:30~16:00_SESSION - 2: 250 Million Smart Meters Rollout">
+							<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/51699875624_dbd1e9dd0e.jpg" width="480" height="345" alt="DUM 2021: 18 November 2021 (Thursday)_14:30~16:00_SESSION - 2: 250 Million Smart Meters Rollout"/>
+						</a>
+						<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 					</div>
-					<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72157717104873601" title="DUM 2020: DAY - 1: 27 NOVEMBER 2020 (FRIDAY)_18:00 ~ 19:00_ VIRTUAL HAPPY HOUR">
-						<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/50664996346_7aa4bec912_z.jpg" width="640" height="345" alt="DUM 2020: DAY - 1: 27 NOVEMBER 2020 (FRIDAY)_18:00 ~ 19:00_ VIRTUAL HAPPY HOUR"/>
-					</a>
-					<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 				</div>
-			</div>
 
-			<div class="row">
-				<div class="col-md-12 gallery-card">
-					<div class="gallery-photo-title">
-						DUM 2020: Virtual Yoga Session
+				<div class="row">
+					<div class="col-md-12 gallery-card">
+						<div class="gallery-photo-title">
+							DUM 2021: Session-3: RE AND EV INTEGRATION WITH DISTRIBUTION GRID
+						</div>
+						<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72157720172863481" title="DUM 2021: 18 November 2021 (Thursday)_16:00~18:00_SESSION-3: RE AND EV INTEGRATION WITH DISTRIBUTION GRID">
+							<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/51700188750_995c92d13d.jpg" width="480" height="345" alt="DUM 2021: 18 November 2021 (Thursday)_16:00~18:00_SESSION-3: RE AND EV INTEGRATION WITH DISTRIBUTION GRID"/>
+						</a>
+						<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 					</div>
-					<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72157717104737653" title="DUM 2020; DAY - 2: 28 NOVEMBER 2020_09:30 ~ 10:15_ (SATURDAY)_VIRTUAL YOGA SESSION">
-						<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/50664975956_99d61c2d39_z.jpg" width="640" height="345" alt="DUM 2020; DAY - 2: 28 NOVEMBER 2020_09:30 ~ 10:15_ (SATURDAY)_VIRTUAL YOGA SESSION"/>
-					</a>
-					<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 				</div>
-			</div>
 
-			<div class="row">
-				<div class="col-md-12 gallery-card">
-					<div class="gallery-photo-title">
-						DUM 2020: Session 4: Discoms After COVID-19
+				<div class="row">
+					<div class="col-md-12 gallery-card">
+						<div class="gallery-photo-title">
+							DUM 2021: Session 4: Integration of Electricity & City Gas Distribution (CGD) Utilities
+						</div>
+						<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72157720179518977" title="DUM 2021: 19 November 2021 (Friday)_10.30-12.30_Session 4_Integration of Electricity & City Gas Distribution (CGD) Utilities">
+							<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/51699796569_7ec31ab1d5.jpg" width="480" height="345" alt="DUM 2021: 19 November 2021 (Friday)_10.30-12.30_Session 4_Integration of Electricity & City Gas Distribution (CGD) Utilities"/>
+						</a>
+						<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 					</div>
-					<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72157717104031823" title="DUM 2020: DAY - 2: 28 NOVEMBER 2020 (SATURDAY)_10:30 ~ 12:30">
-						<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/50664773586_3bae96b32e_z.jpg" width="640" height="345" alt="DUM 2020: DAY - 2: 28 NOVEMBER 2020 (SATURDAY)_10:30 ~ 12:30"/>
-					</a>
-					<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 				</div>
-			</div>
 
-			<div class="row">
-				<div class="col-md-12 gallery-card">
-					<div class="gallery-photo-title">
-						DUM 2020: Session 5: 250 Million Smart Meters
+				<div class="row">
+					<div class="col-md-12 gallery-card">
+						<div class="gallery-photo-title">
+							DUM 2021: Session 5: Disruptive Technologies in the Distribution Sector
+						</div>
+						<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72157720172849011" title="DUM 2021: 19 November 2021 (Friday)_14.00-16.00_Session 5-Disruptive Technologies in the Distribution Sector-Successful Use Cases Relevant For India">
+							<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/51700177365_de42ff2de5.jpg" width="480" height="345" alt="DUM 2021: 19 November 2021 (Friday)_14.00-16.00_Session 5-Disruptive Technologies in the Distribution Sector-Successful Use Cases Relevant For India"/>
+						</a>
+						<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 					</div>
-					<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72157717104149691" title="DUM 2020: DAY - 2: 28 NOVEMBER 2020 (SATURDAY)_14:00 ~ 16:00">
-						<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/50664044863_12441b300f_z.jpg" width="640" height="345" alt="DUM 2020: DAY - 2: 28 NOVEMBER 2020 (SATURDAY)_14:00 ~ 16:00"/>
-					</a>
-					<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 				</div>
-			</div>
 
-			<div class="row">
-				<div class="col-md-12 gallery-card">
-					<div class="gallery-photo-title">
-						DUM 2020: Plenary Session: New Revenue Opportunities for Discoms
+				<div class="row">
+					<div class="col-md-12 gallery-card">
+						<div class="gallery-photo-title">
+							DUM 2021: Plenary Session: Retail Competition-Framework & Regulations
+						</div>
+						<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72157720169564699" title="DUM 2021: 19 November 2021 (Friday)_16.00-17.30 Plenary Session-Retail Competition-Framework & Regulations">
+							<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/51698571582_af36305cc9.jpg" width="480" height="345" alt="DUM 2021: 19 November 2021 (Friday)_16.00-17.30 Plenary Session-Retail Competition-Framework & Regulations"/>
+						</a>
+						<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 					</div>
-					<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72157717103796873" title="DUM 2020: DAY - 2: 28 NOVEMBER 2020 (SATURDAY)_16:00 ~ 17:30_ Time (IST)_PLENARY SESSION: NEW REVENUE OPPORTUNITIES FOR DISCOMs">
-						<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/50664713101_3941b28b84_z.jpg" width="640" height="345" alt="DUM 2020: DAY - 2: 28 NOVEMBER 2020 (SATURDAY)_16:00 ~ 17:30_ Time (IST)_PLENARY SESSION: NEW REVENUE OPPORTUNITIES FOR DISCOMs"/>
-					</a>
-					<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 				</div>
-			</div>
 
-			<!-- DUM 2019 Section -->
-			<div class="row">
-				<div class="col-md-12 gallery-card">
-					<div class="gallery-photo-title">
-						DUM 2019: Exhibition
+				<div class="row">
+					<div class="col-md-12 gallery-card">
+						<div class="gallery-photo-title">
+							DUM 2021: Exhibition Booth
+						</div>
+						<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72157720169701339" title="DUM 2021: 18-19 November 2021_EXHIBITION BOOTH">
+							<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/51698648912_e4284394c2.jpg" width="480" height="345" alt="DUM 2021: 18-19 November 2021_EXHIBITION BOOTH"/>
+						</a>
+						<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 					</div>
-					<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72157711764078373" title="DUM 2019: Exhibition">
-						<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/49059160387_f6f6e96618_b.jpg" width="640" height="684" alt="DUM 2019: Exhibition"/>
-					</a>
-					<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 				</div>
-			</div>
 
-			<div class="row">
-				<div class="col-md-12 gallery-card">
-					<div class="gallery-photo-title">
-						DUM 2019: Inaugural Ceremony
+				<div class="row">
+					<div class="col-md-12 gallery-card">
+						<div class="gallery-photo-title">
+							DUM 2021: Platform
+						</div>
+						<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72157720167524353" title="DUM 2021: 18-19 November 2021_ PLATFORM">
+							<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/51699757428_08dda56395.jpg" width="480" height="345" alt="DUM 2021: 18-19 November 2021_ PLATFORM"/>
+						</a>
+						<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 					</div>
-					<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72157711764617498" title="DUM 2019:INAUGURAL CEREMONY">
-						<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/49058597768_9c0cf1d37b_b.jpg" width="640" height="684" alt="DUM 2019:INAUGURAL CEREMONY"/>
-					</a>
-					<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 				</div>
-			</div>
 
-			<div class="row">
-				<div class="col-md-12 gallery-card">
-					<div class="gallery-photo-title">
-						DUM 2019: Day 1: Session 1-NEW PROGRAMS & PROJECTS
+				<!-- DUM 2020 Section -->
+				<div class="row">
+					<div class="col-md-12 gallery-card">
+						<div class="gallery-photo-title">
+							DUM 2020: Inaugural Session
+						</div>
+						<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72157717103739238" title="DUM 2020: INAUGURAL SESSION">
+							<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/50663957488_c4e43d7130_z.jpg" width="640" height="345" alt="DUM 2020: INAUGURAL SESSION"/>
+						</a>
+						<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 					</div>
-					<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72157711787608922" title="DUM 2019: Day 1: SESSION 1-NEW PROGRAMS & PROJECTS">
-						<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/49067401633_239b85112d_b.jpg" width="640" height="684" alt="DUM 2019: Day 1: SESSION 1-NEW PROGRAMS & PROJECTS"/>
-					</a>
-					<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 				</div>
-			</div>
 
-			<div class="row">
-				<div class="col-md-12 gallery-card">
-					<div class="gallery-photo-title">
-						DUM 2019: Day 1: Session 2-SUSTAINABILITY OF DISCOMS
+				<div class="row">
+					<div class="col-md-12 gallery-card">
+						<div class="gallery-photo-title">
+							DUM 2020: Session 1: Digitalization in Discoms
+						</div>
+						<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72157717108149507" title="DUM 2020: SESSION 1_ DAY - 1: 27 NOVEMBER 2020_11:30 ~ 13:30_ (FRIDAY)">
+							<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/50663977623_2df6992501_z.jpg" width="640" height="345" alt="DUM 2020: SESSION 1_ DAY - 1: 27 NOVEMBER 2020_11:30 ~ 13:30_ (FRIDAY)"/>
+						</a>
+						<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 					</div>
-					<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72157711787608922" title="DUM 2019: Day 1: SESSION 1-NEW PROGRAMS & PROJECTS">
-						<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/49067401633_239b85112d_b.jpg" width="640" height="684" alt="DUM 2019: Day 1: SESSION 1-NEW PROGRAMS & PROJECTS"/>
-					</a>
-					<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 				</div>
-			</div>
 
-			<div class="row">
-				<div class="col-md-12 gallery-card">
-					<div class="gallery-photo-title">
-						DUM 2019: Day 1: Session 3-SPECIAL SESSION WITH CITY GAS DISTRIBUTION UTILITIES
+				<div class="row">
+					<div class="col-md-12 gallery-card">
+						<div class="gallery-photo-title">
+							DUM 2020: Session 2: Policies and Regulations for the Digital Discom
+						</div>
+						<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72157717103965473" title="DUM 2020: SESSION 2_ DAY - 1: 27 NOVEMBER 2020_14:30 ~ 16:00_ (FRIDAY)">
+							<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/50664756216_442fd96530_z.jpg" width="640" height="345" alt="DUM 2020: SESSION 2_ DAY - 1: 27 NOVEMBER 2020_14:30 ~ 16:00_ (FRIDAY)"/>
+						</a>
+						<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 					</div>
-					<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72157711789483703" title="DUM 2019: DAY 1: SESSION 3-SPECIAL SESSION WITH CITY GAS DISTRIBUTION UTILITIES">
-						<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/49068088511_5dc41ed2ea_b.jpg" width="640" height="424" alt="DUM 2019: DAY 1: SESSION 3-SPECIAL SESSION WITH CITY GAS DISTRIBUTION UTILITIES"/>
-					</a>
-					<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 				</div>
-			</div>
 
-			<div class="row">
-				<div class="col-md-12 gallery-card">
-					<div class="gallery-photo-title">
-						DUM 2019: Day 2: Session 1- GRID INTEGRATION OF DER & EVs
+				<div class="row">
+					<div class="col-md-12 gallery-card">
+						<div class="gallery-photo-title">
+							DUM 2020: Session 3: Discom Privatization Plan
+						</div>
+						<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72157717104061731" title="DUM 2020: DAY - 1: 27 NOVEMBER 2020 (FRIDAY)_16:00 ~ 18:00">
+							<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/50664844232_6a974b5dbf_z.jpg" width="640" height="345" alt="DUM 2020: DAY - 1: 27 NOVEMBER 2020 (FRIDAY)_16:00 ~ 18:00"/>
+						</a>
+						<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 					</div>
-					<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72157711787716496" title="DUM 2019: DAY 2: Session 1- GRID INTEGRATION OF DER & EVs">
-						<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/49042422422_fa5c7f7b94_b.jpg" width="640" height="684" alt="DUM 2019: DAY 2: Session 1- GRID INTEGRATION OF DER & EVs"/>
-					</a>
-					<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 				</div>
-			</div>
 
-			<div class="row">
-				<div class="col-md-12 gallery-card">
-					<div class="gallery-photo-title">
-						DUM 2019: Day 2: Session 2-NEW TECHNOLOGIES & NEW CHALLENGES
+				<div class="row">
+					<div class="col-md-12 gallery-card">
+						<div class="gallery-photo-title">
+							DUM 2020: Virtual Happy Hour
+						</div>
+						<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72157717104873601" title="DUM 2020: DAY - 1: 27 NOVEMBER 2020 (FRIDAY)_18:00 ~ 19:00_ VIRTUAL HAPPY HOUR">
+							<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/50664996346_7aa4bec912_z.jpg" width="640" height="345" alt="DUM 2020: DAY - 1: 27 NOVEMBER 2020 (FRIDAY)_18:00 ~ 19:00_ VIRTUAL HAPPY HOUR"/>
+						</a>
+						<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 					</div>
-					<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72157711790724668" title="DUM 2019: DAY 2: Session 2-NEW TECHNOLOGIES & NEW CHALLENGES">
-						<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/49068703017_302c8a7508_b.jpg" width="640" height="684" alt="DUM 2019: DAY 2: Session 2-NEW TECHNOLOGIES & NEW CHALLENGES"/>
-					</a>
-					<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 				</div>
-			</div>
 
-			<div class="row">
-				<div class="col-md-12 gallery-card">
-					<div class="gallery-photo-title">
-						DUM 2019: Day 2: Session 3-UTILITY ENABLEMENT IN THE DIGITAL ERA
+				<div class="row">
+					<div class="col-md-12 gallery-card">
+						<div class="gallery-photo-title">
+							DUM 2020: Virtual Yoga Session
+						</div>
+						<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72157717104737653" title="DUM 2020; DAY - 2: 28 NOVEMBER 2020_09:30 ~ 10:15_ (SATURDAY)_VIRTUAL YOGA SESSION">
+							<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/50664975956_99d61c2d39_z.jpg" width="640" height="345" alt="DUM 2020; DAY - 2: 28 NOVEMBER 2020_09:30 ~ 10:15_ (SATURDAY)_VIRTUAL YOGA SESSION"/>
+						</a>
+						<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 					</div>
-					<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72157711788968541" title="DUM 2019: DAY 2: Session 3-UTILITY ENABLEMENT IN THE DIGITAL ERA">
-						<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/49068733817_0e7bf7ec5e_b.jpg" width="640" height="424" alt="DUM 2019: DAY 2: Session 3-UTILITY ENABLEMENT IN THE DIGITAL ERA"/>
-					</a>
-					<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 				</div>
-			</div>
 
-			<div class="row">
-				<div class="col-md-12 gallery-card">
-					<div class="gallery-photo-title">
-						DUM 2019: Day 2: Session 4 -VOICE OF THE CUSTOMER IN THE DIGITAL ERA
+				<div class="row">
+					<div class="col-md-12 gallery-card">
+						<div class="gallery-photo-title">
+							DUM 2020: Session 4: Discoms After COVID-19
+						</div>
+						<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72157717104031823" title="DUM 2020: DAY - 2: 28 NOVEMBER 2020 (SATURDAY)_10:30 ~ 12:30">
+							<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/50664773586_3bae96b32e_z.jpg" width="640" height="345" alt="DUM 2020: DAY - 2: 28 NOVEMBER 2020 (SATURDAY)_10:30 ~ 12:30"/>
+						</a>
+						<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 					</div>
-					<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72157711789034276" title="DUM 2019: DAY 2: SESSION 4 -VOICE OF THE CUSTOMER IN THE DIGITAL ERA">
-						<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/49068756812_4a508a721b_b.jpg" width="640" height="424" alt="DUM 2019: DAY 2: SESSION 4 -VOICE OF THE CUSTOMER IN THE DIGITAL ERA"/>
-					</a>
-					<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 				</div>
-			</div>
 
-			<div class="row">
-				<div class="col-md-12 gallery-card">
-					<div class="gallery-photo-title">
-						DUM 2019: Day 2: VALEDICTORY SESSION AND ANNOUNCEMENT OF DUM 2020
+				<div class="row">
+					<div class="col-md-12 gallery-card">
+						<div class="gallery-photo-title">
+							DUM 2020: Session 5: 250 Million Smart Meters
+						</div>
+						<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72157717104149691" title="DUM 2020: DAY - 2: 28 NOVEMBER 2020 (SATURDAY)_14:00 ~ 16:00">
+							<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/50664044863_12441b300f_z.jpg" width="640" height="345" alt="DUM 2020: DAY - 2: 28 NOVEMBER 2020 (SATURDAY)_14:00 ~ 16:00"/>
+						</a>
+						<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 					</div>
-					<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72157711790931043" title="DUM 2019: DAY 2: VALEDICTORY SESSION AND ANNOUNCEMENT OF DUM 2020">
-						<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/49068780367_ed160aa181_b.jpg" width="640" height="424" alt="DUM 2019: DAY 2: VALEDICTORY SESSION AND ANNOUNCEMENT OF DUM 2020"/>
-					</a>
-					<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+				</div>
+
+				<div class="row">
+					<div class="col-md-12 gallery-card">
+						<div class="gallery-photo-title">
+							DUM 2020: Plenary Session: New Revenue Opportunities for Discoms
+						</div>
+						<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72157717103796873" title="DUM 2020: DAY - 2: 28 NOVEMBER 2020 (SATURDAY)_16:00 ~ 17:30_ Time (IST)_PLENARY SESSION: NEW REVENUE OPPORTUNITIES FOR DISCOMs">
+							<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/50664713101_3941b28b84_z.jpg" width="640" height="345" alt="DUM 2020: DAY - 2: 28 NOVEMBER 2020 (SATURDAY)_16:00 ~ 17:30_ Time (IST)_PLENARY SESSION: NEW REVENUE OPPORTUNITIES FOR DISCOMs"/>
+						</a>
+						<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+					</div>
+				</div>
+
+				<!-- DUM 2019 Section -->
+				<div class="row">
+					<div class="col-md-12 gallery-card">
+						<div class="gallery-photo-title">
+							DUM 2019: Exhibition
+						</div>
+						<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72157711764078373" title="DUM 2019: Exhibition">
+							<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/49059160387_f6f6e96618_b.jpg" width="640" height="684" alt="DUM 2019: Exhibition"/>
+						</a>
+						<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+					</div>
+				</div>
+
+				<div class="row">
+					<div class="col-md-12 gallery-card">
+						<div class="gallery-photo-title">
+							DUM 2019: Inaugural Ceremony
+						</div>
+						<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72157711764617498" title="DUM 2019:INAUGURAL CEREMONY">
+							<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/49058597768_9c0cf1d37b_b.jpg" width="640" height="684" alt="DUM 2019:INAUGURAL CEREMONY"/>
+						</a>
+						<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+					</div>
+				</div>
+
+				<div class="row">
+					<div class="col-md-12 gallery-card">
+						<div class="gallery-photo-title">
+							DUM 2019: Day 1: Session 1-NEW PROGRAMS & PROJECTS
+						</div>
+						<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72157711787608922" title="DUM 2019: Day 1: SESSION 1-NEW PROGRAMS & PROJECTS">
+							<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/49067401633_239b85112d_b.jpg" width="640" height="684" alt="DUM 2019: Day 1: SESSION 1-NEW PROGRAMS & PROJECTS"/>
+						</a>
+						<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+					</div>
+				</div>
+
+				<div class="row">
+					<div class="col-md-12 gallery-card">
+						<div class="gallery-photo-title">
+							DUM 2019: Day 1: Session 2-SUSTAINABILITY OF DISCOMS
+						</div>
+						<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72157711787608922" title="DUM 2019: Day 1: SESSION 1-NEW PROGRAMS & PROJECTS">
+							<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/49067401633_239b85112d_b.jpg" width="640" height="684" alt="DUM 2019: Day 1: SESSION 1-NEW PROGRAMS & PROJECTS"/>
+						</a>
+						<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+					</div>
+				</div>
+
+				<div class="row">
+					<div class="col-md-12 gallery-card">
+						<div class="gallery-photo-title">
+							DUM 2019: Day 1: Session 3-SPECIAL SESSION WITH CITY GAS DISTRIBUTION UTILITIES
+						</div>
+						<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72157711789483703" title="DUM 2019: DAY 1: SESSION 3-SPECIAL SESSION WITH CITY GAS DISTRIBUTION UTILITIES">
+							<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/49068088511_5dc41ed2ea_b.jpg" width="640" height="424" alt="DUM 2019: DAY 1: SESSION 3-SPECIAL SESSION WITH CITY GAS DISTRIBUTION UTILITIES"/>
+						</a>
+						<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+					</div>
+				</div>
+
+				<div class="row">
+					<div class="col-md-12 gallery-card">
+						<div class="gallery-photo-title">
+							DUM 2019: Day 2: Session 1- GRID INTEGRATION OF DER & EVs
+						</div>
+						<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72157711787716496" title="DUM 2019: DAY 2: Session 1- GRID INTEGRATION OF DER & EVs">
+							<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/49042422422_fa5c7f7b94_b.jpg" width="640" height="684" alt="DUM 2019: DAY 2: Session 1- GRID INTEGRATION OF DER & EVs"/>
+						</a>
+						<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+					</div>
+				</div>
+
+				<div class="row">
+					<div class="col-md-12 gallery-card">
+						<div class="gallery-photo-title">
+							DUM 2019: Day 2: Session 2-NEW TECHNOLOGIES & NEW CHALLENGES
+						</div>
+						<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72157711790724668" title="DUM 2019: DAY 2: Session 2-NEW TECHNOLOGIES & NEW CHALLENGES">
+							<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/49068703017_302c8a7508_b.jpg" width="640" height="684" alt="DUM 2019: DAY 2: Session 2-NEW TECHNOLOGIES & NEW CHALLENGES"/>
+						</a>
+						<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+					</div>
+				</div>
+
+				<div class="row">
+					<div class="col-md-12 gallery-card">
+						<div class="gallery-photo-title">
+							DUM 2019: Day 2: Session 3-UTILITY ENABLEMENT IN THE DIGITAL ERA
+						</div>
+						<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72157711788968541" title="DUM 2019: DAY 2: Session 3-UTILITY ENABLEMENT IN THE DIGITAL ERA">
+							<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/49068733817_0e7bf7ec5e_b.jpg" width="640" height="424" alt="DUM 2019: DAY 2: Session 3-UTILITY ENABLEMENT IN THE DIGITAL ERA"/>
+						</a>
+						<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+					</div>
+				</div>
+
+				<div class="row">
+					<div class="col-md-12 gallery-card">
+						<div class="gallery-photo-title">
+							DUM 2019: Day 2: Session 4 -VOICE OF THE CUSTOMER IN THE DIGITAL ERA
+						</div>
+						<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72157711789034276" title="DUM 2019: DAY 2: SESSION 4 -VOICE OF THE CUSTOMER IN THE DIGITAL ERA">
+							<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/49068756812_4a508a721b_b.jpg" width="640" height="424" alt="DUM 2019: DAY 2: SESSION 4 -VOICE OF THE CUSTOMER IN THE DIGITAL ERA"/>
+						</a>
+						<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+					</div>
+				</div>
+
+				<div class="row">
+					<div class="col-md-12 gallery-card">
+						<div class="gallery-photo-title">
+							DUM 2019: Day 2: VALEDICTORY SESSION AND ANNOUNCEMENT OF DUM 2020
+						</div>
+						<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72157711790931043" title="DUM 2019: DAY 2: VALEDICTORY SESSION AND ANNOUNCEMENT OF DUM 2020">
+							<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/49068780367_ed160aa181_b.jpg" width="640" height="424" alt="DUM 2019: DAY 2: VALEDICTORY SESSION AND ANNOUNCEMENT OF DUM 2020"/>
+						</a>
+						<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+					</div>
 				</div>
 			</div>
-            <!-- Add more photo sections as needed, using the same structure -->
         </div>
         <div class="tab-pane fade" id="videos">
             <div class="gallery-photo-caption">

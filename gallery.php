@@ -63,13 +63,13 @@
     margin-left: auto;
     margin-right: auto;
 }
-.gallery-card .gallery-photo-title {
+.gallery-photo-title {
     font-size: 20px;
     font-weight: bold;
     margin-bottom: 18px;
     text-align: center;
 }
-.gallery-card .gallery-photo-img {
+.gallery-photo-img {
     display: block;
     margin: 0 auto 18px auto;
     max-width: 100%;
@@ -101,25 +101,9 @@
                 <h2>Glimpses of DUM 2024</h2>
                 <h4>DISTRIBUTION UTILITY MEET (DUM) 2024 | LUCKNOW, UTTAR PRADESH</h4>
             </div>
-
-			<div class="row">
-			<div class="gallery-card">
-    <div class="gallery-photo-title">
-        DUM 2024 Inaugural Conference Session 14_NOVEMBER 2024 (THURSDAY)
-    </div>
-    <a data-flickr-embed="true" data-header="true" data-footer="true"
-       href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720322042883"
-       title="DUM_2024 | Inauguration of Conference and Exhibition | 14 Nov 2024">
-        <img class="gallery-photo-img"
-             src="https://live.staticflickr.com/65535/54149472072_4707f54d02_z.jpg"
-             width="640" height="480"
-             alt="DUM_2024 | Inauguration of Conference and Exhibition | 14 Nov 2024"/>
-    </a>
-    <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</div>	
-		</div>
+			
             <div class="row">
-			<div class="col-md-12">
+			<div class="col-md-12 gallery-card">
 				<div class="gallery-photo-title">
 					DUM 2024 Inaugural Conference Session 14_NOVEMBER 2024 (THURSDAY)
 				</div>

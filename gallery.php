@@ -52,6 +52,31 @@
 	.active{
 		background:#fff;
 	}
+	.gallery-card {
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 16px rgba(0,0,0,0.10);
+    margin-bottom: 32px;
+    padding: 24px 16px;
+    text-align: center;
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.gallery-card .gallery-photo-title {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 18px;
+    text-align: center;
+}
+.gallery-card .gallery-photo-img {
+    display: block;
+    margin: 0 auto 18px auto;
+    max-width: 100%;
+    height: auto;
+    border-radius: 4px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
 
 </style>
 
@@ -76,6 +101,23 @@
                 <h2>Glimpses of DUM 2024</h2>
                 <h4>DISTRIBUTION UTILITY MEET (DUM) 2024 | LUCKNOW, UTTAR PRADESH</h4>
             </div>
+
+			<div class="row">
+			<div class="gallery-card">
+    <div class="gallery-photo-title">
+        DUM 2024 Inaugural Conference Session 14_NOVEMBER 2024 (THURSDAY)
+    </div>
+    <a data-flickr-embed="true" data-header="true" data-footer="true"
+       href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720322042883"
+       title="DUM_2024 | Inauguration of Conference and Exhibition | 14 Nov 2024">
+        <img class="gallery-photo-img"
+             src="https://live.staticflickr.com/65535/54149472072_4707f54d02_z.jpg"
+             width="640" height="480"
+             alt="DUM_2024 | Inauguration of Conference and Exhibition | 14 Nov 2024"/>
+    </a>
+    <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>	
+		</div>
             <div class="row">
 			<div class="col-md-12">
 				<div class="gallery-photo-title">

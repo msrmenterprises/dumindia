@@ -52,7 +52,8 @@
 	.active{
 		background:#fff;
 	}
-	.gallery-card {
+	<style>
+.gallery-card {
     background: #fff;
     border-radius: 8px;
     box-shadow: 0 4px 16px rgba(0,0,0,0.10);
@@ -77,6 +78,7 @@
     border-radius: 4px;
     box-shadow: 0 2px 8px rgba(0,0,0,0.08);
 }
+</style>
 
 </style>
 

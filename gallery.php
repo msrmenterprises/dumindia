@@ -59,7 +59,7 @@
     margin-bottom: 32px;
     padding: 24px 16px;
     text-align: center;
-    max-width: 700px;
+    /* max-width: 700px; */
     margin-left: auto;
     margin-right: auto;
 }

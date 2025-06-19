@@ -3,6 +3,8 @@
 
 </style>
 <?php include "include/header.php"; ?>
+<!-- Bootstrap 5 JS (include before </body> or at the end of header.php if possible) -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 
 <div class="row k_inbanner">
 	<img src="images/baner1.jpg" alt="">

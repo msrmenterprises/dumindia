@@ -42,7 +42,10 @@
   <!-- <link rel='stylesheet' href='unitegallery/css/unite-gallery.css' type='text/css' /> -->
 
   <link rel="stylesheet" type="text/css" href="css/style.css">
- 
+  
+ <!-- Bootstrap 5 CSS -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+
 
   <base href="http://dumindia.in/">
   <!-- Global site tag (gtag.js) - Google Analytics -->

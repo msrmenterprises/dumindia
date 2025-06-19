@@ -19,25 +19,37 @@
         border: 1px solid #ddd;
         border-top: none;
     }
-    .gallery-photo-title {
-        text-align: left;
-        padding-bottom: 10px;
-        font-size: 18px;
-        font-weight: bold;
-    }
+    
     .gallery-photo-caption {
         text-align: center;
         padding-bottom: 10px;
         font-size: 16px;
     }
+   
+
+    .gallery-row {
+        background: #fff;
+        margin-bottom: 30px;
+        border-radius: 8px;
+        box-shadow: 0 4px 16px rgba(0,0,0,0.10);
+        padding: 24px 12px;
+        text-align: center;
+    }
+    .gallery-photo-title {
+        font-size: 20px;
+        font-weight: bold;
+        margin-bottom: 18px;
+        text-align: center;
+    }
     .gallery-photo-img {
         display: block;
-        margin: 0 auto 20px auto;
+        margin: 0 auto 0 auto;
         max-width: 100%;
         height: auto;
         border-radius: 4px;
         box-shadow: 0 2px 8px rgba(0,0,0,0.08);
     }
+
 </style>
 
 

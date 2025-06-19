@@ -9,10 +9,62 @@
 </div>
 
 <div class="row dum_container key_div">
-	
-	<h1 class="key_head">
-		Our Gallery
+
+    <h1 class="key_head">
+		DUM Photos Gallery
 	</h1>
+
+    <!-- Tabs Navigation -->
+    <ul class="nav nav-tabs" id="galleryTab" role="tablist">
+        <li class="nav-item" role="presentation">
+            <button class="nav-link active" id="photos-tab" data-bs-toggle="tab" data-bs-target="#photos" type="button" role="tab" aria-controls="photos" aria-selected="true">Photos</button>
+        </li>
+        <li class="nav-item" role="presentation">
+            <button class="nav-link" id="videos-tab" data-bs-toggle="tab" data-bs-target="#videos" type="button" role="tab" aria-controls="videos" aria-selected="false">Videos</button>
+        </li>
+    </ul>
+
+    <!-- Tabs Content -->
+    <div class="tab-content" id="galleryTabContent" style="width:100%">
+        <!-- Photos Tab -->
+        <div class="tab-pane fade show active" id="photos" role="tabpanel" aria-labelledby="photos-tab">
+            <h2 style="text-align: center; padding-bottom: 10px;">Glimpses of DUM 2024</h2>
+            <h4 style="text-align: center; padding-bottom: 10px;">DISTRIBUTION UTILITY MEET (DUM) 2024 |  LUCKNOW, UTTAR PRADESH </h4>
+
+            <h3 style="text-align: left; padding-bottom: 10px;">DUM 2024 Inaugural Conference Session 14_NOVEMBER 2024 (THURSDAY)</h3>
+            <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720322042883" title="DUM_2024 | Inauguration of Conference and Exhibition | 14 Nov 2024">
+                <img src="https://live.staticflickr.com/65535/54149472072_4707f54d02_z.jpg" width="640" height="480" target="_blank" alt="DUM_2024 | Inauguration of Conference and Exhibition | 14 Nov 2024"/>
+            </a>
+            <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+            <h3 style="text-align: left; padding-bottom: 10px;">DUM 2024 Exhibition Inaugural 14_November 2024 (Thursday)</h3>
+            <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720322052811" title="DUM_2024 | Exhibition Inaugural | 14 Nov 2024">
+                <img src="https://live.staticflickr.com/65535/54151870057_66bd3bd56b_z.jpg" width="640" height="480" target="_blank" alt="DUM_2024 | Exhibition Inaugural | 14 Nov 2024"/>
+            </a>
+            <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+            <h3 style="text-align: left; padding-bottom: 10px;">DUM 2024 Session 1: Special Plenary Session – Sustainability of DISCOMs (Part 1) 14_November 2024 (Thursday)_11:30~13:00</h3>
+            <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720322029922" title="DUM_2024 | Session1:  Special Plenary Session - Sustainability of DISCOMs (Part 1) | 11:30 ~ 13:00 IST | 14 Nov 2024">
+                <img src="https://live.staticflickr.com/65535/54150894605_9eedaf10a8_z.jpg" width="640" height="480" target="_blank" alt="DUM_2024 | Session1:  Special Plenary Session - Sustainability of DISCOMs (Part 1) | 11:30 ~ 13:00 IST | 14 Nov 2024"/>
+            </a>
+            <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+            <!-- Add more photo sections as needed -->
+        </div>
+
+        <!-- Videos Tab -->
+        <div class="tab-pane fade" id="videos" role="tabpanel" aria-labelledby="videos-tab">
+            <h2 style="text-align: center; padding-bottom: 10px;">DUM 2024 Videos</h2>
+            <div style="text-align:center;">
+                <!-- Dummy Video Embed -->
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" title="DUM 2024 Video" frameborder="0" allowfullscreen></iframe>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row dum_container key_div">
+	
+	
 	<h2 style="text-align: center; padding-bottom: 10px;">Glimpses of DUM 2024</h2>
 	<h4 style="text-align: center; padding-bottom: 10px;">DISTRIBUTION UTILITY MEET (DUM) 2024 |  LUCKNOW, UTTAR PRADESH </h4>
 	

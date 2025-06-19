@@ -3,10 +3,91 @@
 
 </style>
 <?php include "include/header.php"; ?>
+<style>
+    /* Make active tab background white and text dark */
+    .nav-tabs > li.active > a,
+    .nav-tabs > li.active > a:focus,
+    .nav-tabs > li.active > a:hover {
+        background-color: #fff !important;
+        color: #333 !important;
+        border: 1px solid #ddd;
+        border-bottom-color: transparent;
+    }
+    .tab-content {
+        background: #fff;
+        padding: 20px;
+        border: 1px solid #ddd;
+        border-top: none;
+    }
+    .gallery-photo-title {
+        text-align: left;
+        padding-bottom: 10px;
+        font-size: 18px;
+        font-weight: bold;
+    }
+    .gallery-photo-caption {
+        text-align: center;
+        padding-bottom: 10px;
+        font-size: 16px;
+    }
+    .gallery-photo-img {
+        display: block;
+        margin: 0 auto 20px auto;
+        max-width: 100%;
+        height: auto;
+        border-radius: 4px;
+        box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+</style>
 
 
 <div class="row k_inbanner">
 	<img src="images/baner1.jpg" alt="">
+</div>
+
+<div class="row dum_container key_div">
+    <h1 class="key_head">Our Gallery</h1>
+
+    <!-- Tabs Navigation -->
+    <ul class="nav nav-tabs" role="tablist">
+        <li class="active"><a href="#photos" role="tab" data-toggle="tab">Photos</a></li>
+        <li><a href="#videos" role="tab" data-toggle="tab">Videos</a></li>
+    </ul>
+
+    <!-- Tabs Content -->
+    <div class="tab-content" style="width:100%">
+        <div class="tab-pane fade in active" id="photos">
+            <div class="gallery-photo-caption">
+                <h2>Glimpses of DUM 2024</h2>
+                <h4>DISTRIBUTION UTILITY MEET (DUM) 2024 | LUCKNOW, UTTAR PRADESH</h4>
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="gallery-photo-title">
+                        DUM 2024 Inaugural Conference Session 14_NOVEMBER 2024 (THURSDAY)
+                    </div>
+                    <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720322042883" title="DUM_2024 | Inauguration of Conference and Exhibition | 14 Nov 2024">
+                        <img class="gallery-photo-img" src="https://live.staticflickr.com/65535/54149472072_4707f54d02_z.jpg" width="640" height="480" alt="DUM_2024 | Inauguration of Conference and Exhibition | 14 Nov 2024"/>
+                    </a>
+                    <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+                </div>
+            </div>
+            <!-- Add more photo sections as needed, using the same structure -->
+        </div>
+        <div class="tab-pane fade" id="videos">
+            <div class="gallery-photo-caption">
+                <h2>DUM 2024 Videos</h2>
+            </div>
+            <div class="row">
+                <div class="col-md-12 text-center">
+                    <!-- Dummy Video Embed -->
+                    <div class="embed-responsive embed-responsive-16by9" style="max-width:560px; margin:0 auto;">
+                        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/dQw4w9WgXcQ" allowfullscreen></iframe>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 </div>
 
 <div class="row dum_container key_div">

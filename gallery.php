@@ -840,17 +840,182 @@
             <!-- Add more photo sections as needed, using the same structure -->
         </div>
         <div class="tab-pane fade" id="videos">
-            <div class="gallery-photo-caption">
-                <h2>DUM 2024 Videos</h2>
-            </div>
-            <div class="row">
-                <div class="col-md-12 gallery-card text-center">
-                    <!-- Dummy Video Embed -->
-                    <div class="embed-responsive embed-responsive-16by9" style="max-width:560px; margin:0 auto;">
-                        Video Content Coming Soon!
-                    </div>
-                </div>
-            </div>
+            
+            <!-- DUM 2024 Videos Section -->
+			<div class="row">
+				<div class="col-md-12">
+					<h2 class="text-center">DUM 2024 Videos - Lucknow, Uttar Pradesh</h2>
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="col-md-12 gallery-card text-center">
+					<h3>INAUGURAL SESSION_14 November 2024</h3>
+					<div class="embed-responsive embed-responsive-16by9" style="max-width:560px; margin:0 auto;">
+						<iframe width="560" height="315" src="https://www.youtube.com/embed/k8X0oysPHhM?si=DJ3TvjeS2xMTn8ks" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+					</div>
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="col-md-12 gallery-card text-center">
+					<h3>Session1: Special Plenary Session: Sustainability of DISCOMs (Part 1)_14 November 2024</h3>
+					<div class="embed-responsive embed-responsive-16by9" style="max-width:560px; margin:0 auto;">
+						<iframe width="560" height="315" src="https://www.youtube.com/embed/2uUwGWodvtE?si=jR9brgx_uqw4CDGv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+					</div>
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="col-md-12 gallery-card text-center">
+					<h3>Session 2: Stories from Solarization of Agricultural Feeders & Others Experiences_14 November 2024</h3>
+					<div class="embed-responsive embed-responsive-16by9" style="max-width:560px; margin:0 auto;">
+						<iframe width="560" height="315" src="https://www.youtube.com/embed/hHFRZoJxbmc?si=Q8V6aX2akIcDaLjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+					</div>
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="col-md-12 gallery-card text-center">
+					<h3>Session 3: Leveraging 250M Smart Meters to Drive Digitalization of DISCOMs_14 November 2024</h3>
+					<div class="embed-responsive embed-responsive-16by9" style="max-width:560px; margin:0 auto;">
+						<iframe width="560" height="315" src="https://www.youtube.com/embed/zZRA9DG8JaY?si=o2kUhcHrwnrMuE0f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+					</div>
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="col-md-12 gallery-card text-center">
+					<h3>Session 4: Emerging Technologies for Net Zero Power Sector_14 November 2024</h3>
+					<div class="embed-responsive embed-responsive-16by9" style="max-width:560px; margin:0 auto;">
+						<iframe width="560" height="315" src="https://www.youtube.com/embed/W49f6ddu6GI?si=CCnb_ky19xcNVuX3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+					</div>
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="col-md-12 gallery-card text-center">
+					<h3>Session 5: Special Plenary Session - Sustainability of DISCOMs (Part 2)_15 November 2024</h3>
+					<div class="embed-responsive embed-responsive-16by9" style="max-width:560px; margin:0 auto;">
+						<iframe width="560" height="315" src="https://www.youtube.com/embed/PA4pjF1_cNg?si=qUq-hY0WOF5gHo_b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+					</div>
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="col-md-12 gallery-card text-center">
+					<h3>Session 6: Electric Vehicle (EV) Charging Infrastructure and Grid Integration_15 November 2024</h3>
+					<div class="embed-responsive embed-responsive-16by9" style="max-width:560px; margin:0 auto;">
+						<iframe width="560" height="315" src="https://www.youtube.com/embed/8CoESHC8Ndc?si=leAQ2EKC_1SRV113" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+					</div>
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="col-md-12 gallery-card text-center">
+					<h3>Session 7: RE, EV & Challenges of 10M Rooftop Solar PV Systems_15 November 2024</h3>
+					<div class="embed-responsive embed-responsive-16by9" style="max-width:560px; margin:0 auto;">
+						<iframe width="560" height="315" src="https://www.youtube.com/embed/q84kShIZZ4A?si=lmuBE7IWkhbcLP2x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+					</div>
+				</div>
+			</div>
+
+			<!-- DUM 2023 Videos Section -->
+			<div class="row">
+				<div class="col-md-12">
+					<h2 class="text-center">DUM 2023 Videos - Kochi, Kerala</h2>
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="col-md-12 gallery-card text-center">
+					<h3>INAUGURATION SESSION</h3>
+					<div class="embed-responsive embed-responsive-16by9" style="max-width:560px; margin:0 auto;">
+						<iframe width="560" height="315" src="https://www.youtube.com/embed/WWVcHN4u5u4?si=nyx-5t23hD3TawQu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+					</div>
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="col-md-12 gallery-card text-center">
+					<h3>PLENARY : GROWTH OF RE AND EV; AND THE PLAN FOR ENHANCING GRID FLEXIBILITY</h3>
+					<div class="embed-responsive embed-responsive-16by9" style="max-width:560px; margin:0 auto;">
+						<iframe width="560" height="315" src="https://www.youtube.com/embed/UVQKxrn4tCM?si=Rdl56be8gvlsTpMs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+					</div>
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="col-md-12 gallery-card text-center">
+					<h3>SESSION 1 : GROWTH OF RE AND EV; AND THE PLAN FOR ENHANCING GRID FLEXIBILITY</h3>
+					<div class="embed-responsive embed-responsive-16by9" style="max-width:560px; margin:0 auto;">
+						<iframe width="560" height="315" src="https://www.youtube.com/embed/PMeMABnJrF0?si=RaNga6LbuVn7EmuK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+					</div>
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="col-md-12 gallery-card text-center">
+					<h3>SESSION 2: DISCOM COLLABORATION PLATFORM FOR ECONOMIC PROCUREMENT</h3>
+					<div class="embed-responsive embed-responsive-16by9" style="max-width:560px; margin:0 auto;">
+						<iframe width="560" height="315" src="https://www.youtube.com/embed/w0-GxTZhrVs?si=toEade6gEblkkABd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+					</div>
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="col-md-12 gallery-card text-center">
+					<h3>SESSION 3: PLANNING FOR TRANSPORT ELECTRIFICATION</h3>
+					<div class="embed-responsive embed-responsive-16by9" style="max-width:560px; margin:0 auto;">
+						<iframe width="560" height="315" src="https://www.youtube.com/embed/tuh_uYkyP5I?si=cas3mGVnS3CdC4GI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+					</div>
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="col-md-12 gallery-card text-center">
+					<h3>SESSION 4: ROLLUP OF 250 MILLION SMART METERS - PROGRESS AND CHALLENGES</h3>
+					<div class="embed-responsive embed-responsive-16by9" style="max-width:560px; margin:0 auto;">
+						<iframe width="560" height="315" src="https://www.youtube.com/embed/DvuovsHYqB8?si=9MFgt7WZtkKSKPqP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+					</div>
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="col-md-12 gallery-card text-center">
+					<h3>SESSION 5: DISASTER MANAGEMENT AND CLIMATE READINESS OF UTILITIES</h3>
+					<div class="embed-responsive embed-responsive-16by9" style="max-width:560px; margin:0 auto;">
+						<iframe width="560" height="315" src="https://www.youtube.com/embed/s9MbF7aOiBY?si=9OucX9WIWLeGu9i0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+					</div>
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="col-md-12 gallery-card text-center">
+					<h3>SESSION 6: NEW INNOVATION FOR NET ZERO POWER SECTOR</h3>
+					<div class="embed-responsive embed-responsive-16by9" style="max-width:560px; margin:0 auto;">
+						<iframe width="560" height="315" src="https://www.youtube.com/embed/KOZkeg0xtvU?si=w2t8qyodbL4LwIPI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+					</div>
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="col-md-12 gallery-card text-center">
+					<h3>SESSION 7 : RISE OF THE "PROSUMER" AND PROSUMER ENGAGEMENT STRATEGIES FOR NZPS</h3>
+					<div class="embed-responsive embed-responsive-16by9" style="max-width:560px; margin:0 auto;">
+						<iframe width="560" height="315" src="https://www.youtube.com/embed/DFeGaE5r4f0?si=84_45Ks99QskSWvN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+					</div>
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="col-md-12 gallery-card text-center">
+					<h3>Valedictory Session and Announcement of DUM 2024_03 November 2023 (Friday)_17:30~18:00</h3>
+					<div class="embed-responsive embed-responsive-16by9" style="max-width:560px; margin:0 auto;">
+						<iframe width="560" height="315" src="https://www.youtube.com/embed/QiebZIxRjwA?si=5EmQ7zuvak9ATLr9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+					</div>
+				</div>
+			</div>
         </div>
     </div>
 </div>

@@ -77,6 +77,35 @@
     border-radius: 4px;
     box-shadow: 0 2px 8px rgba(0,0,0,0.08);
 }
+/* Orange tab styles */
+.nav-tabs {
+    border-bottom: 2px solid #ff9800;
+}
+.nav-tabs > li > a {
+    color: #ff9800 !important;
+    font-weight: 600;
+    border-radius: 8px 8px 0 0;
+    border: 1px solid transparent;
+    transition: background 0.2s, color 0.2s;
+    background: #fff;
+    margin-right: 4px;
+}
+.nav-tabs > li.active > a,
+.nav-tabs > li.active > a:focus,
+.nav-tabs > li.active > a:hover {
+    background-color: #ff9800 !important;
+    color: #fff !important;
+    border: 1px solid #ff9800;
+    border-bottom-color: transparent;
+}
+.nav-tabs > li > a:hover {
+    background: #ffe0b2 !important;
+    color: #e65100 !important;
+    border: 1px solid #ff9800;
+}
+.nav-tabs > li {
+    margin-bottom: -2px;
+}
 
 </style>
 
@@ -86,13 +115,13 @@
 </div>
 
 <div class="row dum_container key_div">
-    <h1 class="key_head">Our Gallery</h1>
+    <h1 class="key_head">DUM Gallery</h1>
 
     <!-- Tabs Navigation -->
     <ul class="nav nav-tabs" role="tablist">
-        <li class="active"><a href="#photos" role="tab" data-toggle="tab">Photos</a></li>
-        <li><a href="#videos" role="tab" data-toggle="tab">Videos</a></li>
-    </ul>
+    <li class="active"><a href="#photos" role="tab" data-toggle="tab"><span style="font-size:18px;">📷 Photos</span></a></li>
+    <li><a href="#videos" role="tab" data-toggle="tab"><span style="font-size:18px;">🎥 Videos</span></a></li>
+</ul>
 
     <!-- Tabs Content -->
     <div class="tab-content" style="width:100%">
@@ -844,7 +873,7 @@
             <!-- DUM 2024 Videos Section -->
 			<div class="row">
 				<div class="col-md-12">
-					<h2 class="text-center">DUM 2024 Videos - Lucknow, Uttar Pradesh</h2>
+					<h2 class="text-center">Glimpses of DUM 2024 Videos</h2>
 				</div>
 			</div>
 

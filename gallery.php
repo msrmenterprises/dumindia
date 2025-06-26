@@ -8,7 +8,7 @@
     .nav-tabs > li.active > a,
     .nav-tabs > li.active > a:focus,
     .nav-tabs > li.active > a:hover {
-        background-color: #fff !important;
+        /* background-color: #fff !important; */
         color: #333 !important;
         border: 1px solid #ddd;
         border-bottom-color: transparent;
@@ -50,7 +50,7 @@
         box-shadow: 0 2px 8px rgba(0,0,0,0.08);
     }
 	.active{
-		background:#fff;
+		/* background:#fff; */
 	}
 	.gallery-card {
     background: #fff;
@@ -104,7 +104,7 @@
     border: 1px solid #ff9800;
 }
 .nav-tabs > li {
-    margin-bottom: -2px;
+    margin-bottom: -20px;
 }
 
 </style>

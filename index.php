@@ -1051,9 +1051,9 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 			<!--<li><a data-toggle="modal" data-target="#myModal" class="k_green" style="cursor: pointer;"><i class="fa fa-map-marker" aria-hidden="true"></i>
 				-->
 							<li><a data-toggle="modal" data-target="#" class="k_green" style="cursor: pointer;"><i class="fa fa-map-marker" aria-hidden="true"></i>
-				<br>Mumbai, Maharashtra, India </a></li>
+				<br>Hotel Sahara Star, Mumbai, Maharashtra, India </a></li>
 				<li><a href="images/invite.ics" target="_blank" class="k_blue"><i class="fa fa-calendar" aria-hidden="true"></i>
-					<br>06 - 07 November 2025</a></li>
+					<br>04 - 05 November 2025</a></li>
 				</ul>
 			</div>
 		</div>
@@ -1271,7 +1271,7 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 					</div>
 					<div class="col-sm-4 col-xs-4 buckyroberts_dum_contactus_icons">
 						<h4><i class="fa fa-map-marker" aria-hidden="true"></i></h4>
-						<p>06 - 07 November 2025 <br>Mumbai, Maharashtra, India </p>
+						<p>04 - 05  November 2025 <br>Hotel Sahara Star, Mumbai, Maharashtra, India</p>
 					</div>
 					<div class="col-sm-4 col-xs-4 buckyroberts_dum_contactus_icons">
 						<h4><i class="fa fa-phone" aria-hidden="true"></i></h4>

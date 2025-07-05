@@ -14,11 +14,32 @@
 	<p>
 
 		<br>
-		<ul class="k_confirmed_als">
+		<!-- <ul class="k_confirmed_als">
 			<li><a href="https://aida-india.org/" target="_blank"><img src="images/2026/AIDANew.png" style="border: 1px solid #aeb4b2;">AIDA</a></li>
 			<li><a href="#" target="_blank"><img src="images/2026/energydepartment.png" style="border: 1px solid #aeb4b2;">Energy Department of Maharashtra</a></li>
 			 <li><a href="https://cea.nic.in/?lang=en" target="_blank"><img src="/images/2026/CEAv1.png" style="border: 1px solid #aeb4b2;">Central Electricity of Authority</a></li>
-			</ul>	
+			</ul>	 -->
+
+		<ul class="k_confirmed_als">
+			<li>
+				<a href="https://aida-india.org/" target="_blank">
+				<img src="images/2026/AIDANew.png" alt="AIDA" style="width: 150px; height: 80px; object-fit: contain; border: 1px solid #aeb4b2;">
+				<span>AIDA</span>
+				</a>
+			</li>
+			<li>
+				<a href="#" target="_blank">
+				<img src="images/2026/energydepartment.png" alt="Energy Department of Maharashtra" style="width: 150px; height: 80px; object-fit: contain; border: 1px solid #aeb4b2;">
+				<span>Energy Department of Maharashtra</span>
+				</a>
+			</li>
+			<li>
+				<a href="https://cea.nic.in/?lang=en" target="_blank">
+				<img src="/images/2026/CEAv1.png" alt="Central Electricity Authority" style="width: 150px; height: 80px; object-fit: contain; border: 1px solid #aeb4b2;">
+				<span>Central Electricity Authority</span>
+				</a>
+			</li>
+		</ul>	
 	</p>
 	 
 </div>

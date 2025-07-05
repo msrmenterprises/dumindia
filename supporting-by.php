@@ -35,7 +35,7 @@
 			</li>
 			<li>
 				<a href="https://cea.nic.in/?lang=en" target="_blank">
-				<img src="/images/2026/CEAv1.png" alt="Central Electricity Authority" style="width: 150px; height: 80px; object-fit: contain; border: 1px solid #aeb4b2;">
+				<img src="/images/2026/CEA.png" alt="Central Electricity Authority" style="width: 150px; height: 80px; object-fit: contain; border: 1px solid #aeb4b2;">
 				<span>Central Electricity Authority</span>
 				</a>
 			</li>

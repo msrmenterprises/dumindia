@@ -24,6 +24,9 @@
 <ul class="k_confirmed_als">
 	<li><a href="https://www.tatapower.com/" target="_blank"><img src="/images/tatapower.png" alt="" style="height: 120px;">The Tata Power Company Limited</a></li> 
 	<li><a href="https://www.mahadiscom.in/en/home/" target="_blank"><img src="images/MSEDCL_logo.jpg" style="height:120px;">Maharashtra State Electricity Distribution Co. Ltd </a></li>
+	<li><a href="https://www.bsesdelhi.com/web/brpl/home" target="_blank"><img src="images/utilities2019/bsess.png">BSES Rajdhani Power Limited</a></li>
+	<li><a href="https://www.bsesdelhi.com/web/bypl/home" target="_blank"><img src="images/utilities2019/bsess_yahh.png">BSES Yamuna Power Limited</a></li>
+	
 </ul>
 
 <div class="k_cheading">

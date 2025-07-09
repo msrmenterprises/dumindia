@@ -139,7 +139,7 @@ font-size: 12px;
 		
 
 	</div>
-		<img src="images/2026/ProgramStructure.jpg" alt="Program Structure for Dum 2024" width="100%">
+		<img src="images/2026/ProgramStructurev1.jpg" alt="Program Structure for Dum 2024" width="100%">
 	<!--<img src="http://dumindia.in/DUM 2023 PROGRAM.png" width="780" height="295"></img>-->
 
 </div>
@@ -294,7 +294,7 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 
 <div class="k_cheading">
 
-		<h1>DUM 2025<span class="k_greencolor"> Co Host Utilities </span> </h1>
+		<h1>DUM 2025<span class="k_greencolor"> Co-Host Utilities </span> </h1>
 
 		<img src="images/kborder_bottom.png" alt="">
 

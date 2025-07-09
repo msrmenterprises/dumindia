@@ -126,7 +126,7 @@ font-size: 12px;
 
 	</div>
 
-	<p class="k_p" style="text-align:justify;"><strong>ISGF has the pleasure of inviting key stakeholders in the DISCOM domains to the 9th Edition of Distribution Utility Meet <a href="http://www.dumindia.in/">(DISTRIBUTION UTILITY MEET )</a> in Mumbai, Maharashtra, India on 06 to 07 November 2025 in partnership with Maharashtra State Electricity Distribution Company Limited and the Tata Power Company Limited. DUM 2025 will be supported by All India Discoms Association (AIDA). DUM 2025 will provide a unique platform for all the DISCOM community to share each other's experiences in dealing with efforts towards energy transition, grid modernization and digitalization on a fast track as we leapfrog towards a Net Zero power sector in India. In the post pandemic world, it is imperative that utilities do not make the same mistakes but learn from each other, and from global expertise/experiences. Experts from leading utilities from the USA, Europe, Japan, South Korea and Japan will be invited to participate in DUM 2025 and share their valuable experiences.
+	<p class="k_p" style="text-align:justify;"><strong>ISGF has the pleasure of inviting key stakeholders in the DISCOM domains to the 9th Edition of Distribution Utility Meet <a href="http://www.dumindia.in/">(DISTRIBUTION UTILITY MEET )</a> in Mumbai, Maharashtra, India on 04 - 05  November 2025 in partnership with Maharashtra State Electricity Distribution Company Limited and the Tata Power Company Limited. DUM 2025 will be supported by All India Discoms Association (AIDA). DUM 2025 will provide a unique platform for all the DISCOM community to share each other's experiences in dealing with efforts towards energy transition, grid modernization and digitalization on a fast track as we leapfrog towards a Net Zero power sector in India. In the post pandemic world, it is imperative that utilities do not make the same mistakes but learn from each other, and from global expertise/experiences. Experts from leading utilities from the USA, Europe, Japan, South Korea and Japan will be invited to participate in DUM 2025 and share their valuable experiences.
 
 		</strong></p>
 
@@ -285,6 +285,26 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
         <!--<li><a href="https://uppcl.org/uppcl/hi/" target="_blank"><img src="images/2024/uppcl.png" style="height:155px;"> UPPCL</a></li> 
 
 		<li><a href="https://uppcl.org/uppcl/hi/" target="_blank"><img src="/images/UPREV_Logo D.png" style="height: 135px;">UPREV </a></li>-->
+
+		</ul>
+
+</div>
+
+<div class="row k_container" style="background: #fff;">
+
+<div class="k_cheading">
+
+		<h1>DUM 2025<span class="k_greencolor"> Co Host Utilities </span> </h1>
+
+		<img src="images/kborder_bottom.png" alt="">
+
+</div>
+
+<br>
+
+	    <ul class="k_confirmed_als">
+		<li><a href="https://www.bsesdelhi.com/web/brpl/home" target="_blank"><img src="images/utilities2019/bsess.png">BSES Rajdhani Power Limited</a></li>
+		<li><a href="https://www.bsesdelhi.com/web/bypl/home" target="_blank"><img src="images/utilities2019/bsess_yahh.png">BSES Yamuna Power Limited</a></li>
 
 		</ul>
 

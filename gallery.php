@@ -874,7 +874,9 @@
 			<div class="row">
 				<div class="col-md-12">
 					<h2 class="text-center">Glimpses of DUM 2024 Videos</h2>
+					<h4>DISTRIBUTION UTILITY MEET (DUM) 2024 | LUCKNOW, UTTAR PRADESH</h4>
 				</div>
+				
 			</div>
 
 			<div class="row">

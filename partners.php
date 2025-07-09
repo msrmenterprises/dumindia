@@ -32,6 +32,13 @@
 		<li><a href="https://cea.nic.in/?lang=en" target="_blank"><img src="/images/2026/CEA.png" style="width: 183px;">Central Electricity of Authority</a></li>
 		</ul>
 
+	<BR/>
+		<ul class="k_confirmed_als">
+		<h5><STRONG>CO HOST UTILITIES</STRONG></h5>
+		<li><a href="https://www.bsesdelhi.com/web/brpl/home" target="_blank"><img src="images/utilities2019/bsess.png">BSES Rajdhani Power Limited</a></li>
+		<li><a href="https://www.bsesdelhi.com/web/bypl/home" target="_blank"><img src="images/utilities2019/bsess_yahh.png">BSES Yamuna Power Limited</a></li>
+		</ul>	
+
 </div>	
 
 <div class="row dum_container key_div">

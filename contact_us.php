@@ -146,8 +146,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     </div>
     <div style="margin-top: 30px;">
       <h2 style="margin:0 0 10px 0;"><b><a href="http://www.indiasmartgrid.org/" target="_blank">India Smart Grid Forum</a></b></h2>
-      <p><strong>Date:</strong> 06 - 07 November, 2025</p>
-      <p><strong>Location:</strong> Mumbai, Maharashtra</p>
+      <p><strong>Date:</strong> 04 - 05  November 2025</p>
+      <p><strong>Location:</strong> Hotel Sahara Star, Mumbai, Maharashtra, India</p>
       <p><strong>Time:</strong> 10am to 6pm</p>
       <p><strong>Email:</strong> <a href="mailto:dum@indiasmartgrid.org">dum@indiasmartgrid.org</a></p>
       <p><strong>Contact No.:</strong> <a href="tel:+911141057658">+91-11-41057658</a></p>

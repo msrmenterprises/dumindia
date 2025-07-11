@@ -139,7 +139,7 @@ font-size: 12px;
 		
 
 	</div>
-		<img src="images/2026/ProgramStructurev1.jpg" alt="Program Structure for Dum 2024" width="100%">
+		<img src="images/2026/ProgramStructurev2.jpg" alt="Program Structure for Dum 2024" width="100%">
 	<!--<img src="http://dumindia.in/DUM 2023 PROGRAM.png" width="780" height="295"></img>-->
 
 </div>

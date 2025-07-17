@@ -38,6 +38,21 @@
 		<li><a href="https://www.bsesdelhi.com/web/brpl/home" target="_blank"><img src="images/utilities2019/bsess.png">BSES Rajdhani Power Limited</a></li>
 		<li><a href="https://www.bsesdelhi.com/web/bypl/home" target="_blank"><img src="images/utilities2019/bsess_yahh.png">BSES Yamuna Power Limited</a></li>
 		</ul>	
+	
+		<BR/>
+		<ul class="k_confirmed_als">
+		<h5><STRONG>SUPPORTED BY</STRONG></h5>
+		<li><a href="https://energy.maharashtra.gov.in/en/" target="_blank"><img src="images/2026/energydepartment1.png">Energy Department of Maharashtra</a></li>
+		<li><a href="https://cea.nic.in/?lang=en" target="_blank"><img src="images/2026/CEA.png">Central Electricity Authority</a></li>
+		<li><a href="https://aida-india.org/" target="_blank"><img src="images/2026/AIDANew.png">All India Discoms Associations (AIDA)</a></li>
+		</ul>	
+
+		<BR/>
+		<ul class="k_confirmed_als">
+		<h5><STRONG>TECHNOLOGY INNOVATION PARTNER</STRONG></h5>
+		<li><a href="https://edx.com/" target="_blank"><img src="images/2026/EDXWireless.jpeg">EDX Wireless</a></li>
+		
+		</ul>	
 
 </div>	
 

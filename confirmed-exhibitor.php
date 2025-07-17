@@ -32,6 +32,14 @@
 				
 			</ul>
 		</p> 
+		<h5 style="text-align:center"><strong>GOLD EXHIBITOR </strong></h5>
+		<br/>
+		<p>
+			<ul class="k_confirmed_als">
+				<li><a href="https://edx.com/" target="_blank"><img src="images/2026/EDXWireless.jpeg" style="border: 1px solid #aeb4b2; height: 120px;">EDX Wireless </a></li>
+				
+			</ul>
+		</p> 
 	</div>		
 
 

@@ -338,7 +338,7 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 
 		<div class="k_cheading">
 
-				<h1>DUM 2024<span class="k_greencolor"> KEY PARTNER </span> </h1>
+				<h1>DUM 2025<span class="k_greencolor"> KEY PARTNER </span> </h1>
 
 				<img src="images/kborder_bottom.png" alt="">
 

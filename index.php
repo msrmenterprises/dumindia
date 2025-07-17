@@ -333,6 +333,31 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 		</ul>
 	</div>	
 
+	
+	<div class="row k_container" style="background: #fff;">
+
+		<div class="k_cheading">
+
+				<h1>DUM 2024<span class="k_greencolor"> KEY PARTNER </span> </h1>
+
+				<img src="images/kborder_bottom.png" alt="">
+
+			</div>
+			
+		<br>
+
+		<ul class="k_confirmed_als">
+
+					<h5><b>TECHNOLOGY INNOVATION PARTNER</b></h5>
+
+					<li><a href="https://edx.com/" target="_blank"><img src="images/2026/EDXWireless.jpeg" style="height: 135px;">EDX Wireless </a></li>
+					
+					</ul> 
+
+		<br>
+
+	</div>	
+
 </div> 
 
 <div class="row k_container" style="background: #fff;">

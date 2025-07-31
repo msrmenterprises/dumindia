@@ -268,6 +268,27 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 
 <div class="row k_container" style="background: #fff;">
 
+	<div class="k_cheading">
+
+			<h1>DUM 2025<span class="k_greencolor"> Confirmed Exhibitor </span> </h1>
+
+			<img src="images/kborder_bottom.png" alt="">
+
+	</div>
+
+	<br>
+
+			<ul class="k_confirmed_als">
+			<h5><b>Gold Exhibitor</b></h5>
+			<li><a href="https://apar.com/" target="_blank"><img src="/images/apar.png" style="height:155px;">APAR Industries </a></li>
+			<li><a href="https://aewinfra.com/" target="_blank"><img src="images/2024/allied.png" style="height:155px;">Allied Engineerings</a></li>
+
+			</ul>
+
+</div>
+
+<div class="row k_container" style="background: #fff;">
+
 <div class="k_cheading">
 
 		<h1>DUM 2025<span class="k_greencolor"> Host Utilities </span> </h1>

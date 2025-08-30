@@ -1,16 +1,39 @@
 <?php include "include/header.php"; ?>
 <style>
-.k_confirmed_als li a img {
-    border: 1px solid #aeb4b2;
-    max-height: 80px;
-   
-    max-width: 100%;
-    object-fit: contain;
-    border: 1px solid #aeb4b2 !important;
-    display: block;
-    margin: 0 auto 7px;
+/* Responsive grid and consistent logo sizing (matches home page layout) */
+.k_confirmed_als {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+	gap: 12px 18px;
+	list-style: none;
+	padding: 0;
+	margin: 0 auto;
+	align-items: start;
+	justify-items: center;
+	grid-auto-rows: minmax(120px, auto);
 }
-.k_confirmed_als h5 {text-transform: UPPERCASE;}
+.k_confirmed_als li { text-align:center; margin:0; padding:6px 4px; }
+.k_confirmed_als li a { display:flex; flex-direction:column; align-items:center; justify-content:center; text-decoration:none; color:inherit; width:100%; }
+.k_confirmed_als li img {
+	max-width: 160px !important;
+	max-height: 110px !important;
+	width: auto !important;
+	height: auto !important;
+	object-fit: contain;
+	border-radius: 6px;
+	box-shadow: 0 1px 6px rgba(0,0,0,0.06);
+	background: #fff;
+	padding: 6px;
+	display: block;
+	margin: 0 auto 8px;
+	border: 1px solid rgba(44,58,100,0.08) !important;
+}
+.k_confirmed_als h5 { text-transform: uppercase; grid-column: 1 / -1; background: rgba(44,58,100,0.06); padding:8px 12px; border-radius:8px; font-size:15px; text-align:center; }
+@media (max-width: 576px) {
+	.k_confirmed_als { grid-template-columns: repeat(2,1fr); gap:10px; }
+	.k_confirmed_als li img { max-width:120px !important; max-height:80px !important; padding:4px; }
+	.k_confirmed_als h5 { font-size:13px; padding:6px 8px; }
+}
 </style>
 <!-- key objective starts here -->
 
@@ -26,18 +49,19 @@
 		<br/>
 		<p>
 			<ul class="k_confirmed_als">
-				<li><a href="https://www.tatapower.com/" target="_blank"><img src="/images/tatapower.png" style="border: 1px solid #aeb4b2; height: 120px;">TATA Power</a></li>
-				<li><a href="https://www.mahadiscom.in/en/home/" target="_blank"><img src="/images/MSEDL.png" style="border: 1px solid #aeb4b2; height: 120px;">MSEDL</a></li>
-				<li><a href="https://indiasmartgrid.org/" target="_blank"><img src="/images/ISGF.jpg" style="border: 1px solid #aeb4b2; height:120px;" >ISGF</a></li>
-				
+				<li><a href="https://www.mahadiscom.in/en/home/" target="_blank"><img src="images/MSEDCL_logo.jpg" style="height:120px;">MSEDCL</a></li>
+				<li><a href="https://www.tatapower.com/" target="_blank"><img src="images/2024/tatapower.png" style="height:135px;">Tata Power</a></li>
+				<li><a href="https://www.powerfoundation.org.in/" target="_blank"><img src="images/2026/PowerFoundationofIndia.jpeg" style="height:120px;">Power Foundation of India</a></li>
+				<li><a href="https://indiasmartgrid.org/" target="_blank"><img src="images/ISGF.jpg" style="height:120px;" >ISGF</a></li>
+				<li><a href="#" target="_blank"><img src="images/2026/Eppeltone.png" style="height:120px;">Eppeltone Engineers Limited</a></li>
 			</ul>
 		</p> 
-		<h5 style="text-align:center"><strong>GOLD EXHIBITOR </strong></h5>
+		<h5 style="text-align:center"><strong>GOLD EXHIBITORS </strong></h5>
 		<br/>
 		<p>
 			<ul class="k_confirmed_als">
-				<li><a href="https://edx.com/" target="_blank"><img src="images/2026/EDXWireless.jpeg" style="border: 1px solid #aeb4b2; height: 120px;">EDX Wireless </a></li>
-				
+				<li><a href="https://apar.com/" target="_blank"><img src="/images/apar.png" style="border: 1px solid #aeb4b2; height:100px;">APAR Industries </a></li>
+				<li><a href="https://aewinfra.com/" target="_blank"><img src="images/2024/allied.png" style="border: 1px solid #aeb4b2; height:120px;">Allied Engineerings</a></li>
 			</ul>
 		</p> 
 	</div>		

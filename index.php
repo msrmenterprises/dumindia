@@ -1204,7 +1204,7 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 .k_at_glace .k_cheading { margin-top: 44px; margin-bottom: 18px; }
 
 /* Make the decorative border sit a little below the heading */
-.k_cheading img { display:block; margin-top:8px; }
+.k_cheading img {margin-top:8px; }
 
 /* Ensure paragraphs following headings have clear spacing */
 .k_cheading + p.k_p { margin-top: 14px; }

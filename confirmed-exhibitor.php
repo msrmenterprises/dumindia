@@ -55,9 +55,10 @@
 				<li><a href="https://eppeltone.in/" target="_blank"><img src="images/2026/Eppeltone.jpg" style="height:120px;">Eppeltone Engineers Limited</a></li>
 			</ul>
 			<ul class="k_confirmed_als">
-				<h5><strong>PLATINUM EXHIBITORS </strong></h5>
-				<li><a href="https://www.mahadiscom.in/en/home/" target="_blank"><img src="images/MSEDCL_logo.jpg" style="height:120px;">MSEDCL</a></li>
-	</div>		
+				<h5><strong>GOLD EXHIBITORS </strong></h5>
+				<li><a href="https://apar.com/" target="_blank"><img src="/images/apar.png" style="border: 1px solid #aeb4b2; height:100px;">APAR Industries </a></li>
+				<li><a href="https://aewinfra.com/" target="_blank"><img src="images/2024/allied.png" style="border: 1px solid #aeb4b2; height: 120px;">Allied Engineerings</a></li>
+			</div>		
 
 
 <div class="row dum_container key_div">

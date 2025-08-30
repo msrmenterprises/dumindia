@@ -45,25 +45,18 @@
 			<h1><span class="k_greencolor">DUM 2025</span> Confirmed EXHIBITORS</h1>
 			<img src="images/kborder_bottom.png" alt="">
 		</div>
-		<h5 style="text-align:center"><strong>PLATINUM EXHIBITORS </strong></h5>
 		<br/>
-		<p>
-			<ul class="k_confirmed_als">
-				<li><a href="https://www.mahadiscom.in/en/home/" target="_blank"><img src="images/MSEDCL_logo.jpg" style="height:120px;">MSEDCL</a></li>
+		<ul class="k_confirmed_als">
+			<h5><strong>PLATINUM EXHIBITORS </strong></h5>
+			<li><a href="https://www.mahadiscom.in/en/home/" target="_blank"><img src="images/MSEDCL_logo.jpg" style="height:120px;">MSEDCL</a></li>
 				<li><a href="https://www.tatapower.com/" target="_blank"><img src="images/2024/tatapower.png" style="height:135px;">Tata Power</a></li>
 				<li><a href="https://www.powerfoundation.org.in/" target="_blank"><img src="images/2026/PowerFoundationofIndia.jpeg" style="height:120px;">Power Foundation of India</a></li>
 				<li><a href="https://indiasmartgrid.org/" target="_blank"><img src="images/ISGF.jpg" style="height:120px;" >ISGF</a></li>
 				<li><a href="https://eppeltone.in/" target="_blank"><img src="images/2026/Eppeltone.jpg" style="height:120px;">Eppeltone Engineers Limited</a></li>
 			</ul>
-		</p> 
-		<h5 style="text-align:center"><strong>GOLD EXHIBITORS </strong></h5>
-		<br/>
-		<p>
 			<ul class="k_confirmed_als">
-				<li><a href="https://apar.com/" target="_blank"><img src="/images/apar.png" style="border: 1px solid #aeb4b2; height:100px;">APAR Industries </a></li>
-				<li><a href="https://aewinfra.com/" target="_blank"><img src="images/2024/allied.png" style="border: 1px solid #aeb4b2; height:120px;">Allied Engineerings</a></li>
-			</ul>
-		</p> 
+				<h5><strong>PLATINUM EXHIBITORS </strong></h5>
+				<li><a href="https://www.mahadiscom.in/en/home/" target="_blank"><img src="images/MSEDCL_logo.jpg" style="height:120px;">MSEDCL</a></li>
 	</div>		
 
 
@@ -72,10 +65,11 @@
 		<h1><span class="k_greencolor">DUM 2024</span> Confirmed EXHIBITORS</h1>
 		<img src="images/kborder_bottom.png" alt="">
 	</div>
-	<h5 style="text-align:center"><strong>PLATINUM EXHIBITORS </strong></h5>
+	
 		<br/>
 	<p>
 		<ul class="k_confirmed_als">
+			<h5><strong>PLATINUM EXHIBITORS </strong></h5>
 		<li><a href="https://havells.com/" target="_blank"><img src="images/2024/havells.png" style="border: 1px solid #aeb4b2; height: 120px;">Havells India Pvt Ltd</a></li>
 			<li><a href="https://www.3mindia.in/3M/en_IN/company-in/" target="_blank"><img src="images/2024/sm.png" style="border: 1px solid #aeb4b2; height: 120px;">SM Systems</a></li>
 			<li><a href="https://www.tatapower.com/" target="_blank"><img src="/images/tatapower.png" style="border: 1px solid #aeb4b2; height: 120px;">TATA Power</a></li>
@@ -83,10 +77,11 @@
 			<li><a href="https://www.insolutions.in/" target="_blank"><img src="/images/2024/inventive_logo.png" style="height: 135px;">Inventive Software Solutions Private Limited </a></li>
 			</ul>
 		</p> 
-	<h5 style="text-align:center"><strong>GOLD EXHIBITORS </strong></h5>
+	
 		<br/>
 	<p>
 		<ul class="k_confirmed_als">
+			<h5><strong>GOLD EXHIBITORS </strong></h5>
 		<li><a href="https://www.phoenixcontact.com/en-in/" target="_blank"><img src="/images/Logo - Phoenix Contact.jpg" style="height:100px;">Phoenix Contact</a></li>
 			<li><a href="https://apar.com/" target="_blank"><img src="/images/apar.png" style="border: 1px solid #aeb4b2; height:100px;">APAR Industries </a></li>
 			<li><a href="https://stelmec.com/" target="_blank"><img src="/images/stelmac.png" style="border: 1px solid #aeb4b2; height: 120px;">Stelmec</a></li>
@@ -129,10 +124,11 @@
 		<h1><span class="k_greencolor">DUM 2023</span> Confirmed EXHIBITORS</h1>
 		<img src="images/kborder_bottom.png" alt="">
 	</div>
-	<h5 style="text-align:center"><strong>PLATINUM EXHIBITORS </strong></h5>
+	
 		<br/>
 	<p>
 		<ul class="k_confirmed_als">
+			<h5><strong>PLATINUM EXHIBITORS </strong></h5>
 		 <li><a href="https://aws.amazon.com/?nc2=h_lg" target="_blank"><img src="/images/AWS_logo_RGB.png" style="border: 1px solid #aeb4b2; height:120px;">Amazon Web Services</a></li>
 			 <li><a href="https://www.kseb.in/index.php?lang=en" target="_blank"><img src="images/KSEB_Logo_2022-new.jpg" style="height: 120px;">Kerala State Electricity Board</a></li>
 			 <li><a href="https://indiasmartgrid.org/" target="_blank"><img src="/images/ISGF.jpg" style="border: 1px solid #aeb4b2; height:120px;" >ISGF</a></li>
@@ -141,10 +137,11 @@
 			
 			</ul>
 		</p>
-	<h5 style="text-align:center"><strong>GOLD EXHIBITORS </strong></h5>
+			
 		<br/>
 	<p>
 		<ul class="k_confirmed_als">
+			<h5><strong>GOLD EXHIBITORS </strong></h5>
 		<li><a href="https://www.wirepas.com/" target="_blank"><img src="/images/WIREPASS.png" style="border: 1px solid #aeb4b2; height:100px;">Wirepas</a></li>
 		<li><a href="https://www.visiontek.co.in/contact.html" target="_blank"><img src="/images/VISIONTEK.jpg" style="border: 1px solid #aeb4b2; height:100px;">Linkwell Telesystems Pvt Ltd</a></li>
 		<li><a href="https://www.phoenixcontact.com/en-in/" target="_blank"><img src="/images/Logo - Phoenix Contact.jpg" style="border: 1px solid #aeb4b2; height:100px;">Phoenix Contact</a></li>
@@ -168,10 +165,11 @@
 		<img src="images/kborder_bottom.png" alt="">
 	</div>
 	
-		<h5 style="text-align:center"><strong>PLATINUM EXHIBITORS </strong></h5>
+		
 		<br/>
 	<p>
 		<ul class="k_confirmed_als">
+			<h5><strong>PLATINUM EXHIBITORS </strong></h5>
 			
 		<li><a href="https://aws.amazon.com/ " target="_blank"><img src="/images/AWS_logo_RGB.png" style="border: 1px solid #aeb4b2; height:133px; height: 120px;">Amazon Web Services</a></li>
 		<li><a href="https://fluentgrid.com/" target="_blank"><img src="/images/fluentgrid.png" style="border: 1px solid #aeb4b2; height:120px;">Fluentgrid Limited </a></li>
@@ -184,9 +182,10 @@
 			<a href="https://www.tpcentralodisha.com/" target="_blank"><img src="images/TPCODL.jpg" alt="" style="border: 1px solid #aeb4b2; height: 120px;">TP Central Odisha Distribution Limited</a>
 		</li>
 			</ul>
-			<h5 style="text-align:center"><strong>GOLD EXHIBITORS </strong></h5>
+			
 			<br/>
 		<ul class="k_confirmed_als">
+			<h5 style="text-align:center"><strong>GOLD EXHIBITORS </strong></h5>
 			<li><a href="https://www.amararaja.com/" target="_blank"><img src="images/Amara Raja.jpg" alt="" style="border: 1px solid #aeb4b2; height: 100px;">Amara Raja Power Systems Limited </a>
 			<li><a href="https://apar.com/" target="_blank"><img src="/images/apar.png" style="border: 1px solid #aeb4b2; height:100px;">APAR Industries  </a></li> 
 			<li><a href="https://www.auto-grid.com/" target="_blank"><img src="/images/ag-full-color.png" style="border: 1px solid #aeb4b2; height:100px;">Autogrid</a></li>
@@ -229,11 +228,11 @@
 	<div class="k_cheading">
 		<h1><span class="k_greencolor">EXHIBITORS</span> of DUM 2020 </h1>
 		<img src="images/kborder_bottom.png" alt="">
-		<h5><strong>PLATINUM EXHIBITORS</strong></h5>
+		
 	</div>
 	<p>
 		<ul class="k_confirmed_als">
-			
+			<h5><strong>PLATINUM EXHIBITORS</strong></h5>
 			<li><a href="https://www.bsesdelhi.com/web/brpl" target="_blank"><img src="images/bsesllt.png" style="border: 1px solid #aeb4b2;">BSES Rajdhani</a></li>
 			<li><a href="https://www.bsesdelhi.com/web/bypl" target="_blank"><img src="/images/bses.png" style="border: 1px solid #aeb4b2;">BSES Yamuna</a></li>
 			<li><a href="https://www.tatapower-ddl.com/billpay/paybillonline.aspx" target="_blank"><img src="/images/tatadll.png" style="border: 1px solid #aeb4b2;">TATA Power DDL</a></li>
@@ -246,14 +245,9 @@
 			<li><a href="https://www.se.com/in/en/" target="_blank"><img src="/images/schneider.jpg" style="border: 1px solid #aeb4b2; height:133px;">Schneider Electric</a></li>
 			</ul>	
 	</p>
-	<h5 style="text-align:center;"><strong>GOLD EXHIBITOR</strong></style></h5>
-	<br/><br/>
-	<p>
 		<ul class="k_confirmed_als">
-			<li><a href="https://www.reconnectenergy.com/" target="_blank"><img src="images/reconnect.jpg" style="border: 1px solid #aeb4b2;">RECONNECT</a></li>
-			</ul>
-			</p>
-	<div class="k_cheading">
+			<h5><strong>GOLD EXHIBITORS </strong></h5>
+			<li><a href="https://apar.com/" target="_blank"><img src="/images/apar.png" style="border: 1px solid #aeb4b2; height:100px;">APAR Industries </a></li>
 		<h1><span class="k_greencolor">EXHIBITORS</span> of DUM 2019 </h1>
 		<img src="images/kborder_bottom.png" alt="">
 	</div>

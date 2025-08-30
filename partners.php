@@ -8,10 +8,9 @@
 	list-style: none;
 	padding: 0;
 	margin: 0 auto;
-    max-width: 1100px; /* keeps grid centered and prevents full-width stretching */
-    justify-content: center; /* center the grid when there is extra space */
-    align-items: center; /* vertically center logos within rows */
-    justify-items: center;
+	max-width: 1100px; /* keeps grid centered and prevents full-width stretching */
+	align-items: start; /* align logos to top of the grid cell */
+	justify-items: center;
     grid-auto-rows: minmax(120px, auto);
 }
 .k_confirmed_als li { text-align:center; margin:0; padding:6px 4px; }

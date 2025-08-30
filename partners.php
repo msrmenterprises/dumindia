@@ -1,16 +1,50 @@
 <?php include "include/header.php"; ?>
 <style>
-.k_confirmed_als li a img {
-    border: 1px solid #aeb4b2;
-    max-height: 80px;
-   
-    max-width: 100%;
-    object-fit: contain;
-    border: 1px solid #aeb4b2 !important;
-    display: block;
-    margin: 0 auto 7px;
+/* Responsive grid and consistent logo sizing (aligned with home page) */
+.k_confirmed_als {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+	gap: 12px 18px;
+	list-style: none;
+	padding: 0;
+	margin: 0 auto;
+	align-items: start;
+	justify-items: center;
+	grid-auto-rows: minmax(120px, auto);
 }
-.k_confirmed_als h5 {text-transform: UPPERCASE;}
+.k_confirmed_als li { text-align:center; margin:0; padding:6px 4px; }
+.k_confirmed_als li a { display:flex; flex-direction:column; align-items:center; justify-content:center; text-decoration:none; color:inherit; width:100%; }
+.k_confirmed_als li img {
+	max-width: 160px !important;
+	max-height: 110px !important;
+	width: auto !important;
+	height: auto !important;
+	object-fit: contain;
+	border-radius: 6px;
+	box-shadow: 0 1px 6px rgba(0,0,0,0.06);
+	background: #fff;
+	padding: 6px;
+	display: block;
+	margin: 0 auto 8px;
+	border: 1px solid rgba(44,58,100,0.08) !important;
+}
+.k_confirmed_als h5 { text-transform: uppercase; grid-column: 1 / -1; background: rgba(44,58,100,0.06); padding:8px 12px; border-radius:8px; font-size:15px; text-align:center; }
+@media (max-width: 576px) {
+	.k_confirmed_als { grid-template-columns: repeat(2,1fr); gap:10px; }
+	.k_confirmed_als li img { max-width:120px !important; max-height:80px !important; padding:4px; }
+	.k_confirmed_als h5 { font-size:13px; padding:6px 8px; }
+}
+
+/* Section spacing like home page */
+.k_cheading { margin: 36px 0 12px; padding-top: 6px; }
+.k_cheading h1 { margin: 0 0 10px; font-size: 30px; line-height: 1.08; }
+.k_container { padding-top: 28px; padding-bottom: 28px; }
+.k_cheading img {margin-top:8px; }
+@media (max-width: 768px) {
+	.k_cheading { margin: 24px 0 8px; }
+	.k_cheading h1 { font-size: 22px; }
+	.k_container { padding-top: 18px; padding-bottom: 18px; }
+}
 </style>
 <!-- key objective starts here -->
 <div class="row k_inbanner">

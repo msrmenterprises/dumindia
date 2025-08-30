@@ -2,7 +2,7 @@
 <style>
 /* Responsive grid and consistent logo sizing (aligned with home page) */
 .k_confirmed_als {
-	display: grid;
+	display: block;
 	grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
 	gap: 12px 18px;
 	list-style: none;

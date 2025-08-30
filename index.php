@@ -306,7 +306,7 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 	<br>
 
 			<ul class="k_confirmed_als">
-			<li><a href="https://www.powerfoundation.org.in/" target="_blank"><img src="images/2026/PowerFoundationofIndia.jpeg" style="height:120px;">MSEDCL</a></li>
+			<li><a href="https://www.powerfoundation.org.in/" target="_blank"><img src="images/2026/PowerFoundationofIndia.jpeg" style="height:120px;">Power Foundation of India</a></li>
 
 			</ul>
 
@@ -402,7 +402,7 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 				<li><a href="https://indiasmartgrid.org/" target="_blank"><img src="images/2026/ISGF.png" style="height:120px;">ISGF</a></li>
 				<li><a href="https://eppeltone.in/" target="_blank"><img src="images/2026/Eppeltone.jpg" style="height:120px;">Eppeltone Engineers Limited</a></li>
 
-				<h5><b>Gold Exhibitor</b></h5>
+				<h5><b>Gold Exhibitors</b></h5>
 				<li><a href="https://edx.com/" target="_blank"><img src="images/2026/EDXWireless.jpeg" style="height:135px;">EDX Wireless </a></li>
 				<li><a href="https://apar.com/" target="_blank"><img src="/images/apar.png" style="height:155px;">APAR Industries </a></li>
 				<li><a href="https://aewinfra.com/" target="_blank"><img src="images/2024/allied.png" style="height:155px;">Allied Engineerings</a></li>
@@ -1137,7 +1137,7 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 
 /* Responsive grid ensures logos line up neatly */
 .k_confirmed_als {
-	display: grid;
+	display: block;
 	grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
 	gap: 12px 18px; /* row gap, column gap */
 	list-style: none;

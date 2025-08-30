@@ -1120,92 +1120,69 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 		  </li>
 	</ul>
 </div> -->
-<!-- time remaining ends here -->
+<style>
+/* Layout improvements for partner/exhibitor logos */
+.k_confirmed_als h5 { text-transform: uppercase; width:100%; text-align:center; margin:0 0 8px; }
+.k_partiexh { padding:0 10%; }
+.buckyroberts_dum_contactus_icons_div span a{ font-size:12px; }
 
+/* Use a responsive grid so logos line up neatly */
+.k_confirmed_als {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+	gap: 18px;
+	list-style: none;
+	padding: 0;
+	margin: 0 auto;
+	align-items: center;
+	justify-items: center;
+}
 
-<!-- venue starts here -->
-<div class="row k_venue">
-	<div class="k_cheading">
-		<h1 style="color: #fff;">Venue Information </h1>
-		<img src="images/kborderwh_bottom.png" alt="">
-		
-	</div>
-	<!--<div class="k_cheading"><a href="https://register.indiasmartgrid.org/">
-	<img src="images/Register_Now_Button.png" style="width:18%; text-align: center;"></a>
-	</div>-->
-	
-	
-	<div class="k_location">
-		<ul>
-			<!--<li><a data-toggle="modal" data-target="#myModal" class="k_green" style="cursor: pointer;"><i class="fa fa-map-marker" aria-hidden="true"></i>
-				-->
-							<li><a data-toggle="modal" data-target="#" class="k_green" style="cursor: pointer;"><i class="fa fa-map-marker" aria-hidden="true"></i>
-				<br>Hotel Sahara Star, Mumbai, Maharashtra, India </a></li>
-				<li><a href="images/invite.ics" target="_blank" class="k_blue"><i class="fa fa-calendar" aria-hidden="true"></i>
-					<br>04 - 05 November 2025</a></li>
-				</ul>
-			</div>
-		</div>
-		<!-- venue ends here -->
+.k_confirmed_als li {
+	list-style: none;
+	text-align: center;
+	margin: 0;
+}
 
-		<!-- map starts here -->
-		<div class="row k_map">
-			<!--<iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d237630.0074118501!2d77.09802989702487!3d28.55246629984706!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x390ce3cf1dfeece7%3A0xee690c3f5b362567!2sThe+Eros+Hotel%2C+Eros+Hotel%2C+Nehru+Place%2C+New+Delhi%2C+Delhi%2C+India!3m2!1d28.550435!2d77.24913!5e0!3m2!1sen!2sin!4v1566398556531!5m2!1sen!2sin" width="100%" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
-		    -->
-			<iframe src="https://www.google.com/maps/embed/v1/place?q=Mumbia,+Maharastra,+India&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8" width="100%" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
-		    <!--<iframe src="https://maps.google.com/maps?q=Lucknow%2C+Uttar+Pradesh&t=&z=12&ie=UTF8&iwloc=&output=embed" width="100%" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>-->
-		   <!--<a href="https://pdflist.com/" alt="pdf">Pdf</a></div><style>.mapouter{position:relative;text-align:right;width:600px;height:400px;}.gmap_canvas {overflow:hidden;background:none!important;width:600px;height:400px;}.gmap_iframe {width:600px!important;height:400px!important;}</style></div>
-		<!--<div class="mapouter"><div class="gmap_canvas"><iframe class="gmap_iframe" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=600&amp;height=400&amp;hl=en&amp;q=Taj Vivanta Bhubaneshwar Odisha&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe><a href="https://piratebay-proxys.com/">Piratebay</a></div><style>.mapouter{position:relative;text-align:right;width:600px;height:400px;}.gmap_canvas {overflow:hidden;background:none!important;width:600px;height:400px;}.gmap_iframe {width:600px!important;height:400px!important;}</style></div>
-			</div>
-		<!-- map ends here -->
+.k_confirmed_als li a {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	text-decoration: none;
+	color: inherit;
+	padding: 8px 6px;
+	width:100%;
+}
 
-<!-- contact us div starts here -->
-	<div class="row" id="buckyroberts_dum_contactus">
-			<div class="col-sm-12">
-				<!-- <h1>Contact us</h1> -->
-			</div>
-<!-- 			<div class="col-sm-12 buckyroberts_dum_contactus_icons_div">
-				<div class="row">
-					<div class="col-sm-3 col-xs-4 buckyroberts_dum_contactus_icons" style="text-align: left;">
-						<h1 style="color: #8cc63e; text-align: left;">DUM 2017</h1>
-						<p><a href="agenda-2017.php">1.&nbsp;&nbsp;Agenda</a></p>
-						<p><a href="knowledge-2017.php">2.&nbsp;&nbsp;Knowledge</a></p>
-						<p><a href="confirmed_utility-2017.php">3.&nbsp;&nbsp;Confirmed Utilities</a></p>
-						<p><a href="images/DUM Brochure_v6.pdf">4.&nbsp;&nbsp;Download Brochure</a></p>
-						<p><a href="contact_us-2017.php">5.&nbsp;&nbsp;Contact Us</a></p>
-						<p><a href="site_visit-2017.php">6.&nbsp;&nbsp;Site Visit</a></p>
-						<p><a href="speakers-2017.php">7.&nbsp;&nbsp;Speakers</a></p>
-						<p><a href="organiser-2017.php">8.&nbsp;&nbsp;Organiser</a></p>
-						<p><a href="gallery.php">9.&nbsp;&nbsp;Gallery</a></p>
-					</div>
-					<div class="col-sm-9">
-						<div class="row">
-							<div class="col-sm-12">
-								<h1>Contact us</h1>
-							</div>
-							<div class="col-sm-4 col-xs-4 buckyroberts_dum_contactus_icons">
-								<h4><i class="fa fa-envelope" aria-hidden="true"></i></h4>
-								<p><a href="mailto:dum2018@indiasmartgrid.org">dum2018@indiasmartgrid.org</a></p>
-							</div>
-							<div class="col-sm-4 col-xs-4 buckyroberts_dum_contactus_icons">
-								<h4><i class="fa fa-map-marker" aria-hidden="true"></i></h4>
-								<p>26 - 27 November, 2019 <br>New Delhi, India </p>
-							</div>
-							<div class="col-sm-4 col-xs-4 buckyroberts_dum_contactus_icons">
-								<h4><i class="fa fa-phone" aria-hidden="true"></i></h4>
-								<p>011-41030398</p>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div> -->
+/* Force consistent logo sizing and neutral background. Use !important to override inline height attributes. */
+.k_confirmed_als li img {
+	max-width: 160px !important;
+	max-height: 110px !important;
+	width: auto !important;
+	height: auto !important;
+	object-fit: contain;
+	border-radius: 6px;
+	box-shadow: 0 1px 6px rgba(0,0,0,0.08);
+	background: #fff;
+	padding: 6px;
+	display: block;
+	margin: 0 auto 8px;
+	border: 1px solid rgba(44,58,100,0.12) !important;
+}
 
-			<div class="col-sm-12 buckyroberts_dum_contactus_icons_div">
-				<h1 style="color: #8cc63e; text-align: center;">DUM 2025</h1>
-			</div> 
-			
-			<div class="col-sm-12 buckyroberts_dum_contactus_icons_div" style="color: #ffffff; text-align: center;">
-				<span><a href="http://dumindia.in/dumindia2025/agenda.php" style="color: #ffffff;">Agenda</a></span>&nbsp;&nbsp; | &nbsp;&nbsp; 
+.k_confirmed_als li a > img + span,
+.k_confirmed_als li a > img + strong,
+.k_confirmed_als li a > img + em {
+	margin-top:6px;
+}
+
+/* Responsive tweaks */
+@media (max-width: 576px) {
+	.k_confirmed_als { grid-template-columns: repeat(2, 1fr); gap:12px; }
+	.k_confirmed_als li img { max-width:120px !important; max-height:80px !important; padding:4px; }
+}
+
+</style>
 				
 				<span><a href="http://dumindia.in/dumindia2025/confirmed-exhibitor.php" style="color: #ffffff;">Confirmed Exhibitors</a></span>&nbsp;&nbsp; | &nbsp;&nbsp;
 				<span><a href="http://dumindia.in/dumindia2025/confirmed_utility.php" style="color: #ffffff;">Confirmed Utilities</a></span>&nbsp;&nbsp; | &nbsp; &nbsp;

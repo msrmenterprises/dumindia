@@ -32,6 +32,12 @@
 		<!-- <li><a href="https://cea.nic.in/?lang=en" target="_blank"><img src="/images/2026/CEA.png" style="width: 183px;">Central Electricity of Authority</a></li> -->
 		</ul>
 
+		<!-- Knowledge Partner inserted below Host Utilities -->
+		<ul class="k_confirmed_als">
+		<h5><STRONG>KNOWLEDGE PARTNER</STRONG></h5>
+		<li><a href="https://www.powerfoundation.org.in/" target="_blank"><img src="images/2026/PowerFoundationofIndia.jpeg">Power Foundation of India</a></li>
+		</ul>
+
 	<BR/>
 		<ul class="k_confirmed_als">
 		<h5><STRONG>CO HOST UTILITIES</STRONG></h5>

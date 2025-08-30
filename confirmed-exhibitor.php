@@ -45,7 +45,10 @@
 			<h1><span class="k_greencolor">DUM 2025</span> Confirmed EXHIBITORS</h1>
 			<img src="images/kborder_bottom.png" alt="">
 		</div>
-		<h5 style="text-align:center"><strong>PLATINUM EXHIBITORS </strong></h5>
+		<div class="k_cheading">
+			<h1>PLATINUM <span class="k_greencolor">EXHIBITORS</span></h1>
+			<img src="images/kborder_bottom.png" alt="">
+		</div>
 		<br/>
 		<p>
 			<ul class="k_confirmed_als">
@@ -53,10 +56,13 @@
 				<li><a href="https://www.tatapower.com/" target="_blank"><img src="images/2024/tatapower.png" style="height:135px;">Tata Power</a></li>
 				<li><a href="https://www.powerfoundation.org.in/" target="_blank"><img src="images/2026/PowerFoundationofIndia.jpeg" style="height:120px;">Power Foundation of India</a></li>
 				<li><a href="https://indiasmartgrid.org/" target="_blank"><img src="images/ISGF.jpg" style="height:120px;" >ISGF</a></li>
-				<li><a href="#" target="_blank"><img src="images/2026/Eppeltone.png" style="height:120px;">Eppeltone Engineers Limited</a></li>
+				<li><a href="https://eppeltone.in/" target="_blank"><img src="images/2026/Eppeltone.jpg" style="height:120px;">Eppeltone Engineers Limited</a></li>
 			</ul>
 		</p> 
-		<h5 style="text-align:center"><strong>GOLD EXHIBITORS </strong></h5>
+		<div class="k_cheading">
+			<h1>GOLD <span class="k_greencolor">EXHIBITORS</span></h1>
+			<img src="images/kborder_bottom.png" alt="">
+		</div>
 		<br/>
 		<p>
 			<ul class="k_confirmed_als">

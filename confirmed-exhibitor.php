@@ -45,10 +45,7 @@
 			<h1><span class="k_greencolor">DUM 2025</span> Confirmed EXHIBITORS</h1>
 			<img src="images/kborder_bottom.png" alt="">
 		</div>
-		<div class="k_cheading">
-			<h1>PLATINUM <span class="k_greencolor">EXHIBITORS</span></h1>
-			<img src="images/kborder_bottom.png" alt="">
-		</div>
+		<h5 style="text-align:center"><strong>PLATINUM EXHIBITORS </strong></h5>
 		<br/>
 		<p>
 			<ul class="k_confirmed_als">
@@ -59,10 +56,7 @@
 				<li><a href="https://eppeltone.in/" target="_blank"><img src="images/2026/Eppeltone.jpg" style="height:120px;">Eppeltone Engineers Limited</a></li>
 			</ul>
 		</p> 
-		<div class="k_cheading">
-			<h1>GOLD <span class="k_greencolor">EXHIBITORS</span></h1>
-			<img src="images/kborder_bottom.png" alt="">
-		</div>
+		<h5 style="text-align:center"><strong>GOLD EXHIBITORS </strong></h5>
 		<br/>
 		<p>
 			<ul class="k_confirmed_als">

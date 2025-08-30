@@ -1122,36 +1122,39 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 </div> -->
 <style>
 /* Layout improvements for partner/exhibitor logos */
-.k_confirmed_als h5 { text-transform: uppercase; width:100%; text-align:center; margin:0 0 8px; }
+.k_confirmed_als h5 { text-transform: uppercase; width:100%; text-align:center; margin:0 0 8px; font-weight:700; }
 .k_partiexh { padding:0 10%; }
 .buckyroberts_dum_contactus_icons_div span a{ font-size:12px; }
 
-/* Use a responsive grid so logos line up neatly */
+/* Responsive grid ensures logos line up neatly */
 .k_confirmed_als {
 	display: grid;
 	grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
-	gap: 18px;
+	gap: 12px 18px; /* row gap, column gap */
 	list-style: none;
 	padding: 0;
 	margin: 0 auto;
-	align-items: center;
+	align-items: start;
 	justify-items: center;
+	grid-auto-rows: minmax(120px, auto); /* helps normalize row heights */
 }
 
+/* Each item becomes a centered column; captions are full-width below the logo */
 .k_confirmed_als li {
 	list-style: none;
 	text-align: center;
 	margin: 0;
+	padding: 6px 4px;
 }
 
 .k_confirmed_als li a {
 	display: flex;
 	flex-direction: column;
 	align-items: center;
+	justify-content: center;
 	text-decoration: none;
 	color: inherit;
-	padding: 8px 6px;
-	width:100%;
+	width: 100%;
 }
 
 /* Force consistent logo sizing and neutral background. Use !important to override inline height attributes. */
@@ -1162,24 +1165,32 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 	height: auto !important;
 	object-fit: contain;
 	border-radius: 6px;
-	box-shadow: 0 1px 6px rgba(0,0,0,0.08);
+	box-shadow: 0 1px 6px rgba(0,0,0,0.06);
 	background: #fff;
 	padding: 6px;
 	display: block;
 	margin: 0 auto 8px;
-	border: 1px solid rgba(44,58,100,0.12) !important;
+	border: 1px solid rgba(44,58,100,0.08) !important;
 }
 
-.k_confirmed_als li a > img + span,
-.k_confirmed_als li a > img + strong,
-.k_confirmed_als li a > img + em {
-	margin-top:6px;
+/* Ensure any textual caption inside the anchor fills the width and centers */
+.k_confirmed_als li a { font-size: 14px; line-height: 1.25; }
+.k_confirmed_als li a > * { width:100%; display:block; }
+
+/* Subcategory header styling: make it a pill spanning the grid */
+.k_confirmed_als h5 {
+	grid-column: 1 / -1;
+	background: rgba(44,58,100,0.06);
+	padding: 8px 12px;
+	border-radius: 8px;
+	font-size: 15px;
 }
 
-/* Responsive tweaks */
+/* Reduce spacing on small screens */
 @media (max-width: 576px) {
-	.k_confirmed_als { grid-template-columns: repeat(2, 1fr); gap:12px; }
+	.k_confirmed_als { grid-template-columns: repeat(2, 1fr); gap:10px; }
 	.k_confirmed_als li img { max-width:120px !important; max-height:80px !important; padding:4px; }
+	.k_confirmed_als h5 { font-size: 13px; padding:6px 8px; }
 }
 
 </style>

@@ -56,6 +56,7 @@ font-size: 12px;
     max-width: 200px; /* Set a maximum width for each item */
     text-align: center;
     margin: 10px;
+	width:100% !important
 }
 
 .k_confirmed_als li a {
@@ -1193,6 +1194,27 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 	.k_confirmed_als h5 { font-size: 13px; padding:6px 8px; }
 }
 
+</style>
+
+<style>
+/* Section spacing: add breathing room between main headings and page sections */
+.k_cheading { margin: 36px 0 12px; padding-top: 6px; }
+.k_cheading h1 { margin: 0 0 10px; font-size: 30px; line-height: 1.08; }
+.k_container { padding-top: 28px; padding-bottom: 28px; }
+.k_at_glace .k_cheading { margin-top: 44px; margin-bottom: 18px; }
+
+/* Make the decorative border sit a little below the heading */
+.k_cheading img { display:block; margin-top:8px; }
+
+/* Ensure paragraphs following headings have clear spacing */
+.k_cheading + p.k_p { margin-top: 14px; }
+
+/* Small screens adjustments */
+@media (max-width: 768px) {
+	.k_cheading { margin: 24px 0 8px; }
+	.k_cheading h1 { font-size: 22px; }
+	.k_container { padding-top: 18px; padding-bottom: 18px; }
+}
 </style>
 				
 				<span><a href="http://dumindia.in/dumindia2025/confirmed-exhibitor.php" style="color: #ffffff;">Confirmed Exhibitors</a></span>&nbsp;&nbsp; | &nbsp;&nbsp;

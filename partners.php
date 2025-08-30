@@ -2,19 +2,21 @@
 <style>
 /* Responsive grid and consistent logo sizing (aligned with home page) */
 .k_confirmed_als {
-	display: grid;
-	grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+	/* Use flexbox so items always center under the heading when row isn't full */
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center; /* center items horizontally */
 	gap: 12px 18px;
 	list-style: none;
 	padding: 0;
 	margin: 0 auto;
-    max-width: 1100px; /* keeps grid centered and prevents full-width stretching */
-    justify-content: center; /* center the grid when there is extra space */
-    align-items: center; /* vertically center logos within rows */
-    justify-items: center;
-    grid-auto-rows: minmax(120px, auto);
+	max-width: 1100px;
+	align-items: center;
+	/* allow headings to span full width */
+	--item-min-width: 160px;
 }
-.k_confirmed_als li { text-align:center; margin:0; padding:6px 4px; }
+
+.k_confirmed_als li { text-align:center; margin:0; padding:6px 8px; flex: 0 0 var(--item-min-width); display:flex; align-items:center; justify-content:center; }
 .k_confirmed_als li a { display:flex; flex-direction:column; align-items:center; justify-content:center; text-decoration:none; color:inherit; width:100%; }
 .k_confirmed_als li img {
 	max-width: 160px !important;
@@ -32,9 +34,10 @@
 }
 .k_confirmed_als h5 { text-transform: uppercase; grid-column: 1 / -1; background: rgba(44,58,100,0.06); padding:8px 12px; border-radius:8px; font-size:15px; text-align:center; }
 @media (max-width: 576px) {
-	.k_confirmed_als { grid-template-columns: repeat(2,1fr); gap:10px; }
+	.k_confirmed_als { gap:8px 10px; --item-min-width: 120px; }
 	.k_confirmed_als li img { max-width:120px !important; max-height:80px !important; padding:4px; }
 	.k_confirmed_als h5 { font-size:13px; padding:6px 8px; }
+	.k_confirmed_als li { flex: 0 0 45%; }
 }
 
 /* Section spacing like home page */

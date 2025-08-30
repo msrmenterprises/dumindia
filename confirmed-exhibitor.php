@@ -248,7 +248,9 @@
 		<ul class="k_confirmed_als">
 			<h5><strong>GOLD EXHIBITORS </strong></h5>
 			<li><a href="https://apar.com/" target="_blank"><img src="/images/apar.png" style="border: 1px solid #aeb4b2; height:100px;">APAR Industries </a></li>
-		<h1><span class="k_greencolor">EXHIBITORS</span> of DUM 2019 </h1>
+		</ul>
+		<div class="k_cheading">
+			<h1><span class="k_greencolor">EXHIBITORS</span> of DUM 2019 </h1>
 		<img src="images/kborder_bottom.png" alt="">
 	</div>
 	<p>

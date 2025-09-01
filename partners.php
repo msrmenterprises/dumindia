@@ -93,7 +93,7 @@
 		<h5><STRONG>TECHNOLOGY INNOVATION PARTNERS</STRONG></h5>
 		<li><a href="https://edx.com/" target="_blank"><img src="images/2026/EDXWireless.jpeg">EDX Wireless</a></li>
 		<li><a href="https://apar.com/" target="_blank"><img src="/images/apar.png" style="border: 1px solid #aeb4b2; height:100px;">APAR Industries </a></li>
-		<!-- <li><a href="https://aewinfra.com/" target="_blank"><img src="images/2024/allied.png" style="border: 1px solid #aeb4b2; height: 120px;">Allied Engineerings</a></li> -->
+		
 		
 		</ul>	
 

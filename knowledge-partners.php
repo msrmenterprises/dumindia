@@ -58,7 +58,7 @@ width: 85%!important;
 
 <div class="row dum_container key_div">
 	<div class="k_cheading">
-		<h1>DUM 2025<span class="k_greencolor"> Knowledge Partners</span> </h1>
+		<h1>DUM 2025<span class="k_greencolor"> Knowledge Partner</span> </h1>
 		<img src="images/kborder_bottom.png" alt="">
 	</div>
 <p>
@@ -67,6 +67,8 @@ width: 85%!important;
    </ul>
 	</p>
 </div>
+
+
 
 <div class="row dum_container key_div">
 	<div class="k_cheading">

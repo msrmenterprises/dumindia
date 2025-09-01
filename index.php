@@ -406,7 +406,7 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 				<li><a href="https://edx.com/" target="_blank"><img src="images/2026/EDXWireless.jpeg" style="height:135px;">EDX Wireless </a></li>
 				<li><a href="https://apar.com/" target="_blank"><img src="/images/apar.png" style="height:155px;">APAR Industries </a></li>
 				<li><a href="https://aewinfra.com/" target="_blank"><img src="images/2024/allied.png" style="height:155px;">Allied Engineerings</a></li>
-
+				<li><a href="https://kimbal.io/" target="_blank"><img src="/images/Kimbal.jpg" style="border: 1px solid #aeb4b2; height: 120px;">Kimbal </a></li>
 				</ul>
 
 	</div>

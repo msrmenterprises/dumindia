@@ -365,8 +365,18 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 				<img src="images/kborder_bottom.png" alt="">
 
 			</div>
-			
+
 		<br>
+
+		<ul class="k_confirmed_als">
+
+					<h5><b>THEMATIC SESSION PARTNER</b></h5>
+
+					<li><a href="https://www.enspar.com/" target="_blank"><img src="images/2026/Enspar.jpeg" style="height: 135px;">EDX Wireless </a></li>
+					
+					</ul> 
+
+		<br>	
 
 		<ul class="k_confirmed_als">
 

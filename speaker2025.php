@@ -881,6 +881,99 @@ His team also focuses on energy transition, energy modeling, providing specializ
 			</div>
 		</div>
 	</div> -->
+
+	<div class="row speaker_row">
+    <div class="k_list_part">
+        <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
+            <!-- Speaker Image -->
+            <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
+                <img src="images/2026/speakers/ManishPatel.jpg" alt="Manish Patel" style="width: 100%; max-width: 200px; border-radius: 10px;">
+            </div>
+
+            <!-- Speaker Content -->
+            <div class="speaker_content" style="flex: 1;">
+                <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
+                    Manish Patel<br/>
+                    Business Development (International &Domestic) & Product Head for Covered   
+Conductors,<br/>
+                    APAR Industries Limited
+                </h1>
+                <p style="text-align: justify; line-height: 1.6;">
+                    Manish Patel is currently leading Business Development (International & Domestic) at   
+Apar Industries Limited, with 25+ years of experience in EHV Power Cable & EHV Cable   
+accessories (upto 220KV), LT/HT Cables, Covered Conductors upto 132KV, MV   
+Switchgears (Reclosers & RMU) and Underground Distribution Substations in India   
+and worldwide. He has extensively travelled across the globe and handled various   
+positions in Global Sales, International Market, Business Development, P&L Head and   
+Strategic roles. He also has experience in SCM and Operations. Throughout his career, 
+he has various achievements and recognitions in developing the company's home   
+market and the global market by signing strategic global contracts, significant   
+improvement in bottom-line, forming joint ventures, policy, industry initiatives etc. He   
+has successfully handled EHV Cable and Accessories turnkey projects in home and   
+international markets. His expertise lies in dealing with private/corporate,   
+government (central and state) and consultants in India/Global for both Power Cables   
+and Switchgears.  
+                </p>
+                <p style="text-align: justify; line-height: 1.6;">
+                    He has had a rich experience in establishing G&W as a brand in India and APAC from   
+scratch and has now taken up the role of Business Development for Apar Industries   
+Ltd (Unit - Cable) for SAARC, Middle East, Latin America, North America and hopes to   
+create an exciting story of growth, new business ventures and excellent sales figures   
+for the company.
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row speaker_row">
+    <div class="k_list_part">
+        <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
+            <!-- Speaker Image -->
+            <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
+                <img src="images/2026/speakers/RaviSeethapathy.jpg" alt="Ravi Seethapathy" style="width: 100%; max-width: 200px; border-radius: 10px;">
+            </div>
+
+            <!-- Speaker Content -->
+            <div class="speaker_content" style="flex: 1;">
+                <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
+                    Ravi Seethapathy<br/>
+                    Executive Chairman<br/>
+Biosirus Inc.  
+                </h1>
+                <p style="text-align: justify; line-height: 1.6;">
+                    Ravi Seethapathy, is Executive Chairman of Biosirus Inc., Canada. He serves as the   
+“Ambassador for the Americas”, for the Global Smart Energy Federation, USA, and as   
+an Advisor to the India Smart Grid Forum. He is an empanelled expert at the Coalition   
+for Disaster Resilient Infrastructure (CDRI), a 51-country member organization.   
+                </p>
+                <p style="text-align: justify; line-height: 1.6;">
+                    With over 42+ years of experience in the Energy and Power Systems area in Canada,   
+he mentors several utilities and companies in their technology development. His is   
+active in several IEC, CSA, GSEF, ISGF, CDRI technical committees, in the areas of   
+sustainable energy, transportation, energy storage, microgrid and e-mobility. He is an   
+invited speaker internationally and has co-authored over 50 technical papers and   
+published 75 articles. His former Corporate Directorships include Larsen & Toubro’s -   
+Power Transmission & Distribution (IC), India, Toronto Atmospheric Fund, Smart Grid   
+Canada, Ryerson University, TV Ontario, Scarborough Hospital, and as Chairs of   
+Engineers Without Borders Canada, Canadian Club of Toronto, and Indo-Canada   
+Chamber of Commerce.  
+                </p>
+				<p style="text-align: justify; line-height: 1.6;">
+					He is a Life Fellow of the Canadian Academy of Engineering; a Life Senior Member of   
+the IEEE; and a registered Professional Engineer in Ontario. He has been honoured   
+with several awards/citations including the Distinguished Alumnus Award, IIT   
+Kharagpur (2025); ISGF President's Award (2023); Life Member Service Award; IEEE   
+Toronto (2021); and Queen Elizabeth II Diamond Jubilee Medal (2012). He/ his family   
+has endowed an IEEE PES/IAS Award in "Rural Electrification Excellence". He holds a B.   
+Tech (Hons) in Electrical Power from IIT Kharagpur, India, an M. Eng. in Electrical   
+Power from University of Toronto and an MBA from the Schulich School of Business,   
+York University, Toronto, Canada.  
+</p>
+            </div>
+        </div>
+    </div>
+</div>
 	
 	<div class="row speaker_row">
     <div class="k_list_part">

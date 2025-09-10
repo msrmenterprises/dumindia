@@ -61,6 +61,8 @@
 				<li><a href="https://edx.com/" target="_blank"><img src="images/2026/EDXWireless.jpeg" style="height:135px;">EDX Wireless </a></li>
 				<li><a href="https://kimbal.io/" target="_blank"><img src="/images/Kimbal.jpg" style="border: 1px solid #aeb4b2; height: 120px;">Kimbal </a></li>
 				<li><a href="https://genuspower.com/" target="_blank"><img src="http://dumindia.in/images/Exhibitors/2019/genus.png">GENUS Power Infrastructures Limited</a></li>
+				<li><a href="https://www.enspar.com/" target="_blank"><img src="images/2026/Enspar.jpeg">Enspar Energy Solutions Pvt. Ltd.</a></li>
+
 			</div>		
 
 

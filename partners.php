@@ -90,6 +90,12 @@
 
 		<BR/>
 		<ul class="k_confirmed_als">
+		<h5><STRONG>THEMATIC SESSION PARTNER</STRONG></h5>
+		<li><a href="https://www.enspar.com/" target="_blank"><img src="images/2026/Enspar.jpeg">Enspar Energy Solutions Pvt. Ltd.</a></li>
+		</ul>	
+
+		<BR/>
+		<ul class="k_confirmed_als">
 		<h5><STRONG>TECHNOLOGY INNOVATION PARTNERS</STRONG></h5>
 		<li><a href="https://edx.com/" target="_blank"><img src="images/2026/EDXWireless.jpeg">EDX Wireless</a></li>
 		<li><a href="https://apar.com/" target="_blank"><img src="/images/apar.png" style="border: 1px solid #aeb4b2; height:100px;">APAR Industries </a></li>

@@ -372,7 +372,7 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 
 					<h5><b>THEMATIC SESSION PARTNER</b></h5>
 
-					<li><a href="https://www.enspar.com/" target="_blank"><img src="images/2026/Enspar.jpeg" style="height: 135px;">EDX Wireless </a></li>
+					<li><a href="https://www.enspar.com/" target="_blank"><img src="images/2026/Enspar.jpeg" style="height: 135px;">Enspar Energy Solutions Pvt. Ltd. </a></li>
 					
 					</ul> 
 

@@ -893,12 +893,12 @@ His team also focuses on energy transition, energy modeling, providing specializ
             <!-- Speaker Content -->
             <div class="speaker_content" style="flex: 1;">
                 <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
-                    Mr. Ashutosh Goel,<br/>
+                    Ashutosh Goel,<br/>
                     Chairman & Managing Director, <br/>
                     Allied Engineering Works Limited
                 </h1>
                 <p style="text-align: justify; line-height: 1.6;">
-                    Mr. Ashutosh Goel, an IIT Delhi alumnus, is the Chairman and   
+                    Ashutosh Goel, an IIT Delhi alumnus, is the Chairman and   
 Managing Director of Allied Engineering Works Limited (AEWL).   
 He has over 23 years of expertise in the Electrical and Electronics   
 industry. Renowned for his technical acumen and strategic   

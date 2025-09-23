@@ -38,19 +38,34 @@
 	<!-- Ashutosh Goel - Updated Bio -->
 <div class="row speaker_row">
     <div class="k_list_part">
-        <div class="col-sm-12 dum_speaker">
-            <a>
-                <div class="speaker_img">
-                    <img src="images/2025/speakers/AshutoshGoel.jpg" style="width:60%">
-                </div>
-                <div class="speaker_content">
-                    <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize;">
-                        Ashutosh Goel<br/>Chairman & Managing Director<br/>Allied Engineering Works Limited
-                    </h1>
-                    <p>Mr. Ashutosh Goel, an IIT Delhi alumnus, is the Chairman and Managing Director of Allied Engineering Works Limited (AEWL). He has over 23 years of expertise in the Electrical and Electronics industry. Renowned for his technical acumen and strategic leadership, Mr. Goel has played a pivotal role in establishing AEWL as a market leader and forging many tie-ups and associations.</p>
-                    <p>His commitment to innovation and quality is evident in his continuous involvement in R&D projects, which drive AEW's advancements in the smart metering domain and other hi-tech sectors. He has been involved in many Industrial forums and mentored a few start-ups in the tech space.</p>
-                </div>
-            </a>
+        <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
+            <!-- Speaker Image -->
+            <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
+                <img src="images/2026/speakers/AshutoshGoel.JPG" alt="AshutoshGoel" style="width: 100%; max-width: 200px; border-radius: 10px;">
+            </div>
+
+            <!-- Speaker Content -->
+            <div class="speaker_content" style="flex: 1;">
+                <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
+                    Ashutosh Goel,<br/>
+                    Chairman & Managing Director, <br/>
+                    Allied Engineering Works Limited
+                </h1>
+                <p style="text-align: justify; line-height: 1.6;">
+                    Ashutosh Goel, an IIT Delhi alumnus, is the Chairman and   
+Managing Director of Allied Engineering Works Limited (AEWL).   
+He has over 23 years of expertise in the Electrical and Electronics   
+industry. Renowned for his technical acumen and strategic   
+leadership, Mr. Goel has played a pivotal role in establishing AEWL   
+as a market leader and forging many tie-ups and associations. His   
+commitment to innovation and quality is evident in his continuous   
+involvement in R&D projects, which drive AEW's advancements in   
+the smart metering domain and other hi-tech sectors. He has   
+been involved in many Industrial forums and mentored a few   
+start-ups in the tech space. 
+                </p>
+                
+            </div>
         </div>
     </div>
 </div>
@@ -101,7 +116,7 @@
 			<div class="col-sm-12 dum_speaker">
 				<a>
 					<div class="speaker_img">
-						<img src="images/2026/speakers/TeppoHemia.jpeg" style="width:60%">
+						<img src="images/2026/speakers/TeppoHemia.jpg" style="width:60%">
 					</div>
 					<div class="speaker_content">
 						<h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize;">
@@ -122,7 +137,7 @@
 			<div class="col-sm-12 dum_speaker">
 				<a>
 					<div class="speaker_img">
-						<img src="images/2025/speakers/VishakhaChavan.jpeg" style="width:60%">
+						<img src="images/2026/speakers/VishakhaChavan.jpg" style="width:60%">
 					</div>
 					<div class="speaker_content">
 						<h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize;">
@@ -136,39 +151,7 @@
 		</div>
 	</div>
 
-	<div class="row speaker_row">
-    <div class="k_list_part">
-        <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
-            <!-- Speaker Image -->
-            <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
-                <img src="images/2026/speakers/AshutoshGoel.JPG" alt="AshutoshGoel" style="width: 100%; max-width: 200px; border-radius: 10px;">
-            </div>
-
-            <!-- Speaker Content -->
-            <div class="speaker_content" style="flex: 1;">
-                <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
-                    Ashutosh Goel,<br/>
-                    Chairman & Managing Director, <br/>
-                    Allied Engineering Works Limited
-                </h1>
-                <p style="text-align: justify; line-height: 1.6;">
-                    Ashutosh Goel, an IIT Delhi alumnus, is the Chairman and   
-Managing Director of Allied Engineering Works Limited (AEWL).   
-He has over 23 years of expertise in the Electrical and Electronics   
-industry. Renowned for his technical acumen and strategic   
-leadership, Mr. Goel has played a pivotal role in establishing AEWL   
-as a market leader and forging many tie-ups and associations. His   
-commitment to innovation and quality is evident in his continuous   
-involvement in R&D projects, which drive AEW's advancements in   
-the smart metering domain and other hi-tech sectors. He has   
-been involved in many Industrial forums and mentored a few   
-start-ups in the tech space. 
-                </p>
-                
-            </div>
-        </div>
-    </div>
-</div>
+	
 
 	<div class="row speaker_row">
     <div class="k_list_part">

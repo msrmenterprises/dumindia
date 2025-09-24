@@ -136,7 +136,7 @@ start-ups in the tech space.
 						<img src="images/2026/speakers/ManojMuthyala.jpg" style="width:60%">
 					</div>
 					<div class="speaker_content">
-						<h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize;">
+						<h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
 							Manoj Muthyala<br/>Senior Director, Sales<br/>Impresa.ai
 						</h1>
 						<p>Manoj is a Global Sales Leader with over 15 years of experience across Project and Business Development teams. He has a great track record of driving sales and increasing client engagement at large Utilities like Tata, Adani and Essar. At Abjayon (Impresa.ai), Manoj is commercially focused and responsible for driving growth by pitching unique solutions to clients in the APAC and MEA regions.</p>
@@ -199,7 +199,7 @@ for the company.
 						<img src="images/2026/speakers/RohitPareek.png" style="width:60%">
 					</div>
 					<div class="speaker_content">
-						<h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize;">
+						<h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
 							Rohit Pareek<br/>Chief Product Officer<br/>Impresa.ai
 						</h1>
 						<p>Rohit Pareek is a seasoned technology leader with over 25 years of expertise revolutionizing the utilities sector through data and AI innovation. As a trailblazer in digital transformation, he's spearheaded the development of cutting-edge SaaS platforms, harnessing AI to boost decision-making and operational efficiency by up to 35% for global utility giants. He's transformed AI roadmaps for large-scale utilities across continents, empowering them with strategic, future-ready solutions.</p>
@@ -218,7 +218,7 @@ for the company.
 						<img src="images/2026/speakers/TeppoHemia.jpg" style="width:60%">
 					</div>
 					<div class="speaker_content">
-						<h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize;">
+						<h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
 							Teppo Hemiä<br/>CEO<br/>Wirepas
 						</h1>
 						<p>Teppo is a technology and business executive with 30 years of experience from creating, developing and delivering innovative global wireless technology products and solutions. He has experience from several successful business creations and turnarounds, from a startup to an established business with half a billion top line.</p>
@@ -396,7 +396,7 @@ York University, Toronto, Canada.
 						<img src="images/2026/speakers/VishakhaChavan.jpg" style="width:60%">
 					</div>
 					<div class="speaker_content">
-						<h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize;">
+						<h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
 							Vishakha Chavan<br/>Associate Product Manager<br/>Impresa.ai
 						</h1>
 						<p>Vishakha Chavan is a seasoned AI/ML professional with deep expertise in machine learning, big data analytics, and cloud-based AI solutions. As a Product Manager, she leads the development of cutting-edge AI applications using state-of-the-art technologies to build scalable, production-ready models.</p>

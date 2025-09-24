@@ -3,21 +3,77 @@
 <style>
 .k_table
 {
-	font-family: 'Lato', sans-serif;
-	color: #000;
-	text-decoration: none;
-	font-weight: bold;
-	font-size: 15px;
-	margin-top: 10px;
+    font-family: 'Lato', sans-serif;
+    color: #000;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 15px;
+    margin-top: 10px;
 }
 
 .speaker_content i
 {
-	font-size: 12px;
+    font-size: 12px;
 }
 .speaker_row .dum_speaker a .speaker_content {
     width: 70% !important;
     float: left !important;
+}
+
+/* NEW: make all speaker images a consistent size and crop nicely */
+.dum_speaker {
+    display: flex;
+    align-items: flex-start;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+/* container for the image - fixed column width */
+.dum_speaker .speaker_img {
+    flex: 0 0 23%;
+    max-width: 200px;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+/* enforce same image size, preserve aspect, crop center */
+.dum_speaker .speaker_img img {
+    width: 100% !important;
+    height: 200px;              /* desired fixed height */
+    max-width: 200px;
+    object-fit: cover;          /* crop while keeping center */
+    display: block;
+    border-radius: 10px;
+}
+
+/* content should take remaining space */
+.dum_speaker .speaker_content {
+    flex: 1 1 70%;
+    box-sizing: border-box;
+}
+
+/* fallback for older markup where .dum_speaker isn't flex-wrapped */
+.speaker_row .k_list_part .col-sm-12.dum_speaker {
+    display: flex;
+    align-items: flex-start;
+}
+
+/* smaller screens: stack */
+@media (max-width: 768px) {
+    .dum_speaker {
+        flex-direction: column;
+    }
+    .dum_speaker .speaker_img,
+    .dum_speaker .speaker_content {
+        flex: 0 0 auto;
+        width: 100%;
+        max-width: 100%;
+    }
+    .dum_speaker .speaker_img img {
+        height: 180px;
+        max-width: 360px;
+        margin: 0 auto;
+    }
 }
 </style>
 

@@ -16,6 +16,7 @@
 .k_confirmed_als li { text-align:center; margin:0; padding:6px 4px; display:table-cell !important ;
 box-shadow: 0 1px 6px rgba(0, 0, 0, 0.06);
     border: 1px solid rgba(44, 58, 100, 0.08) !important;
+	width:0% !important
 }
 .k_confirmed_als li a { display:flex; flex-direction:column; align-items:center; justify-content:center; text-decoration:none; color:inherit; width:100%; }
 .k_confirmed_als li img {

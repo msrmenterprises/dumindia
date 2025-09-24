@@ -415,7 +415,7 @@ display: none;
             <li><a href="post-event-outcome-report.php">Post Event Outcome Report</a></li>
             <li><a href="supporting-by.php">Supported by</a></li>
             <li><a href="target-audience.php">Target Audience</a></li>
-            <li><a href="industry_participation.php">Industry Participation</a></li>
+            
         </ul>
       </li>
       <li><a>Utility Participation  <span>|</span></a>

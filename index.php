@@ -205,7 +205,7 @@ font-size: 12px;
 
     <br/>For Delegate Participation and Registration, please write to us at <a href="mailto:dum@indiasmartgrid.org">dum@indiasmartgrid.org</a></p>
 
-    <div class="k_cheading"><a href="https://register.indiasmartgrid.org/">
+    <div class="k_cheading"><a href="industry_participation.php">
 
 	<img src="images/Register_Now_Button.png" style="width:20%; text-align: center;"></a>
 

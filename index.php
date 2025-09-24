@@ -42,36 +42,39 @@ font-size: 12px;
 }   
 
 .k_confirmed_als {
-    display: flex;
-    flex-wrap: wrap;
-    list-style: none;
-    padding: 0;
-    margin: 0;
-    justify-content: center; /* Center-align the items */
-    gap: 15px; /* Add spacing between items */
+	display: block;
+	grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+	gap: 12px 18px;
+	list-style: none;
+	padding: 0;
+	margin: 0 auto;
+	align-items: start;
+	justify-items: center;
+	grid-auto-rows: minmax(120px, auto);
+	overflow:auto
 }
 
-.k_confirmed_als li {
-    flex: 1 1 150px; /* Ensure items are responsive */
-    max-width: 200px; /* Set a maximum width for each item */
-    text-align: center;
-    margin: 10px;
-	width:100% !important
+.k_confirmed_als li { text-align:center; margin:0; padding:6px 4px; display:table-cell !important ;
+box-shadow: 0 1px 6px rgba(0, 0, 0, 0.06);
+    border: 1px solid rgba(44, 58, 100, 0.08) !important;
+	width:0% !important
 }
 
-.k_confirmed_als li a {
-    display: block;
-    text-decoration: none;
-    color: inherit;
-}
-
+.k_confirmed_als li a { display:flex; flex-direction:column; align-items:center; justify-content:center; text-decoration:none; color:inherit; width:100%; }
 .k_confirmed_als li img {
-    max-height: 100px; /* Set a consistent height for all images */
-    max-width: 100%; /* Ensure images don't exceed their container width */
-    object-fit: contain; /* Maintain aspect ratio and fit within the container */
-    border: 1px solid #2c3a64 !important; /* Add a border for better visibility */
-    display: block;
-    margin: 0 auto 7px; /* Center the image and add spacing below */
+	max-width: 160px !important;
+	max-height: 110px !important;
+	width: auto !important;
+	height: auto !important;
+	object-fit: contain;
+	/* border-radius: 6px; */
+	/* box-shadow: 0 1px 6px rgba(0,0,0,0.06); */
+	background: #fff;
+	padding: 6px;
+	display: block;
+	margin: 0 auto 8px;
+	border:0px !important
+	/* border: 1px solid rgba(44,58,100,0.08) !important; */
 }
 
 <!-- Css fr Gold Sponsor 

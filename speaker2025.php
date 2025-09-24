@@ -26,6 +26,7 @@
     align-items: flex-start;
     gap: 20px;
     flex-wrap: wrap;
+    margin-bottom: 30px;
 }
 
 /* container for the image - fixed column width */

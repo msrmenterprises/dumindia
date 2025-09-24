@@ -11,6 +11,7 @@
 	align-items: start;
 	justify-items: center;
 	grid-auto-rows: minmax(120px, auto);
+	overflow:auto
 }
 .k_confirmed_als li { text-align:center; margin:0; padding:6px 4px; display:table-cell !important ;
 box-shadow: 0 1px 6px rgba(0, 0, 0, 0.06);

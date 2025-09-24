@@ -131,9 +131,8 @@ start-ups in the tech space.
 	<!-- Manoj Muthyala -->
 	<div class="row speaker_row">
 		<div class="k_list_part ">
-			<div class="col-sm-12 dum_speaker">
-				<a>
-					<div class="speaker_img">
+			<div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
+				<div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
 						<img src="images/2026/speakers/ManojMuthyala.jpg" style="width:60%">
 					</div>
 					<div class="speaker_content">
@@ -143,7 +142,7 @@ start-ups in the tech space.
 						<p>Manoj is a Global Sales Leader with over 15 years of experience across Project and Business Development teams. He has a great track record of driving sales and increasing client engagement at large Utilities like Tata, Adani and Essar. At Abjayon (Impresa.ai), Manoj is commercially focused and responsible for driving growth by pitching unique solutions to clients in the APAC and MEA regions.</p>
 						<p>Manoj firmly believes in selling solutions to problems, not products. He enjoys cycling & trekking and appreciates that the best views come after the long and hard climbs.</p>
 					</div>
-				</a>
+				
 			</div>
 		</div>
 	</div>
@@ -195,9 +194,8 @@ for the company.
 	<!-- Rohit Pareek -->
 	<div class="row speaker_row">
 		<div class="k_list_part ">
-			<div class="col-sm-12 dum_speaker">
-				<a>
-					<div class="speaker_img">
+			<div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
+				<div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
 						<img src="images/2026/speakers/RohitPareek.png" style="width:60%">
 					</div>
 					<div class="speaker_content">
@@ -207,7 +205,7 @@ for the company.
 						<p>Rohit Pareek is a seasoned technology leader with over 25 years of expertise revolutionizing the utilities sector through data and AI innovation. As a trailblazer in digital transformation, he's spearheaded the development of cutting-edge SaaS platforms, harnessing AI to boost decision-making and operational efficiency by up to 35% for global utility giants. He's transformed AI roadmaps for large-scale utilities across continents, empowering them with strategic, future-ready solutions.</p>
 						<p>His knack for decoding industry trends and driving partner success has redefined how utilities operate worldwide. A dynamic speaker, Rohit blends deep insight with product strategy mastery, inspiring audiences to embrace intelligent tech. He's on a quest to fuel industries everywhere with bold, data-powered innovation.</p>
 					</div>
-				</a>
+				
 			</div>
 		</div>
 	</div>
@@ -215,9 +213,8 @@ for the company.
 	<!-- Teppo Hemiä -->
 	<div class="row speaker_row">
 		<div class="k_list_part ">
-			<div class="col-sm-12 dum_speaker">
-				<a>
-					<div class="speaker_img">
+			<div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
+				<div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
 						<img src="images/2026/speakers/TeppoHemia.jpg" style="width:60%">
 					</div>
 					<div class="speaker_content">
@@ -228,7 +225,7 @@ for the company.
 						<p>Teppo Hemiä has been the founder and CEO of Wirepas since 2014. Wirepas offers a singular connectivity technology with unique licensing business model. The completely de-centralized device connectivity, also part of 5G standards, helps customers to lower the cost of data acquisition while keeping the reliability levels very high at any scale and networks private.</p>
 						<p>Before joining Wirepas he has held several demanding positions at Nokia, STMicroelectronics and ST-Ericsson.</p>
 					</div>
-				</a>
+				
 			</div>
 		</div>
 	</div>
@@ -394,9 +391,8 @@ York University, Toronto, Canada.
 <!-- Vishakha Chavan -->
 	<div class="row speaker_row">
 		<div class="k_list_part ">
-			<div class="col-sm-12 dum_speaker">
-				<a>
-					<div class="speaker_img">
+			<div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
+				<div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
 						<img src="images/2026/speakers/VishakhaChavan.jpg" style="width:60%">
 					</div>
 					<div class="speaker_content">
@@ -406,7 +402,7 @@ York University, Toronto, Canada.
 						<p>Vishakha Chavan is a seasoned AI/ML professional with deep expertise in machine learning, big data analytics, and cloud-based AI solutions. As a Product Manager, she leads the development of cutting-edge AI applications using state-of-the-art technologies to build scalable, production-ready models.</p>
 						<p>Her portfolio spans diverse projects, including energy disaggregation, load forecasting, AI-powered chatbots, energy theft detection, and transformer load monitoring, showcasing her ability to transform complex datasets into actionable intelligence. Passionate about real-world AI applications, Vishakha thrives on optimizing models for efficiency, ensuring seamless deployment, and driving AI-powered innovation to tackle industry challenges at scale.</p>
 					</div>
-				</a>
+				
 			</div>
 		</div>
 	</div>

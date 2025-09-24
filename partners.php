@@ -95,9 +95,10 @@ box-shadow: 0 1px 6px rgba(0, 0, 0, 0.06);
 
 		<BR/>
 		<ul class="k_confirmed_als">
-		<h5><STRONG>THEMATIC SESSION PARTNER</STRONG></h5>
+		<h5><STRONG>THEMATIC SESSION PARTNERS</STRONG></h5>
 		<li><a href="https://www.enspar.com/" target="_blank"><img src="images/2026/Enspar.jpeg">Enspar Energy Solutions Pvt. Ltd.</a></li>
-		</ul>	
+		<li><a href="https://www.impresa.ai/" target="_blank"><img src="images/2025/ImpressaFinal.png" style="height: 135px;">Impresa.ai </a></li>	
+	</ul>	
 
 		<BR/>
 		<ul class="k_confirmed_als">
@@ -107,7 +108,8 @@ box-shadow: 0 1px 6px rgba(0, 0, 0, 0.06);
 		<li><a href="https://kimbal.io/" target="_blank"><img src="/images/Kimbal.jpg" style="border: 1px solid #aeb4b2; height: 120px;">Kimbal </a></li>
 		<li><a href="https://www.wirepas.com/" target="_blank"><img src="/images/WIREPASS.png" style="border: 1px solid #aeb4b2; height:120px;">Wirepas</a></li>
 		<li><a href="https://aewinfra.com/" target="_blank"><img src="images/2024/allied.png" style="border: 1px solid #aeb4b2; height: 120px;">Allied Engineering Works Limited</a></li>	
-		</ul>	
+		<li><a href="https://stelmec.com/" target="_blank"><img src="/images/stelmac.png" style="border: 1px solid #aeb4b2; height: 120px;">Stelmec</a></li>	
+	</ul>	
 
 </div>	
 

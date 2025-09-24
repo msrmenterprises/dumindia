@@ -440,6 +440,9 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 	<ul class="k_confirmed_als">
 		<li><a href="https://www.tatapower.com/" target="_blank"><img src="/images/tatapower.png" alt="" style="height: 120px;">The Tata Power Company Limited</a></li>
 		<li><a href="https://www.mahadiscom.in/en/home/" target="_blank"><img src="images/MSEDCL_logo.jpg" style="height:120px;">Maharashtra State Electricity Distribution Co. Ltd </a></li>
+		<li><a href="https://www.bsesdelhi.com/web/bypl" target="_blank"><img src="/images/bses.png" style="border: 2px solid #aeb4b2; height: 120px;">BSES Yamuna Power Limited</a></li>
+		<li><a href="https://www.bsesdelhi.com/web/brpl" target="_blank"><img src="images/bsesllt.png" style="height: 120px;">BSES Rajdhani Power Limited</a></li>
+		<li><a href="https://www.cesc.co.in/home" target="_blank"><img src="/images/CESC_cohost.jpg" style="height: 100px;">CESC Limited</a></li>
 	</ul>
 
 	<div class="k_cheading k_white_haeding">

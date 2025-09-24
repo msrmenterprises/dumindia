@@ -37,11 +37,12 @@
 }
 
 /* enforce same image size, preserve aspect, crop center */
-.dum_speaker .speaker_img img {
+.dum_speaker .speaker_img img,
+.dum_speaker .speaker_img .speaker-photo {
     width: 100% !important;
-    height: 200px;              /* desired fixed height */
-    max-width: 200px;
-    object-fit: cover;          /* crop while keeping center */
+    height: 200px !important;         /* desired fixed height - adjust as needed */
+    max-width: 200px !important;
+    object-fit: cover !important;     /* crop while keeping center */
     display: block;
     border-radius: 10px;
 }
@@ -69,7 +70,8 @@
         width: 100%;
         max-width: 100%;
     }
-    .dum_speaker .speaker_img img {
+    .dum_speaker .speaker_img img,
+    .dum_speaker .speaker_img .speaker-photo {
         height: 180px;
         max-width: 360px;
         margin: 0 auto;
@@ -97,7 +99,7 @@
         <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
             <!-- Speaker Image -->
             <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
-                <img src="images/2026/speakers/AshutoshGoel.JPG" alt="AshutoshGoel" style="width: 100%; max-width: 200px; border-radius: 10px;">
+                <img src="images/2026/speakers/AshutoshGoel.JPG" alt="AshutoshGoel" class="speaker-photo">
             </div>
 
             <!-- Speaker Content -->
@@ -151,7 +153,7 @@ start-ups in the tech space.
         <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
             <!-- Speaker Image -->
             <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
-                <img src="images/2026/speakers/ManishPatel.jpg" alt="Manish Patel" style="width: 100%; max-width: 200px; border-radius: 10px;">
+                <img src="images/2026/speakers/ManishPatel.jpg" alt="Manish Patel" class="speaker-photo">
             </div>
 
             <!-- Speaker Content -->
@@ -242,7 +244,7 @@ for the company.
         <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
             <!-- Speaker Image -->
             <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
-                <img src="images/2026/speakers/RaviSeethapathy.jpg" alt="Ravi Seethapathy" style="width: 100%; max-width: 200px; border-radius: 10px;">
+                <img src="images/2026/speakers/RaviSeethapathy.jpg" alt="Ravi Seethapathy" class="speaker-photo">
             </div>
 
             <!-- Speaker Content -->
@@ -291,7 +293,7 @@ York University, Toronto, Canada.
         <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
             <!-- Speaker Image -->
             <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
-                <img src="images/2026/speakers/ReenaSuri.JPG" alt="Reena Suri" style="width: 100%; max-width: 200px; border-radius: 10px;">
+                <img src="images/2026/speakers/ReenaSuri.JPG" alt="Reena Suri" class="speaker-photo">
             </div>
 
             <!-- Speaker Content -->
@@ -327,7 +329,7 @@ York University, Toronto, Canada.
         <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start; ">
             <!-- Speaker Image -->
             <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
-                <img src="images/2026/speakers/RejiKumarPillai.jpg" alt="Reji Kumar Pillai" style="width: 100%; max-width: 200px; border-radius: 10px;">
+                <img src="images/2026/speakers/RejiKumarPillai.jpg" alt="Reji Kumar Pillai" class="speaker-photo">
             </div>
 
             <!-- Speaker Content -->

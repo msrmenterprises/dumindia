@@ -426,7 +426,7 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 
 </div> 
 
-<div class="row k_container" style="background: #fff;">
+/* <div class="row k_container" style="background: #fff;">
 
 	<div class="k_cheading">
 
@@ -446,7 +446,7 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 		</ul>
 
 	</div>
-</div>
+</div> */
 
 
 <div class="row k_container" style="background: #fff;">
@@ -471,15 +471,7 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 
 <br>
 
-<!--<ul class="k_confirmed_als">
-
-			<h5><b>Knowledge Partners</b></h5>
-
-			<li><a href="https://www.giz.de/en/html/index.html" target="_blank"><img src="/images/Giz & German Cooperation.jpg" style="height: 135px;">GIZ GmbH, Germany</a></li>
-			<li><a href="https://www.epri.com/" target="_blank"><img src="images/epri.jpg" alt="" style="height: 100px;">EPRI, USA</a></li>
-			
-
-			</ul>  -->
+/* 
 			
 			<br/>
 				
@@ -529,7 +521,7 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 			
 			
 
-</div>
+</div> */
 
 <!--<div class="row k_container" style="background: #fff;">
 
@@ -549,7 +541,7 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 
 </div>-->
 
-<div class="row k_container" style="background: #fff;"> 
+/* <div class="row k_container" style="background: #fff;"> 
 
 <div class="k_cheading">
 
@@ -568,10 +560,10 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 	<li><a href="https://www.nrel.gov/index.html" target="_blank"><img src="images/NREL.jpg" alt="" style="height: 135px;">NREL, USA</a></li>
 	</ul>
 
-</div>
+</div> */
 
 
-<div class="row k_container" style="background: #fff;"> 
+/* <div class="row k_container" style="background: #fff;"> 
 
 <div class="k_cheading">
 
@@ -613,7 +605,7 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 			<li><a href="https://www.eaton.com/in/en-us.html" target="_blank"><img src="/images/2024/eaton.png" style="border: 1px solid #aeb4b2;">Eaton </a></li>
 			</ul>
 
-</div>
+</div> */
 
 <!--<div class="row k_container" style="background: #fff;">
 

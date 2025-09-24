@@ -2,42 +2,84 @@
 <style>
 /* Responsive grid and consistent logo sizing (matches home page layout) */
 .k_confirmed_als {
-	display: block;
-	grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
-	gap: 12px 18px;
-	list-style: none;
-	padding: 0;
-	margin: 0 auto;
-	align-items: start;
-	justify-items: center;
-	grid-auto-rows: minmax(120px, auto);
+    display: grid; /* was block */
+    grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+    gap: 12px 18px;
+    list-style: none;
+    padding: 0;
+    margin: 0 auto;
+    align-items: start;
+    justify-items: center;
+    grid-auto-rows: minmax(120px, auto);
+    box-sizing: border-box;
+    width: 100%;
+    max-width: 1200px; /* limit row width so grid doesn't overflow page */
 }
-.k_confirmed_als li { text-align:center; margin:0; padding:6px 4px; display:table-cell !important ;
-box-shadow: 0 1px 6px rgba(0, 0, 0, 0.06);
-    border: 1px solid rgba(44, 58, 100, 0.08) !important;
+
+/* each cell is a flexible box, not table-cell */
+.k_confirmed_als li {
+    text-align: center;
+    margin: 0;
+    padding: 8px;
+    display: flex;               /* changed */
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 1px 6px rgba(0, 0, 0, 0.06);
+    border: 1px solid rgba(44, 58, 100, 0.08);
+    box-sizing: border-box;
+    overflow: hidden; /* prevent internal overflow */
 }
-.k_confirmed_als li a { display:flex; flex-direction:column; align-items:center; justify-content:center; text-decoration:none; color:inherit; width:100%; }
+
+/* anchor layout */
+.k_confirmed_als li a {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    color: inherit;
+    width: 100%;
+    white-space: normal;
+    word-break: break-word;
+}
+
+/* image rules: fill the cell but constrained to uniform box */
 .k_confirmed_als li img {
-	max-width: 160px !important;
-	max-height: 110px !important;
-	width: auto !important;
-	height: auto !important;
-	object-fit: contain;
-	/* border-radius: 6px; */
-	/* box-shadow: 0 1px 6px rgba(0,0,0,0.06); */
-	background: #fff;
-	padding: 6px;
-	display: block;
-	margin: 0 auto 8px;
-	border:0px !important
-	/* border: 1px solid rgba(44,58,100,0.08) !important; */
+    width: 100% !important;      /* force img to use container width */
+    max-width: 160px !important; /* visual size limit */
+    height: 110px !important;    /* fixed image display height */
+    object-fit: contain !important; /* maintain aspect inside box */
+    background: #fff;
+    padding: 6px;
+    display: block;
+    margin: 0 auto 8px;
+    border: 0 !important;
+    box-sizing: border-box;
 }
-.k_confirmed_als h5 { text-transform: uppercase; grid-column: 1 / -1; background: rgba(44,58,100,0.06); padding:8px 12px; border-radius:8px; font-size:15px; text-align:center; }
+
+/* heading inside list should span full width but keep inside container */
+.k_confirmed_als h5 {
+    text-transform: uppercase;
+    grid-column: 1 / -1;
+    background: rgba(44,58,100,0.06);
+    padding: 8px 12px;
+    border-radius: 8px;
+    font-size: 15px;
+    text-align: center;
+    margin: 0 0 8px 0;
+    box-sizing: border-box;
+}
+
+/* small screens */
 @media (max-width: 576px) {
-	.k_confirmed_als { grid-template-columns: repeat(2,1fr); gap:10px; }
-	.k_confirmed_als li img { max-width:120px !important; max-height:80px !important; padding:4px; }
-	.k_confirmed_als h5 { font-size:13px; padding:6px 8px; }
+    .k_confirmed_als { grid-template-columns: repeat(2,1fr); gap:10px; max-width: 100%; }
+    .k_confirmed_als li img { max-width:120px !important; height:80px !important; padding:4px; }
+    .k_confirmed_als h5 { font-size:13px; padding:6px 8px; }
 }
+
+/* container safeguard: prevent page-level horizontal scroll from this component */
+.dum_container { box-sizing: border-box; overflow-x: hidden; }
 </style>
 <!-- key objective starts here -->
 

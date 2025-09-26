@@ -129,6 +129,91 @@ start-ups in the tech space.
     </div>
 </div>
 
+<div class="row speaker_row">
+    <div class="k_list_part">
+        <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
+            <!-- Speaker Image -->
+            <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
+                <img src="images/2026/speakers/Alokkumar.JPG" alt="AshutoshGoel" class="speaker-photo">
+            </div>
+
+            <!-- Speaker Content -->
+            <div class="speaker_content" style="flex: 1;">
+                <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
+                    Alok Kumar,<br/>
+                    Director General, <br/>
+                    All India Discoms Association (AIDA)
+                </h1>
+                <p style="text-align: justify; line-height: 1.6;">
+                    He has completed 35 years long career in public policy and economic   
+development in India's premier federal civil service (IAS) reaching up to   
+distinguished position of Secretary in federal government with extensive   
+experience in electricity, renewable energy, energy transition, infrastructure   
+development and skill development domains. He has led several large commercial   
+organisations as CEO and played a key role in formulation and implementation of   
+several national/state level policies, programmes and regulatory interventions.   
+During 2021 - 2023, he Successfully managed the operations of India's power   
+system, one of the largest in the world, along with steering wide-ranging sectoral   
+reforms. He has deep understanding of global energy transition aspects as chair   
+of G20 Energy Transitions Working Group in 2022- 2023.   
+                </p>
+                <p style="text-align: justify; line-height: 1.6;">
+                    Presently he is Professor of Practice in Department of Hydro and Renewable   
+Energy at IIT Roorkee, and chairs the Inter- Ministerial Working Group set up by   
+NITI Aayog to develop power sector pathway to achieve Net Zero commitment by   
+India. In 2025, he has been appointed as Independent Director on the Board of 
+Power Exchange India Limited. He is also Partner with The Lantau Group   
+(Singapore) Pte Ltd.  
+                </p>
+
+                <p style="text-align: justify; line-height: 1.6;">
+                    He obtained bachelor's degree in civil engineering from IIT Roorkee in 1983, and   
+Master of Business Administration (Finance) from National Open University in   
+2009.  
+                </p>
+
+                <p style="text-align: justify; line-height: 1.6;">
+                Authored the book 'Electricity Sector in India- Policy and Regulation' published by   
+Oxford University Press in 2012, and has been writing regularly on energy related   
+topics for business publications in India.      
+            </p>
+                
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Manoj Muthyala -->
+	<div class="row speaker_row">
+		<div class="k_list_part ">
+			<div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
+				<div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
+						<img src="images/2026/speakers/gurpreet.jpg" style="width:60%">
+					</div>
+					<div class="speaker_content">
+						<h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
+							Gurpreet Oberoi<br/>Chief Business Officer<br/>Kimbal Private Limited
+						</h1>
+						<p>Gurpreet Singh Oberoi is the Chief Business Officer at Kimbal with over 30 years of   
+experience in sales and marketing across India's utility and consumer markets. He has   
+deep expertise in the electricity value chain, from retail supply to distribution and   
+transmission. At Kimbal, he leads sales, marketing, cash flow management, and   
+strategic partnerships, working closely with senior leadership to drive growth and   
+optimize revenue streams.  </p>
+						<p>Before joining Kimbal, Gurpreet held leadership roles at Landis+Gyr and Larsen &   
+Toubro, successfully building business verticals and expanding market presence. He   
+has a strong track record in identifying opportunities, addressing regulatory   
+challenges, and ensuring seamless project execution.  </p>
+<p>Gurpreet holds an Executive MBA in Marketing from SP Jain Institute of Management   
+& Research and a Bachelor's degree in Electrical and Electronics Engineering from   
+MIET. A strong believer in collaboration and analytical thinking, he is passionate about   
+driving impactful change and has a keen interest in luxury automobiles.  </p>
+					</div>
+				
+			</div>
+		</div>
+	</div>
+
 	<!-- Manoj Muthyala -->
 	<div class="row speaker_row">
 		<div class="k_list_part ">
@@ -211,25 +296,7 @@ for the company.
 		</div>
 	</div>
 
-	<!-- Teppo Hemiä -->
-	<div class="row speaker_row">
-		<div class="k_list_part ">
-			<div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
-				<div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
-						<img src="images/2026/speakers/TeppoHemia.jpg" style="width:60%">
-					</div>
-					<div class="speaker_content">
-						<h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
-							Teppo Hemiä<br/>CEO<br/>Wirepas
-						</h1>
-						<p>Teppo is a technology and business executive with 30 years of experience from creating, developing and delivering innovative global wireless technology products and solutions. He has experience from several successful business creations and turnarounds, from a startup to an established business with half a billion top line.</p>
-						<p>Teppo Hemiä has been the founder and CEO of Wirepas since 2014. Wirepas offers a singular connectivity technology with unique licensing business model. The completely de-centralized device connectivity, also part of 5G standards, helps customers to lower the cost of data acquisition while keeping the reliability levels very high at any scale and networks private.</p>
-						<p>Before joining Wirepas he has held several demanding positions at Nokia, STMicroelectronics and ST-Ericsson.</p>
-					</div>
-				
-			</div>
-		</div>
-	</div>
+	
 
 	
 
@@ -388,6 +455,56 @@ York University, Toronto, Canada.
         </div>
     </div>
 </div>
+
+<!-- RS Selvam   -->
+	<div class="row speaker_row">
+		<div class="k_list_part ">
+			<div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
+				<div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
+						<img src="images/2026/speakers/selvam.jpg" style="width:60%">
+					</div>
+					<div class="speaker_content">
+						<h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
+							RS Selvam  <br/>Vice President of Research & Development<br/>Stelmec  
+						</h1>
+						<p>With over 40 years of extensive experience in the switchgear industry, RS Selvam   
+is a seasoned expert in the design and development of medium-voltage (MV)   
+switchgear products. His career began with a BE in Electrical & Electronics from   
+Anna University, Chennai, followed by an MBA in Operations from Manipal   
+University through distance education.  </p>
+						<p>Throughout his career, RS Selvam has contributed to leading firms, including   
+Southern Switchgear in Chennai, Eswaran & Sons Engineer Ltd., Chennai, Andrew   
+Yule & Co. Ltd., and ECE Industries Ltd. in both Kolkata and Delhi. For the past 20   
+years, he has served as the Vice President of Research & Development at Stelmec   
+Limited, where he leads innovative projects in MV switchgear design, transitioning   
+from oil-based to vacuum circuit breaker technology.  </p>
+						<p>His expertise in the switchgear industry is deeply rooted in in-house design and   
+development, making him a valuable asset and a respected figure in his field.</p>
+					</div>
+				
+			</div>
+		</div>
+	</div>
+
+<!-- Teppo Hemiä -->
+	<div class="row speaker_row">
+		<div class="k_list_part ">
+			<div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
+				<div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
+						<img src="images/2026/speakers/TeppoHemia.jpg" style="width:60%">
+					</div>
+					<div class="speaker_content">
+						<h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
+							Teppo Hemiä<br/>CEO<br/>Wirepas
+						</h1>
+						<p>Teppo is a technology and business executive with 30 years of experience from creating, developing and delivering innovative global wireless technology products and solutions. He has experience from several successful business creations and turnarounds, from a startup to an established business with half a billion top line.</p>
+						<p>Teppo Hemiä has been the founder and CEO of Wirepas since 2014. Wirepas offers a singular connectivity technology with unique licensing business model. The completely de-centralized device connectivity, also part of 5G standards, helps customers to lower the cost of data acquisition while keeping the reliability levels very high at any scale and networks private.</p>
+						<p>Before joining Wirepas he has held several demanding positions at Nokia, STMicroelectronics and ST-Ericsson.</p>
+					</div>
+				
+			</div>
+		</div>
+	</div>
 
 <!-- Vishakha Chavan -->
 	<div class="row speaker_row">

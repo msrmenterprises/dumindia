@@ -134,7 +134,7 @@ start-ups in the tech space.
         <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
             <!-- Speaker Image -->
             <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
-                <img src="images/2026/speakers/Alokkumar.JPG" alt="AshutoshGoel" class="speaker-photo">
+                <img src="images/2026/speakers/Alokkumar.png" alt="AshutoshGoel" class="speaker-photo">
             </div>
 
             <!-- Speaker Content -->

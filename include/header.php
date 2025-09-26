@@ -353,7 +353,7 @@ display: none;
         </a>
       </div>
 	  <div class="col-md-8 col-sm-2 k_logo_main co-org-vin head-vin-icon-web">
-	  <img src="images/2026/WebHeaderv3.jpg?refetch" style="width:100%;">
+	  <img src="images/2026/WebHeaderv4.jpg?refetch" style="width:100%;">
 	  </div>
      
 

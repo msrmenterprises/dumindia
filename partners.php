@@ -2,43 +2,80 @@
 <style>
 /* Responsive grid and consistent logo sizing (aligned with home page) */
 .k_confirmed_als {
-	display: block;
-	grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
-	gap: 12px 18px;
-	list-style: none;
-	padding: 0;
-	margin: 0 auto;
-	align-items: start;
-	justify-items: center;
-	grid-auto-rows: minmax(120px, auto);
-	overflow:auto
+    display: grid; /* was block */
+    grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+    gap: 12px 18px;
+    list-style: none;
+    padding: 0;
+    margin: 0 auto;
+    align-items: start;
+    justify-items: center;
+    grid-auto-rows: minmax(120px, auto);
+    box-sizing: border-box;
+    width: 100%;
+    max-width: 1200px; /* optional: constrain overall width */
+    overflow-x: hidden; /* prevent horizontal scrolling */
 }
-.k_confirmed_als li { text-align:center; margin:0; padding:6px 4px; display:table-cell !important ;
-box-shadow: 0 1px 6px rgba(0, 0, 0, 0.06);
-    border: 1px solid rgba(44, 58, 100, 0.08) !important;
-	width:0% !important
+
+/* each cell as a flexible box; override any old table-cell rule */
+.k_confirmed_als li {
+    text-align: center;
+    margin: 0;
+    padding: 8px;
+    display: flex !important;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 1px 6px rgba(0, 0, 0, 0.06);
+    border: 1px solid rgba(44, 58, 100, 0.08);
+    box-sizing: border-box;
+    min-width: 0; /* allow flex items to shrink, prevents overflow */
+    overflow: hidden;
 }
-.k_confirmed_als li a { display:flex; flex-direction:column; align-items:center; justify-content:center; text-decoration:none; color:inherit; width:100%; }
+
+/* anchor layout */
+.k_confirmed_als li a {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    color: inherit;
+    width: 100%;
+}
+
+/* image rules: fill the allowed space but stay contained */
 .k_confirmed_als li img {
-	max-width: 160px !important;
-	max-height: 110px !important;
-	width: auto !important;
-	height: auto !important;
-	object-fit: contain;
-	/* border-radius: 6px; */
-	/* box-shadow: 0 1px 6px rgba(0,0,0,0.06); */
-	background: #fff;
-	padding: 6px;
-	display: block;
-	margin: 0 auto 8px;
-	border:0px !important
-	/* border: 1px solid rgba(44,58,100,0.08) !important; */
+    width: 100% !important;
+    max-width: 160px !important;
+    height: 110px !important;
+    object-fit: contain !important;
+    background: #fff;
+    padding: 6px;
+    display: block;
+    margin: 0 auto 8px;
+    border: 0 !important;
+    box-sizing: border-box;
+}
+
+/* heading inside list should span full width */
+.k_confirmed_als h5 {
+    text-transform: uppercase;
+    grid-column: 1 / -1;
+    background: rgba(44,58,100,0.06);
+    padding: 8px 12px;
+    border-radius: 8px;
+    font-size: 15px;
+    text-align: center;
+    margin: 0 0 8px 0;
+    box-sizing: border-box;
 }
 .k_confirmed_als h5 { text-transform: uppercase; grid-column: 1 / -1; background: rgba(44,58,100,0.06); padding:8px 12px; border-radius:8px; font-size:15px; text-align:center; }
+/* small screens */
 @media (max-width: 576px) {
-	.k_confirmed_als { grid-template-columns: repeat(2,1fr); gap:10px; }
-	.k_confirmed_als li img { max-width:120px !important; max-height:80px !important; padding:4px; }
-	.k_confirmed_als h5 { font-size:13px; padding:6px 8px; }
+    .k_confirmed_als { grid-template-columns: repeat(2,1fr); gap:10px; max-width: 100%; }
+    .k_confirmed_als li img { max-width:120px !important; height:80px !important; padding:4px; }
+    .k_confirmed_als h5 { font-size:13px; padding:6px 8px; }
 }
 
 /* Section spacing like home page */
@@ -51,6 +88,7 @@ box-shadow: 0 1px 6px rgba(0, 0, 0, 0.06);
 	.k_cheading h1 { font-size: 22px; }
 	.k_container { padding-top: 18px; padding-bottom: 18px; }
 }
+.dum_container { box-sizing: border-box; overflow-x: hidden; }
 </style>
 <!-- key objective starts here -->
 <div class="row k_inbanner">
@@ -103,18 +141,17 @@ box-shadow: 0 1px 6px rgba(0, 0, 0, 0.06);
 
 		<BR/>
 		<ul class="k_confirmed_als">
-		<h5><STRONG>TECHNOLOGY INNOVATION PARTNERS</STRONG></h5>
-		<li><a href="https://edx.com/" target="_blank"><img src="images/2026/EDXWireless.jpeg">EDX Wireless</a></li>
-		<li><a href="https://apar.com/" target="_blank"><img src="/images/apar.png" style="border: 1px solid #aeb4b2; height:100px;">APAR Industries </a></li>
-		<li><a href="https://kimbal.io/" target="_blank"><img src="/images/Kimbal.jpg" style="border: 1px solid #aeb4b2; height: 120px;">Kimbal </a></li>
-		<li><a href="https://www.wirepas.com/" target="_blank"><img src="/images/WIREPASS.png" style="border: 1px solid #aeb4b2; height:120px;">Wirepas</a></li>
-		<li><a href="https://aewinfra.com/" target="_blank"><img src="images/2024/allied.png" style="border: 1px solid #aeb4b2; height: 120px;">Allied Engineering Works Limited</a></li>	
-		<li><a href="https://stelmec.com/" target="_blank"><img src="/images/stelmac.png" style="border: 1px solid #aeb4b2; height: 120px;">Stelmec</a></li>	
-		<li><a href="https://www.megger.com/en" target="_blank"><img src="/images/2025/Megger.jpeg" style="border: 1px solid #aeb4b2;">Megger India Pvt Ltd</a></li>
-		<br/>
-		<li><a href="https://www.eaton.com/in/en-us.html" target="_blank"><img src="/images/2024/eaton.png" style="border: 1px solid #aeb4b2;">Eaton </a></li>
-		<li><a href="https://trilliant.com/" target="_blank"><img src="/images/2025/Trilliant.jpeg" style="border: 1px solid #aeb4b2;">Trilliant </a></li>
-	</ul>	
+			<h5><STRONG>TECHNOLOGY INNOVATION PARTNERS</STRONG></h5>
+			<li><a href="https://edx.com/" target="_blank"><img src="images/2026/EDXWireless.jpeg">EDX Wireless</a></li>
+			<li><a href="https://apar.com/" target="_blank"><img src="/images/apar.png" style="border: 1px solid #aeb4b2; height:100px;">APAR Industries </a></li>
+			<li><a href="https://kimbal.io/" target="_blank"><img src="/images/Kimbal.jpg" style="border: 1px solid #aeb4b2; height: 120px;">Kimbal </a></li>
+			<li><a href="https://www.wirepas.com/" target="_blank"><img src="/images/WIREPASS.png" style="border: 1px solid #aeb4b2; height:120px;">Wirepas</a></li>
+			<li><a href="https://aewinfra.com/" target="_blank"><img src="images/2024/allied.png" style="border: 1px solid #aeb4b2; height: 120px;">Allied Engineering Works Limited</a></li>	
+			<li><a href="https://stelmec.com/" target="_blank"><img src="/images/stelmac.png" style="border: 1px solid #aeb4b2; height: 120px;">Stelmec</a></li>	
+			<li><a href="https://www.megger.com/en" target="_blank"><img src="/images/2025/Megger.jpeg" style="border: 1px solid #aeb4b2;">Megger India Pvt Ltd</a></li>
+			<li><a href="https://www.eaton.com/in/en-us.html" target="_blank"><img src="/images/2024/eaton.png" style="border: 1px solid #aeb4b2;">Eaton </a></li>
+			<li><a href="https://trilliant.com/" target="_blank"><img src="/images/2025/Trilliant.jpeg" style="border: 1px solid #aeb4b2;">Trilliant </a></li>
+		</ul>	
 
 </div>	
 

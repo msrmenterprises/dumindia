@@ -26,7 +26,12 @@
 	<li><a href="https://www.mahadiscom.in/en/home/" target="_blank"><img src="images/MSEDCL_logo.jpg" style="height:120px;">Maharashtra State Electricity Distribution Co. Ltd </a></li>
 	<li><a href="https://www.bsesdelhi.com/web/brpl/home" target="_blank"><img src="images/utilities2019/bsess.png">BSES Rajdhani Power Limited</a></li>
 	<li><a href="https://www.bsesdelhi.com/web/bypl/home" target="_blank"><img src="images/utilities2019/bsess_yahh.png">BSES Yamuna Power Limited</a></li>
-	
+	<li><a href="https://uppcl.org/uppcl/hi/" target="_blank"><img src="images/2024/uppcl1.png" style="height:155px;"> Uttar Pradesh Power Corporation Limited</a></li> 
+	<li><a href="http://www.nbpdcl.in/" target="_blank"><img src="images/logo14.jpg" style="border: 2px solid #aeb4b2; height: 120px;">North Bihar Power Distribution Company Ltd.</a></li>
+	<li><a href="http://www.sbpdcl.in/" target="_blank"><img src="images/logo16.jpg" style="border: 2px solid #aeb4b2;">South Bihar Power Distribution Company Ltd</a></li>
+	<li><a href="https://www.upcl.org/" target="_blank"><img src="images/Uttarakhand Power Corporation Limited logo.jpg" style="height:155px;">Uttarakhand Power Corporation Limited </a></li>
+	<li><a href="https://www.wbsedcl.in/irj/go/km/docs/internet/new_website/Home.html" target="_blank"><img src="images/2024/wbsedcl.png" style="height:155px;">West Bengal State Electricity Distribution Company Limited</a></li>
+	<li><a href="https://www.mgvcl.com/" target="_blank"><img src="images/2024/mgvcl.png" style="height:102px;">Madhya Gujarat Vij Company Limited</a></li>
 </ul>
 
 <div class="k_cheading">

@@ -78,6 +78,9 @@ box-shadow: 0 1px 6px rgba(0, 0, 0, 0.06);
 				<li><a href="https://www.phoenixcontact.com/en-in/" target="_blank"><img src="/images/Logo - Phoenix Contact.jpg" style="height:100px;">Phoenix Contact</a></li>
 				<li><a href="https://brodersen.com/" target="_blank"><img src="/images/2025/Brodersen.jpeg" style="height:100px;">Brodersen Systems Pvt. Ltd.</a></li>
 				<li><a href="http://www.probus.io/" target="_blank"><img src="/images/Exhibitors/2019/probus.png" style="border: 1px solid #aeb4b2;">Probus</a></li>
+				<li><a href="https://radius.co.in/" target="_blank"><img src="/images/2026/Radius.jpeg" style="border: 1px solid #aeb4b2; height:100px;">Radius Synergies International Private Limited</a></li>
+				<li><a href="https://www.tekuncorked.com/" target="_blank"><img src="/images/Exhibitors/teku.png" style="border: 1px solid #aeb4b2; height:120px;">Tekuncorked </a></li> 	
+				<li><a href="http://www.rmcindia.in/index.php" target="_blank"><img src="/images/2026/rmc.png" style="border: 1px solid #aeb4b2;">RMC India</a></li>
 			</div>		
 
 

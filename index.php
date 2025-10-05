@@ -462,7 +462,7 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 		<li><a href="https://www.cesc.co.in/home" target="_blank"><img src="/images/CESC_cohost.jpg" style="height: 100px;">CESC Limited</a></li>
 		<li><a href="https://uppcl.org/uppcl/hi/" target="_blank"><img src="images/2024/uppcl1.png" style="height:155px;"> Uttar Pradesh Power Corporation Limited</a></li> 
 		<li><a href="" target="_blank"><img src="images/utilities2019/nb.png">North Bihar Power Distribution Company Limited</a></li>
-		<li><a href="" target="_blank"><img src="images/2026/southbihar.png">South Bihar Power Distribution Company Limited</a></li>
+		<li><a href="" target="_blank"><img src="images/2026/SBPDCL.png">South Bihar Power Distribution Company Limited</a></li>
 		<li><a href="https://www.upcl.org/" target="_blank"><img src="images/Uttarakhand Power Corporation Limited logo.jpg" style="height:155px;">Uttarakhand Power Corporation Limited </a></li>
 		<li><a href="https://www.wbsedcl.in/irj/go/km/docs/internet/new_website/Home.html" target="_blank"><img src="images/2024/wbsedcl.png" style="height:155px;">West Bengal State Electricity Distribution Company Limited</a></li>
 		<li><a href="https://www.mgvcl.com/" target="_blank"><img src="images/2024/mgvcl.png" style="height:102px;">Madhya Gujarat Vij Company Limited</a></li>

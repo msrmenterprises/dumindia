@@ -1,5 +1,5 @@
  <?php include "include/header.php"; ?>
-<!-- <style>
+<style>
 .active {
     background-color: #8cc63e;
     color: #fff;
@@ -16,7 +16,10 @@
         <img src="images/kborder_bottom.png" alt="">
     </div>
 </div>
-
+<div class="row dum_container key_div">
+    <h1>No Data Found</h1>
+    </div>
+<!-- 
 <div class="row dum_container key_div">
     <table style="width: 50%; border-collapse: collapse; margin: 0 auto;">
         <thead>

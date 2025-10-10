@@ -1567,11 +1567,29 @@ else
 			<h1><span class="k_greencolor">Password Protected Page</span> </h1>
 			<img src="images/kborder_bottom.png" alt="">
 			</div>
-			<form method="POST" action="https://dumindia.in/presentations2025.php" class="k_form">
-            
-            Enter Password To Open Presentation <input type="password" name="pass"></input><br/><br/>
-            <input type="submit" name="submit" value="Go"></input>
+            <form method="POST" action="https://dumindia.in/presentations2025.php" class="k_form" style="text-align:center;">
+                Enter Password To Open DUM 2025 Presentations
+                <br/>
+                <input type="password" name="pass" aria-label="DUM 2025 password">
+                <br/><br/>
+                <input type="submit" name="submit" value="Open 2025">
             </form>
+
+            <hr style="max-width:600px;margin:20px auto;" />
+
+            <div style="text-align:center; max-width:640px; margin:0 auto;">
+                <p style="margin-bottom:6px;">Or access previous year's presentations:</p>
+                <p style="margin-bottom:12px;"><a href="presentations2024.php" target="_blank">Open Presentations 2024 (in new tab)</a></p>
+
+                <!-- Small inline 2024 access form: posts to the 2024 page which may itself be password-protected -->
+                <form method="POST" action="https://dumindia.in/presentations2024.php" class="k_form" style="text-align:center;">
+                    Enter Password To Open DUM 2024 Presentations
+                    <br/>
+                    <input type="password" name="pass" aria-label="DUM 2024 password">
+                    <br/><br/>
+                    <input type="submit" name="submit" value="Open 2024">
+                </form>
+            </div>
 			
 			
 		</div>	

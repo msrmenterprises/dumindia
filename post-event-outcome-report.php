@@ -17,7 +17,7 @@
     </div>
 </div>
 <div class="row dum_container key_div">
-    <h1>No Data Found</h1>
+    <h1>Report will be uploaded after the event.</h1>
     </div>
 <!-- 
 <div class="row dum_container key_div">

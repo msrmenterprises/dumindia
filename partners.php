@@ -83,7 +83,8 @@ box-shadow: 0 1px 6px rgba(0, 0, 0, 0.06);
 		<h5><STRONG>CO HOST UTILITIES</STRONG></h5>
 		<li><a href="https://www.bsesdelhi.com/web/brpl/home" target="_blank"><img src="images/utilities2019/bsess.png">BSES Rajdhani Power Limited</a></li>
 		<li><a href="https://www.bsesdelhi.com/web/bypl/home" target="_blank"><img src="images/utilities2019/bsess_yahh.png">BSES Yamuna Power Limited</a></li>
-		</ul>	
+		<li><a href="https://www.noidapower.com/" target="_blank"><img src="images/utilities2019/npcl.png">NPCL</a></li>	
+	</ul>	
 	
 		<BR/>
 		<ul class="k_confirmed_als">
@@ -110,6 +111,7 @@ box-shadow: 0 1px 6px rgba(0, 0, 0, 0.06);
 			<li><a href="https://www.wirepas.com/" target="_blank"><img src="/images/WIREPASS.png" style="border: 1px solid #aeb4b2; height:120px;">Wirepas</a></li>
 			<li><a href="https://aewinfra.com/" target="_blank"><img src="images/2024/allied.png" style="border: 1px solid #aeb4b2; height: 120px;">Allied Engineering Works Limited</a></li>	
 			<li><a href="https://stelmec.com/" target="_blank"><img src="/images/stelmac.png" style="border: 1px solid #aeb4b2; height: 120px;">Stelmec</a></li>	
+			<li><a href="https://www.dnv.com/" target="_blank"><img src="/images/DNV.jpg" style="border: 1px solid #aeb4b2;">DNV </a></li>	
 			<!-- <li><a href="https://www.megger.com/en" target="_blank"><img src="/images/2025/Megger.jpeg" style="border: 1px solid #aeb4b2;">Megger India Pvt Ltd</a></li> -->
 			
 		</ul>	

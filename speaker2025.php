@@ -93,6 +93,81 @@
 		<h1><span class="k_greencolor">SPEAKERS OF</span> DUM 2025 </h1>
 		<img src="images/kborder_bottom.png" alt="">
 	</div>
+
+<!-- Alok Mishra - Updated Bio -->
+<div class="row speaker_row">
+    <div class="k_list_part">
+        <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
+            <!-- Speaker Image -->
+            <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
+                <img src="images/2026/speakers/AlokKumar_DNV.jpg" alt="AlokKumar" class="speaker-photo">
+            </div>
+
+            <!-- Speaker Content -->
+            <div class="speaker_content" style="flex: 1;">
+                <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
+                    Alok Mishra,<br/>
+                    Market Area Manager-Power Grid,<br/>
+                    DNV
+                </h1>
+                <p style="text-align: justify; line-height: 1.6;">
+                    Alok is an experienced professional with more than 13 years of work   
+experience in the energy sector, currently serving as the Market Area   
+Manager-Power Grid at DNV. With a background in engineering and an   
+MBA, Alok has worked on various projects related to electric vehicles (EVs)   
+and decarbonization in India and other countries, focusing on EV   
+integration with transmission and distribution, EV market study, Technical   
+Due Diligence of EV sector, Technology review of EV sector. He has   
+received recognition for his work in the form of the Clean Mobility   
+Leadership: Young Achiever Award in India. Alok has also been involved in   
+the first offshore wind with hydrogen study, the first grid connection   
+report for offshore wind under the FOWIND project, and many other   
+initiatives. In this ever-evolving energy landscape, Alok's experience and   
+expertise provide valuable insights into the challenges and opportunities   
+that lie ahead.  
+                </p>
+                
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Atul Bali  - Updated Bio -->
+<div class="row speaker_row">
+    <div class="k_list_part">
+        <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
+            <!-- Speaker Image -->
+            <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
+                <img src="images/2026/speakers/AtulBali.png" alt="AtulBali" class="speaker-photo">
+            </div>
+
+            <!-- Speaker Content -->
+            <div class="speaker_content" style="flex: 1;">
+                <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
+                    Atul Bali,<br/>
+                    Director,<br/>
+                    NSGM
+                </h1>
+                <p style="text-align: justify; line-height: 1.6;">
+                    Atul Bali is the Director of the National Smart Grid Mission, established by   
+the Government of India to plan and monitor the implementation of   
+policies and programmes related to smart grid activities in India, and   
+Executive Director at Power Grid Corporation of India. He has nearly three   
+decades of rich experience in the power sector. His experience spans   
+design, engineering, monitoring, and successful implementation of   
+SCADA/EMS/DMS projects. He has worked in NHPC, POWERGRID, PFC, and   
+the Navratna Public Sector Undertakings of the Ministry of Power,   
+Government of India. He has been associated with the concept to   
+commissioning of the Unified Load Despatch and Communication Scheme   
+and has supervised the implementation of IT-based distribution reform   
+projects under the prestigious Restructured Accelerated Power   
+Development and Reforms Programme (RAPDRP) in India.  
+                </p>
+                
+            </div>
+        </div>
+    </div>
+</div>
 	
 	<!-- Ashutosh Goel - Updated Bio -->
 <div class="row speaker_row">
@@ -177,6 +252,55 @@ Master of Business Administration (Finance) from National Open University in
 Oxford University Press in 2012, and has been writing regularly on energy related   
 topics for business publications in India.      
             </p>
+                
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Gajanan S Kale - Updated Bio -->
+<div class="row speaker_row">
+    <div class="k_list_part">
+        <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
+            <!-- Speaker Image -->
+            <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
+                <img src="images/2026/speakers/GajananSKale.png" alt="AtulBali" class="speaker-photo">
+            </div>
+
+            <!-- Speaker Content -->
+            <div class="speaker_content" style="flex: 1;">
+                <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
+                    Gajanan S Kale,<br/>
+                    Chief Executive Officer,<br/>
+                    TP Northern Odisha Distribution Limited
+                </h1>
+                <p style="text-align: justify; line-height: 1.6;">
+                    Gajanan S. Kale serves as the Chief Executive Officer of TP Northern Odisha   
+Distribution Limited (TPNODL), a joint venture between Tata Power and   
+the Odisha Government, and concurrently holds the position of Chief of   
+Odisha Distribution Business. With over three decades of expertise in the   
+power and energy sector, Mr. Kale has held various strategic positions   
+across several organizations, driving transformation, excellence, digital   
+advancement, and stakeholder management. 
+                </p>
+                <p style="text-align: justify; line-height: 1.6;">Prior to joining TPNODL, Mr. Kale held CEO positions at Tata Power-DDL,   
+TP Western Odisha Distribution Limited (TPWODL), and TP Ajmer   
+Distribution Ltd (TPADL). He began his career at BHEL in Bhopal and   
+subsequently held key positions at the Central Railway Nagpur Division,   
+Tata Power Mumbai Distribution, and Tata Power-DDL.</p>
+                <p style="text-align: justify; line-height: 1.6;">Mr. Kale is a seasoned professional with over 32 years of experience and   
+extensive expertise in enhancing customer experience, resource planning   
+and management, operational excellence, project management, digital   
+transformations, and stakeholder management. He has received notable   
+recognitions for his leadership, including the “Best CEO of the Year with   
+HR Orientation” and the “Best CEO of the Year” award for FY 2023-24.  
+Mr. Kale holds an MBA in Finance and an M.Tech in Integrated Power   
+Systems from the National Institute of Technology, Nagpur, a B.E. in   
+Electrical Power Systems from Amravati University, and is also an alumnus   
+of the prestigious IIM Ahmedabad.  </p>
+                <p style="text-align: justify; line-height: 1.6;">With his visionary leadership and expertise, Mr. Kale is poised to shape   
+TPNODL's success story, driving the company's growth and development   
+through his commitment to excellence.  </p>
                 
             </div>
         </div>
@@ -456,6 +580,43 @@ York University, Toronto, Canada.
     </div>
 </div>
 
+<!-- Ritwik Anand   - Updated Bio -->
+<div class="row speaker_row">
+    <div class="k_list_part">
+        <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
+            <!-- Speaker Image -->
+            <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
+                <img src="images/2026/speakers/RitwikAnand.png" alt="AtulBali" class="speaker-photo">
+            </div>
+
+            <!-- Speaker Content -->
+            <div class="speaker_content" style="flex: 1;">
+                <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
+                    Ritwik Anand,<br/>
+                    Scientist E & Director (Electrotechnical Department),<br/>
+                    Bureau of Indian Standards, Ministry of Consumer Affairs, Food &   
+Public Distribution
+                </h1>
+                <p style="text-align: justify; line-height: 1.6;">
+                    Mr Ritwik Anand is presently working as Scientist-E & Director in the   
+Electrotechnical Department of the Bureau of Indian Standards (BIS). He   
+joined Bureau of Indian Standards in the year 2012.He has worked on and   
+is associated with a lot of important assignments related standardization   
+in varied fields like Safety of Electrical Installations, LVDC Distribution   
+Systems and Marine Energy Conversion Systems technical committees. 
+                </p>
+                <p style="text-align: justify; line-height: 1.6;">He is also the Member Secretary of the technical committee of Revision of   
+National Electrical Code of India, SP 30 and Assistant Secretary of the IEC   
+Systems Committee on Low Voltage Direct Current (IEC SyC LVDC).  
+Notably, Mr. Anand was honored with the prestigious IEC 1906 Award by   
+the International Electrotechnical Commission (IEC).</p>
+                
+                
+            </div>
+        </div>
+    </div>
+</div>
+
 <!-- RS Selvam   -->
 	<div class="row speaker_row">
 		<div class="k_list_part ">
@@ -485,6 +646,87 @@ development, making him a valuable asset and a respected figure in his field.</p
 			</div>
 		</div>
 	</div>
+
+<!-- Sandip Sinha - Updated Bio -->
+<div class="row speaker_row">
+    <div class="k_list_part">
+        <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
+            <!-- Speaker Image -->
+            <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
+                <img src="images/2026/speakers/SandipSinha.png" alt="AtulBali" class="speaker-photo">
+            </div>
+
+            <!-- Speaker Content -->
+            <div class="speaker_content" style="flex: 1;">
+                <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
+                    Sandip Sinha,<br/>
+                    Vice President - Sales,<br/>
+                    Trilliant Networks
+                </h1>
+                <p style="text-align: justify; line-height: 1.6;">
+                    Sandip Sinha is a senior executive with over 20 years of experience in the   
+energy sector, specializing in sales strategy, business development, and   
+program delivery across Advanced Metering Infrastructure, renewable   
+energy, smart grid, and battery energy storage domains. As Vice President   
+of Sales at Trilliant Networks, he leads strategic engagements with power   
+utilities, government agencies and AMISP, driving the adoption of   
+advanced smart energy solutions. 
+                </p>
+                <p style="text-align: justify; line-height: 1.6;">Prior to Trilliant, Sandip held key leadership roles at Hitachi Energy, ABB,   
+and Itron, where he played a pivotal role in expanding market presence   
+and delivering large-scale technology programs. He brings a deep   
+understanding of the evolving energy landscape and has been   
+instrumental in promoting digital transformation within the sector.   
+Sandip holds an MBA in Finance from the Indian Institute of Technology,   
+Delhi, and a Bachelor's degree in Electrical Engineering from Bangalore   
+University.   </p>
+                
+                
+            </div>
+        </div>
+    </div>
+</div>    
+
+<!-- Shashank Mishra  - Updated Bio -->
+<div class="row speaker_row">
+    <div class="k_list_part">
+        <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
+            <!-- Speaker Image -->
+            <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
+                <img src="images/2026/speakers/ShashankMishra.png" alt="AtulBali" class="speaker-photo">
+            </div>
+
+            <!-- Speaker Content -->
+            <div class="speaker_content" style="flex: 1;">
+                <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
+                    Shashank Mishra,<br/>
+                    Joint Secretary,<br/>
+                    Ministry of Power, Govt. of India
+                </h1>
+                <p style="text-align: justify; line-height: 1.6;">
+                    Shri Shashank Misra is Government Nominee Director on the Board   
+of REC Limited since August 21, 2023. He is an IAS Officer (Madhya   
+Pradesh: 2007) and holds B. Tech in Electrical Engineering from IIT Delhi.   
+Presently, he is posted as Joint Secretary in the Ministry of Power,   
+Government of India. Prior to joining in Ministry of Power, he has served   
+in Department of Revenue, Ministry of Finance, Government of India.   
+                </p>
+                <p style="text-align: justify; line-height: 1.6;">He has also worked in various capacities in Government of Madhya   
+Pradesh which includes Managing Director of Madhya Pradesh Road   
+Development Corporation Limited, Madhya Pradesh Building   
+Development Corporation Limited & Madhya Pradesh State Asset   
+Management Company Limited, Chairman of Ujjain Smart City Limited and   
+as CEO of Madhya Pradesh Rural Road Development Authority. Further, he   
+is also Government Nominee Director on the Board of Power Finance   
+Corporation Limited.</p>
+                <p style="text-align: justify; line-height: 1.6;">Shri Shashank Misra holds Nil equity shares in the Company. Further, he   
+has no inter-se relation with any other Director or Key Managerial   
+Personnel of the Company.</p>
+                
+            </div>
+        </div>
+    </div>
+</div> 
 
 <!-- Teppo Hemiä -->
 	<div class="row speaker_row">

@@ -33,6 +33,7 @@
 	<li><a href="https://www.wbsedcl.in/irj/go/km/docs/internet/new_website/Home.html" target="_blank"><img src="images/2024/wbsedcl.png" style="height:155px;">West Bengal State Electricity Distribution Company Limited</a></li>
 	<li><a href="https://www.mgvcl.com/" target="_blank"><img src="images/2024/mgvcl.png" style="height:102px;">Madhya Gujarat Vij Company Limited</a></li>
 	<li><a href="https://www.cesc.co.in/home" target="_blank"><img src="/images/CESC_cohost.jpg" style="height: 100px;">CESC Limited</a></li>
+	<li><a href="https://www.noidapower.com/" target="_blank"><img src="images/utilities2019/npcl.png">Noida Power Company Ltd.</a></li>
 </ul>
 
 <div class="k_cheading">

@@ -28,7 +28,7 @@
 <div class="k_fixed_bro">
     <!--<a href="https://register.indiasmartgrid.org/" target="_blank"><img src="images/th.jpg" alt=""></a>
 	<a href="https://dumindia.virtualmnc.com/" target="_blank"><img src="images/live-streaming-button.png" alt=""></a>-->
-    <a href="http://dumindia.in/images/2026/DUMBrochureLSV1.pdf" target="_blank"><img src="images/brochure-download-icon.png" alt=""></a>
+    <a href="http://dumindia.in/images/2026/DUMBrochureLSV2.pdf" target="_blank"><img src="images/brochure-download-icon.png" alt=""></a>
 	  <!--<a href="" target="_blank"><img src="images/dum-button.jpg" alt="" style="height: 50px; width: 189px;"></a>-->
 </div> 
 <!-- download brochure -->

@@ -34,6 +34,12 @@
 	<li><a href="https://www.mgvcl.com/" target="_blank"><img src="images/2024/mgvcl.png" style="height:102px;">Madhya Gujarat Vij Company Limited</a></li>
 	<li><a href="https://www.cesc.co.in/home" target="_blank"><img src="/images/CESC_cohost.jpg" style="height: 100px;">CESC Limited</a></li>
 	<li><a href="https://www.noidapower.com/" target="_blank"><img src="images/utilities2019/npcl.png">Noida Power Company Ltd.</a></li>
+	<li><a href="https://www.apeasternpower.com/" target="_blank"><img src="images/Eastern Power Distribution Company of Andhra Pradesh Limited.jpg" style="height:155px;">Eastern Power Distribution Company Of Andhra Pradesh Limited</a></li>
+	<li><a href="https://www.tpcentralodisha.com/" target="_blank"><img src="images/2026/TPCODL.png" style="height:155px;">TP Central Odisha Distribution Limited</a></li>
+	<li><a href="https://www.tpnodl.com/" target="_blank"><img src="images/2026/TPNODL.png" style="height:155px;">TP Northern Odisha Distribution Limited</a></li>
+	<li><a href="https://www.tpsouthernodisha.com/" target="_blank"><img src="images/2026/TPSODL.png" style="height:155px;">TP Southern Odisha Distribution Limited</a></li>
+	<li><a href="https://www.tpwesternodisha.com/" target="_blank"><img src="images/2026/TPWODL.png" style="height:155px;">TP Western Odisha Distribution Limited</a></li>
+	<li><a href="https://cescrajasthan.co.in/open.php" target="_blank"><img src="images/2024/cesc_rajasthan.png" style="height:155px;">CESC Rajasthan</a></li>
 </ul>
 
 <div class="k_cheading">

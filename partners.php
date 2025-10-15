@@ -93,6 +93,7 @@ box-shadow: 0 1px 6px rgba(0, 0, 0, 0.06);
 		<li><a href="https://cea.nic.in/?lang=en" target="_blank"><img src="images/2026/CEA.png">Central Electricity Authority</a></li>
 		<li><a href="https://aida-india.org/" target="_blank"><img src="images/2026/AIDANew.png">All India Discoms Associations (AIDA)</a></li>
 		<li><a href="https://powermin.gov.in/" target="_blank"><img src="/images/MOP.png" >Ministry of Power</a></li>
+		<li><a href="https://www.niti.gov.in/" target="_blank"><img src="/images/NITI Aayog.png" style="height: 135px;">NITI Aayog</a></li>
 		</ul>	
 
 		<BR/>

@@ -353,6 +353,7 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 		<li><a href='' target="_blank"><img src="images/2026/energydepartment.png">Energy Department of Maharashtra</a></li>
 		<li><a href="https://cea.nic.in/?lang=en" target="_blank"><img src="/images/2026/CEA.png" style="width: 183px;">Central Electricity Authority</a></li>
 		<li><a href="https://powermin.gov.in/" target="_blank"><img src="/images/MOP.png" >Ministry of Power</a></li>
+		<li><a href="https://www.niti.gov.in/" target="_blank"><img src="/images/NITI Aayog.png" style="height: 135px;">NITI Aayog</a></li>
 		</ul>
 	</div>	
 
@@ -469,6 +470,12 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 		<li><a href="https://www.wbsedcl.in/irj/go/km/docs/internet/new_website/Home.html" target="_blank"><img src="images/2024/wbsedcl.png" style="height:155px;">West Bengal State Electricity Distribution Company Limited</a></li>
 		<li><a href="https://www.mgvcl.com/" target="_blank"><img src="images/2024/mgvcl.png" style="height:102px;">Madhya Gujarat Vij Company Limited</a></li>
 		<li><a href="https://www.noidapower.com/" target="_blank"><img src="images/utilities2019/npcl.png" style="height: 120px;">Noida power Company Limited</a></li>
+		<li><a href="https://www.tpcentralodisha.com/" target="_blank"><img src="images/2026/TPCODL.png" style="height:155px;">TP Central Odisha Distribution Limited</a></li>
+		<li><a href="https://www.apeasternpower.com/" target="_blank"><img src="images/Eastern Power Distribution Company of Andhra Pradesh Limited.jpg" style="height:155px;">Eastern Power Distribution Company Of Andhra Pradesh Limited</a></li>
+		<li><a href="https://www.tpnodl.com/" target="_blank"><img src="images/2026/TPNODL.png" style="height:155px;">TP Northern Odisha Distribution Limited</a></li>
+		<li><a href="https://www.tpsouthernodisha.com/" target="_blank"><img src="images/2026/TPSODL.png" style="height:155px;">TP Southern Odisha Distribution Limited</a></li>
+		<li><a href="https://www.tpwesternodisha.com/" target="_blank"><img src="images/2026/TPWODL.png" style="height:155px;">TP Western Odisha Distribution Limited</a></li>
+		<li><a href="https://cescrajasthan.co.in/open.php" target="_blank"><img src="images/2024/cesc_rajasthan.png" style="height:155px;">CESC Rajasthan</a></li>
 		</ul>
 
 	<div class="k_cheading k_white_haeding">

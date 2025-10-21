@@ -85,7 +85,11 @@ box-shadow: 0 1px 6px rgba(0, 0, 0, 0.06);
 				<li><a href="https://radius.co.in/" target="_blank"><img src="/images/2026/Radius.jpeg" style="border: 1px solid #aeb4b2; height:100px;">Radius Synergies International Private Limited</a></li>
 				<li><a href="https://www.tekuncorked.com/" target="_blank"><img src="/images/Exhibitors/teku.png" style="border: 1px solid #aeb4b2; height:120px;">Tekuncorked </a></li> 	
 				<li><a href="http://www.rmcindia.in/index.php" target="_blank"><img src="/images/2026/rmc.png" style="border: 1px solid #aeb4b2;">RMC India</a></li>
+				
+			</ul>
+			<ul class="k_confirmed_als">
 				<li><a href="https://www.mahaurja.maharashtra.gov.in" target="_blank"><img src="/images/2026/MEDA.jpeg" style="border: 1px solid #aeb4b2;">Maharashtra Energy Development Agency</a></li>
+				<li><a href="https://www.trustgroup.in/" target="_blank"><img src="/images/2026/Trustgroup.png" style="border: 1px solid #aeb4b2;">Trust Group</a></li>
 			</ul>
 			</div>		
 

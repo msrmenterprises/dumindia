@@ -132,6 +132,37 @@ that lie ahead.
     </div>
 </div>
 
+<!-- Aneesh Thomas -->
+<div class="row speaker_row">
+    <div class="k_list_part">
+        <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
+            <!-- Speaker Image -->
+            <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
+                <img src="images/2026/speakers/AneeshThomas.jpg" alt="Aneesh Thomas" class="speaker-photo">
+            </div>
+
+            <!-- Speaker Content -->
+            <div class="speaker_content" style="flex: 1;">
+                <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
+                    Aneesh Thomas,<br/>
+                    Associate Director National Sales MV<br/>
+                    Eaton Power Quality India
+                </h1>
++                <p style="text-align: justify; line-height: 1.6;">
+                    Aneesh Thomas leads Power Distribution Assembly Medium Voltage Switchgear   
+                    at Eaton Power Quality India, bringing 24 years of rich expertise from global   
+                    industry leaders ABB, Siemens, and Larsen & Toubro. A pioneer in sustainable   
+                    power technologies, he champions the development of SF6-free switching   
+                    technologies and environmentally responsible alternatives for medium voltage   
+                    power distribution. Through his work at Eaton, he actively contributes to India's   
+                    vision of energy self-reliance, focusing on innovative solutions that align with the   
+                    nation's commitment to sustainable power infrastructure.
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+
 <!-- Atul Bali  - Updated Bio -->
 <div class="row speaker_row">
     <div class="k_list_part">
@@ -169,7 +200,38 @@ Development and Reforms Programme (RAPDRP) in India.
     </div>
 </div>
 	
-	<!-- Ashutosh Goel - Updated Bio -->
+    <!-- Ashish Kumar Goel - Added -->
+<div class="row speaker_row">
+    <div class="k_list_part">
+        <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
+            <!-- Speaker Image -->
+            <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
+                <img src="images/2026/speakers/AshishKumarGoel.jpg" alt="Ashish Kumar Goel" class="speaker-photo">
+            </div>
+
+            <!-- Speaker Content -->
+            <div class="speaker_content" style="flex: 1;">
+                <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
+                    Ashish Kumar Goel,<br/>
+                    Chairman<br/>
+                    Uttar Pradesh Power Corporation Limited
+                </h1>
+                <p style="text-align: justify; line-height: 1.6;">
+                    Dr. Ashish Kumar Goel is a highly accomplished individual with an impressive
+                    educational background. He holds a B.Tech in Electrical Engineering from IIT
+                    Delhi, an MA in Economics, and a Ph.D. in Economics. Throughout his career, Dr.
+                    Goel has held several pivotal roles in public service and administration, including
+                    leadership roles in UP Power Corporation and the Ministry of Rural Development.
+                    His work includes overseeing flagship schemes for rural roads and housing and
+                    organizing large public events with outstanding execution. He has received
+                    multiple awards and recognitions for his public service and leadership.
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+
+    <!-- Ashutosh Goel - Updated Bio -->
 <div class="row speaker_row">
     <div class="k_list_part">
         <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
@@ -401,6 +463,57 @@ for the company.
     </div>
 </div>
 
+<!-- Nilesh Kane -->
+<div class="row speaker_row">
+    <div class="k_list_part">
+        <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
+            <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
+                <img src="images/2026/speakers/NileshKane.jpg" alt="Dr Nilesh Kane" class="speaker-photo">
+            </div>
+            <div class="speaker_content" style="flex: 1;">
+                <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
+                    Dr. Nilesh Kane,<br/>
+                    Chief (Transmission & Mumbai – Distribution),<br/>
+                    Tata Power
+                </h1>
+                <p style="text-align: justify; line-height: 1.6;">
+                    Dr. Nilesh Kane is currently working as Chief (Transmission & Mumbai -
+                    Distribution) at Tata Power. He carries an experience of over 30 years in
+                    Electrical Operations and Technology across Generation, Transmission,
+                    Distribution and Renewable sectors, including battery energy storage,
+                    electric vehicle solutions and smart grid projects. He holds advanced
+                    qualifications and has represented Tata Power at multiple industry platforms.
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Praveer Sinha -->
+<div class="row speaker_row">
+    <div class="k_list_part">
+        <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
+            <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
+                <img src="images/2026/speakers/PraveerSinha.jpg" alt="Praveer Sinha" class="speaker-photo">
+            </div>
+            <div class="speaker_content" style="flex: 1;">
+                <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
+                    Praveer Sinha,<br/>
+                    CEO & Managing Director,<br/>
+                    The Tata Power Company Limited
+                </h1>
+                <p style="text-align: justify; line-height: 1.6;">
+                    Dr. Praveer Sinha is a seasoned power professional with nearly four decades
+                    of leadership across the power sector. Under his leadership, Tata Power is
+                    transforming into a sustainable, technology-oriented green energy company
+                    with a growing renewable portfolio and several new-age businesses such as
+                    solar rooftop, EV charging, microgrids and smart energy management.
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+
 	<!-- Rohit Pareek -->
 	<div class="row speaker_row">
 		<div class="k_list_part ">
@@ -428,6 +541,44 @@ for the company.
 
 	
 
+<!-- Ravi Jagannathan -->
+<div class="row speaker_row">
+    <div class="k_list_part">
+        <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
+            <!-- Speaker Image -->
+            <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
+                <img src="images/2026/speakers/RaviJagannathan.jpg" alt="Ravi Jagannathan" class="speaker-photo">
+            </div>
+
+            <!-- Speaker Content -->
+            <div class="speaker_content" style="flex: 1;">
+                <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
+                    Ravi Jagannathan<br/>
+                    Founder and Managing Director,<br/>
+                    KrypC Technologies
+                </h1>
+                <p style="text-align: justify; line-height: 1.6;">
+                    Ravi Jagannathan is the Founder and Managing Director of KrypC Technologies,
+                    a global deep-tech company delivering enterprise blockchain and Web3 solutions
+                    with operations across the USA, India, the Netherlands, and the UAE. A Fellow
+                    Member of the Institute of Chartered Accountants of India, he has over three
+                    decades of entrepreneurial experience in building trusted digital ventures,
+                    including eMudhra, India’s pioneering Certifying Authority, and KrypC, which has
+                    implemented blockchain platforms for leading banks, utilities, and governments.
+                    Ravi is also the Founder of Xygle, an enterprise-focused Layer-1 blockchain
+                    protocol, and serves as a Blockchain Technology Member at the Universal
+                    Energy Interface (UEI) and Partner in the ISGF–FIDE–UPPCL P2P Energy
+                    Trading Pilot. Recognized as a Blockchain Champion at UN/CEFACT, he actively
+                    contributes to global initiatives on trade facilitation and digital trust. Ravi
+                    continues to drive innovation in digital identity, sustainability, and the emerging
+                    device economy through scalable, real-world blockchain solutions.
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Ravi Seethapathy -->
 <div class="row speaker_row">
     <div class="k_list_part">
         <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
@@ -445,33 +596,33 @@ Biosirus Inc.
                 </h1>
                 <p style="text-align: justify; line-height: 1.6;">
                     Ravi Seethapathy, is Executive Chairman of Biosirus Inc., Canada. He serves as the   
-“Ambassador for the Americas”, for the Global Smart Energy Federation, USA, and as   
-an Advisor to the India Smart Grid Forum. He is an empanelled expert at the Coalition   
-for Disaster Resilient Infrastructure (CDRI), a 51-country member organization.   
+                    “Ambassador for the Americas”, for the Global Smart Energy Federation, USA, and as   
+                    an Advisor to the India Smart Grid Forum. He is an empanelled expert at the Coalition   
+                    for Disaster Resilient Infrastructure (CDRI), a 51-country member organization.   
                 </p>
                 <p style="text-align: justify; line-height: 1.6;">
                     With over 42+ years of experience in the Energy and Power Systems area in Canada,   
-he mentors several utilities and companies in their technology development. His is   
-active in several IEC, CSA, GSEF, ISGF, CDRI technical committees, in the areas of   
-sustainable energy, transportation, energy storage, microgrid and e-mobility. He is an   
-invited speaker internationally and has co-authored over 50 technical papers and   
-published 75 articles. His former Corporate Directorships include Larsen & Toubro’s -   
-Power Transmission & Distribution (IC), India, Toronto Atmospheric Fund, Smart Grid   
-Canada, Ryerson University, TV Ontario, Scarborough Hospital, and as Chairs of   
-Engineers Without Borders Canada, Canadian Club of Toronto, and Indo-Canada   
-Chamber of Commerce.  
+                    he mentors several utilities and companies in their technology development. His is   
+                    active in several IEC, CSA, GSEF, ISGF, CDRI technical committees, in the areas of   
+                    sustainable energy, transportation, energy storage, microgrid and e-mobility. He is an   
+                    invited speaker internationally and has co-authored over 50 technical papers and   
+                    published 75 articles. His former Corporate Directorships include Larsen & Toubro’s -   
+                    Power Transmission & Distribution (IC), India, Toronto Atmospheric Fund, Smart Grid   
+                    Canada, Ryerson University, TV Ontario, Scarborough Hospital, and as Chairs of   
+                    Engineers Without Borders Canada, Canadian Club of Toronto, and Indo-Canada   
+                    Chamber of Commerce.  
                 </p>
-				<p style="text-align: justify; line-height: 1.6;">
-					He is a Life Fellow of the Canadian Academy of Engineering; a Life Senior Member of   
-the IEEE; and a registered Professional Engineer in Ontario. He has been honoured   
-with several awards/citations including the Distinguished Alumnus Award, IIT   
-Kharagpur (2025); ISGF President's Award (2023); Life Member Service Award; IEEE   
-Toronto (2021); and Queen Elizabeth II Diamond Jubilee Medal (2012). He/ his family   
-has endowed an IEEE PES/IAS Award in "Rural Electrification Excellence". He holds a B.   
-Tech (Hons) in Electrical Power from IIT Kharagpur, India, an M. Eng. in Electrical   
-Power from University of Toronto and an MBA from the Schulich School of Business,   
-York University, Toronto, Canada.  
-</p>
+                <p style="text-align: justify; line-height: 1.6;">
+                    He is a Life Fellow of the Canadian Academy of Engineering; a Life Senior Member of   
+                    the IEEE; and a registered Professional Engineer in Ontario. He has been honoured   
+                    with several awards/citations including the Distinguished Alumnus Award, IIT   
+                    Kharagpur (2025); ISGF President's Award (2023); Life Member Service Award; IEEE   
+                    Toronto (2021); and Queen Elizabeth II Diamond Jubilee Medal (2012). He/ his family   
+                    has endowed an IEEE PES/IAS Award in "Rural Electrification Excellence". He holds a B.   
+                    Tech (Hons) in Electrical Power from IIT Kharagpur, India, an M. Eng. in Electrical   
+                    Power from University of Toronto and an MBA from the Schulich School of Business,   
+                    York University, Toronto, Canada.  
+                </p>
             </div>
         </div>
     </div>
@@ -729,6 +880,33 @@ Personnel of the Company.</p>
 </div> 
 
 <!-- Teppo Hemiä -->
+
+<!-- Swapnadeep Banerjee -->
+<div class="row speaker_row">
+    <div class="k_list_part">
+        <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
+            <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
+                <img src="images/2026/speakers/SwapnadeepBanerjee.jpg" alt="Swapnadeep Banerjee" class="speaker-photo">
+            </div>
+            <div class="speaker_content" style="flex: 1;">
+                <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
+                    Swapnadeep Banerjee,<br/>
+                    Customer Solutions Manager<br/>
+                    Trilliant
+                </h1>
+                <p style="text-align: justify; line-height: 1.6;">
+                    Swapnadeep Banerjee is a Customer Solutions Manager in Trilliant Networks India
+                    Private Limited and is responsible for pre-sales and solution architecture for
+                    product solutions for growth of business in India and Asia Pacific. He has been
+                    an integral part of the System Integration team which started the 4 million
+                    smart meter rollout for the states of UP and Haryana under the EESL Phase 1
+                    project. Swapnadeep has over 17 years of industry experience with expertise
+                    across Telecom OSS/BSS, Smart IoT solutions and AMI Solutions.
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
 	<div class="row speaker_row">
 		<div class="k_list_part ">
 			<div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">

@@ -40,6 +40,10 @@
 	<li><a href="https://www.tpsouthernodisha.com/" target="_blank"><img src="images/2026/TPSODL.png" style="height:155px;">TP Southern Odisha Distribution Limited</a></li>
 	<li><a href="https://www.tpwesternodisha.com/" target="_blank"><img src="images/2026/TPWODL.png" style="height:155px;">TP Western Odisha Distribution Limited</a></li>
 	<li><a href="https://cescrajasthan.co.in/open.php" target="_blank"><img src="images/2024/cesc_rajasthan.png" style="height:155px;">CESC Rajasthan</a></li>
+	<li><a href="http://www.mvvnl.in/" target="_blank"><img src="images/Madhyanchal Vidyut Vitran Nigam Ltd.png" style="height:155px;">Madhyanchal Vidyut Vitaran Nigam Ltd (MVVNL)</a></li>
+	<li><a href="https://pvvnl.org/" target="_blank"><img src="images/utilities2019/1. PVVNL.jpg" style="height:155px;">Pashchimanchal Vidyut Vitran Nigam Limited (PVVNL)</a></li>
+	<li><a href="https://www.pgvcl.com/" target="_blank"><img src="images/utilities2019/2. PGVCL.png" style="height:155px;">Paschim Gujarat Vij Company Limited (PGVCL)</a></li>
+	<li><a href="https://tgsouthernpower.org/" target="_blank"><img src="images/utilities2019/download (7).jpg" style="height:155px;">Southern Power Distribution Company of Telangana Limited (TGSPDCL)</a></li>
 </ul>
 
 <div class="k_cheading">

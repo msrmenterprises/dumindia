@@ -463,6 +463,10 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 		<li><a href="https://www.mahadiscom.in/en/home/" target="_blank"><img src="images/MSEDCL_logo.jpg" style="height:120px;">Maharashtra State Electricity Distribution Co. Ltd </a></li>
 		<li><a href="https://www.bsesdelhi.com/web/bypl" target="_blank"><img src="/images/bses.png" style="border: 2px solid #aeb4b2; height: 120px;">BSES Yamuna Power Limited</a></li>
 		<li><a href="https://www.bsesdelhi.com/web/brpl" target="_blank"><img src="images/bsesllt.png" style="height: 120px;">BSES Rajdhani Power Limited</a></li>
+		<li><a href="http://www.mvvnl.in/" target="_blank"><img src="images/2026/MVVNL.png" alt="Madhyanchal Vidyut Vitaran Nigam Ltd" style="height:120px;">Madhyanchal Vidyut Vitaran Nigam Ltd. (MVVNL)</a></li>
+		<li><a href="https://pvvnl.org/" target="_blank"><img src="images/2026/Pashchimanchal.png" alt="Pashchimanchal Vidyut Vitran Nigam Limited" style="height:120px;">Pashchimanchal Vidyut Vitran Nigam Limited</a></li>
+		<li><a href="https://www.pgvcl.com/" target="_blank"><img src="images/2026/PGVCL.png" alt="Paschim Gujarat Vij Company Limited" style="height:120px;">Paschim Gujarat Vij Company Limited</a></li>
+		<li><a href="https://tgsouthernpower.org/" target="_blank"><img src="images/2026/TGSPDCL.png" alt="Southern Power Distribution Company of Telangana Limited" style="height:120px;">Southern Power Distribution Company of Telangana Limited (TGSPDCL)</a></li>
 		<li><a href="https://www.cesc.co.in/home" target="_blank"><img src="/images/CESC_cohost.jpg" style="height: 100px;">CESC Limited</a></li>
 		<li><a href="https://uppcl.org/uppcl/hi/" target="_blank"><img src="images/2024/uppcl1.png" style="height:155px;"> Uttar Pradesh Power Corporation Limited</a></li> 
 		<li><a href="" target="_blank"><img src="images/utilities2019/nb.png">North Bihar Power Distribution Company Limited</a></li>

@@ -65,7 +65,11 @@ box-shadow: 0 1px 6px rgba(0, 0, 0, 0.06);
 			<ul class="k_confirmed_als">
 				<h5><strong>GOLD EXHIBITORS </strong></h5>
 				<li><a href="https://apar.com/" target="_blank"><img src="/images/apar.png" style="border: 1px solid #aeb4b2; height:100px;">APAR Industries </a></li>
-				
+			
+				<li><a href="https://www.securemeters.com/" target="_blank"><img src="images/2024/secure.png" style="border: 1px solid #aeb4b2; height:120px;">Secure Meters</a></li>
+				<li><a href="https://teslatransformersindia.com/" target="_blank"><img src="images/2026/tesla-transformers.png" style="border: 1px solid #aeb4b2; height:120px;">Tesla Transformers</a></li>
+				<li><a href="https://www.ncc.co.in/" target="_blank"><img src="images/2026/ncc.png" style="border: 1px solid #aeb4b2; height:120px;">NCC Ltd</a></li>
+			
 				<li><a href="https://edx.com/" target="_blank"><img src="images/2026/EDXWireless.jpeg" style="height:135px;">EDX Wireless </a></li>
 				<li><a href="https://kimbal.io/" target="_blank"><img src="/images/Kimbal.jpg" style="border: 1px solid #aeb4b2; height: 120px;">Kimbal </a></li>
 				<li><a href="https://genuspower.com/" target="_blank"><img src="http://dumindia.in/images/Exhibitors/2019/genus.png">GENUS Power Infrastructures Limited</a></li>

@@ -472,7 +472,7 @@ for the company.
             </div>
             <div class="speaker_content" style="flex: 1;">
                 <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
-                    Dr. Nilesh Kane,<br/>
+                    Nilesh Kane,<br/>
                     Chief (Transmission & Mumbai – Distribution),<br/>
                     Tata Power
                 </h1>

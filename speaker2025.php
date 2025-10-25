@@ -214,7 +214,7 @@
                     <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
                         <!-- Speaker Image -->
                         <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
-                            <img src="images/speakers/no_user.jpg" alt="Anand Budholia" class="speaker-photo">
+                            <img src="images/2026/speakers/AnandBudholia.jpg" alt="Anand Budholia" class="speaker-photo">
                         </div>
 
                         <!-- Speaker Content -->
@@ -241,7 +241,7 @@
                     <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
                         <!-- Speaker Image -->
                         <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
-                            <img src="images/speakers/no_user.jpg" alt="Amit Singh Parihar" class="speaker-photo">
+                            <img src="images/2026/speakers/AmitSinghParihar.jpg" alt="Amit Singh Parihar" class="speaker-photo">
                         </div>
 
                         <!-- Speaker Content -->
@@ -626,7 +626,7 @@ through his commitment to excellence.  </p>
                     <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
                         <!-- Speaker Image -->
                         <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
-                            <img src="images/speakers/no_user.jpg" alt="Himanshu Chawla" class="speaker-photo">
+                            <img src="images/2026/speakers/HimanshuChawla.jpg" alt="Himanshu Chawla" class="speaker-photo">
                         </div>
 
                         <!-- Speaker Content -->
@@ -711,7 +711,7 @@ driving impactful change and has a keen interest in luxury automobiles.  </p>
     <div class="k_list_part ">
         <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
             <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
-                <img src="images/speakers/no_user.jpg" alt="Moëz Cherif" class="speaker-photo">
+                <img src="images/2026/speakers/MoezCherif.jpg" alt="Moëz Cherif" class="speaker-photo">
             </div>
             <div class="speaker_content">
                 <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
@@ -824,7 +824,7 @@ for the company.
     <div class="k_list_part">
         <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
             <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
-                <img src="images/speakers/no_user.jpg" alt="Nidhi Kumar Narang" class="speaker-photo">
+                <img src="images/2026/speakers/NidhiKumarNarang.jpg" alt="Nidhi Kumar Narang" class="speaker-photo">
             </div>
             <div class="speaker_content" style="flex: 1;">
                 <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
@@ -938,7 +938,7 @@ for the company.
         <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
             <!-- Speaker Image -->
             <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
-                <img src="images/speakers/no_user.jpg" alt="Rahul Kumar" class="speaker-photo">
+                <img src="images/2026/speakers/RahulKumar.jpg" alt="Rahul Kumar" class="speaker-photo">
             </div>
 
             <!-- Speaker Content -->
@@ -1252,7 +1252,7 @@ University.   </p>
         <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
             <!-- Speaker Image -->
             <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
-                <img src="images/speakers/no_user.jpg" alt="Srikant Nagulapalli" class="speaker-photo">
+                <img src="images/2026/speakers/SrikantNagulapalli.jpg" alt="Srikant Nagulapalli" class="speaker-photo">
             </div>
 
             <!-- Speaker Content -->

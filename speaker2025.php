@@ -100,7 +100,7 @@
         <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
             <!-- Speaker Image -->
             <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
-                <img src="images/speakers/AbhishekRanjan.jpeg" alt="Abhishek Ranjan" class="speaker-photo">
+                <img src="images/2026/speakers/AbhishekRanjan.jpeg" alt="Abhishek Ranjan" class="speaker-photo">
             </div>
 
             <!-- Speaker Content -->

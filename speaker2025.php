@@ -41,7 +41,7 @@
 .dum_speaker .speaker_img img,
 .dum_speaker .speaker_img .speaker-photo {
     width: 100% !important;
-    height: 200px !important;         /* desired fixed height - adjust as needed */
+    
     max-width: 200px !important;
     object-fit: cover !important;     /* crop while keeping center */
     display: block;

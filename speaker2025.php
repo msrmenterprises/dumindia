@@ -94,6 +94,56 @@
 		<img src="images/kborder_bottom.png" alt="">
 	</div>
 
+    
+<!-- Alok Mishra - Updated Bio -->
+<div class="row speaker_row">
+    <div class="k_list_part">
+        <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
+            <!-- Speaker Image -->
+            <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
+                <img src="images/2026/speakers/AbhishekRanjan.jpeg" alt="AbhishekRanjan" class="speaker-photo">
+            </div>
+
+            <!-- Speaker Content -->
+            <div class="speaker_content" style="flex: 1;">
+                <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
+                    Abhishek Ranjan,<br/>
+                    Chief Executive Officer,<br/>
+                    BSES Rajdhani Power Limited
+                </h1>
+                <p style="text-align: justify; line-height: 1.6;">
+                    Abhishek Ranjan has joined BSES Rajdhani Power Limited (BRPL) as Chief   
+Executive Officer (CEO). With a track record of exemplary leadership and over two   
+decades of diverse industry experience, Mr. Ranjan is spearheading BRPL's   
+journey toward innovation and sustainable growth.  
+                </p>
+                <p style="text-align: justify; line-height: 1.6;">
+                    Mr. Ranjan's academic credentials set a strong foundation for his professional   
+success. He holds a PGDM from XLRI (2008) and an Engineering degree from NIT   
+Bhopal (1998). Further enriching his profile, he completed a Business Excellence   
+certification from the Haas School of Business, UC Berkeley, and earned   
+specialized certifications in Data and Decision Science Consulting from IIT Delhi   
+and as a Certified Energy Manager by the Bureau of Energy Efficiency (BEE).  
+                </p>
+                <p style="text-align: justify; line-height: 1.6;">
+                    In his earlier stint with BRPL, Mr. Ranjan played a pivotal role in driving initiatives   
+in renewables, demand-side management, power management and   
+sustainability, which significantly enhanced service delivery and stakeholder   
+engagement.  
+                </p>
+                <p style="text-align: justify; line-height: 1.6;">
+                    Throughout his career, he has held leadership positions with prominent   
+organizations, including Renew Power, Reliance Power, NHPC, and Infosys. Most   
+recently, he served as a Partner at Ernst & Young - Parthenon, where he   
+specialized in Energy Transition and Decarbonization, focusing on sectors such as   
+Renewable Electricity, Energy Storage, and Power Markets.
+                </p>
+                
+            </div>
+        </div>
+    </div>
+</div>    
+
 <!-- Alok Mishra - Updated Bio -->
 <div class="row speaker_row">
     <div class="k_list_part">

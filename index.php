@@ -422,7 +422,7 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 				<li><a href="https://www.powerfoundation.org.in/" target="_blank"><img src="images/2026/PowerFoundationofIndia.jpeg" style="height:120px;">Power Foundation of India</a></li>
 				<li><a href="https://indiasmartgrid.org/" target="_blank"><img src="images/2026/ISGF.png" style="height:120px;">ISGF</a></li>
 				<li><a href="https://eppeltone.in/" target="_blank"><img src="images/2026/Eppeltone.jpg" style="height:120px;">Eppeltone Engineers Limited</a></li>
-				<li><a href="https://bentecindia.com/" target="_blank"><img src="images/2024/bentec.png" style="border: 1px solid #aeb4b2; height: 120px;">Bentec</a></li>
+				<li><a href="https://bentecindia.com/" target="_blank"><img src="images/2026/Bentec.png" style="border: 1px solid #aeb4b2; height: 120px;">Bentec</a></li>
 				<li><a href="https://www.tauruspowertronics.com/" target="_blank"><img src="/images/Exhibitors/TAURUS LOGO.jpg" alt="Tauras Power Tronics">Tauras Power Tronics</a></li>
 
 				<h5><b>Gold Exhibitors</b></h5>
@@ -448,6 +448,10 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 				<li><a href="http://www.rmcindia.in/index.php" target="_blank"><img src="/images/2026/rmc.png" style="border: 1px solid #aeb4b2;">RMC India</a></li>
 				<li><a href="https://www.mahaurja.maharashtra.gov.in" target="_blank"><img src="/images/2026/MEDA.jpeg" style="border: 1px solid #aeb4b2;">Maharashtra Energy Development Agency</a></li>
 				<li><a href="https://www.trustgroup.in/" target="_blank"><img src="/images/2026/Trustgroup.png" style="border: 1px solid #aeb4b2;">Trust Group</a></li>
+				<!-- Newly added Gold Exhibitors -->
+				<li><a href="https://smsystems.co.in/" target="_blank"><img src="/images/2026/SMSystems.jpg" style="border: 1px solid #aeb4b2; height: 120px;">SM Systems</a></li>
+				<li><a href="https://madhavengineers.com/" target="_blank"><img src="/images/2026/MADHAVLOGO_002.jpg" style="border: 1px solid #aeb4b2; height: 120px;" alt="Madhav Engineers Pvt. Ltd.">Madhav Engineers Pvt. Ltd.</a></li>
+				<li><a href="https://www.successengineers.co.in/" target="_blank"><img src="/images/2026/SuccessEngineer.jpeg" style="border: 1px solid #aeb4b2; height: 120px;" alt="Success Engineers">Success Engineers</a></li>
 				</ul>
 
 	</div>

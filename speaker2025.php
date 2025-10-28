@@ -94,8 +94,31 @@
 		<img src="images/kborder_bottom.png" alt="">
 	</div>
 
-    
-<!-- Alok Mishra - Updated Bio -->
+<!-- Aakash Saxena -->
+<div class="row speaker_row">
+    <div class="k_list_part">
+        <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
+            <!-- Speaker Image -->
+            <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
+                <img src="images/2026/speakers/AakashSaxena.jpg" alt="Aakash Saxena" class="speaker-photo">
+            </div>
+
+            <!-- Speaker Content -->
+            <div class="speaker_content" style="flex: 1;">
+                <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
+                    Aakash Saxena,<br/>
+                    Chief Operating Officer<br/>
+                    CESC Rajasthan
+                </h1>
+                <p style="text-align: justify; line-height: 1.6;">
+                    Aakash Saxena is a seasoned professional with over two decades of comprehensive experience in power distribution operations, business development, and project management. Currently serving as the Chief Operating Officer of Bharatpur Electricity Services Ltd. (a CESC Ltd. subsidiary), he leads end-to-end distribution operations for Bharatpur city, driving efficiency, consumer satisfaction, and sustainable growth. Aakash has played a pivotal role in transforming urban power distribution landscapes through loss reduction, process re-engineering, and digital enablement. His distinguished career spans leadership roles at Torrent Power Ltd., Essar Power Ltd. & BSES Delhi.
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Abhishek Ranjan -->
 <div class="row speaker_row">
     <div class="k_list_part">
         <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
@@ -144,178 +167,28 @@ Renewable Electricity, Energy Storage, and Power Markets.
     </div>
 </div>    
 
-<!-- Alok Mishra - Updated Bio -->
+<!-- Adarsh Nagarajan -->
 <div class="row speaker_row">
     <div class="k_list_part">
         <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
-            <!-- Speaker Image -->
             <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
-                <img src="images/2026/speakers/AlokKumar_DNV.jpg" alt="AlokKumar" class="speaker-photo">
+                <img src="images/2026/speakers/AdarshNagarajan.jpg" alt="Adarsh Nagarajan" class="speaker-photo">
             </div>
-
-            <!-- Speaker Content -->
             <div class="speaker_content" style="flex: 1;">
                 <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
-                    Alok Mishra,<br/>
-                    Market Area Manager-Power Grid,<br/>
-                    DNV
+                    Adarsh Nagarajan,<br/>
+                    Principal Researcher, NREL and<br/>
+                    Consultant, BSES Rajdhani Power Limited
                 </h1>
                 <p style="text-align: justify; line-height: 1.6;">
-                    Alok is an experienced professional with more than 13 years of work   
-experience in the energy sector, currently serving as the Market Area   
-Manager-Power Grid at DNV. With a background in engineering and an   
-MBA, Alok has worked on various projects related to electric vehicles (EVs)   
-and decarbonization in India and other countries, focusing on EV   
-integration with transmission and distribution, EV market study, Technical   
-Due Diligence of EV sector, Technology review of EV sector. He has   
-received recognition for his work in the form of the Clean Mobility   
-Leadership: Young Achiever Award in India. Alok has also been involved in   
-the first offshore wind with hydrogen study, the first grid connection   
-report for offshore wind under the FOWIND project, and many other   
-initiatives. In this ever-evolving energy landscape, Alok's experience and   
-expertise provide valuable insights into the challenges and opportunities   
-that lie ahead.  
-                </p>
-                
-            </div>
-        </div>
-    </div>
-</div>
-
-<!-- Aneesh Thomas -->
-<div class="row speaker_row">
-    <div class="k_list_part">
-        <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
-            <!-- Speaker Image -->
-            <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
-                <img src="images/2026/speakers/AneeshThomas.jpg" alt="Aneesh Thomas" class="speaker-photo">
-            </div>
-
-            <!-- Speaker Content -->
-            <div class="speaker_content" style="flex: 1;">
-                <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
-                    Aneesh Thomas,<br/>
-                    Associate Director National Sales MV<br/>
-                    Eaton Power Quality India
-                </h1>
-+                <p style="text-align: justify; line-height: 1.6;">
-                    Aneesh Thomas leads Power Distribution Assembly Medium Voltage Switchgear   
-                    at Eaton Power Quality India, bringing 24 years of rich expertise from global   
-                    industry leaders ABB, Siemens, and Larsen & Toubro. A pioneer in sustainable   
-                    power technologies, he champions the development of SF6-free switching   
-                    technologies and environmentally responsible alternatives for medium voltage   
-                    power distribution. Through his work at Eaton, he actively contributes to India's   
-                    vision of energy self-reliance, focusing on innovative solutions that align with the   
-                    nation's commitment to sustainable power infrastructure.
+                    Adarsh Nagarajan, Ph.D. is a Principal Researcher at the U.S. Department of Energy's National Renewable Energy Laboratory (NREL), where he leads cutting-edge research on emerging energy technologies, including energy storage, advanced grid modeling, and distributed energy systems. He serves as an advisor to the U.S. Department of Energy and directs NREL's South Asia energy transition program, supporting regional governments in grid modernization and policy development. With over 100 peer-reviewed publications and 1,000 citations, Dr. Nagarajan is a senior IEEE member. Adarsh is currently on a sabbatical from NREL and is working with BSES Rajdhani Power Limited (BRPL), collaborating on advanced grid modeling and modernization strategies.
                 </p>
             </div>
         </div>
     </div>
 </div>
 
-<!-- Atul Bali  - Updated Bio -->
-<div class="row speaker_row">
-    <div class="k_list_part">
-        <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
-            <!-- Speaker Image -->
-            <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
-                <img src="images/2026/speakers/AtulBali.png" alt="AtulBali" class="speaker-photo">
-            </div>
-
-            <!-- Speaker Content -->
-            <div class="speaker_content" style="flex: 1;">
-                <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
-                    Atul Bali,<br/>
-                    Director,<br/>
-                    NSGM
-                </h1>
-                <p style="text-align: justify; line-height: 1.6;">
-                    Atul Bali is the Director of the National Smart Grid Mission, established by   
-the Government of India to plan and monitor the implementation of   
-policies and programmes related to smart grid activities in India, and   
-Executive Director at Power Grid Corporation of India. He has nearly three   
-decades of rich experience in the power sector. His experience spans   
-design, engineering, monitoring, and successful implementation of   
-SCADA/EMS/DMS projects. He has worked in NHPC, POWERGRID, PFC, and   
-the Navratna Public Sector Undertakings of the Ministry of Power,   
-Government of India. He has been associated with the concept to   
-commissioning of the Unified Load Despatch and Communication Scheme   
-and has supervised the implementation of IT-based distribution reform   
-projects under the prestigious Restructured Accelerated Power   
-Development and Reforms Programme (RAPDRP) in India.  
-                </p>
-                
-            </div>
-        </div>
-    </div>
-</div>
-	
-    <!-- Ashish Kumar Goel - Added -->
-<div class="row speaker_row">
-    <div class="k_list_part">
-        <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
-            <!-- Speaker Image -->
-            <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
-                <img src="images/2026/speakers/AshishKumarGoel.jpg" alt="Ashish Kumar Goel" class="speaker-photo">
-            </div>
-
-            <!-- Speaker Content -->
-            <div class="speaker_content" style="flex: 1;">
-                <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
-                    Ashish Kumar Goel,<br/>
-                    Chairman<br/>
-                    Uttar Pradesh Power Corporation Limited
-                </h1>
-                <p style="text-align: justify; line-height: 1.6;">
-                    Dr. Ashish Kumar Goel is a highly accomplished individual with an impressive
-                    educational background. He holds a B.Tech in Electrical Engineering from IIT
-                    Delhi, an MA in Economics, and a Ph.D. in Economics. Throughout his career, Dr.
-                    Goel has held several pivotal roles in public service and administration, including
-                    leadership roles in UP Power Corporation and the Ministry of Rural Development.
-                    His work includes overseeing flagship schemes for rural roads and housing and
-                    organizing large public events with outstanding execution. He has received
-                    multiple awards and recognitions for his public service and leadership.
-                </p>
-            </div>
-        </div>
-    </div>
-</div>
-
-    <!-- Ashutosh Goel - Updated Bio -->
-<div class="row speaker_row">
-    <div class="k_list_part">
-        <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
-            <!-- Speaker Image -->
-            <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
-                <img src="images/2026/speakers/AshutoshGoel.JPG" alt="AshutoshGoel" class="speaker-photo">
-            </div>
-
-            <!-- Speaker Content -->
-            <div class="speaker_content" style="flex: 1;">
-                <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
-                    Ashutosh Goel,<br/>
-                    Chairman & Managing Director, <br/>
-                    Allied Engineering Works Limited
-                </h1>
-                <p style="text-align: justify; line-height: 1.6;">
-                    Ashutosh Goel, an IIT Delhi alumnus, is the Chairman and   
-Managing Director of Allied Engineering Works Limited (AEWL).   
-He has over 23 years of expertise in the Electrical and Electronics   
-industry. Renowned for his technical acumen and strategic   
-leadership, Mr. Goel has played a pivotal role in establishing AEWL   
-as a market leader and forging many tie-ups and associations. His   
-commitment to innovation and quality is evident in his continuous   
-involvement in R&D projects, which drive AEW's advancements in   
-the smart metering domain and other hi-tech sectors. He has   
-been involved in many Industrial forums and mentored a few   
-start-ups in the tech space. 
-                </p>
-                
-            </div>
-        </div>
-    </div>
-</div>
-
+<!-- Alok Kumar -->
 <div class="row speaker_row">
     <div class="k_list_part">
         <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
@@ -370,7 +243,305 @@ topics for business publications in India.
     </div>
 </div>
 
-<!-- Gajanan S Kale - Updated Bio -->
+<!-- Alok Mishra -->
+<div class="row speaker_row">
+    <div class="k_list_part">
+        <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
+            <!-- Speaker Image -->
+            <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
+                <img src="images/2026/speakers/AlokKumar_DNV.jpg" alt="AlokKumar" class="speaker-photo">
+            </div>
+
+            <!-- Speaker Content -->
+            <div class="speaker_content" style="flex: 1;">
+                <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
+                    Alok Mishra,<br/>
+                    Market Area Manager-Power Grid,<br/>
+                    DNV
+                </h1>
+                <p style="text-align: justify; line-height: 1.6;">
+                    Alok is an experienced professional with more than 13 years of work   
+experience in the energy sector, currently serving as the Market Area   
+Manager-Power Grid at DNV. With a background in engineering and an   
+MBA, Alok has worked on various projects related to electric vehicles (EVs)   
+and decarbonization in India and other countries, focusing on EV   
+integration with transmission and distribution, EV market study, Technical   
+Due Diligence of EV sector, Technology review of EV sector. He has   
+received recognition for his work in the form of the Clean Mobility   
+Leadership: Young Achiever Award in India. Alok has also been involved in   
+the first offshore wind with hydrogen study, the first grid connection   
+report for offshore wind under the FOWIND project, and many other   
+initiatives. In this ever-evolving energy landscape, Alok's experience and   
+expertise provide valuable insights into the challenges and opportunities   
+that lie ahead.  
+                </p>
+                
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Amit Singh Parihar -->
+<div class="row speaker_row">
+    <div class="k_list_part">
+        <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
+            <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
+                <img src="images/2026/speakers/AmitParihar.jpg" alt="Amit Singh Parihar" class="speaker-photo">
+            </div>
+            <div class="speaker_content" style="flex: 1;">
+                <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
+                    Amit Singh Parihar,<br/>
+                    Director – Clean Power Programme<br/>
+                    Shakti Sustainable Energy Foundation
+                </h1>
+                <p style="text-align: justify; line-height: 1.6;">
+                    Amit Singh Parihar leads the Clean Power Programme at Shakti Sustainable Energy Foundation, driving initiatives that accelerate India's transition toward a low-carbon, renewable-powered future. An energy and environment professional with over 12 years of experience in climate change, clean energy, and sustainable development, he brings a strong blend of research, policy, and implementation expertise. Mr. Parihar holds a Ph.D. and M.Tech from IIT Bombay, and a Bachelor's in Mechanical Engineering from RGPV Bhopal. His work spans renewable integration, energy transition strategies, decarbonization pathways, and innovative business models for clean power adoption.
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Anand Budholia -->
+<div class="row speaker_row">
+    <div class="k_list_part">
+        <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
+            <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
+                <img src="images/2026/speakers/AnandBudholia.jpg" alt="Anand Budholia" class="speaker-photo">
+            </div>
+            <div class="speaker_content" style="flex: 1;">
+                <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
+                    Anand Budholia,<br/>
+                    President – IT & Group CIO<br/>
+                    BRPL & BYPL Delhi
+                </h1>
+                <p style="text-align: justify; line-height: 1.6;">
+                    Anand Budholia serves as the President – IT & Group CIO at BRPL & BYPL Delhi, a joint venture between Reliance Infrastructure Limited and the Government of NCT of Delhi. With over 35 years of techno-commercial experience in utilities, power, and manufacturing sectors, he brings unparalleled expertise to his role. As President – IT & Group CIO, Mr. Budholia drives Group BSES Delhi's digital transformation journey, strengthening IT systems for smarter and more resilient power distribution. Before joining BSES Delhi, Mr. Budholia held key positions, including Joint President & CIO at MP Birla Group and Senior Vice President & CIO at Reliance Group/Reliance Power.
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Aneesh Thomas -->
+<div class="row speaker_row">
+    <div class="k_list_part">
+        <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
+            <!-- Speaker Image -->
+            <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
+                <img src="images/2026/speakers/AneeshThomas.jpg" alt="Aneesh Thomas" class="speaker-photo">
+            </div>
+
+            <!-- Speaker Content -->
+            <div class="speaker_content" style="flex: 1;">
+                <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
+                    Aneesh Thomas,<br/>
+                    Associate Director National Sales MV<br/>
+                    Eaton Power Quality India
+                </h1>
++                <p style="text-align: justify; line-height: 1.6;">
+                    Aneesh Thomas leads Power Distribution Assembly Medium Voltage Switchgear   
+                    at Eaton Power Quality India, bringing 24 years of rich expertise from global   
+                    industry leaders ABB, Siemens, and Larsen & Toubro. A pioneer in sustainable   
+                    power technologies, he champions the development of SF6-free switching   
+                    technologies and environmentally responsible alternatives for medium voltage   
+                    power distribution. Through his work at Eaton, he actively contributes to India's   
+                    vision of energy self-reliance, focusing on innovative solutions that align with the   
+                    nation's commitment to sustainable power infrastructure.
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Anoop Kaur Bowdery -->
+<div class="row speaker_row">
+    <div class="k_list_part">
+        <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
+            <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
+                <img src="images/2026/speakers/AnoopBowdery.jpg" alt="Anoop Kaur Bowdery" class="speaker-photo">
+            </div>
+            <div class="speaker_content" style="flex: 1;">
+                <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
+                    Anoop Kaur Bowdery,<br/>
+                    Chief Executive Officer<br/>
+                    EDX Wireless
+                </h1>
+                <p style="text-align: justify; line-height: 1.6;">
+                    Anoop Kaur Bowdery is a visionary technology leader with more than 20 years of experience in the global wireless industry. As CEO of EDX Wireless, she drives the company's strategic direction and innovation across advanced RF planning, AI-driven analytics, and sustainable network design—empowering operators, utilities, and enterprises to build the next generation of connected infrastructure. Under her leadership, EDX Wireless has expanded its global presence, supporting customers and partners across North America, Latin America, Europe, the Middle East, and the Asia-Pacific region. She serves on the Utilities Technology Council (UTC) Telecom Committee and is an active IEEE member.
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Ashish Kumar Goel -->
+<div class="row speaker_row">
+    <div class="k_list_part">
+        <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
+            <!-- Speaker Image -->
+            <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
+                <img src="images/2026/speakers/AshishKumarGoel.jpg" alt="Ashish Kumar Goel" class="speaker-photo">
+            </div>
+
+            <!-- Speaker Content -->
+            <div class="speaker_content" style="flex: 1;">
+                <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
+                    Ashish Kumar Goel,<br/>
+                    Chairman<br/>
+                    Uttar Pradesh Power Corporation Limited
+                </h1>
+                <p style="text-align: justify; line-height: 1.6;">
+                    Dr. Ashish Kumar Goel is a highly accomplished individual with an impressive
+                    educational background. He holds a B.Tech in Electrical Engineering from IIT
+                    Delhi, an MA in Economics, and a Ph.D. in Economics. Throughout his career, Dr.
+                    Goel has held several pivotal roles in public service and administration, including
+                    leadership roles in UP Power Corporation and the Ministry of Rural Development.
+                    His work includes overseeing flagship schemes for rural roads and housing and
+                    organizing large public events with outstanding execution. He has received
+                    multiple awards and recognitions for his public service and leadership.
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Ashutosh Goel -->
+<div class="row speaker_row">
+    <div class="k_list_part">
+        <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
+            <!-- Speaker Image -->
+            <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
+                <img src="images/2026/speakers/AshutoshGoel.JPG" alt="AshutoshGoel" class="speaker-photo">
+            </div>
+
+            <!-- Speaker Content -->
+            <div class="speaker_content" style="flex: 1;">
+                <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
+                    Ashutosh Goel,<br/>
+                    Chairman & Managing Director, <br/>
+                    Allied Engineering Works Limited
+                </h1>
+                <p style="text-align: justify; line-height: 1.6;">
+                    Ashutosh Goel, an IIT Delhi alumnus, is the Chairman and   
+Managing Director of Allied Engineering Works Limited (AEWL).   
+He has over 23 years of expertise in the Electrical and Electronics   
+industry. Renowned for his technical acumen and strategic   
+leadership, Mr. Goel has played a pivotal role in establishing AEWL   
+as a market leader and forging many tie-ups and associations. His   
+commitment to innovation and quality is evident in his continuous   
+involvement in R&D projects, which drive AEW's advancements in   
+the smart metering domain and other hi-tech sectors. He has   
+been involved in many Industrial forums and mentored a few   
+start-ups in the tech space. 
+                </p>
+                
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Atul Bali -->
+<div class="row speaker_row">
+    <div class="k_list_part">
+        <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
+            <!-- Speaker Image -->
+            <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
+                <img src="images/2026/speakers/AtulBali.png" alt="AtulBali" class="speaker-photo">
+            </div>
+
+            <!-- Speaker Content -->
+            <div class="speaker_content" style="flex: 1;">
+                <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
+                    Atul Bali,<br/>
+                    Director,<br/>
+                    NSGM
+                </h1>
+                <p style="text-align: justify; line-height: 1.6;">
+                    Atul Bali is the Director of the National Smart Grid Mission, established by   
+the Government of India to plan and monitor the implementation of   
+policies and programmes related to smart grid activities in India, and   
+Executive Director at Power Grid Corporation of India. He has nearly three   
+decades of rich experience in the power sector. His experience spans   
+design, engineering, monitoring, and successful implementation of   
+SCADA/EMS/DMS projects. He has worked in NHPC, POWERGRID, PFC, and   
+the Navratna Public Sector Undertakings of the Ministry of Power,   
+Government of India. He has been associated with the concept to   
+commissioning of the Unified Load Despatch and Communication Scheme   
+and has supervised the implementation of IT-based distribution reform   
+projects under the prestigious Restructured Accelerated Power   
+Development and Reforms Programme (RAPDRP) in India.  
+                </p>
+                
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Brajesh Kumar -->
+<div class="row speaker_row">
+    <div class="k_list_part">
+        <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
+            <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
+                <img src="images/2026/speakers/BrajeshKumar.jpg" alt="Brajesh Kumar" class="speaker-photo">
+            </div>
+            <div class="speaker_content" style="flex: 1;">
+                <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
+                    Brajesh Kumar,<br/>
+                    Chief Operating Officer<br/>
+                    BSES Yamuna Power Limited
+                </h1>
+                <p style="text-align: justify; line-height: 1.6;">
+                    Shri Brajesh Kumar serves as the Chief Operating Officer (COO) at BSES Yamuna Power Limited (BYPL), a joint venture between Reliance Infrastructure Limited (51%) and the Government of NCT of Delhi (49%). With over 30 years of techno-commercial experience in industries such as aluminium, steel, telecom, and power distribution, Shri Kumar brings a wealth of expertise to his role. Before assuming the position of COO on July 1, 2025, he held the position of Chief Business Officer (CBO) at BYPL. Since joining BSES in 2009, Shri Kumar has worked across various departments, driving initiatives such as remarkable loss reduction drives, digital transformation, and consumer services.
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Devanand Pallikuth -->
+<div class="row speaker_row">
+    <div class="k_list_part">
+        <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
+            <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
+                <img src="images/2026/speakers/DevanandPallikuth.jpg" alt="Devanand Pallikuth" class="speaker-photo">
+            </div>
+            <div class="speaker_content" style="flex: 1;">
+                <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
+                    Devanand Pallikuth,<br/>
+                    Head – Integrated Control Centre<br/>
+                    The Tata Power Company Limited
+                </h1>
+                <p style="text-align: justify; line-height: 1.6;">
+                    Mr. Devanand Pallikuth is a seasoned power-sector professional with over two decades of experience in power distribution, grid operations, and smart energy systems. As Head of Mumbai's Integrated Control Centre at Tata Power, he oversees critical transmission assets, hydro operations, and the city's distribution network—ensuring reliability, resilience, and operational excellence. A pioneer in smart grid transformation, he earlier spearheaded Asia's first Advanced Distribution Management System (ADMS) integrating GIS, SCADA, and CRM at Tata Power Delhi Distribution Ltd., and established Delhi's Smart Grid Lab, now a national benchmark. His work has advanced renewable integration, cybersecurity frameworks, and consumer-centric energy trading pilots.
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Dwijadas Basak -->
+<div class="row speaker_row">
+    <div class="k_list_part">
+        <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
+            <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
+                <img src="images/2026/speakers/DwijadasBasak.jpg" alt="Dwijadas Basak" class="speaker-photo">
+            </div>
+            <div class="speaker_content" style="flex: 1;">
+                <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
+                    Dwijadas Basak,<br/>
+                    Chief Executive Officer<br/>
+                    Tata Power Delhi Distribution Limited
+                </h1>
+                <p style="text-align: justify; line-height: 1.6;">
+                    Mr. Dwijadas Basak is the Chief Executive Officer (CEO) of Tata Power Delhi Distribution Limited, a Joint Venture between Tata Power and the Government of National Capital Territory of Delhi, supplying electricity to a population of around 9 million in North & North-West Delhi. This is Mr. Basak's second stint with Tata-Power-DDL. Mr. Basak brings over three decades' experience in power distribution management. A seasoned electrical engineer, he has held various leadership positions within the Tata Power Group. From 1991 to 2002, Mr. Basak worked in the power distribution sector in India and Brazil.
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Gajanan S Kale -->
 <div class="row speaker_row">
     <div class="k_list_part">
         <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
@@ -404,8 +575,8 @@ Tata Power Mumbai Distribution, and Tata Power-DDL.</p>
 extensive expertise in enhancing customer experience, resource planning   
 and management, operational excellence, project management, digital   
 transformations, and stakeholder management. He has received notable   
-recognitions for his leadership, including the “Best CEO of the Year with   
-HR Orientation” and the “Best CEO of the Year” award for FY 2023-24.  
+recognitions for his leadership, including the "Best CEO of the Year with   
+HR Orientation" and the "Best CEO of the Year" award for FY 2023-24.  
 Mr. Kale holds an MBA in Finance and an M.Tech in Integrated Power   
 Systems from the National Institute of Technology, Nagpur, a B.E. in   
 Electrical Power Systems from Amravati University, and is also an alumnus   
@@ -419,7 +590,7 @@ through his commitment to excellence.  </p>
     </div>
 </div>
 
-<!-- Manoj Muthyala -->
+<!-- Gurpreet Oberoi -->
 	<div class="row speaker_row">
 		<div class="k_list_part ">
 			<div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
@@ -450,25 +621,49 @@ driving impactful change and has a keen interest in luxury automobiles.  </p>
 		</div>
 	</div>
 
-	<!-- Manoj Muthyala -->
-	<div class="row speaker_row">
-		<div class="k_list_part ">
-			<div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
-				<div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
-						<img src="images/2026/speakers/ManojMuthyala.jpg" style="width:60%">
-					</div>
-					<div class="speaker_content">
-						<h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
-							Manoj Muthyala<br/>Senior Director, Sales<br/>Impresa.ai
-						</h1>
-						<p>Manoj is a Global Sales Leader with over 15 years of experience across Project and Business Development teams. He has a great track record of driving sales and increasing client engagement at large Utilities like Tata, Adani and Essar. At Abjayon (Impresa.ai), Manoj is commercially focused and responsible for driving growth by pitching unique solutions to clients in the APAC and MEA regions.</p>
-						<p>Manoj firmly believes in selling solutions to problems, not products. He enjoys cycling & trekking and appreciates that the best views come after the long and hard climbs.</p>
-					</div>
-				
-			</div>
-		</div>
-	</div>
+<!-- Himanshu Chawla -->
+<div class="row speaker_row">
+    <div class="k_list_part">
+        <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
+            <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
+                <img src="images/2026/speakers/HimanshuChawla.jpg" alt="Himanshu Chawla" class="speaker-photo">
+            </div>
+            <div class="speaker_content" style="flex: 1;">
+                <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
+                    Himanshu Chawla,<br/>
+                    Head - Regulatory (Senior Specialist)<br/>
+                    Power Foundation of India
+                </h1>
+                <p style="text-align: justify; line-height: 1.6;">
+                    Himanshu Chawla has an experience of around 16 years in the Power Sector across various domains and has served in various capacities at State Electricity Regulatory Commissions (DERC & HERC), Essar Power (Commissioning of 2X600 MW Power Plant) and ICRA (Consultancy) wherein he has effectively utilised his Techno-Commercial Educational qualifications of Management, Engineering and Climate Change from University of British Columbia. His last position was Joint Director (Tariff-Engineering) in DERC. Himanshu specialises in Regulations including Tariff, Energy Storage, Supply Code, Performance Standards, Power Markets, Roof Top Solar through Net Metering, Virtual & Group Net Metering, P2P Trading etc.
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
 
+<!-- Kishor Narang -->
+<div class="row speaker_row">
+    <div class="k_list_part">
+        <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
+            <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
+                <img src="images/2026/speakers/KishorNarang.jpg" alt="Kishor Narang" class="speaker-photo">
+            </div>
+            <div class="speaker_content" style="flex: 1;">
+                <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
+                    Kishor Narang,<br/>
+                    Founder, Mentor, Principal Design Strategist & Architect<br/>
+                    Narnix Technolabs Pvt. Ltd.
+                </h1>
+                <p style="text-align: justify; line-height: 1.6;">
+                    Kishor is Technology Advisor, Mentor, Design Strategist & Architect in Electrical, Electronics & ICT with over 48 years of professional experience in education, research, design and advisory running an Independent Design House -- NARNIX since 1981. Over 38 years of hardcore Research and Design Development Experience in Solutions, Systems, Products, Hardware, Software & Firmware across diverse technology & application domains. Leading multiple National & Global Standardization Initiatives & Projects at BIS, TSDSI, IEEE, IEC, ISO, ITU and IETF. Mentoring many Deep Tech & Disruptive Tech Startups in the domains of 5G/6G, Defense, Aerospace, e-mobility, Autonomous Vehicles, Drones, Robotics, AR/VR/XR and Artificial Intelligence.
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Manish Patel -->
 	<div class="row speaker_row">
     <div class="k_list_part">
         <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
@@ -507,6 +702,67 @@ scratch and has now taken up the role of Business Development for Apar Industrie
 Ltd (Unit - Cable) for SAARC, Middle East, Latin America, North America and hopes to   
 create an exciting story of growth, new business ventures and excellent sales figures   
 for the company.
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Manoj Muthyala -->
+	<div class="row speaker_row">
+		<div class="k_list_part ">
+			<div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
+				<div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
+						<img src="images/2026/speakers/ManojMuthyala.jpg" style="width:60%">
+					</div>
+					<div class="speaker_content">
+						<h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
+							Manoj Muthyala<br/>Senior Director, Sales<br/>Impresa.ai
+						</h1>
+						<p>Manoj is a Global Sales Leader with over 15 years of experience across Project and Business Development teams. He has a great track record of driving sales and increasing client engagement at large Utilities like Tata, Adani and Essar. At Abjayon (Impresa.ai), Manoj is commercially focused and responsible for driving growth by pitching unique solutions to clients in the APAC and MEA regions.</p>
+						<p>Manoj firmly believes in selling solutions to problems, not products. He enjoys cycling & trekking and appreciates that the best views come after the long and hard climbs.</p>
+					</div>
+				
+			</div>
+		</div>
+	</div>
+
+<!-- Moëz Cherif -->
+<div class="row speaker_row">
+    <div class="k_list_part">
+        <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
+            <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
+                <img src="images/2026/speakers/MoezCherif.jpg" alt="Moëz Cherif" class="speaker-photo">
+            </div>
+            <div class="speaker_content" style="flex: 1;">
+                <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
+                    Moëz Cherif,<br/>
+                    Infrastructure Program Leader for the Maghreb<br/>
+                    World Bank
+                </h1>
+                <p style="text-align: justify; line-height: 1.6;">
+                    Moëz Cherif is India Energy Lead at the World Bank in New Delhi, supporting the energy transition through policy dialogue, investments and analytics. Previously coordinated the infrastructure sector engagement of the World Bank in the Maghreb countries (MENA). With more than 20 years of experience in the energy and infrastructure sectors, he currently focuses on promoting investments in green energy and transport infrastructure, improving the performance of energy sectors and integrating cross-border electricity markets, as well as promoting access to competitive digital services. Previously, he worked as an infrastructure economist at IFC, then joined the World Bank in 2008.
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Nidhi Kumar Narang -->
+<div class="row speaker_row">
+    <div class="k_list_part">
+        <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
+            <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
+                <img src="images/2026/speakers/NidhiKumarNarang.jpg" alt="Nidhi Kumar Narang" class="speaker-photo">
+            </div>
+            <div class="speaker_content" style="flex: 1;">
+                <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
+                    Nidhi Kumar Narang,<br/>
+                    Former Director (Finance)<br/>
+                    Uttar Pradesh Power Corporation Limited
+                </h1>
+                <p style="text-align: justify; line-height: 1.6;">
+                    Shri Nidhi Kumar Narang is a veteran finance professional with over four decades of leadership experience across India's power and infrastructure sectors. Until August 2025, he served as Director (Finance), UPPCL, where he also held additional charge as Director (Finance) of UPPTCL, UPRVUNL, UPSLDC, and UPREV, and served as Nominee Director on multiple utility boards including PVVNL, MVVNL, DVVNL, PuVVNL, KESCO, MEJA Urja, NUPPL, and UCM Coal Co. Ltd. Prior to this, he held senior leadership positions such as CFO – Punj Lloyd Ltd., CFO – Hindustan Powerprojects Pvt. Ltd., and Sr. Vice President (Finance) – Reliance Infrastructure, following a distinguished 25-year tenure with NTPC.
                 </p>
             </div>
         </div>
@@ -564,32 +820,26 @@ for the company.
     </div>
 </div>
 
-	<!-- Rohit Pareek -->
-	<div class="row speaker_row">
-		<div class="k_list_part ">
-			<div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
-				<div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
-						<img src="images/2026/speakers/RohitPareek.png" style="width:60%">
-					</div>
-					<div class="speaker_content">
-						<h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
-							Rohit Pareek<br/>Chief Product Officer<br/>Impresa.ai
-						</h1>
-						<p>Rohit Pareek is a seasoned technology leader with over 25 years of expertise revolutionizing the utilities sector through data and AI innovation. As a trailblazer in digital transformation, he's spearheaded the development of cutting-edge SaaS platforms, harnessing AI to boost decision-making and operational efficiency by up to 35% for global utility giants. He's transformed AI roadmaps for large-scale utilities across continents, empowering them with strategic, future-ready solutions.</p>
-						<p>His knack for decoding industry trends and driving partner success has redefined how utilities operate worldwide. A dynamic speaker, Rohit blends deep insight with product strategy mastery, inspiring audiences to embrace intelligent tech. He's on a quest to fuel industries everywhere with bold, data-powered innovation.</p>
-					</div>
-				
-			</div>
-		</div>
-	</div>
-
-	
-
-	
-
-	
-
-	
+<!-- Rahul Kumar -->
+<div class="row speaker_row">
+    <div class="k_list_part">
+        <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
+            <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
+                <img src="images/2026/speakers/RahulKumar.jpg" alt="Rahul Kumar" class="speaker-photo">
+            </div>
+            <div class="speaker_content" style="flex: 1;">
+                <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
+                    Rahul Kumar,<br/>
+                    Managing Director<br/>
+                    North Bihar Power Distribution Company Limited
+                </h1>
+                <p style="text-align: justify; line-height: 1.6;">
+                    Rahul Kumar currently serves as Managing Director, North Bihar Power Distribution Company Ltd., with additional charge of Bihar State Power Transmission Company Ltd. and Bihar Renewable Energy Development Authority. Over his distinguished 14-year career, he has played a pivotal role in implementing various flagship schemes of both the State and Central Governments, with a focus on health, education, power sector, rural development, and public distribution systems. His exemplary leadership and contributions have earned him numerous accolades, including the National Water Award (2023) presented by the Hon'ble Vice President of India, the Champion of Change Award (2019) by NITI Aayog, and recognition by the Chief Minister for 100% district electrification (2018).
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
 
 <!-- Ravi Jagannathan -->
 <div class="row speaker_row">
@@ -613,7 +863,7 @@ for the company.
                     with operations across the USA, India, the Netherlands, and the UAE. A Fellow
                     Member of the Institute of Chartered Accountants of India, he has over three
                     decades of entrepreneurial experience in building trusted digital ventures,
-                    including eMudhra, India’s pioneering Certifying Authority, and KrypC, which has
+                    including eMudhra, India's pioneering Certifying Authority, and KrypC, which has
                     implemented blockchain platforms for leading banks, utilities, and governments.
                     Ravi is also the Founder of Xygle, an enterprise-focused Layer-1 blockchain
                     protocol, and serves as a Blockchain Technology Member at the Universal
@@ -646,7 +896,7 @@ Biosirus Inc.
                 </h1>
                 <p style="text-align: justify; line-height: 1.6;">
                     Ravi Seethapathy, is Executive Chairman of Biosirus Inc., Canada. He serves as the   
-                    “Ambassador for the Americas”, for the Global Smart Energy Federation, USA, and as   
+                    "Ambassador for the Americas", for the Global Smart Energy Federation, USA, and as   
                     an Advisor to the India Smart Grid Forum. He is an empanelled expert at the Coalition   
                     for Disaster Resilient Infrastructure (CDRI), a 51-country member organization.   
                 </p>
@@ -656,7 +906,7 @@ Biosirus Inc.
                     active in several IEC, CSA, GSEF, ISGF, CDRI technical committees, in the areas of   
                     sustainable energy, transportation, energy storage, microgrid and e-mobility. He is an   
                     invited speaker internationally and has co-authored over 50 technical papers and   
-                    published 75 articles. His former Corporate Directorships include Larsen & Toubro’s -   
+                    published 75 articles. His former Corporate Directorships include Larsen & Toubro's -   
                     Power Transmission & Distribution (IC), India, Toronto Atmospheric Fund, Smart Grid   
                     Canada, Ryerson University, TV Ontario, Scarborough Hospital, and as Chairs of   
                     Engineers Without Borders Canada, Canadian Club of Toronto, and Indo-Canada   
@@ -677,7 +927,8 @@ Biosirus Inc.
         </div>
     </div>
 </div>
-	
+
+<!-- Reena Suri -->
 	<div class="row speaker_row">
     <div class="k_list_part">
         <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
@@ -714,6 +965,7 @@ Biosirus Inc.
     </div>
 </div>
 
+<!-- Reji Kumar Pillai -->
 	<div class="row speaker_row">
     <div class="k_list_part">
         <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start; ">
@@ -730,7 +982,7 @@ Biosirus Inc.
                     Chairman, Global Smart Energy Federation (GSEF)
                 </h1>
 				<p style="text-align: justify; line-height: 1.6;">
-        Reji is the President of India Smart Grid Forum (<a href="https://www.indiasmartgrid.org" target="_blank">www.indiasmartgrid.org</a>) since its inception in 2011 and is also the current Chairman of the Global Smart Energy Federation (GSEF). He is an internationally renowned expert with over four decades of experience in the electricity sector in diverse functions covering the entire value chain and across continents. He is spearheading a mission to leverage technology to transform the electric grids and provide clean and reliable electricity to every citizen 24x7 at affordable cost. For decades he has been actively advocating for the “Right to Electricity” that would ensure lifeline supply of electricity to all which is now becoming a reality in India and several other developing countries; and also advocating for the “Right to Sleep” to provide climate-controlled sleeping pods in low-income communities. Reji has played pivotal role in several groundbreaking initiatives related to renewable energy, electric grid modernization, electric mobility, energy storage and digitalization of utilities across continents during the past two decades.
+        Reji is the President of India Smart Grid Forum (<a href="https://www.indiasmartgrid.org" target="_blank">www.indiasmartgrid.org</a>) since its inception in 2011 and is also the current Chairman of the Global Smart Energy Federation (GSEF). He is an internationally renowned expert with over four decades of experience in the electricity sector in diverse functions covering the entire value chain and across continents. He is spearheading a mission to leverage technology to transform the electric grids and provide clean and reliable electricity to every citizen 24x7 at affordable cost. For decades he has been actively advocating for the "Right to Electricity" that would ensure lifeline supply of electricity to all which is now becoming a reality in India and several other developing countries; and also advocating for the "Right to Sleep" to provide climate-controlled sleeping pods in low-income communities. Reji has played pivotal role in several groundbreaking initiatives related to renewable energy, electric grid modernization, electric mobility, energy storage and digitalization of utilities across continents during the past two decades.
     </p>
     <p style="text-align: justify; line-height: 1.6;">
         His current areas of research and work spans: Grid Integrated Vehicles, District Cooling Systems, Electric Cooking, Integration of Utilities - electricity + water + city gas distribution; Grid Interactive Buildings and Campuses; Artificial Intelligence, Robotics, Blockchain, Web 3.0 and Metaverse Applications for Utilities; Urban Air Mobility (UAM) Systems and the Future of Transportation; and Interconnection of Regional Grids in Asia - ASEAN, SAARC and GCC grids.
@@ -741,47 +993,12 @@ Biosirus Inc.
     <p style="text-align: justify; line-height: 1.6;">
         As an entrepreneur, Reji has built successful enterprises in India and overseas and exited them. Presently he mentors several technology startups around the globe. He has studied Engineering, Finance, Management and Law; worked with NTPC and IBM and has been a senior consultant with ADB, World Bank and USAID. A recognized thought leader in renewable energy, smart grid technologies, smart cities and electric mobility, Reji is a popular key-note speaker at international symposiums and conferences. He has also contributed to several articles, books, research reports and white papers on a variety of topics.
     </p>
-                <!-- <p style="text-align: justify; line-height: 1.6;">
-                    Reji is the President of India Smart Grid Forum (<a href="https://www.indiasmartgrid.org" target="_blank">www.indiasmartgrid.org</a>) since its
-                    inception in 2011 and is also the current Chairman of the Global Smart Energy
-                    Federation (GSEF). He is an internationally renowned expert with over four decades
-                    of experience in the electricity sector in diverse functions covering the entire value
-                    chain and across continents. He is spearheading a mission to leverage technology
-                    to transform the electric grids and provide clean and reliable electricity to every
-                    citizen 24x7 at affordable cost. For decades he has been actively advocating for the
-                    “Right to Electricity” that would ensure lifeline supply of electricity to all which is now
-                    becoming a reality in India and several other developing countries; and also
-                    advocating for the “Right to Sleep” to provide climate-controlled sleeping pods in
-                    low-income communities. Reji has played a pivotal role in several groundbreaking
-                    initiatives related to renewable energy, electric grid modernization, electric
-                    mobility, energy storage, and digitalization of utilities across continents during the
-                    past two decades.
-                </p>
-                <p style="text-align: justify; line-height: 1.6;">
-                    In November 2016, Reji was unanimously elected as Chairman of Global Smart Grid Federation, now renamed as
-                    Global Smart Energy Federation (GSEF), a global umbrella organization of smart
-                    energy associations and utilities from around the globe headquartered in Washington
-                    DC, USA that was established by the US Department of Energy in 2010. Reji is also an
-                    advisor to Arab Renewable Energy Commission (AREC) since 2017; and works closely
-                    with the Association of Power Utilities in Africa (APUA), International Smart Grid
-                    Action Network (ISGAN), and LATAM Smart Grid Forum.
-                </p>
-                <p style="text-align: justify; line-height: 1.6;">
-                    As an entrepreneur, Reji has built successful enterprises in India and overseas and exited them. Presently he
-                    mentors several technology startups around the globe. He has studied Engineering,
-                    Finance, Management, and Law; worked with NTPC and IBM and has been a senior
-                    consultant with ADB, World Bank, and USAID. A recognized thought leader in
-                    renewable energy, smart grid technologies, smart cities, and electric mobility, Reji is a
-                    popular keynote speaker at international symposiums and conferences. He has also
-                    contributed to several articles, books, research reports, and white papers on a variety of
-                    topics.
-                </p> -->
             </div>
         </div>
     </div>
 </div>
 
-<!-- Ritwik Anand   - Updated Bio -->
+<!-- Ritwik Anand -->
 <div class="row speaker_row">
     <div class="k_list_part">
         <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
@@ -818,7 +1035,26 @@ the International Electrotechnical Commission (IEC).</p>
     </div>
 </div>
 
-<!-- RS Selvam   -->
+<!-- Rohit Pareek -->
+	<div class="row speaker_row">
+		<div class="k_list_part ">
+			<div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
+				<div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
+						<img src="images/2026/speakers/RohitPareek.png" style="width:60%">
+					</div>
+					<div class="speaker_content">
+						<h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
+							Rohit Pareek<br/>Chief Product Officer<br/>Impresa.ai
+						</h1>
+						<p>Rohit Pareek is a seasoned technology leader with over 25 years of expertise revolutionizing the utilities sector through data and AI innovation. As a trailblazer in digital transformation, he's spearheaded the development of cutting-edge SaaS platforms, harnessing AI to boost decision-making and operational efficiency by up to 35% for global utility giants. He's transformed AI roadmaps for large-scale utilities across continents, empowering them with strategic, future-ready solutions.</p>
+						<p>His knack for decoding industry trends and driving partner success has redefined how utilities operate worldwide. A dynamic speaker, Rohit blends deep insight with product strategy mastery, inspiring audiences to embrace intelligent tech. He's on a quest to fuel industries everywhere with bold, data-powered innovation.</p>
+					</div>
+				
+			</div>
+		</div>
+	</div>
+
+<!-- RS Selvam -->
 	<div class="row speaker_row">
 		<div class="k_list_part ">
 			<div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
@@ -848,7 +1084,7 @@ development, making him a valuable asset and a respected figure in his field.</p
 		</div>
 	</div>
 
-<!-- Sandip Sinha - Updated Bio -->
+<!-- Sandip Sinha -->
 <div class="row speaker_row">
     <div class="k_list_part">
         <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
@@ -888,7 +1124,28 @@ University.   </p>
     </div>
 </div>    
 
-<!-- Shashank Mishra  - Updated Bio -->
+<!-- Satyendra R. Pandey -->
+<div class="row speaker_row">
+    <div class="k_list_part">
+        <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
+            <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
+                <img src="images/2026/speakers/SatyendraPandey.jpg" alt="Satyendra R. Pandey" class="speaker-photo">
+            </div>
+            <div class="speaker_content" style="flex: 1;">
+                <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
+                    Satyendra R. Pandey,<br/>
+                    Member<br/>
+                    Gujarat Electricity Regulatory Commission
+                </h1>
+                <p style="text-align: justify; line-height: 1.6;">
+                    Shri Satyendra R. Pandey has been serving as Member, Gujarat Electricity Regulatory Commission (GERC) since December 2020. With over 37 years of multifaceted experience in India's power sector, he has contributed to its regulatory, technical, legal, commercial, and financial evolution. A postgraduate in Electrical Engineering, Law, and Management, with additional qualifications in Finance and HRD, he began his career with the Gujarat Electricity Board (GEB) in 1983. He has held several key roles including Legal Advisor to GERC and Electricity Ombudsman for Gujarat, dealing with complex consumer–licensee disputes.
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Shashank Mishra -->
 <div class="row speaker_row">
     <div class="k_list_part">
         <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
@@ -929,7 +1186,47 @@ Personnel of the Company.</p>
     </div>
 </div> 
 
-<!-- Teppo Hemiä -->
+<!-- Srikant Nagulapalli -->
+<div class="row speaker_row">
+    <div class="k_list_part">
+        <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
+            <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
+                <img src="images/2026/speakers/SrikantNagulapalli.jpg" alt="Srikant Nagulapalli" class="speaker-photo">
+            </div>
+            <div class="speaker_content" style="flex: 1;">
+                <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
+                    Srikant Nagulapalli,<br/>
+                    Additional Secretary, Ministry of Power, Government of India<br/>
+                    Director General of the Foundation
+                </h1>
+                <p style="text-align: justify; line-height: 1.6;">
+                    Dr Srikant Nagulapalli currently serves as Additional Secretary, Ministry of Power, Government of India, and Director General of the Foundation. With a PhD in economics, he has led transformative initiatives, including planning of 30 GW Pumped Storage Projects and financial revitalization of the power sector. His expertise spans greenfield city planning, energy efficiency, and large-scale health insurance schemes.
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Subrahmanyam Pulipaka -->
+<div class="row speaker_row">
+    <div class="k_list_part">
+        <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
+            <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
+                <img src="images/2026/speakers/SubrahmanyamPulipaka.jpg" alt="Subrahmanyam Pulipaka" class="speaker-photo">
+            </div>
+            <div class="speaker_content" style="flex: 1;">
+                <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
+                    Subrahmanyam Pulipaka,<br/>
+                    Chief Executive Officer<br/>
+                    National Solar Energy Federation of India
+                </h1>
+                <p style="text-align: justify; line-height: 1.6;">
+                    Subrahmanyam Pulipaka is the Chief Executive Officer of National Solar Energy Federation of India. Subrahmanyam, who is BITSAA Global 30 Under 30 Award recipient, is an alumnus of BITS Pilani in Electrical & Electronics Engineering and is one of the youngest winners of BRICS young scientist award - 2018. Well known Speaker at various Solar and RE events in India, Pulipaka represented India in various scientific and technology platforms worldwide including the United States, China, Russia and Rwanda. With a research background in reliability of solar PV modules, he has published around 15 research articles in internationally acclaimed journals.
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
 
 <!-- Swapnadeep Banerjee -->
 <div class="row speaker_row">
@@ -957,6 +1254,8 @@ Personnel of the Company.</p>
         </div>
     </div>
 </div>
+
+<!-- Teppo Hemiä -->
 	<div class="row speaker_row">
 		<div class="k_list_part ">
 			<div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
@@ -994,7 +1293,6 @@ Personnel of the Company.</p>
 			</div>
 		</div>
 	</div>
-
 	
 	
 	

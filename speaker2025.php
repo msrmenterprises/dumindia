@@ -98,20 +98,80 @@
 <div class="row speaker_row">
     <div class="k_list_part">
         <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
-            <!-- Speaker Image -->
             <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
                 <img src="images/2026/speakers/AakashSaxena.jpg" alt="Aakash Saxena" class="speaker-photo">
             </div>
-
-            <!-- Speaker Content -->
             <div class="speaker_content" style="flex: 1;">
                 <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
                     Aakash Saxena,<br/>
-                    Chief Operating Officer<br/>
+                    COO<br/>
                     CESC Rajasthan
                 </h1>
                 <p style="text-align: justify; line-height: 1.6;">
-                    Aakash Saxena is a seasoned professional with over two decades of comprehensive experience in power distribution operations, business development, and project management. Currently serving as the Chief Operating Officer of Bharatpur Electricity Services Ltd. (a CESC Ltd. subsidiary), he leads end-to-end distribution operations for Bharatpur city, driving efficiency, consumer satisfaction, and sustainable growth. Aakash has played a pivotal role in transforming urban power distribution landscapes through loss reduction, process re-engineering, and digital enablement. His distinguished career spans leadership roles at Torrent Power Ltd., Essar Power Ltd. & BSES Delhi.
+                    Aakash Saxena is a seasoned professional with over two decades of comprehensive experience in power distribution operations, business development, and project management. Currently serving as the Chief Operating Officer of Bharatpur Electricity Services Ltd. (a CESC Ltd. subsidiary), he leads end-to-end distribution operations for Bharatpur city, driving efficiency, consumer satisfaction, and sustainable growth. Aakash has played a pivotal role in transforming urban power distribution landscapes through loss reduction, process re-engineering, and digital enablement. His distinguished career spans leadership roles at Torrent Power Ltd., Essar Power Ltd. & BSES Delhi, where he spearheaded multiple high-impact projects for power distribution operations. He continues to make significant contributions to the evolving power sector through innovation, operational excellence, and effective stakeholder collaboration.
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Amit Tripathi -->
+<div class="row speaker_row">
+    <div class="k_list_part">
+        <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
+            <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
+                <img src="images/2026/speakers/AmitTripathi.jpg" alt="Amit Tripathi" class="speaker-photo">
+            </div>
+            <div class="speaker_content" style="flex: 1;">
+                <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
+                    Amit Tripathi,<br/>
+                    Advisor - Power Sector<br/>
+                    Coalition for Disaster Resilient Infrastructure (CDRI)
+                </h1>
+                <p style="text-align: justify; line-height: 1.6;">
+                    Amit specialises in the power industry, renewable energy, energy efficiency, and climate change. He has provided advice to the multilateral, bilateral, government, and business sectors on a wide range of issues. Amit has a successful track record in Energy & Sustainability Consultancy, Management Strategy, Program Design, Policy Advocacy, and Project Management in the Sustainability & Clean Energy Sector, spanning more than a decade. In the energy and climate change sector, Amit advised the World Bank, UNEP, UNDP, DFID, and a number of other private sector companies. Amit graduated from Bharati Vidyapeeth University in India with a bachelor's degree in mechanical engineering and a master's degree in Global Energy and Climate Change Policy.
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Anil Rawal -->
+<div class="row speaker_row">
+    <div class="k_list_part">
+        <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
+            <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
+                <img src="images/2026/speakers/AnilRawal.jpg" alt="Anil Rawal" class="speaker-photo">
+            </div>
+            <div class="speaker_content" style="flex: 1;">
+                <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
+                    Anil Rawal,<br/>
+                    MD & CEO, IntelliSmart and<br/>
+                    Chair of ISGF Working Group on AMISPs
+                </h1>
+                <p style="text-align: justify; line-height: 1.6;">
+                    Mr Anil Rawal is the MD & CEO of IntelliSmart Infrastructure Private Limited. He is an ex-civil services officer of the 1996 batch and has more than 27 years of leadership experience across both corporate and government organisations. He is an IIM, Ahmadabad alumnus of the 2007 batch and since then has been working with corporates, particularly in the power sector. In government stint, Mr Rawal has held leadership positions in various capacities in financial, contractual, and commercial domains. He has also been actively involved in the evolution of the Public Private Partnership (PPP) framework for power infrastructure projects and the digitalisation drive in the country.
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Anish Kalucha -->
+<div class="row speaker_row">
+    <div class="k_list_part">
+        <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
+            <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
+                <img src="images/2026/speakers/AnishKalucha.jpg" alt="Anish Kalucha" class="speaker-photo">
+            </div>
+            <div class="speaker_content" style="flex: 1;">
+                <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
+                    Anish Kalucha,<br/>
+                    CIO and Head of IT Automation<br/>
+                    Noida Power Company Limited
+                </h1>
+                <p style="text-align: justify; line-height: 1.6;">
+                    Anish Kalucha is the CIO and Head of IT & Automation at Noida Power Co. Ltd., a subsidiary of the RPSG Group. With over 30 years of extensive experience in IT and technology in Power Sector, including 7 years as the CIO & Head of IT at BSES Yamuna Power Ltd. (BYPL), Anish brings a wealth of knowledge and expertise to his current role. At NPCL, Anish plays a pivotal role in shaping the company's IT and digital strategy, focusing on key areas such as customer engagement, product transformation, employee empowerment, and operational optimization. He is also driving innovation in areas like analytics, the Internet of Things (IoT), Robotic process automation, AI, Gen AI and smart grids.
                 </p>
             </div>
         </div>
@@ -520,6 +580,27 @@ Development and Reforms Programme (RAPDRP) in India.
     </div>
 </div>
 
+<!-- Deepti Sharma -->
+<div class="row speaker_row">
+    <div class="k_list_part">
+        <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
+            <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
+                <img src="images/2026/speakers/DeeptiSharma.jpg" alt="Deepti Sharma" class="speaker-photo">
+            </div>
+            <div class="speaker_content" style="flex: 1;">
+                <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
+                    Deepti Sharma,<br/>
+                    Addl Vice President<br/>
+                    BSES Rajdhani Power Limited
+                </h1>
+                <p style="text-align: justify; line-height: 1.6;">
+                    Deepti Sharma is currently Head - Central Engineering Services (CES) in BSES Rajdhani Power Limited (BRPL), Delhi. With more than 22 years of experience in various verticals of distribution sector such as System Operation, Planning, Key Consumer Cell, Project Appraisal & Monitoring and Engineering. Her area of expertise is planning & network management. She is leading the team for Planning of Distribution network and Equipment Design Engineering of equipment's installed across BRPL network. Deepti is driven by the ambition to build efficient, reliable and future ready network for meeting load growth and adapting to new challenges.
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+
 <!-- Dwijadas Basak -->
 <div class="row speaker_row">
     <div class="k_list_part">
@@ -642,6 +723,27 @@ driving impactful change and has a keen interest in luxury automobiles.  </p>
     </div>
 </div>
 
+<!-- Isha Duhan -->
+<div class="row speaker_row">
+    <div class="k_list_part">
+        <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
+            <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
+                <img src="images/2026/speakers/IshaDuhan.jpg" alt="Isha Duhan" class="speaker-photo">
+            </div>
+            <div class="speaker_content" style="flex: 1;">
+                <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
+                    Isha Duhan,<br/>
+                    Managing Director<br/>
+                    PVVNL
+                </h1>
+                <p style="text-align: justify; line-height: 1.6;">
+                    Mrs. Isha Duhan, a 2014 batch IAS officer, has built an exemplary career in public service, demonstrating strong leadership and effective governance across various roles. Starting as an Assistant Magistrate and Collector in Meerut, she progressed to Joint Magistrate in Varanasi and Chief Development Officer in Bulandshahr and Meerut. Her leadership skills were notably displayed as Vice Chairman of the Varanasi Development Authority and as District Magistrate and Collector of Chandouli. In 2023, she served as Additional Commissioner for the Meerut Division and the Commercial Tax Department in Gautam Budh Nagar. Since February 27, 2024, she has held the position of Managing Director of PVVNL in Meerut, where she continues to contribute significantly to the energy sector.
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+
 <!-- Kishor Narang -->
 <div class="row speaker_row">
     <div class="k_list_part">
@@ -657,6 +759,27 @@ driving impactful change and has a keen interest in luxury automobiles.  </p>
                 </h1>
                 <p style="text-align: justify; line-height: 1.6;">
                     Kishor is Technology Advisor, Mentor, Design Strategist & Architect in Electrical, Electronics & ICT with over 48 years of professional experience in education, research, design and advisory running an Independent Design House -- NARNIX since 1981. Over 38 years of hardcore Research and Design Development Experience in Solutions, Systems, Products, Hardware, Software & Firmware across diverse technology & application domains. Leading multiple National & Global Standardization Initiatives & Projects at BIS, TSDSI, IEEE, IEC, ISO, ITU and IETF. Mentoring many Deep Tech & Disruptive Tech Startups in the domains of 5G/6G, Defense, Aerospace, e-mobility, Autonomous Vehicles, Drones, Robotics, AR/VR/XR and Artificial Intelligence.
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Kaustuv Mohapatra -->
+<div class="row speaker_row">
+    <div class="k_list_part">
+        <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
+            <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
+                <img src="images/2026/speakers/KaustuvMohapatra.jpg" alt="Kaustuv Mohapatra" class="speaker-photo">
+            </div>
+            <div class="speaker_content" style="flex: 1;">
+                <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
+                    Kaustuv Mohapatra,<br/>
+                    Vice President<br/>
+                    Radius
+                </h1>
+                <p style="text-align: justify; line-height: 1.6;">
+                    Kaustuv Mohapatra is a seasoned professional with over 15 years of experience in the power sector, spanning policy, regulatory, market, and technical domains. His expertise encompasses Electric Vehicle Charging Infrastructure, Power Generation, and Distribution, with a strong focus on advancing sustainable and technology-driven energy solutions. In his current role as Vice President at Radius, Kaustuv leads initiatives that bridge emerging technologies with business growth opportunities in the evolving power ecosystem. He is also actively involved in Business Development for JioThings, driving the scale-up of IoT-based Smart Metering Solutions across utilities and enterprises. Kaustuv holds a Master of Business Administration (MBA) in Energy Management from the Management Development Institute (MDI), Gurgaon, a Master of Science (MSc) in Electrical Power Systems, and a Bachelor of Technology (B.Tech) in Applied Electronics & Instrumentation Engineering.
                 </p>
             </div>
         </div>
@@ -726,6 +849,27 @@ for the company.
 			</div>
 		</div>
 	</div>
+
+<!-- Matt Gleeson -->
+<div class="row speaker_row">
+    <div class="k_list_part">
+        <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
+            <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
+                <img src="images/2026/speakers/MattGleeson.jpg" alt="Matt Gleeson" class="speaker-photo">
+            </div>
+            <div class="speaker_content" style="flex: 1;">
+                <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
+                    Matt Gleeson,<br/>
+                    VP -- Energy Transition<br/>
+                    Oracle Energy and Water
+                </h1>
+                <p style="text-align: justify; line-height: 1.6;">
+                    Matt boasts an impressive 25-year tenure in the utility sector, where he has served as a pivotal consultant to Oracle's clientele and partners, driving energy business transformation and fostering innovation. His influence has been pivotal in steering through the waves of deregulation sweeping across Asia Pacific, Europe, and the Americas. Matt's collaborative efforts with customers and partners have been instrumental in optimizing outcomes across diverse domains, ranging from grid performance to heightened customer engagement. His fervor lies in witnessing utilities harness their boundless potential to elevate customer experiences, fine-tune utility operations, and expedite decarbonization objectives. Matt's driving passions encompass: 1. Fostering a forward-moving drive within utilities to initiate their journey towards a low-carbon energy future, while also embracing inventive methodologies for water conservation. 2. Unleashing the true potential of AMI and grid data for energy enterprises, effecting meaningful change. 3. Pioneering a novel energy company-consumer relationship that begets shared advantages, both financial and environmentally driven. 4. Disrupting conventional power-planning paradigms by propounding alternatives like demand response and behavioral shifts. Using these innovative approaches to sidestep superfluous generation and greenhouse gas emissions. 5. Forging a nexus among ESG, EV, and DER aspirations, seamlessly translating visionary ideals into pragmatic solutions for the ever-evolving energy landscape.
+                </p>
+            </div>
+        </div>
+    </div>
+</div>    
 
 <!-- Moëz Cherif -->
 <div class="row speaker_row">
@@ -814,6 +958,57 @@ for the company.
                     transforming into a sustainable, technology-oriented green energy company
                     with a growing renewable portfolio and several new-age businesses such as
                     solar rooftop, EV charging, microgrids and smart energy management.
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Pradeep Kumar Jena -->
+<div class="row speaker_row">
+    <div class="k_list_part">
+        <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
+            <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
+                <img src="images/2026/speakers/PradeepKumarJena.jpg" alt="Pradeep Kumar Jena" class="speaker-photo">
+            </div>
+            <div class="speaker_content" style="flex: 1;">
+                <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
+                    Pradeep Kumar Jena,<br/>
+                    Chairperson<br/>
+                    Odisha Electricity Regulatory Commission
+                </h1>
+                <p style="text-align: justify; line-height: 1.6;">
+                    Shri Pradeep Kumar Jena belongs to 1989 batch of Indian Administrative Service Officer of Odisha Cadre. He has 35 years of working experience in Administration. Since then, he has worked in diverse sectors from Agriculture and Natural Resources Management to Rural Development, Transport, Tax Administration, Industrial Development, Information Technology, Science & Technology, Panchayati Raj, Electricity, Water Resources Management and Disaster Management. He started his career as Sub-Collector, Dharmagarh Sub-Division in Kalahandi District. He has served as Collector of Cuttack District during Super Cyclone 1999 and as Collector Kalahandi District where he had initiated several path breaking initiatives in poverty reduction, natural resources management and decentralized and participatory development policies. He was Principal Secretary of Panchayati Raj and Drinking Water Department, Department of Water Resources and Department of Energy. He was Assistant Country Director-cum-Team Leader, UNDP Disaster Risk Management Programme looking after sixteen States of the Country.
+                </p>
+                <p style="text-align: justify; line-height: 1.6;">
+                    Shri Jena was the Development Commissioner-cum-Additional Chief Secretary to Govt. with additional charge of Additional Chief Secretary to Govt., Rural Development Department, Special Relief Commissioner and Managing Director, OSDMA. He was instrumental in managing several cyclones of very high severity and has ensured Zero Human Casualty in each of the eight cyclones of severe intensity between July 2019 and June 2024.
+                </p>
+                <p style="text-align: justify; line-height: 1.6;">
+                    He has implemented several programmes maintaining Disaster Risk Reduction, particularly in power sector. He is a veteran in Disaster Management (Pre, During and Post Disaster) including response, recovery, rehabilitation, mitigation and adaption. Further, he had significant contribution in designing Just Transition in the state of Odisha.
+                </p>
+                <p style="text-align: justify; line-height: 1.6;">
+                    He had taken up the responsibility of Chief Secretary & Chief Development Commissioner from 01.3.2023 to 30.6.2024. Shri Jena has taken oath as the Chairperson, Odisha Electricity Regulatory Commission on 08th April, 2025.
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Prudhvitej Immadi -->
+<div class="row speaker_row">
+    <div class="k_list_part">
+        <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
+            <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
+                <img src="images/2026/speakers/PrudhvitejImmadi.jpg" alt="Prudhvitej Immadi" class="speaker-photo">
+            </div>
+            <div class="speaker_content" style="flex: 1;">
+                <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
+                    Prudhvitej Immadi,<br/>
+                    CMD<br/>
+                    AP Eastern Power Distribution Company Ltd
+                </h1>
+                <p style="text-align: justify; line-height: 1.6;">
+                    Prudhvitej Immadi is an Indian Administrative Service (IAS) officer of the 2018 batch from the Andhra Pradesh cadre. He currently serves as the Chairman and Managing Director of the Andhra Pradesh Eastern Power Distribution Company Limited (APEPDCL). Immadi has held several key positions in the state's power and energy sector. Before taking charge of APEPDCL in April 2023, he served as Joint Managing Director, APTRANSCO and Member-Convener of the Andhra Pradesh Power Coordination Committee, where he played a vital role in power procurement and sectoral coordination. He has also served as Deputy Secretary (Energy) and held Full Additional Charge (FAC) as Managing Director, AP Power Finance Corporation.
                 </p>
             </div>
         </div>
@@ -1084,6 +1279,27 @@ development, making him a valuable asset and a respected figure in his field.</p
 		</div>
 	</div>
 
+<!-- Sonia Sethi -->
+<div class="row speaker_row">
+    <div class="k_list_part">
+        <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
+            <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
+                <img src="images/2026/speakers/SoniaSethi.jpg" alt="Sonia Sethi" class="speaker-photo">
+            </div>
+            <div class="speaker_content" style="flex: 1;">
+                <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
+                    Sonia Sethi,<br/>
+                    ACS and General Manager<br/>
+                    BEST, Mumbai
+                </h1>
+                <p style="text-align: justify; line-height: 1.6;">
+                    Dr. Sonia Sethi, an IAS officer of the 1994 batch from the Maharashtra cadre, currently serves as the General Manager of the Brihanmumbai Electric Supply and Transport (BEST) undertaking in Mumbai. She holds an M.A. and M.B.A. from the University of Oxford and a Ph.D. from the University of Mumbai. With extensive experience in the infrastructure and public administration sectors, Dr. Sethi has previously served as District Collector of Sindhudurg and held senior leadership roles in CIDCO, MSRDC, MJP, and MMRDA. She made history as Maharashtra's first woman Transport Commissioner and has also served as Joint Secretary in the Ministry of Culture and the Ministry of Commerce, Government of India. Among her notable contributions are the commissioning of the Bandra-Worli Sea Link (2010) and the development of a 20 km metro corridor connecting Andheri, D.N. Nagar, and Dahisar under the Mumbai Metro network. As Additional Chief Secretary for Disaster Management, she led the modernization of the State Emergency Operation Center and established Maharashtra's first State Disaster Management Institute. Dr. Sethi's deep expertise in infrastructure planning, public policy, and project financing is expected to further enhance BEST's operational efficiency and productivity.
+                </p>
+            </div>
+        </div>
+    </div>
+</div>    
+
 <!-- Sandip Sinha -->
 <div class="row speaker_row">
     <div class="k_list_part">
@@ -1249,6 +1465,30 @@ Personnel of the Company.</p>
                     smart meter rollout for the states of UP and Haryana under the EESL Phase 1
                     project. Swapnadeep has over 17 years of industry experience with expertise
                     across Telecom OSS/BSS, Smart IoT solutions and AMI Solutions.
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Tripta Thakur -->
+<div class="row speaker_row">
+    <div class="k_list_part">
+        <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
+            <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
+                <img src="images/2026/speakers/TriptaThakur.jpg" alt="Tripta Thakur" class="speaker-photo">
+            </div>
+            <div class="speaker_content" style="flex: 1;">
+                <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
+                    Tripta Thakur,<br/>
+                    Director General<br/>
+                    National Power Training Institute (NPTI)
+                </h1>
+                <p style="text-align: justify; line-height: 1.6;">
+                    Tripta Thakur is Director General, National Power Training Institute (NPTI), apex body of Ministry of Power, Government of India for Training and Human Resources Development in the Power Sector. She took over the leadership of institute when it was under severe strain due to losses. However, in over 2 years she turned the institute into a profit making entity. Under her leadership, NPTI received the mandate for conducting cyber security certification programs for the power sector, foundation program for the newly recruited professionals of the Central power sector utilities and autonomous bodies of the power sector. NPTI also became an institutional partner for WePOWER, an initiative by the South Asia Gender and Energy Facility (SAGE) at the World Bank that supports women's participation in energy projects and institutions in the South Asian region. She is regional and country head for coordination of 110 mid-career power professionals of south Asia and chairperson of the Indian National chapter of WePOWER. Thus, NPTI has come to the forefront of training of power professionals on the frontiers of Advanced Metering Infrastructure (AMI), Supervisory Control and Data Acquisition (SCADA), Cyber Security of Power Grids.
+                </p>
+                <p style="text-align: justify; line-height: 1.6;">
+                    She was earlier Head and Professor, Electrical Engineering Department at the National Institute of Technology, MANIT-Bhopal, India. She is a graduate in Electrical Engineering with Master's degree in Power Electronics from IIT-Kanpur, and has a PhD from IIT-Delhi. She has been recipient of several awards such as Commonwealth Research Scholar at University of Dundee (2005-2008), UK, Commonwealth Academic fellow at Durham University Business School (2014), UK, COFUND Senior researcher at Durham University Business School (2016), Visiting Faculty at Asian Institute of Technology, Bangkok (2010), technical member for International Electrotechnical Commission (IEC), SEG4 Group, ISGF (MoP) working group member etc. She has teaching and research experience of 33 years, and has nearly 100 publications to her credit. She has also been a consultant for evolving a possible Common South Asian Electricity Markets. She has done various consultancies for Distribution companies in India. She is also a recipient of Women in Energy award by Indian Energy Storage Alliance in 2025, Shrimati Sushma Swaraj Stree Shakti Engineering Samman in 2024, Women Technology Innovation Award by Indian Smart Grid Forum and STEM Women Award by Madhya Pradesh Government in 2024. She is currently a Governing Council member of IISER Pune and IIIT Kota, committee member of Regional Energy group of CII, Founding member of the Indian National Science Academy Women Associates (IWA) and Member of the state advisory committee of Delhi Electricity Regulatory Commission.
                 </p>
             </div>
         </div>

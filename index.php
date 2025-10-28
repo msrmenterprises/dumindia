@@ -422,7 +422,7 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 				<li><a href="https://www.powerfoundation.org.in/" target="_blank"><img src="images/2026/PowerFoundationofIndia.jpeg" style="height:120px;">Power Foundation of India</a></li>
 				<li><a href="https://indiasmartgrid.org/" target="_blank"><img src="images/2026/ISGF.png" style="height:120px;">ISGF</a></li>
 				<li><a href="https://eppeltone.in/" target="_blank"><img src="images/2026/Eppeltone.jpg" style="height:120px;">Eppeltone Engineers Limited</a></li>
-				<li><a href="https://bentecindia.com/" target="_blank"><img src="images/2026/Bentec.png" style="border: 1px solid #aeb4b2; height: 120px;">Bentec</a></li>
+				<li><a href="https://bentecindia.com/" target="_blank"><img src="images/2026/Bentecv1.png" style="border: 1px solid #aeb4b2; height: 120px;">Bentec</a></li>
 				<li><a href="https://www.tauruspowertronics.com/" target="_blank"><img src="/images/Exhibitors/TAURUS LOGO.jpg" alt="Tauras Power Tronics">Tauras Power Tronics</a></li>
 
 				<h5><b>Gold Exhibitors</b></h5>
@@ -740,7 +740,7 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 			<li><a href="https://www.eaton.com/in/en-us.html" target="_blank"><img src="/images/2026/eaton.png" style="border: 1px solid #aeb4b2;">Eaton</a></li>
 			<li><a href="https://www.dnv.com/" target="_blank"><img src="/images/2026/DNV.png" style="border: 1px solid #aeb4b2;">DNV</a></li>
 			<li><a href="#" target="_blank"><img src="/images/2026/SMSystems.jpg" style="border: 1px solid #aeb4b2; height: 120px;">SM Systems</a></li>
-			<li><a href="https://bentecindia.com/" target="_blank"><img src="/images/2026/Bentec.png" style="border: 1px solid #aeb4b2; height: 120px;">Bentec</a></li>
+			<li><a href="https://bentecindia.com/" target="_blank"><img src="/images/2026/Bentecv1.png" style="border: 1px solid #aeb4b2; height: 120px;">Bentec</a></li>
 			<li><a href="https://www.securemeters.com/" target="_blank"><img src="/images/2026/Secure.jpg" style="border: 1px solid #aeb4b2; height: 120px;">Secure Meters</a></li>
 			<li><a href="https://www.powerxchange.io/" target="_blank"><img src="/images/2026/PowerExchange.jpeg" style="border: 1px solid #aeb4b2;">PowerXchange</a></li>
 			<li><a href="https://genuspower.com/" target="_blank"><img src="/images/2026/Genus.png" style="border: 1px solid #aeb4b2;">Genus Power Infrastructures Limited</a></li>

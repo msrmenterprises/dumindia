@@ -236,7 +236,7 @@ box-shadow: 0 1px 6px rgba(0, 0, 0, 0.06);
 			<li><a href="https://www.thesaicomputers.com/" target="_blank"><img src="/images/SaiComputers.png" style="border: 1px solid #aeb4b2; height: 120px;">Sai Computers </a></li>
 			<li><a href="https://aewinfra.com/" target="_blank"><img src="images/2024/allied.png" style="border: 1px solid #aeb4b2; height: 120px;">Allied Engineerings</a></li>
 			<li><a href="https://www.securemeters.com/" target="_blank"><img src="images/2024/secure.png" style="border: 1px solid #aeb4b2; height: 120px;">Secure Meters</a></li>
-			<li><a href="https://bentecindia.com/" target="_blank"><img src="images/2024/bentec.png" style="border: 1px solid #aeb4b2; height: 120px;">Bentec</a></li>
+			<li><a href="https://bentecindia.com/" target="_blank"><img src="images/2026/Bentecv1.png" style="border: 1px solid #aeb4b2; height: 120px;">Bentec</a></li>
 			<li><a href="https://www.compaqinternational.com/" target="_blank"><img src="/images/Compaq.jpg" style="border: 1px solid #aeb4b2; height:123px;">Compaq International</a></li>
 			<li><a href="https://www.tauruspowertronics.com/" target="_blank"><img src="/images/Exhibitors/TAURUS LOGO.jpg" alt="Tauras Power Tronics">Tauras Power Tronics</a></li>			
 			<li><a href="https://www.powerxchange.io/" target="_blank"><img src="/images/2024/powrChange.jpeg" alt="Tauras Power Tronics">Power Xchange</a></li>

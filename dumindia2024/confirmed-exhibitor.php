@@ -43,7 +43,7 @@
 			<li><a href="https://www.thesaicomputers.com/" target="_blank"><img src="/images/SaiComputers.png" style="border: 1px solid #aeb4b2; height: 120px;">Sai Computers </a></li>
 			<li><a href="https://aewinfra.com/" target="_blank"><img src="images/2024/allied.png" style="border: 1px solid #aeb4b2; height: 120px;">Allied Engineerings</a></li>
 			<li><a href="https://www.securemeters.com/" target="_blank"><img src="images/2024/secure.png" style="border: 1px solid #aeb4b2; height: 120px;">Secure Meters</a></li>
-			<li><a href="https://bentecindia.com/" target="_blank"><img src="images/2024/bentec.png" style="border: 1px solid #aeb4b2; height: 120px;">Bentec</a></li>
+			<li><a href="https://bentecindia.com/" target="_blank"><img src="images/2026/Bentecv1.png" style="border: 1px solid #aeb4b2; height: 120px;">Bentec</a></li>
 			<li><a href="https://www.compaqinternational.com/" target="_blank"><img src="/images/Compaq.jpg" style="border: 1px solid #aeb4b2; height:123px;">Compaq International</a></li>
 			<li><a href="https://www.tauruspowertronics.com/" target="_blank"><img src="/images/Exhibitors/TAURUS LOGO.jpg" alt="Tauras Power Tronics">Tauras Power Tronics</a></li>
 			<!--<li><a href="https://blockcube.co/" target="_blank"><img src="/images/2024/block.png" alt="Tauras Power Tronics">Block Cube</a></li> -->

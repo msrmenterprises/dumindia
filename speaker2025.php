@@ -779,8 +779,16 @@ driving impactful change and has a keen interest in luxury automobiles.  </p>
                     Radius
                 </h1>
                 <p style="text-align: justify; line-height: 1.6;">
-                    Kaustuv Mohapatra is a seasoned professional with over 15 years of experience in the power sector, spanning policy, regulatory, market, and technical domains. His expertise encompasses Electric Vehicle Charging Infrastructure, Power Generation, and Distribution, with a strong focus on advancing sustainable and technology-driven energy solutions. In his current role as Vice President at Radius, Kaustuv leads initiatives that bridge emerging technologies with business growth opportunities in the evolving power ecosystem. He is also actively involved in Business Development for JioThings, driving the scale-up of IoT-based Smart Metering Solutions across utilities and enterprises. Kaustuv holds a Master of Business Administration (MBA) in Energy Management from the Management Development Institute (MDI), Gurgaon, a Master of Science (MSc) in Electrical Power Systems, and a Bachelor of Technology (B.Tech) in Applied Electronics & Instrumentation Engineering.
+                    Kaustuv Mohapatra is a Seasoned Power industry professional with over 18 years of experience spanning policy, regulatory, market, and technical domains across Smart Electricity Metering, Electric Vehicle (EV) Charging Infrastructure, Power Generation, Transmission and Distribution. Currently leading AMISP/Smart Metering Business at Radius Synergies International Pvt Ltd, driving the scale-up of IoT-based Smart Metering Solutions.
                 </p>
+                <p style="text-align: justify; line-height: 1.6;">
+                    Holds an MBA from the Management Development Institute (MDI), Gurgaon, an M.S in Electrical Power Systems from University of Greenwich (U.K), and a B.Tech. in Applied Electronics & Instrumentation Engineering.
+                </p>
+
+                <p style="text-align: justify; line-height: 1.6;">
+                    Previous experience includes key roles with JioThings (IoT arm of  Reliance Jio), PwC, EY, and Vedanta, contributing to strategic initiatives in smart grids, metering, and power sector transformation.
+                </p>
+
             </div>
         </div>
     </div>

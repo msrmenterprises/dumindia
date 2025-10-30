@@ -97,6 +97,9 @@ box-shadow: 0 1px 6px rgba(0, 0, 0, 0.06);
 				<li><a href="https://madhavengineers.com/" target="_blank"><img src="/images/2026/MADHAVLOGO_002.jpg" style="border: 1px solid #aeb4b2; height: 120px;" alt="Madhav Engineers Pvt. Ltd.">Madhav Engineers Pvt. Ltd.</a></li>
 				<li><a href="https://www.successengineers.co.in/" target="_blank"><img src="/images/2026/SuccessEngineer.jpeg" style="border: 1px solid #aeb4b2; height: 120px;" alt="Success Engineers">Success Engineers</a></li>
 			</ul>
+			<ul class="k_confirmed_als">
+			<li><a href="https://www.hplindia.com/" target="_blank"><img src="/images/HPL Electric & Power Limited Logo.png" style="border: 1px solid #aeb4b2; height:123px;">HPL Electric & Power Limited </a></li>
+			</ul>
 			</div>		
 
 
@@ -139,7 +142,7 @@ box-shadow: 0 1px 6px rgba(0, 0, 0, 0.06);
 			<li><a href="https://radius.co.in/" target="_blank"><img src="/images/2024/radius.png" style="border: 1px solid #aeb4b2; height:100px;">Radius Synergies International Private Limited</a></li>
 			<li><a href="https://www.intellismartinfra.in/" target="_blank"><img src="/images/2024/intelli_padded.png" style="border: 1px solid #aeb4b2;">IntelliSmart</a></li>
 			<li><a href="https://www.eaton.com/in/en-us.html" target="_blank"><img src="/images/2024/eaton.png" style="border: 1px solid #aeb4b2;">Eaton </a></li>
-			<li><a href="https://www.hplindia.com/" target="_blank"><img src="/images/HPL Electric & Power Limited Logo.png" style="border: 1px solid #aeb4b2; height:123px;">HPL Electric & Power Limited </a></li>
+			
 		 
 		<!--<li><a href="https://www.wirepas.com/" target="_blank"><img src="/images/WIREPASS.png" style="border: 1px solid #aeb4b2; height:100px;">Wirepas</a></li>
 		<li><a href="https://www.visiontek.co.in/contact.html" target="_blank"><img src="/images/VISIONTEK.jpg" style="border: 1px solid #aeb4b2; height:100px;">Linkwell Telesystems Pvt Ltd</a></li>

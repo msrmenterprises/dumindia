@@ -70,7 +70,8 @@ box-shadow: 0 1px 6px rgba(0, 0, 0, 0.06);
 				<li><a href="https://kimbal.io/" target="_blank"><img src="/images/Kimbal.jpg" style="border: 1px solid #aeb4b2; height: 120px;">Kimbal </a></li>
 				<li><a href="https://genuspower.com/" target="_blank"><img src="http://dumindia.in/images/Exhibitors/2019/genus.png">GENUS Power Infrastructures Limited</a></li>
 				<li><a href="https://www.enspar.com/" target="_blank"><img src="images/2026/Enspar.jpeg">Enspar Energy Solutions Pvt. Ltd.</a></li>
-				
+				<li><a href="https://madhavengineers.com/" target="_blank"><img src="/images/2026/MADHAVLOGO_002.jpg" style="border: 1px solid #aeb4b2; height: 120px;" alt="Madhav Engineers Pvt. Ltd.">Madhav Engineers Pvt. Ltd.</a></li>
+				<li><a href="https://www.successengineers.co.in/" target="_blank"><img src="/images/2026/SuccessEngineer.jpeg" style="border: 1px solid #aeb4b2; height: 120px;" alt="Success Engineers">Success Engineers</a></li>
 				
 				<!-- <li><a href="https://www.megger.com/en" target="_blank"><img src="/images/2025/Megger.jpeg" style="border: 1px solid #aeb4b2;">Megger India Pvt Ltd</a></li> -->
 				
@@ -102,8 +103,7 @@ box-shadow: 0 1px 6px rgba(0, 0, 0, 0.06);
 				
 			</ul>
 			<ul class="k_confirmed_als">
-				<li><a href="https://madhavengineers.com/" target="_blank"><img src="/images/2026/MADHAVLOGO_002.jpg" style="border: 1px solid #aeb4b2; height: 120px;" alt="Madhav Engineers Pvt. Ltd.">Madhav Engineers Pvt. Ltd.</a></li>
-				<li><a href="https://www.successengineers.co.in/" target="_blank"><img src="/images/2026/SuccessEngineer.jpeg" style="border: 1px solid #aeb4b2; height: 120px;" alt="Success Engineers">Success Engineers</a></li>
+				
 				<li><a href="https://www.hplindia.com/" target="_blank"><img src="/images/HPL Electric & Power Limited Logo.png" style="border: 1px solid #aeb4b2; height:123px;">HPL Electric & Power Limited </a></li>	
 			</ul>
 				<!-- <li><a href="https://www.hplindia.com/" target="_blank"><img src="/images/HPL Electric & Power Limited Logo.png" style="border: 1px solid #aeb4b2; height:123px;">HPL Electric & Power Limited </a></li> -->

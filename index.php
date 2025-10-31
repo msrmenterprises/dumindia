@@ -489,6 +489,16 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 		<li><a href="https://www.tpsouthernodisha.com/" target="_blank"><img src="images/2026/TPSODL.png" style="height:155px;">TP Southern Odisha Distribution Limited</a></li>
 		<li><a href="https://www.tpwesternodisha.com/" target="_blank"><img src="images/2026/TPWODL.png" style="height:155px;">TP Western Odisha Distribution Limited</a></li>
 		<li><a href="https://cescrajasthan.co.in/open.php" target="_blank"><img src="images/2024/cesc_rajasthan.png" style="height:155px;">CESC Rajasthan</a></li>
+		
+		<li><a href="https://puvvnl.in/en" target="_blank"><img src="images/utilities2019/5. PUVVNL Logo.jpeg" style="height:155px;">Purvanchal Vidyut Vitaran Nigam Limited</a></li>
+		<li><a href="https://www.dvvnl.org/" target="_blank"><img src="images/utilities2019/2. DVVNL logo.png" style="height:155px;">Dakshinanchal Vidyut Vitran Nigam Limited</a></li>
+		<li><a href="https://tgnpdcl.com/" target="_blank"><img src="images/utilities2019/download (1).png" style="height:155px;">Northern Power Distribution Company of Telangana Limited</a></li>
+		<li><a href="https://chandigarhpower.com/" target="_blank"><img src="images/2026/ChandigarhPower.png" style="height:155px;">Chandigarh Power Distribution Limited</a></li>
+		<li><a href="https://www.guvnl.com/" target="_blank"><img src="images/utilities2019/gujrat.jpg" style="height:155px;">Gujarat Urja Vikas Nigam Limited</a></li>
+		<li><a href="https://www.goaelectricity.gov.in/" target="_blank"><img src="images/Goa Electricity Department Logo.png" style="height:155px;">Government of Goa, Electricity Department</a></li>
+		<li><a href="https://www.bestundertaking.com/" target="_blank"><img src="images/2026/BEST.jpg" style="height:155px;">Brihanmumbai Electricity Supply and Transport Undertaking (BEST)</a></li>
+		<li><a href="https://www.mpez.co.in/" target="_blank"><img src="images/2026/MadhyaPradesh.png" style="height:155px;">Madhya Pradesh Poorv Kshetra Vidyut Vitaran Company Limited</a></li>
+		<li><a href="https://www.mpwz.co.in/" target="_blank"><img src="images/utilities2019/4. MPPKVVCL.png" style="height:155px;">Madhya Pradesh Paschim Kshetra Vidyut Vitaran Co. Ltd. (MPPKVVCL)</a></li>
 		</ul>
 
 	<div class="k_cheading k_white_haeding">

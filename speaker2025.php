@@ -94,7 +94,39 @@
 		<img src="images/kborder_bottom.png" alt="">
 	</div>
 
-<!-- Aakash Saxena -->
+
+    <!-- Abha Shukla -->
+        <div class="row speaker_row">
+            <div class="k_list_part">
+                <div class="col-sm-12 dum_speaker">
+                    <div class="speaker_img">
+                        <img src="images/2026/speakers/AbhaShukla.png" alt="Abha Shukla" class="speaker-photo">
+                    </div>
+                    <div class="speaker_content">
+                        <h1 class="key_head">
+                            Abha Shukla,<br/>
+                            ACS -- Energy<br/>
+                            Government of Maharashtra
+                        </h1>
+                        <p>
+                            Abha Shukla (IAS) joined the Indian Administrative Service in 1993. Since November 2022, she is heading the energy department in, Government of Maharashtra.
+                        </p>
+                        <p>
+                            Her previous assignment was as Principal Secretary in Co-operation, Information Technology, Finance Department. She has worked in various Ministries in the State and Central Governments including Information & Broadcasting, Road Transport & Highways, Power Bureau of Energy Efficiency and Civil Aviation.
+                        </p>
+                        <p>
+                            She has also served on various key positions 'Addl. Commissioner' in Tribal Development Department, Director Textile Department etc. She worked as CEO at Z.P. Gondia and Bhandara, She has completed her post-graduate studies in Geography.
+                        </p>
+                        <p>
+                            She has also attended several mid-career programmes. Apart from short term courses at Indian Institute of Management she also participated at in Climate Change and State Preparedness- Impacts, Vulnerability and Adaptation programme of The Energy and Resources Institute (TERI).
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+    <!-- Aakash Saxena -->
 <div class="row speaker_row">
     <div class="k_list_part">
         <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
@@ -466,6 +498,36 @@ that lie ahead.
     </div>
 </div>
 
+<!-- Ashok Kumar Thanikonda -->
+        <div class="row speaker_row">
+            <div class="k_list_part">
+                <div class="col-sm-12 dum_speaker">
+                    <div class="speaker_img">
+                        <img src="images/2026/speakers/AshokKumarThanikonda.jpg" alt="Ashok Kumar Thanikonda" class="speaker-photo">
+                    </div>
+                    <div class="speaker_content">
+                        <h1 class="key_head">
+                            Ashok Kumar Thanikonda,<br/>
+                            Sr. Program Officer<br/>
+                            Global Green Growth Institute (GGI)
+                        </h1>
+                        <p>
+                            Ashok Kumar Thanikonda is a Senior Program Officer at the Global Green Growth Institute (GGGI), where he oversees the Asia Low Carbon Buildings Transition project and leads sustainable finance work in India.
+                        </p>
+                        <p>
+                            Over the past 14 years, he has worked extensively at the intersection of clean energy, electric mobility, and the circular economy. Before joining GGGI, he managed Intellecap's Circular Apparel Innovation Factory to advance climate-resilient, circular value chains in the global South.
+                        </p>
+                        <p>
+                            Earlier, he spent nearly a decade at the World Resources Institute's Green Power Market Development Group, helping scale up renewables through transaction support, demand aggregation, policy advocacy, and innovative business models.
+                        </p>
+                        <p>
+                            He holds an M.Sc. in Natural Resources Management from TERI University and a B.Sc. in Microbiology, Genetics, and Chemistry from Osmania University.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
 <!-- Ashutosh Goel -->
 <div class="row speaker_row">
     <div class="k_list_part">
@@ -580,6 +642,45 @@ Development and Reforms Programme (RAPDRP) in India.
     </div>
 </div>
 
+<!-- Chintamani Chitnis -->
+        <div class="row speaker_row">
+            <div class="k_list_part">
+                <div class="col-sm-12 dum_speaker">
+                    <div class="speaker_img">
+                        <img src="images/2026/speakers/ChintamaniChitnis.jpg" alt="Chintamani Chitnis" class="speaker-photo">
+                    </div>
+                    <div class="speaker_content">
+                        <h1 class="key_head">
+                            Chintamani Chitnis<br/>
+                            Chief --Distribution Services (Mumbai Operations)<br/>
+                            Tata Power Company Ltd
+                        </h1>
+                        <p>
+                            Chintamani Chitnis is presently Chief --Distribution Services (Mumbai Operations) Tata Power Company Ltd, Mumbai.
+                        </p>
+                        <p>
+                            A Core Power Sector professional in Transmission and Distribution with over 30 years of varied experience with State, Private and PPP Utilities, having worked at Tata Power Company Mumbai, North Delhi Power Ltd (now TPDDL), TPCODL and State Distribution Utilities.
+                        </p>
+                        <p>
+                            He has presented & published more than 30 Technical papers in various National and International Forums like CPRI, CIGRE, CIRED, ISGF, IEEE, Doble, CBIP, BIS and IIPE.
+                        </p>
+                        <p>
+                            Has been a member of working groups of Bureau of Indian Standards (BIS) including Transformers and Insulating Fluids, member of committees on revision of CEA Safety Regulations and CEA Technical Standards of Construction.
+                        </p>
+                        <p>
+                            He has been founding member of TPCODL and was instrumental in establishing first of its kind Centralized Power System Control Centre in India for state of Odisha at Bhubaneswar.
+                        </p>
+                        <p>
+                            Areas of work include Operations & Maintenance, Network Planning, Design and Engineering, Geographical Information System (GIS), Distribution Automation (DA), Distribution Management System (DMS), Power System Control, Digitalization, Power Quality Monitoring & Assessment, Regulatory Interface, Grid & Distribution Operations, Power Management, Underground Cable network management, Safety and Construction Standards, Key Consumer Management etc.
+                        </p>
+                        <p>
+                            He is a Research Scholar at IIM Sambalpur and University of Bordeaux France, holds a Masters in Power Sector Regulations, Economics and Management from Indian Institute of Technology, Kanpur (IITK), a Post Graduate Diploma in Operations Management and Engineering Degree.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
 <!-- Deepti Sharma -->
 <div class="row speaker_row">
     <div class="k_list_part">
@@ -600,6 +701,30 @@ Development and Reforms Programme (RAPDRP) in India.
         </div>
     </div>
 </div>
+
+<!-- Dhananjay R Aundhekar -->
+        <div class="row speaker_row">
+            <div class="k_list_part">
+                <div class="col-sm-12 dum_speaker">
+                    <div class="speaker_img">
+                        <img src="images/2026/speakers/DhananjayAundhekar.jpg" alt="Dhananjay R Aundhekar" class="speaker-photo">
+                    </div>
+                    <div class="speaker_content">
+                        <h1 class="key_head">
+                            Dhananjay R Aundhekar,<br/>
+                            Executive Director<br/>
+                            Maharashtra State Electricity Distribution Company Limited
+                        </h1>
+                        <p>
+                            Dhananjay R. Aundhekar is an accomplished professional with over 25 years of experience in the electricity and power distribution sector. He currently serves as the Executive Director-III (Infra) at Maharashtra State Electricity Distribution Company Limited (MSEDCL), one of the largest power distribution companies in India, responsible for supplying electricity to the state of Maharashtra.
+                        </p>
+                        <p>
+                            Dhananjay holds a Bachelor's degree in Electrical Engineering (BE) and he pursued a Master's degree in Business Administration (MBA) with a specialization in Finance.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
 
 <!-- Dwijadas Basak -->
 <div class="row speaker_row">
@@ -670,6 +795,30 @@ through his commitment to excellence.  </p>
         </div>
     </div>
 </div>
+
+<!-- Gaurav Sharma -->
+        <div class="row speaker_row">
+            <div class="k_list_part">
+                <div class="col-sm-12 dum_speaker">
+                    <div class="speaker_img">
+                        <img src="images/2026/speakers/GauravSharma.jpg" alt="Gaurav Sharma" class="speaker-photo">
+                    </div>
+                    <div class="speaker_content">
+                        <h1 class="key_head">
+                            Gaurav Sharma<br/>
+                            General Manager<br/>
+                            Noida Power Company Limited
+                        </h1>
+                        <p>
+                            Gaurav leads the Planning and Engineering functions at Noida Power Company Limited. He drives network augmentation, grid modernization and digital transformation initiatives to enhance network reliability, operational efficiency, safety and customer experience.
+                        </p>
+                        <p>
+                            Previously, he led Planning and Engineering at BSES Delhi delivering significant improvement in network performance. An Electrical Engineer with over 22 years of experience, he specializes in strategic planning, system design, project management, protection, metering, commissioning, and operations across power transmission and distribution networks.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
 
 <!-- Gurpreet Oberoi -->
 	<div class="row speaker_row">
@@ -947,6 +1096,90 @@ for the company.
     </div>
 </div>
 
+<!-- Pradeep Aggarwal -->
+        <div class="row speaker_row">
+            <div class="k_list_part">
+                <div class="col-sm-12 dum_speaker">
+                    <div class="speaker_img">
+                        <img src="images/2026/speakers/PradeepAggarwal.jpg" alt="Pradeep Aggarwal" class="speaker-photo">
+                    </div>
+                    <div class="speaker_content">
+                        <h1 class="key_head">
+                            Pradeep Aggarwal,<br/>
+                            General Manager - EV cell and Open Access<br/>
+                            BSES Rajdhani Power Limited
+                        </h1>
+                        <p>
+                            Pradeep has been associated with the Reliance ADAG group from last more than 20 years and worked with different verticals starting from Power Trading, Business Development, Regulatory & Commercial and Distribution business across both locations at Delhi and Mumbai.
+                        </p>
+                        <p>
+                            In his present role he is working with BSES Rajdhani Power Limited and leading E-Mobility & Open Access Team.
+                        </p>
+                        <p>
+                            Pradeep is an engineer with B.Tech in Power (Electrical) from National Power Training Institute and PGDM from IIM, Lucknow.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+<!-- Pareekshit Bharadwaj -->
+        <div class="row speaker_row">
+            <div class="k_list_part">
+                <div class="col-sm-12 dum_speaker">
+                    <div class="speaker_img">
+                        <img src="images/2026/speakers/PareekshitBharadwaj.png" alt="Pareekshit Bharadwaj" class="speaker-photo">
+                    </div>
+                    <div class="speaker_content">
+                        <h1 class="key_head">
+                            Pareekshit Bharadwaj,<br/>
+                            Chief (Network & Operation), Sr. Vice President<br/>
+                            BSES Yamuna Power Limited
+                        </h1>
+                        <p>
+                            Mr. Pareekshit Baradwaj has been working with BYPL for around 21 years. Prior to this, he served in a State-Owned Discom for 20 years. With an extensive overall experience of 41 years in the Power Distribution domain, he has handled diverse portfolios including O&M, EHV, P&E, Business, and Enforcement, and is presently serving as Chief of Network & Operation.
+                        </p>
+                        <p>
+                            Under his able leadership, BYPL has successfully achieved several milestones such as excellence in O&M parameters and adherence to regulatory timelines, achieving AT&C loss of 6.02% with an overall reduction of 90%, and implementation of innovative projects like E-House, 66 kV Hybrid Installation, Micro Substation, Distribution Automation, and GIS Grids.
+                        </p>
+                        <p>
+                            He has also driven automation initiatives in O&M, including the adoption of state-of-the-art SCADA systems, and under his guidance, the company has won numerous awards in Quality and Safety.
+                        </p>
+                        <p>
+                            Under his visionary leadership, the power distribution network has become more efficient, reliable, and resilient. His commitment to innovation and safety has ensured consistent energy supply, empowering communities and driving progress. His ability to inspire teams and navigate complex challenges has transformed power delivery. Beyond operational excellence, his inclusive leadership fosters collaboration, empowers teams, and drives innovation, setting a benchmark for excellence in the energy sector.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Pankaj Kumar -->
+        <div class="row speaker_row">
+            <div class="k_list_part">
+                <div class="col-sm-12 dum_speaker">
+                    <div class="speaker_img">
+                        <img src="images/2026/speakers/PankajKumar.png" alt="Pankaj Kumar" class="speaker-photo">
+                    </div>
+                    <div class="speaker_content">
+                        <h1 class="key_head">
+                            Pankaj Kumar,<br/>
+                            Managing Director<br/>
+                            Uttar Pradesh Power Corporation Limited
+                        </h1>
+                        <p>
+                            Shri Pankaj Kumar is the Managing Director of Uttar Pradesh Power Corporation Limited (UPPCL). He is an Indian Administrative Service (IAS) officer of 2002 batch. Pankaj Kumar holds a Bachelor's degree in Philosophy.
+                        </p>
+                        <p>
+                            With a career spanning over two decades, Shri Kumar has held various positions in the Indian power sector, including leadership roles in generation, transmission, and distribution companies. His expertise lies in strategic planning, operational improvement, and team management.
+                        </p>
+                        <p>
+                            Under his leadership, Uttar Pradesh Power Corporation Limited aims to enhance power supply, reduce transmission losses, and promote renewable energy initiatives. His leadership role at UPPCL includes overseeing the operational and administrative functions of the organization, which is crucial for managing the electricity supply and services in Uttar Pradesh.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>       
+
 <!-- Praveer Sinha -->
 <div class="row speaker_row">
     <div class="k_list_part">
@@ -1024,6 +1257,35 @@ for the company.
 </div>
 
 
+<!-- Ramkrishna Singh -->
+        <div class="row speaker_row">
+            <div class="k_list_part">
+                <div class="col-sm-12 dum_speaker">
+                    <div class="speaker_img">
+                        <img src="images/2026/speakers/ramkrishnaSingh.jpg" alt="Ramkrishna Singh" class="speaker-photo">
+                    </div>
+                    <div class="speaker_content">
+                        <h1 class="key_head">
+                            Ramkrishna Singh,<br/>
+                            Head-Business Operations - EV Charging<br/>
+                            The Tata Power Company Limited
+                        </h1>
+                        <p>
+                            Mr Ramkrishna Singh is a veteran Power Sector professional and Change Management expert having three decades of extensive experience with India's largest private power distribution utilities in the field of Commercial, Operation, Engineering & Procurement, Project Management Consultancy & Implementation and Electric Vehicle charging infrastructure development etc.
+                        </p>
+                        <p>
+                            Presently He is building & expanding EV Charging business for Tata Power as a Head -- Business Operations- EV Charging and is responsible for Strategy formulation, Concept to Commissioning and Operations of EV Charging Infrastructure for Home, Public, Fleet and Bus segment along with digital platform across India.
+                        </p>
+                        <p>
+                            He has played key role in turning around and change management of Delhi's Power Distribution business at BRPL/BYPL and TATA Power-DDL. He has also been actively involved with BIS and CEA for formulations and amendments of Electronic Meter standards and regulations, Smart Meters /AMI standards and regulations, Meter Protocol standardisation, formulation of renewable/solar energy policy for Delhi, Punjab and Goa.
+                        </p>
+                        <p>
+                            Mr Singh is an Electrical Engineering graduate and Management postgraduate from NMIMS, Mumbai. He is a fellow member of Institution of Engineers (India) and a certified Energy Auditor from BEE.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
 
 <!-- Rahul Kumar -->
 <div class="row speaker_row">
@@ -1045,6 +1307,39 @@ for the company.
         </div>
     </div>
 </div>
+
+<!-- Rahul Tongia -->
+        <div class="row speaker_row">
+            <div class="k_list_part">
+                <div class="col-sm-12 dum_speaker">
+                    <div class="speaker_img">
+                        <img src="images/2026/speakers/RahulTongia.png" alt="Rahul Tongia" class="speaker-photo">
+                    </div>
+                    <div class="speaker_content">
+                        <h1 class="key_head">
+                            Rahul Tongia,<br/>
+                            Senior Fellow<br/>
+                            CSEP and Founding Advisor, ISGF
+                        </h1>
+                        <p>
+                            Dr. Rahul Tongia is a Senior Fellow with the Centre for Social and Economic Progress (CSEP), a leading not-for-profit Think Tank in New Delhi, where his work focuses on technology and policy, especially for sustainable development. He co-leads the Energy, Natural Resources, and Sustainability group at CSEP, and is also active in broader issues of technology.
+                        </p>
+                        <p>
+                            Tongia's work spans the entire gamut of energy and electricity, with focuses on supply options including renewable energy (covering finance, grid integration, etc.); smart grids, which use innovative information and communications technology to improve management of the electric utility grid; issues of access and quality; and broader issues of reforms and regulations, including electricity and energy pricing.
+                        </p>
+                        <p>
+                            Another thread of his work focuses on climate equity and the energy transition. His book Future of Coal in India: Smooth Transition or Bumpy Road Ahead (2020) was awarded a Top Energy Policy Book to read in 2021 by BookAuthority.
+                        </p>
+                        <p>
+                            He was a pioneer for establishing the Smart Grid space in India and was Technical Advisor of the Government of India's Smart Grid Task Force, and he remains Founding Advisor of the India Smart Grid Forum (ISGF). He was also on the Technology Advisory Board 2005-2008 for Southern California Edison's award-winning smart grid rollout. He is also a Fellow of the Indian National Academy of Engineering.
+                        </p>
+                        <p>
+                            Rahul Tongia is a non-resident Senior Fellow at the Brookings Institution and also Adjunct Professor at Carnegie Mellon University, having originally joined the faculty at CMU in 1998. Previous roles include Vice-Chair of the UN ICT Task Force Working Group on Low-cost connectivity-access/enabling environment and Member of the World Economic Forum's Global Futures Council on Advanced Energy Technology.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
 
 <!-- Ravi Jagannathan -->
 <div class="row speaker_row">
@@ -1288,6 +1583,67 @@ development, making him a valuable asset and a respected figure in his field.</p
 			</div>
 		</div>
 	</div>
+
+
+    <!-- Saurav Shah -->
+        <div class="row speaker_row">
+            <div class="k_list_part">
+                <div class="col-sm-12 dum_speaker">
+                    <div class="speaker_img">
+                        <img src="images/2026/speakers/sauravshah.png" alt="Saurav Shah" class="speaker-photo">
+                    </div>
+                    <div class="speaker_content">
+                        <h1 class="key_head">
+                            Saurav Shah,<br/>
+                            Executive Director<br/>
+                            Power Finance Corporation
+                        </h1>
+                        <p>
+                            Mr. Saurav Shah is 2009 batch IPS officer of the Bihar cadre, he is spear heading the Revamped Distribution Sector Scheme (RDSS). RDSS is Government of India's priority program in the power distribution sector having an out lay of Rs.3000 billion and is aimed at transformation of the sector.
+                        </p>
+                        <p>
+                            He was also instrumental in successful completion and closure of Integrated Power Development Scheme (IPDS) & the erst while Restructured Accelerated Power Distribution and Reforms Programme (R-APDRP) worth Rs600 million.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Sujith Nair -->
+        <div class="row speaker_row">
+            <div class="k_list_part">
+                <div class="col-sm-12 dum_speaker">
+                    <div class="speaker_img">
+                        <img src="images/2026/speakers/sujith.jpg" alt="Sujith Nair" class="speaker-photo">
+                    </div>
+                    <div class="speaker_content">
+                        <h1 class="key_head">
+                            Sujith Nair,<br/>
+                            CEO and Co-Founder<br/>
+                            Foundation for Interoperability in Digital Economy (FIDE)
+                        </h1>
+                        <p>
+                            Sujith Nair is the CEO and Co-founder of FIDE -- Foundation for Interoperability in Digital Economy. This not-for-profit organisation is the genesis author and angel donor to an open-source initiative called the Beckn Protocol. Beckn enables the creation of decentralised digital economy ecosystems.
+                        </p>
+                        <p>
+                            Co-founded along with Nandan Nilekani and Dr Pramod Varma, FIDE has been helping Beckn Protocol evolve as an independent and large-scale open-source community effort focusing on its adoption and sustenance as a digital public good.
+                        </p>
+                        <p>
+                            Sujith conceptualised and helped set up the world's first decentralised open mobility network using the Beckn Protocol in Kochi called the Kochi Open Mobility Network (KOMN), which was launched in July 2021.
+                        </p>
+                        <p>
+                            Sujith co-conceptualised the idea of ONDC and onboarded the first set of market participants on ONDC, co-authored the ONDC Strategy Paper and was instrumental in the setup of ONDC Ltd in Dec 2021.
+                        </p>
+                        <p>
+                            Sujith continues volunteering for KOMN, ONDC and other open network initiatives and is a global advocate for interoperable and decentralised digital ecosystems.
+                        </p>
+                        <p>
+                            Before FIDE, Sujith headed Management Consulting practices and Internet businesses in urban mobility and digital payments. Sujith has contributed to many key interventions in the Aadhaar program between 2010-2012. Sujith also designed India's national transit open payments interoperability (One Nation, One Card) in 2014 to integrate ticketing and payments across public transport systems in the country.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
 
 <!-- Sonia Sethi -->
 <div class="row speaker_row">

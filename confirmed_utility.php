@@ -46,14 +46,16 @@
 	<li><a href="https://tgsouthernpower.org/" target="_blank"><img src="images/utilities2019/download (7).jpg" style="height:155px;">Southern Power Distribution Company of Telangana Limited (TGSPDCL)</a></li>
 
 	<li><a href="https://puvvnl.in/en" target="_blank"><img src="images/utilities2019/5. PUVVNL Logo.jpeg" style="height:155px;">Purvanchal Vidyut Vitaran Nigam Limited</a></li>
-		<li><a href="https://www.dvvnl.org/" target="_blank"><img src="images/utilities2019/2. DVVNL logo.png" style="height:155px;">Dakshinanchal Vidyut Vitran Nigam Limited</a></li>
-		<li><a href="https://tgnpdcl.com/" target="_blank"><img src="images/utilities2019/download (1).png" style="height:155px;">Northern Power Distribution Company of Telangana Limited</a></li>
-		<li><a href="https://chandigarhpower.com/" target="_blank"><img src="images/2026/ChandigarhPower.png" style="height:155px;">Chandigarh Power Distribution Limited</a></li>
-		<li><a href="https://www.guvnl.com/" target="_blank"><img src="images/utilities2019/gujrat.jpg" style="height:155px;">Gujarat Urja Vikas Nigam Limited</a></li>
-		<li><a href="https://www.goaelectricity.gov.in/" target="_blank"><img src="images/Goa Electricity Department Logo.png" style="height:155px;">Government of Goa, Electricity Department</a></li>
-		<li><a href="https://www.bestundertaking.com/" target="_blank"><img src="images/2026/BEST.jpg" style="height:155px;">Brihanmumbai Electricity Supply and Transport Undertaking (BEST)</a></li>
-		<li><a href="https://www.mpez.co.in/" target="_blank"><img src="images/2026/MadhyaPradesh.png" style="height:155px;">Madhya Pradesh Poorv Kshetra Vidyut Vitaran Company Limited</a></li>
-		<li><a href="https://www.mpwz.co.in/" target="_blank"><img src="images/utilities2019/4. MPPKVVCL.png" style="height:155px;">Madhya Pradesh Paschim Kshetra Vidyut Vitaran Co. Ltd. (MPPKVVCL)</a></li>
+	<li><a href="https://www.dvvnl.org/" target="_blank"><img src="images/utilities2019/2. DVVNL logo.png" style="height:155px;">Dakshinanchal Vidyut Vitran Nigam Limited</a></li>
+	<li><a href="https://tgnpdcl.com/" target="_blank"><img src="images/utilities2019/download (1).png" style="height:155px;">Northern Power Distribution Company of Telangana Limited</a></li>
+	<li><a href="https://chandigarhpower.com/" target="_blank"><img src="images/2026/ChandigarhPower.png" style="height:155px;">Chandigarh Power Distribution Limited</a></li>
+	<li><a href="https://www.guvnl.com/" target="_blank"><img src="images/utilities2019/gujrat.jpg" style="height:155px;">Gujarat Urja Vikas Nigam Limited</a></li>
+	<li><a href="https://www.goaelectricity.gov.in/" target="_blank"><img src="images/Goa Electricity Department Logo.png" style="height:155px;">Government of Goa, Electricity Department</a></li>
+	<li><a href="https://www.bestundertaking.com/" target="_blank"><img src="images/2026/BEST.jpg" style="height:155px;">Brihanmumbai Electricity Supply and Transport Undertaking (BEST)</a></li>
+	<li><a href="https://www.mpez.co.in/" target="_blank"><img src="images/2026/MadhyaPradesh.png" style="height:155px;">Madhya Pradesh Poorv Kshetra Vidyut Vitaran Company Limited</a></li>
+	<li><a href="https://www.mpwz.co.in/" target="_blank"><img src="images/utilities2019/4. MPPKVVCL.png" style="height:155px;">Madhya Pradesh Paschim Kshetra Vidyut Vitaran Co. Ltd. (MPPKVVCL)</a></li>
+	<li><a href="https://www.kesco.co.in/" target="_blank"><img src="images/2024/kanpur_electrict.png" style="height:155px;">Kanpur Electricity Supply Company Limited</a></li>
+	<li><a href="https://www.adanielectricity.com/" target="_blank"><img src="images/2024/AdaniElectricity.png" style="height:155px;">Adani Electricity Mumbai Limited</a></li>	
 </ul>
 
 <div class="k_cheading">

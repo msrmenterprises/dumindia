@@ -65,8 +65,6 @@
             text-transform: capitalize !important;
             margin-bottom: 15px !important;
             margin-top: 0 !important;
-            color: #2c3e50 !important;
-            line-height: 1.3 !important;
         }
 
 /* smaller screens: stack */

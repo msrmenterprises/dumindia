@@ -499,6 +499,8 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 		<li><a href="https://www.bestundertaking.com/" target="_blank"><img src="images/2026/BEST.jpg" style="height:155px;">Brihanmumbai Electricity Supply and Transport Undertaking (BEST)</a></li>
 		<li><a href="https://www.mpez.co.in/" target="_blank"><img src="images/2026/MadhyaPradesh.png" style="height:155px;">Madhya Pradesh Poorv Kshetra Vidyut Vitaran Company Limited</a></li>
 		<li><a href="https://www.mpwz.co.in/" target="_blank"><img src="images/utilities2019/4. MPPKVVCL.png" style="height:155px;">Madhya Pradesh Paschim Kshetra Vidyut Vitaran Co. Ltd. (MPPKVVCL)</a></li>
+		<li><a href="https://www.kesco.co.in/" target="_blank"><img src="images/2024/kanpur_electrict.png" style="height:155px;">Kanpur Electricity Supply Company Limited</a></li>
+		<li><a href="https://www.adanielectricity.com/" target="_blank"><img src="images/2024/AdaniElectricity.png" style="height:155px;">Adani Electricity Mumbai Limited</a></li>	
 		</ul>
 
 	<div class="k_cheading k_white_haeding">

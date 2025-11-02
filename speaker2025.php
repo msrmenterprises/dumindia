@@ -59,6 +59,15 @@
     display: flex;
     align-items: flex-start;
 }
+.key_head {
+            font-size: 25px;
+            text-align: left;
+            text-transform: capitalize;
+            margin-bottom: 15px;
+            margin-top: 0;
+            color: #2c3e50;
+            line-height: 1.3;
+        }
 
 /* smaller screens: stack */
 @media (max-width: 768px) {

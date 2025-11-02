@@ -60,13 +60,13 @@
     align-items: flex-start;
 }
 .key_head {
-            font-size: 25px;
-            text-align: left;
-            text-transform: capitalize;
-            margin-bottom: 15px;
-            margin-top: 0;
-            color: #2c3e50;
-            line-height: 1.3;
+            font-size: 25px !important;
+            text-align: left !important;
+            text-transform: capitalize !important;
+            margin-bottom: 15px !important;
+            margin-top: 0 !important;
+            color: #2c3e50 !important;
+            line-height: 1.3 !important;
         }
 
 /* smaller screens: stack */

@@ -146,7 +146,8 @@ box-shadow: 0 1px 6px rgba(0, 0, 0, 0.06);
 		<li><a href="https://www.noidapower.com/" target="_blank"><img src="images/utilities2019/npcl.png" style="width:180px; height: 120px;">NPCL</a></li>
 		<li><a href="https://www.bsesdelhi.com/web/bypl" target="_blank"><img src="/images/bses.png" style="width:180px; height: 140px;">BSES Yamuna Power Limited</a></li>
 		<li><a href="https://www.cesc.co.in/home" target="_blank"><img src="images/2024/CESC_Logo.svg.png" style="height: 135px;">CESC Limited</a></li>		
-		</ul>
+		<li><a href="https://www.adanielectricity.com/" target="_blank"><img src="images/2024/AdaniElectricity.png" style="height:155px;">Adani Electricity Mumbai Limited</a></li>		
+	</ul>
 		
          <br>	 
 	    <ul class="k_confirmed_als">	

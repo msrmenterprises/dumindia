@@ -19,22 +19,12 @@
 			</p>
 		</div> -->
 
+		
 		<div class="col-sm-12" style="text-align: center;">
-			<a href="http://dumindia.in/images/2026/DUM25_agenda.pdf" target="_blank" style="font-size: 14px; font-weight: 800; text-decoration: none;">Download Agenda</a>
+			<a href="http://dumindia.in/images/2026/DUM25_agenda.pdf" target="_blank" style="font-size: 28px; font-weight: 800; text-decoration: none;">Download Agenda</a>
 		</div>
 		<br>
 		<br>
-		<div class="col-sm-12" style="text-align: center;">
-            <!-- Prefer object with PDF type; use protocol-relative URL to avoid mixed content -->
-            <object data="//dumindia.in/images/2026/DUM25_agenda.pdf#view=FitH" type="application/pdf" style="width:90%; height:800px;">
-                <!-- Fallback via Google viewer if native PDF rendering is blocked -->
-                <iframe src="https://docs.google.com/gview?embedded=1&url=https://dumindia.in/images/2026/DUM25_agenda.pdf" style="width:90%; height:800px;" frameborder="0"></iframe>
-                <p>Your browser can’t display PDFs. <a href="//dumindia.in/images/2026/DUM25_agenda.pdf" target="_blank" rel="noopener">Download Agenda</a></p>
-            </object>
-        </div>
-		<br>
-		
-		
 	</div>
 	</div>
 	

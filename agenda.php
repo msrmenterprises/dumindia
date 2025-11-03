@@ -19,12 +19,17 @@
 			</p>
 		</div> -->
 
-		
 		<div class="col-sm-12" style="text-align: center;">
-			<a href="http://dumindia.in/images/2026/DUM25_agenda.pdf" target="_blank" style="font-size: 28px; font-weight: 800; text-decoration: none;">Download Agenda</a>
+			<a href="http://dumindia.in/images/2026/DUM25_agenda.pdf" target="_blank" style="font-size: 14px; font-weight: 800; text-decoration: none;">Download Agenda</a>
 		</div>
 		<br>
 		<br>
+		<div class="col-sm-12" style="text-align: center;">
+			<iframe src="http://dumindia.in/images/2026/DUM25_agenda.pdf" style="width:90%;height:800px;"></iframe>
+		</div>
+		<br>
+		
+		
 	</div>
 	</div>
 	

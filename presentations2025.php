@@ -58,6 +58,7 @@ if($pass == "DUM2025#0405")
     <br>INAUGURATION OF DUM 2024 CONFERENCE AND EXHIBITION | 09.00 ~ 11.15 -->
 </div>
 
+<div class="header">INAUGURATION OF CONFERENCE AND EXHIBITION | 09.00 ~ 11.15</div>
 <table>
     <thead>
         <tr>
@@ -74,117 +75,110 @@ if($pass == "DUM2025#0405")
     <tbody>
         <tr>
             <td>1</td>
-            <td>Ashish Goel</td>
-            <td>Chairman</td>
-            <td>UPPCL</td>
+            <td>Reji Kumar Pillai</td>
+            <td>Chairman, Global Smart Energy Federation</td>
+            <td>President - India Smart Grid Forum</td>
             <td>Welcome Address</td>
             <td>Speech</td>
-            <td><a target="_blank" target="_blank" href="https://youtu.be/k8X0oysPHhM?si=DJ3TvjeS2xMTn8ks">Video</a></td>
-            <td><a target="_blank" target="_blank" href="https://flic.kr/s/aHBqjBSiKz">Photos</a></td>
-			
-			
+            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjCAizZ">Photos</a></td>
         </tr>
         <tr>
             <td>2</td>
-            <td>Reji Kumar Pillai</td>
-            <td>President</td>
-            <td>ISGF</td>
-            <td>Welcome Address</td>
+            <td>Srikant Nagulapalli</td>
+            <td>DG, Power Foundation of India (PFI)</td>
+            <td>Additional Secretary, Ministry of Power, GOI</td>
+            <td>Special Address</td>
             <td>Speech</td>
-            <td><a target="_blank" target="_blank" href="https://youtu.be/k8X0oysPHhM?si=DJ3TvjeS2xMTn8ks">Video</a></td>
-            <td><a target="_blank" target="_blank" href="https://flic.kr/s/aHBqjBSiKz">Photos</a></td>
-			
-			
+            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjCAizZ">Photos</a></td>
         </tr>
         <tr>
             <td>3</td>
-            <td>Narendra Bhooshan</td>
-            <td>Additional Chief Secretary, Energy</td>
-            <td>Govt of UP</td>
+            <td>Ashish Goel</td>
+            <td>Chairman and General Secretary</td>
+            <td>UPPCL and AIDA</td>
             <td>Special Address</td>
             <td>Speech</td>
-            <td><a target="_blank" target="_blank" href="https://youtu.be/k8X0oysPHhM?si=DJ3TvjeS2xMTn8ks">Video</a></td>
-            <td><a target="_blank" target="_blank" href="https://flic.kr/s/aHBqjBSiKz">Photos</a></td>
-			
+            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjCAizZ">Photos</a></td>
         </tr>
         <tr>
             <td>4</td>
-            <td>Arvind Kumar</td>
-            <td>Chairman</td>
-            <td>UPERC</td>
+            <td>Praveer Sinha</td>
+            <td>MD & CEO</td>
+            <td>Tata Power Company Ltd</td>
             <td>Special Address</td>
             <td>Speech</td>
-            <td><a target="_blank" target="_blank" href="https://youtu.be/k8X0oysPHhM?si=DJ3TvjeS2xMTn8ks">Video</a></td>
-            <td><a target="_blank" target="_blank" href="https://flic.kr/s/aHBqjBSiKz">Photos</a></td>
-			
-			
+            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjCAizZ">Photos</a></td>
         </tr>
         <tr>
             <td>5</td>
-            <td>Ranvir Prasad</td>
-            <td>Managing Director</td>
-            <td>UPPTCL/UPRVUNL</td>
+            <td>Alok Kumar</td>
+            <td>DG - AIDA</td>
+            <td>Former Secretary, Ministry of Power, GOI</td>
             <td>Special Address</td>
             <td>Speech</td>
-            <td><a target="_blank" target="_blank" href="https://youtu.be/k8X0oysPHhM?si=DJ3TvjeS2xMTn8ks">Video</a></td>
-            <td><a target="_blank" target="_blank" href="https://flic.kr/s/aHBqjBSiKz">Photos</a></td>
-			
-			
+            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjCAizZ">Photos</a></td>
         </tr>
         <tr>
             <td>6</td>
-            <td>Shri Manohar Lal</td>
-            <td>Hon’ble Minister of Power</td>
-            <td>Government of India</td>
-            <td>Chief Guest</td>
+            <td>Pankaj Agarwal</td>
+            <td>Secretary</td>
+            <td>Ministry of Power, GOI</td>
+            <td>Special Address</td>
             <td>Speech</td>
-            <td><a target="_blank" target="_blank" href="https://youtu.be/k8X0oysPHhM?si=DJ3TvjeS2xMTn8ks">Video</a></td>
-            <td><a target="_blank" target="_blank" href="https://flic.kr/s/aHBqjBSiKz">Photos</a></td>
-			
-			
+            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjCAizZ">Photos</a></td>
         </tr>
         <tr>
             <td>7</td>
-            <td>AK Sharma</td>
-            <td>Hon’ble Minister of Energy</td>
-            <td>Government of Uttar Pradesh</td>
-            <td>Chief Guest</td>
+            <td>Smt Meghana Sakore-Bordikar</td>
+            <td>Hon’ble Minister of State for Energy</td>
+            <td>Government of Maharashtra</td>
+            <td>Chief Guests</td>
             <td>Speech</td>
-            <td><a target="_blank" target="_blank" href="https://youtu.be/k8X0oysPHhM?si=DJ3TvjeS2xMTn8ks">Video</a></td>
-            <td><a target="_blank" target="_blank" href="https://flic.kr/s/aHBqjBSiKz">Photos</a></td>
-			
-			
+            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjCAizZ">Photos</a></td>
         </tr>
         <tr>
             <td>8</td>
-            <td>Rakesh Rathor ‘GURU’</td>
-            <td>Hon’ble Minister of Urban Development and Minister of Urban Employment & Poverty Alleviation</td>
-            <td>Government of Uttar Pradesh</td>
-            <td>Special Guest</td>
+            <td>Shri Atul Save</td>
+            <td>Hon'ble Minister - New and Renewable Energy</td>
+            <td>Government of Maharashtra</td>
+            <td>Chief Guests</td>
             <td>Speech</td>
-            <td><a target="_blank" target="_blank" href="https://youtu.be/k8X0oysPHhM?si=DJ3TvjeS2xMTn8ks">Video</a></td>
-            <td><a target="_blank" target="_blank" href="https://flic.kr/s/aHBqjBSiKz">Photos</a></td>
-			
-			
+            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjCAizZ">Photos</a></td>
         </tr>
         <tr>
             <td>9</td>
-            <td>Pankaj Kumar</td>
-            <td>MD</td>
-            <td>UPPCL</td>
+            <td>Sachin Talewar</td>
+            <td>Director – Projects</td>
+            <td>Maharashtra State Electricity Distribution Company Limited</td>
             <td>Vote of Thanks</td>
             <td>Speech</td>
-            <td><a target="_blank" target="_blank" href="https://youtu.be/k8X0oysPHhM?si=DJ3TvjeS2xMTn8ks">Video</a></td>
-            <td><a target="_blank" target="_blank" href="https://flic.kr/s/aHBqjBSiKz">Photos</a></td>
-			
-			
+            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjCAizZ">Photos</a></td>
+        </tr>
+        <tr>
+            <td>10</td>
+            <td>Yogesh Gadkari</td>
+            <td>Director - Commercial</td>
+            <td>Maharashtra State Electricity Distribution Company Limited</td>
+            <td>Vote of Thanks</td>
+            <td>Speech</td>
+            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjCAizZ">Photos</a></td>
         </tr>
     </tbody>
 </table>
 
-<div class="header">SESSION – 1: SPECIAL PLENARY SESSION - SUSTAINABILITY OF DISCOMs (PART 1) | 11.30 ~ 13.00</div>
-    <table>
-        <thead>
+<div class="header">SESSION 1: SPECIAL PLENARY SESSION - INNOVATIVE POLICIES AND REGULATORY INTERVENTIONS FOR SUSTAINABILITY OF DISCOMs | Session Partners: PFI and AIDA | 11.30 ~ 13.00</div>
+<table>
+    <thead>
         <tr>
             <th class="ppone">S.No</th>
             <th class="pptwo">Name</th>
@@ -195,1205 +189,1114 @@ if($pass == "DUM2025#0405")
             <th class="ppseven">Video Link</th>
             <th class="ppeight">Photo Link</th>
 		</tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>10</td>
-                <td>Ashish Goel</td>
-                <td>Chairman</td>
-                <td>UPPCL</td>
-                <td>Chair & Moderator</td>
-                <td><a target="_blank" target="_blank" href="dumpdf/2024/10.pdf" target="_blank">View/ Download</a></td>
-                <td><a target="_blank" target="_blank" href="https://youtu.be/2uUwGWodvtE?si=jR9brgx_uqw4CDGv" >Video</a></td>
-                <td><a target="_blank" target="_blank" href="https://flic.kr/s/aHBqjBSeU7">Photo</a></td>
-				<!-- <td><a target="_blank" target="_blank" href="dumpdf/2024/10.pdf" target="_blank">View</a></td>
-			<td><a target="_blank" target="_blank" href="dumpdf/2024/10.pdf" download>Download</a></td> -->
-            </tr>
-            <tr>
-                <td>11</td>
-                <td>Praveer Sinha</td>
-                <td>MD & CEO</td>
-                <td>Tata Power Company Ltd</td>
-                <td>Presentation</td>
-                <td><a target="_blank" target="_blank" href="dumpdf/2024/11.pdf" target="_blank">View/ Download</a></td>
-                <td><a target="_blank" target="_blank" href="https://youtu.be/2uUwGWodvtE?si=jR9brgx_uqw4CDGv" >Video</a></td>
-                <td><a target="_blank" target="_blank" href="https://flic.kr/s/aHBqjBSeU7">Photo</a></td>
-				<!-- <td><a target="_blank" target="_blank" href="dumpdf/2024/11.pdf" target="_blank">View</a></td>
-			<td><a target="_blank" target="_blank" href="dumpdf/2024/11.pdf" download>Download</a></td> -->
-            </tr>
-            <tr>
-                <td>12</td>
-                <td>Arun Goyal</td>
-                <td>Former Member</td>
-                <td>CERC</td>
-                <td>Speaker</td>
-                <td>Speech</td>
-                <td><a target="_blank" target="_blank" href="https://youtu.be/2uUwGWodvtE?si=jR9brgx_uqw4CDGv" >Video</a></td>
-                <td><a target="_blank" target="_blank" href="https://flic.kr/s/aHBqjBSeU7">Photo</a></td>
-				<!-- <td></td>
-				<td></td> -->
-				<!--<td><a target="_blank" target="_blank" href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
-				<td><a target="_blank" target="_blank" href="dumpdf/2024/12.pdf" download>Download</a></td> -->
-            </tr>
-            <tr>
-                <td>13</td>
-                <td>PR Kumar</td>
-                <td>MD</td>
-                <td>Noida Power Company Limited</td>
-                <td>Speaker</td>
-                <td>Speech</td>
-                <td><a target="_blank" target="_blank" href="https://youtu.be/2uUwGWodvtE?si=jR9brgx_uqw4CDGv" >Video</a></td>
-                <td><a target="_blank" target="_blank" href="https://flic.kr/s/aHBqjBSeU7">Photo</a></td>
-				<!-- <td></td>
-				<td></td> --> 
-				<!--<td><a target="_blank" target="_blank" href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
-				<td><a target="_blank" target="_blank" href="dumpdf/2024/12.pdf" download>Download</a></td> -->
-            </tr>
-            <tr>
-                <td>14</td>
-                <td>Amarjeet Singh</td>
-                <td>CEO</td>
-                <td>BSES Yamuna Power Limited</td>
-                <td>Speaker</td>
-                <td>Speech</td>
-                <td><a target="_blank" target="_blank" href="https://youtu.be/2uUwGWodvtE?si=jR9brgx_uqw4CDGv" >Video</a></td>
-                <td><a target="_blank" target="_blank" href="https://flic.kr/s/aHBqjBSeU7">Photo</a></td>
-				<!-- <td></td>
-				<td></td> --> 
-				<!--<td><a target="_blank" target="_blank" href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
-				<td><a target="_blank" target="_blank" href="dumpdf/2024/12.pdf" download>Download</a></td> -->
-            </tr>
-            <tr>
-                <td>15</td>
-                <td>Alok Mishra</td>
-                <td>Business Lead-Power Grid</td>
-                <td>DNV MES India Private Limited</td>
-                <td>Speaker</td>
-                <td>Speech</td>
-                <td><a target="_blank" target="_blank" href="https://youtu.be/2uUwGWodvtE?si=jR9brgx_uqw4CDGv" >Video</a></td>
-                <td><a target="_blank" target="_blank" href="https://flic.kr/s/aHBqjBSeU7">Photo</a></td>
-				<!-- <td></td>
-				<td></td> -->
-				<!--<td><a target="_blank" target="_blank" href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
-				<td><a target="_blank" target="_blank" href="dumpdf/2024/12.pdf" download>Download</a></td> -->
-            </tr>
-        </tbody>
-    </table>
-
-    <div class="header">SESSION – 2: STORIES FROM SOLARIZATION OF AGRICULTURAL FEEDERS AND NOTABLE EXPERIENCES FROM THE FIELD | 14:00~15:30</div>
-    <table>
-        <thead>
-            <tr>
-                <th class="ppone">S.No</th>
-                <th class="pptwo">Name</th>
-                <th class="ppthree">Designation</th>
-                <th class="ppfour">Organisation</th>
-                <th class="ppfive">Category</th>
-                <th class="ppsix">Presentation/Speech</th>
-                <th class="ppseven">Video Link</th>
-                <th class="ppeight">Photo Link</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>16</td>
-                <td>Abha Shukla</td>
-                <td>ACS – Energy</td>
-                <td>Maharashtra</td>
-                <td>Chair</td>
-                <td>Speech</td>
-                <td><a target="_blank" target="_blank" href="https://youtu.be/hHFRZoJxbmc?si=Q8V6aX2akIcDaLjj">Video</a></td>
-                <td><a target="_blank" target="_blank" href="https://flic.kr/s/aHBqjBSeWM">Photo</a></td>
-				<!-- <td></td>
-				<td></td> -->
-				<!--<td><a target="_blank" target="_blank" href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
-				<td><a target="_blank" target="_blank" href="dumpdf/2024/12.pdf" download>Download</a></td> -->
-            </tr>
-            <tr>
-                <td>17</td>
-                <td>Ravi Seethapathy</td>
-                <td>Advisor</td>
-                <td>ISGF</td>
-                <td>Moderator</td>
-                <td>Speech</td>
-                <td><a target="_blank" target="_blank" href="https://youtu.be/hHFRZoJxbmc?si=Q8V6aX2akIcDaLjj">Video</a></td>
-                <td><a target="_blank" target="_blank" href="https://flic.kr/s/aHBqjBSeWM">Photo</a></td>
-				<!-- <td></td>
-				<td></td> -->
-				<!--<td><a target="_blank" target="_blank" href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
-				<td><a target="_blank" target="_blank" href="dumpdf/2024/12.pdf" download>Download</a></td> -->
-            </tr>
-            <tr>
-                <td>18</td>
-                <td>Abha Shukla</td>
-                <td>ACS – Energy</td>
-                <td>Maharashtra</td>
-                <td>Presentation</td>
-                <td><a target="_blank" target="_blank" href="dumpdf/2024/18.pdf" target="_blank">View/ Download</a></td>
-                <td><a target="_blank" target="_blank" href="https://youtu.be/hHFRZoJxbmc?si=Q8V6aX2akIcDaLjj">Video</a></td>
-                <td><a target="_blank" target="_blank" href="https://flic.kr/s/aHBqjBSeWM">Photo</a></td>
-				<!-- <td><a target="_blank" target="_blank" href="dumpdf/2024/18.pdf" target="_blank">View</a></td>
-				<td><a target="_blank" target="_blank" href="dumpdf/2024/18.pdf" download>Download</a></td> -->
-            </tr>
-            <tr>
-                <td>19</td>
-                <td>Vipul K. Joisher</td>
-                <td>Director</td>
-                <td>Aditya Green Energy Pvt Limited</td>
-                <td>Presentation</td>
-                <td><a target="_blank" target="_blank" href="dumpdf/2024/19.pdf" target="_blank">View/ Download</a></td>
-                <td><a target="_blank" target="_blank" href="https://youtu.be/hHFRZoJxbmc?si=Q8V6aX2akIcDaLjj">Video</a></td>
-                <td><a target="_blank" target="_blank" href="https://flic.kr/s/aHBqjBSeWM">Photo</a></td>
-				<!-- <td><a target="_blank" target="_blank" href="dumpdf/2024/19.pdf" target="_blank">View</a></td>
-				<td><a target="_blank" target="_blank" href="dumpdf/2024/19.pdf" download>Download</a></td> -->
-            </tr>
-            <tr>
-                <td>20</td>
-                <td>Deepak Raizada</td>
-                <td>CE PPA</td>
-                <td>UPPCL</td>
-                <td>Presentation</td>
-                <td><a target="_blank" target="_blank" href="dumpdf/2024/20.pdf" target="_blank">View/ Download</a></td>
-                <td><a target="_blank" target="_blank" href="https://youtu.be/hHFRZoJxbmc?si=Q8V6aX2akIcDaLjj">Video</a></td>
-                <td><a target="_blank" target="_blank" href="https://flic.kr/s/aHBqjBSeWM">Photo</a></td>
-				<!-- <td><a target="_blank" target="_blank" href="dumpdf/2024/20.pdf" target="_blank">View</a></td>
-				<td><a target="_blank" target="_blank" href="dumpdf/2024/20.pdf" download>Download</a></td> -->
-            </tr>
-            <tr>
-                <td>21</td>
-                <td>Ranvir Prasad</td>
-                <td>MD</td>
-                <td>UPPTCL</td>
-                <td>Presentation</td>
-                <td><a target="_blank" target="_blank" href="dumpdf/2024/21.pdf" target="_blank">View/ Download</a></td>
-                <td><a target="_blank" target="_blank" href="https://youtu.be/hHFRZoJxbmc?si=Q8V6aX2akIcDaLjj">Video</a></td>
-                <td><a target="_blank" target="_blank" href="https://flic.kr/s/aHBqjBSeWM">Photo</a></td>
-				<!-- <td><a target="_blank" target="_blank" href="dumpdf/2024/21.pdf" target="_blank">View</a></td>
-				<td><a target="_blank" target="_blank" href="dumpdf/2024/21.pdf" download>Download</a></td> -->
-            </tr>
-            <tr>
-                <td>22</td>
-                <td>Dhruv Suri & Mohak Mangal</td>
-                <td>Standford University</td>
-                <td></td>
-                <td>Presentation</td>
-                <td><a target="_blank" href="dumpdf/2024/22.pdf" target="_blank">View/ Download</a></td>
-                <td><a target="_blank" href="https://youtu.be/hHFRZoJxbmc?si=Q8V6aX2akIcDaLjj">Video</a></td>
-                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSeWM">Photo</a></td>
-				<!-- <td><a target="_blank" href="dumpdf/2024/22.pdf" target="_blank">View</a></td>
-				<td><a target="_blank" href="dumpdf/2024/22.pdf" download>Download</a></td> -->
-            </tr>
-            <tr>
-            <td>23</td>
-            <td>Arvind Singh</td>
-            <td>CEO</td>
-            <td>TPCODCL</td>
+    </thead>
+    <tbody>
+        <tr>
+            <td>11</td>
+            <td>Pankaj Agarwal</td>
+            <td>Secretary</td>
+            <td>Ministry of Power, GOI</td>
+            <td>Chair</td>
+            <td>Speech</td>
+            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjCAi3q">Photos</a></td>
+        </tr>
+        <tr>
+            <td>12</td>
+            <td>Alok Kumar</td>
+            <td>DG - AIDA</td>
+            <td>Former Secretary, Ministry of Power, GOI</td>
+            <td>Moderator</td>
+            <td><a target="_blank" href="#">View/Download</a></td>
+            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjCAi3q">Photos</a></td>
+        </tr>
+        <tr>
+            <td>13</td>
+            <td>Himanshu Chawla</td>
+            <td>Head Regulatory (Senior Specialist)</td>
+            <td>Power Foundation of India</td>
             <td>Presentation</td>
-            <td><a target="_blank" href="dumpdf/2024/23.pdf" target="_blank">View/ Download</a></td>
-            <td><a target="_blank" href="https://youtu.be/hHFRZoJxbmc?si=Q8V6aX2akIcDaLjj" class="link">Video</a></td>
-            <td><a target="_blank" href="https://flic.kr/s/aHBqjBSeWM" class="link">Photos</a></td>
-			<!-- <td><a target="_blank" href="dumpdf/2024/23.pdf" target="_blank">View</a></td>
-				<td><a target="_blank" href="dumpdf/2024/23.pdf" download>Download</a></td> -->
+            <td><a target="_blank" href="#">View/Download</a></td>
+            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjCAi3q">Photos</a></td>
+        </tr>
+        <tr>
+            <td>14</td>
+            <td>Ashish Goel</td>
+            <td>Chairman and General Secretary</td>
+            <td>UPPCL and AIDA</td>
+            <td>Presentation</td>
+            <td>Speech</td>
+            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjCAi3q">Photos</a></td>
+        </tr>
+        <tr>
+            <td>15</td>
+            <td>P Ravi Kumar</td>
+            <td>Chairperson</td>
+            <td>Karnataka Electricity Regulatory Commission</td>
+            <td>Speaker</td>
+            <td>Speech</td>
+            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjCAi3q">Photos</a></td>
+        </tr>
+        <tr>
+            <td>16</td>
+            <td>Srikant Nagulapalli</td>
+            <td>DG, Power Foundation of India</td>
+            <td>Additional Secretary, Ministry of Power, GOI</td>
+            <td>Speaker</td>
+            <td>Speech</td>
+            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjCAi3q">Photos</a></td>
+        </tr>
+        <tr>
+            <td>17</td>
+            <td>Gajendra Tiwari</td>
+            <td>Member</td>
+            <td>Madhya Pradesh Electricity Regulatory Commission</td>
+            <td>Speaker</td>
+            <td>Speech</td>
+            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjCAi3q">Photos</a></td>
+        </tr>
+        <tr>
+            <td>18</td>
+            <td>Nilesh Kane</td>
+            <td>Chief Transmission & Chief Mumbai Distribution</td>
+            <td>Tata Power Company, Mumbai</td>
+            <td>Speaker</td>
+            <td>Speech</td>
+            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjCAi3q">Photos</a></td>
+        </tr>
+        <tr>
+            <td>19</td>
+            <td>Abhishek Ranjan</td>
+            <td>CEO</td>
+            <td>BSES Rajdhani Power Limited</td>
+            <td>Speaker</td>
+            <td>Speech</td>
+            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjCAi3q">Photos</a></td>
+        </tr>
+        <tr>
+            <td>20</td>
+            <td>D Radhakrishna</td>
+            <td>Former Chairperson</td>
+            <td>Tripura Electricity Regulatory Commission</td>
+            <td>Speaker</td>
+            <td>Speech</td>
+            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjCAi3q">Photos</a></td>
+        </tr>
+    </tbody>
+</table>
+
+<div class="header">SESSION 2: SMART METERS AS THE FOUNDATION FOR DIGITALIZATION OF DISCOMs | Session Partner: All India DISCOMs Association (AIDA) | 14:00~16:00</div>
+<table>
+    <thead>
+        <tr>
+            <th class="ppone">S.No</th>
+            <th class="pptwo">Name</th>
+            <th class="ppthree">Designation</th>
+            <th class="ppfour">Organisation</th>
+            <th class="ppfive">Category</th>
+            <th class="ppsix">Presentation/Speech</th>
+            <th class="ppseven">Video Link</th>
+            <th class="ppeight">Photo Link</th>
+		</tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>21</td>
+            <td>Ashish Goel</td>
+            <td>Chairman and General Secretary</td>
+            <td>UPPCL and AIDA</td>
+            <td>Chair</td>
+            <td>Speech</td>
+            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjCAogZ">Photos</a></td>
+        </tr>
+        <tr>
+            <td>22</td>
+            <td>Shashank Mishra</td>
+            <td>Joint Secretary</td>
+            <td>Ministry of Power, GOI</td>
+            <td>Moderator</td>
+            <td>Speech</td>
+            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjCAogZ">Photos</a></td>
+        </tr>
+        <tr>
+            <td>23</td>
+            <td>Anil Rawal</td>
+            <td>MD & CEO</td>
+            <td>IntelliSmart</td>
+            <td>Presentation</td>
+            <td><a target="_blank" href="#">View/Download</a></td>
+            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjCAogZ">Photos</a></td>
+        </tr>
+        <tr>
+            <td colspan="8" style="text-align: center; font-weight: bold;">Panel: 1</td>
         </tr>
         <tr>
             <td>24</td>
-            <td>SR Pandey</td>
-            <td>Member</td>
-            <td>GERC</td>
+            <td>Suresh Makwana</td>
+            <td>Chief Engineer - Planning</td>
+            <td>BEST, Mumbai</td>
             <td>Speaker</td>
             <td>Speech</td>
-            <td><a target="_blank" href="https://youtu.be/hHFRZoJxbmc?si=Q8V6aX2akIcDaLjj" class="link">Video</a></td>
-            <td><a target="_blank" href="https://flic.kr/s/aHBqjBSeWM" class="link">Photos</a></td>
-			<!-- <td></td>
-				<td></td> -->
-				<!--<td><a target="_blank" href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
-				<td><a target="_blank" href="dumpdf/2024/12.pdf" download>Download</a></td> -->
+            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjCAogZ">Photos</a></td>
         </tr>
         <tr>
             <td>25</td>
-            <td>JK Jethani</td>
-            <td>Scientist-F</td>
-            <td>MNRE</td>
+            <td>Sandip Sinha</td>
+            <td>Vice President – Sales</td>
+            <td>Trilliant Networks</td>
             <td>Speaker</td>
-            <td>Speech</td>
-            <td><a target="_blank" href="https://youtu.be/hHFRZoJxbmc?si=Q8V6aX2akIcDaLjj" class="link">Video</a></td>
-            <td><a target="_blank" href="https://flic.kr/s/aHBqjBSeWM" class="link">Photos</a></td>
-			<!-- <td></td>
-				<td></td> -->
-				<!--<td><a target="_blank" href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
-				<td><a target="_blank" href="dumpdf/2024/12.pdf" download>Download</a></td> -->
+            <td><a target="_blank" href="#">View/Download</a></td>
+            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjCAogZ">Photos</a></td>
         </tr>
         <tr>
             <td>26</td>
-            <td>Nitish Kumar</td>
-            <td>MD</td>
-            <td>DVVNL</td>
+            <td>Anoop Kaur Bowdery</td>
+            <td>CEO</td>
+            <td>EDX Wireless</td>
             <td>Speaker</td>
-            <td>Speech</td>
-            <td><a target="_blank" href="https://youtu.be/hHFRZoJxbmc?si=Q8V6aX2akIcDaLjj" class="link">Video</a></td>
-            <td><a target="_blank" href="https://flic.kr/s/aHBqjBSeWM" class="link">Photos</a></td>
-			<!-- <td></td>
-				<td></td> -->
-				<!--<td><a target="_blank" href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
-				<td><a target="_blank" href="dumpdf/2024/12.pdf" download>Download</a></td> -->
+            <td><a target="_blank" href="#">View/Download</a></td>
+            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjCAogZ">Photos</a></td>
         </tr>
         <tr>
             <td>27</td>
-            <td>Anant Venkateswaran</td>
-            <td>Advisor</td>
-            <td>ISGF</td>
+            <td>Anand Budholia</td>
+            <td>President – IT and CIO</td>
+            <td>BSES, Delhi</td>
             <td>Speaker</td>
             <td>Speech</td>
-            <td><a target="_blank" href="https://youtu.be/hHFRZoJxbmc?si=Q8V6aX2akIcDaLjj" class="link">Video</a></td>
-            <td><a target="_blank" href="https://flic.kr/s/aHBqjBSeWM" class="link">Photos</a></td>
-			<!-- <td></td>
-				<td></td> -->
-				<!--<td><a target="_blank" href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
-				<td><a target="_blank" href="dumpdf/2024/12.pdf" download>Download</a></td> -->
+            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjCAogZ">Photos</a></td>
         </tr>
-        </tbody>
-    </table>
-	
-	<div class="header">SESSION 3: LEVERAGING 250 MILLION SMART METERS TO DRIVE DIGITALIZATION OF DISCOMS | 15:30~17:00</div>
-    <table>
-        <thead>
-            <tr>
-                <th class="ppone">S.No</th>
-                <th class="pptwo">Name</th>
-                <th class="ppthree">Designation</th>
-                <th class="ppfour">Organisation</th>
-                <th class="ppfive">Category</th>
-                <th class="ppsix">Presentation/Speech</th>
-                <th class="ppseven">Video Link</th>
-                <th class="ppeight">Photo Link</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>28</td>
-                <td>Shashank Mishra</td>
-                <td>JS-Distribution</td>
-                <td>MoP</td>
-                <td>Chair</td>
-                <td>Speech</td>
-                <td><a target="_blank" href="https://youtu.be/zZRA9DG8JaY?si=o2kUhcHrwnrMuE0f" class="link">Video</a></td>
-                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSkn8">Photos</a></td>
-				<!-- <td></td>
-				<td></td> -->
-				<!--<td><a target="_blank" href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
-				<td><a target="_blank" href="dumpdf/2024/12.pdf" download>Download</a></td> -->
-            </tr>
-            <tr>
-                <td>29</td>
-                <td>Atul Bali</td>
-                <td>Director</td>
-                <td>NSGM</td>
-                <td>Moderator</td>
-                <td>Speech</td>
-                <td><a target="_blank" href="https://youtu.be/zZRA9DG8JaY?si=o2kUhcHrwnrMuE0f" class="link">Video</a></td>
-                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSkn8">Photos</a></td>
-				<!-- <td></td>
-				<td></td> -->
-				<!--<td><a target="_blank" href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
-				<td><a target="_blank" href="dumpdf/2024/12.pdf" download>Download</a></td> -->
-            </tr>
-            <tr>
-                <td>30</td>
-                <td>Sanjay Banga</td>
-                <td>President-T&D</td>
-                <td>Tata Power Company Ltd</td>
-                <td>Speaker</td>
-                <td>Speech</td>
-                <td><a target="_blank" href="https://youtu.be/zZRA9DG8JaY?si=o2kUhcHrwnrMuE0f" class="link">Video</a></td>
-                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSkn8">Photos</a></td>
-				<!-- <td></td>
-				<td></td> -->
-				<!--<td><a target="_blank" href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
-				<td><a target="_blank" href="dumpdf/2024/12.pdf" download>Download</a></td> -->
-            </tr>
-            <tr>
-                <td>31</td>
-                <td>Dwarka Srinath</td>
-                <td>CDIO</td>
-                <td>Tata Power</td>
-                <td>Presentation</td>
-                <td><a target="_blank" href="dumpdf/2024/31.pdf" target="_blank">View/Download</a></td>
-                <td><a target="_blank" href="https://youtu.be/zZRA9DG8JaY?si=o2kUhcHrwnrMuE0f" class="link">Video</a></td>
-                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSkn8">Photos</a></td>
-				<!-- <td><a target="_blank" href="dumpdf/2024/31.pdf" target="_blank">View</a></td>
-			<td><a target="_blank" href="dumpdf/2024/31.pdf" download>Download</a></td> -->
-            </tr>
-            <tr>
-                <td>32</td>
-                <td>Rajesh Bansal</td>
-                <td>CIO</td>
-                <td>Inventive Software Solutions</td>
-                <td>Presentation</td>
-                <td><a target="_blank" href="dumpdf/2024/32.pdf" target="_blank">View/Download</a></td>
-                <td><a target="_blank" href="https://youtu.be/zZRA9DG8JaY?si=o2kUhcHrwnrMuE0f" class="link">Video</a></td>
-                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSkn8">Photos</a></td>
-				<!-- <td><a target="_blank" href="dumpdf/2024/32.pdf" target="_blank">View</a></td>
-			<td><a target="_blank" href="dumpdf/2024/32.pdf" download>Download</a></td> -->
-            </tr>
-            <tr>
-                <td>33</td>
-                <td>Saahas</td>
-                <td>COO</td>
-                <td>Polaris</td>
-                <td>Presentation</td>
-                <td><a target="_blank" href="dumpdf/2024/33.pdf" target="_blank">View/Download</a></td>
-                <td><a target="_blank" href="https://youtu.be/zZRA9DG8JaY?si=o2kUhcHrwnrMuE0f" class="link">Video</a></td>
-                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSkn8">Photos</a></td>
-				<!-- <td><a target="_blank" href="dumpdf/2024/33.pdf" target="_blank">View</a></td>
-			<td><a target="_blank" href="dumpdf/2024/33.pdf" download>Download</a></td> -->
-            </tr>
-            <tr>
-                <td>34</td>
-                <td>Swapandeep Banerjee</td>
-                <td></td>
-                <td>Trilliant, Inc</td>
-                <td>Presentation</td>
-                <td><a target="_blank" href="dumpdf/2024/34.pdf" target="_blank">View/Download</a></td>
-                <td><a target="_blank" href="https://youtu.be/zZRA9DG8JaY?si=o2kUhcHrwnrMuE0f" class="link">Video</a></td>
-                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSkn8">Photos</a></td>
-				<!-- <td><a target="_blank" href="dumpdf/2024/34.pdf" target="_blank">View</a></td>
-			<td><a target="_blank" href="dumpdf/2024/34.pdf" download>Download</a></td> -->
-            </tr>
-            <tr>
-                <td>35</td>
-                <td>Saurav Shah</td>
-                <td>Executive Director</td>
-                <td>PFC</td>
-                <td>Speaker</td>
-                <td>Speech</td>
-                <td><a target="_blank" href="https://youtu.be/zZRA9DG8JaY?si=o2kUhcHrwnrMuE0f" class="link">Video</a></td>
-                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSkn8">Photos</a></td>
-				<!-- <td></td>
-				<td></td> -->
-				<!--<td><a target="_blank" href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
-				<td><a target="_blank" href="dumpdf/2024/12.pdf" download>Download</a></td> -->
-            </tr>
-            <tr>
-                <td>36</td>
-                <td>Shambhu Kumar</td>
-                <td>MD</td>
-                <td>PuVVNL</td>
-                <td>Speaker</td>
-                <td>Speech</td>
-                <td><a target="_blank" href="https://youtu.be/zZRA9DG8JaY?si=o2kUhcHrwnrMuE0f" class="link">Video</a></td>
-                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSkn8">Photos</a></td>
-				<!-- <td></td>
-				<td></td> -->
-				<!--<td><a target="_blank" href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
-				<td><a target="_blank" href="dumpdf/2024/12.pdf" download>Download</a></td> -->
-            </tr>
-            <tr>
-                <td>37</td>
-                <td>Yogesh Kumar</td>
-                <td>Dir Comm</td>
-                <td>MVVNL</td>
-                <td>Speaker</td>
-                <td>Speech</td>
-                <td><a target="_blank" href="https://youtu.be/zZRA9DG8JaY?si=o2kUhcHrwnrMuE0f" class="link">Video</a></td>
-                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSkn8">Photos</a></td>
-				<!-- <td></td>
-				<td></td> -->
-				<!--<td><a target="_blank" href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
-				<td><a target="_blank" href="dumpdf/2024/12.pdf" download>Download</a></td> -->
-            </tr>
-            <tr>
-                <td>38</td>
-                <td>Deepak Pandey</td>
-                <td>COO</td>
-                <td>Kimbal</td>
-                <td>Speaker</td>
-                <td>Speech</td>
-                <td><a target="_blank" href="https://youtu.be/zZRA9DG8JaY?si=o2kUhcHrwnrMuE0f" class="link">Video</a></td>
-                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSkn8">Photos</a></td>
-				<!-- <td></td>
-				<td></td> -->
-				<!--<td><a target="_blank" href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
-				<td><a target="_blank" href="dumpdf/2024/12.pdf" download>Download</a></td> -->
-            </tr>
-            <tr>
-                <td>39</td>
-                <td>Anand Budholia</td>
-                <td>Group CIO</td>
-                <td>BSES</td>
-                <td>Speaker</td>
-                <td>Speech</td>
-                <td><a target="_blank" href="https://youtu.be/zZRA9DG8JaY?si=o2kUhcHrwnrMuE0f" class="link">Video</a></td>
-                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSkn8">Photos</a></td>
-				<!-- <td></td>
-				<td></td> -->
-				<!--<td><a target="_blank" href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
-				<td><a target="_blank" href="dumpdf/2024/12.pdf" download>Download</a></td> -->
-            </tr>
-    </tbody>
-    </table>
-
-    <div class="header">SESSION – 4: EMERGING TECHNOLOGIES FOR NET ZERO POWER SECTOR | Session Partner: LnT Digital Energy Solutions PT&D | 17:00 ~18:30</div>
-    <table>
-        <thead>
-            <tr>
-                <th class="ppone">S.No</th>
-                <th class="pptwo">Name</th>
-                <th class="ppthree">Designation</th>
-                <th class="ppfour">Organisation</th>
-                <th class="ppfive">Category</th>
-                <th class="ppsix">Presentation/Speech</th>
-                <th class="ppseven">Video Link</th>
-                <th class="ppeight">Photo Link</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>40</td>
-                <td>Pankaj Kumar</td>
-                <td>MD</td>
-                <td>UPPCL</td>
-                <td>Chair</td>
-                <td>Speech</td>
-                <td><a target="_blank" href="https://youtu.be/W49f6ddu6GI?si=CCnb_ky19xcNVuX3" target="_blank">Video</a></td>
-                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSeLL" target="_blank">Photo</a></td>
-				<!-- <td></td>
-				<td></td> -->
-				<!--<td><a target="_blank" href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
-				<td><a target="_blank" href="dumpdf/2024/12.pdf" download>Download</a></td> -->
-            </tr>
-            <tr>
-                <td>41</td>
-                <td>Reena Suri</td>
-                <td>Executive Director</td>
-                <td>ISGF</td>
-                <td>Moderator</td>
-                <td>Speech</td>
-                <td><a target="_blank" href="https://youtu.be/W49f6ddu6GI?si=CCnb_ky19xcNVuX3" target="_blank">Video</a></td>
-                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSeLL" target="_blank">Photo</a></td>
-				<!-- <td></td>
-				<td></td> -->
-				<!--<td><a target="_blank" href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
-				<td><a target="_blank" href="dumpdf/2024/12.pdf" download>Download</a></td> -->
-            </tr>
-            <tr>
-                <td>42</td>
-                <td>Murali Baggu</td>
-                <td>Laboratory Program Manager - Grid Integration</td>
-                <td>NREL, USA</td>
-                <td>Presentation</td>
-				<td><a target="_blank" href="http://dumindia.in/dumpdf/2024/42.pdf">View/Download</a></td>
-				
-                <td><a target="_blank" href="https://youtu.be/W49f6ddu6GI?si=CCnb_ky19xcNVuX3" target="_blank">Video</a></td>
-                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSeLL" target="_blank">Photo</a></td>
-				<!-- <td><a target="_blank" href="dumpdf/2024/42.pdf" target="_blank">View</a></td>
-			<td><a target="_blank" href="dumpdf/2024/42.pdf" download>Download</a></td> -->
-            </tr>
-            <tr>
-                <td>43</td>
-                <td>Sumit Gupta</td>
-                <td></td>
-                <td>Assetplus</td>
-                <td>Speaker</td>
-                <td>Speech</td>
-                <td><a target="_blank" href="https://youtu.be/W49f6ddu6GI?si=CCnb_ky19xcNVuX3" target="_blank">Video</a></td>
-                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSeLL" target="_blank">Photo</a></td>
-				<!-- <td></td>
-				<td></td> -->
-				<!--<td><a target="_blank" href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
-				<td><a target="_blank" href="dumpdf/2024/12.pdf" download>Download</a></td> -->
-            </tr>
-            <tr>
-                <td>44</td>
-                <td>SK Senapati</td>
-                <td>Head - Sales & Commercial Services</td>
-                <td>LnT</td>
-                <td>Presentation</td>
-				<td><a target="_blank" href="http://dumindia.in/dumpdf/2024/44.pdf">View/Download</a></td>
-                <td><a target="_blank" href="https://youtu.be/W49f6ddu6GI?si=CCnb_ky19xcNVuX3" target="_blank">Video</a></td>
-                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSeLL" target="_blank">Photo</a></td>
-				<!-- <td><a target="_blank" href="dumpdf/2024/44.pdf" target="_blank">View</a></td>
-			<td><a target="_blank" href="dumpdf/2024/44.pdf" download>Download</a></td> -->
-            </tr>
-            <tr>
-                <td>45</td>
-                <td>Lalit Jain</td>
-                <td>Product Marketing Head – Industrial Automation</td>
-                <td>Phoenix Contact India Pvt. Ltd</td>
-                <td>Presentation</td>
-				<td><a target="_blank" href="http://dumindia.in/dumpdf/2024/45.pdf">View/Download</a></td>
-                <td><a target="_blank" href="https://youtu.be/W49f6ddu6GI?si=CCnb_ky19xcNVuX3" target="_blank">Video</a></td>
-                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSeLL" target="_blank">Photo</a></td>
-				<!-- <td><a target="_blank" href="dumpdf/2024/45.pdf" target="_blank">View</a></td>
-			<td><a target="_blank" href="dumpdf/2024/45.pdf" download>Download</a></td> -->
-            </tr>
-            <tr>
-                <td>46</td>
-                <td>Mukesh Dadhich</td>
-                <td>Head - Business Development, Sustainability and Clean Technology</td>
-                <td>BSES Yamuna Power Limited</td>
-                <td>Speaker</td>
-                <td>Speech</td>
-                <td><a target="_blank" href="https://youtu.be/W49f6ddu6GI?si=CCnb_ky19xcNVuX3" target="_blank">Video</a></td>
-                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSeLL" target="_blank">Photo</a></td>
-				<!-- <td></td>
-				<td></td> -->
-				<!--<td><a target="_blank" href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
-				<td><a target="_blank" href="dumpdf/2024/12.pdf" download>Download</a></td> -->
-            </tr>
-            <tr>
-                <td>47</td>
-                <td>Tripta Thakur</td>
-                <td>DG</td>
-                <td>NPTI</td>
-                <td>Speaker</td>
-                <td>Speech</td>
-                <td><a target="_blank" href="https://youtu.be/W49f6ddu6GI?si=CCnb_ky19xcNVuX3" target="_blank">Video</a></td>
-                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSeLL" target="_blank">Photo</a></td>
-				<!-- <td></td>
-				<td></td> -->
-				<!--<td><a target="_blank" href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
-				<td><a target="_blank" href="dumpdf/2024/12.pdf" download>Download</a></td> -->
-            </tr>
-            <tr>
-                <td>48</td>
-                <td>R S Selvam</td>
-                <td>VP (D&D)</td>
-                <td>Stelmec</td>
-                <td>Presentation</td>
-				<td><a target="_blank" href="http://dumindia.in/dumpdf/2024/48.pdf">View/Download</a></td>
-                <td><a target="_blank" href="https://youtu.be/W49f6ddu6GI?si=CCnb_ky19xcNVuX3" target="_blank">Video</a></td>
-                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSeLL" target="_blank">Photo</a></td>
-				<!-- <td><a target="_blank" href="dumpdf/2024/48.pdf" target="_blank">View</a></td>
-			<td><a target="_blank" href="dumpdf/2024/48.pdf" download>Download</a></td> -->
-            </tr>
-            <tr>
-                <td>49</td>
-                <td>Ayush Kumar</td>
-                <td>CEO</td>
-                <td>Sai Computers</td>
-                <td>Speaker</td>
-                <td>Speech</td>
-                <td><a target="_blank" href="https://youtu.be/W49f6ddu6GI?si=CCnb_ky19xcNVuX3" target="_blank">Video</a></td>
-                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSeLL" target="_blank">Photo</a></td>
-				<!-- <td></td>
-				<td></td> -->
-				<!--<td><a target="_blank" href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
-				<td><a target="_blank" href="dumpdf/2024/12.pdf" download>Download</a></td> -->
-            </tr>
-            <tr>
-                <td>50</td>
-                <td>Sandip Sinha</td>
-                <td>Vice President</td>
-                <td>Trilliant, Inc</td>
-                <td>Speaker</td>
-                <td>Speech</td>
-                <td><a target="_blank" href="https://youtu.be/W49f6ddu6GI?si=CCnb_ky19xcNVuX3" target="_blank">Video</a></td>
-                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSeLL" target="_blank">Photo</a></td>
-				<!-- <td></td>
-				<td></td> -->
-				<!--<td><a target="_blank" href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
-				<td><a target="_blank" href="dumpdf/2024/12.pdf" download>Download</a></td> -->
-            </tr>
-            <tr>
-                <td>51</td>
-                <td>Anish Mandal</td>
-                <td>Partner - Renewables, Sustainability and Climate, Centre of Excellence | Deloitte Asia Pacific</td>
-                <td>Deloitte</td>
-                <td>Speaker</td>
-                <td>Speech</td>
-                <td><a target="_blank" href="https://youtu.be/W49f6ddu6GI?si=CCnb_ky19xcNVuX3" target="_blank">Video</a></td>
-                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSeLL" target="_blank">Photo</a></td>
-				<!-- <td></td>
-				<td></td> -->
-				<!--<td><a target="_blank" href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
-				<td><a target="_blank" href="dumpdf/2024/12.pdf" download>Download</a></td> -->
-            </tr>
-        </tbody>
-    </table>
-	
-	<div class="header">Welcome Reception and Cultural Programs | 
-    Powered by Partner: Inventive Software Solutions | Time: 19:00</div>
-    
-    <table>
-        <thead>
-            <tr>
-                <th class="ppone">S.No</th>
-                <th class="pptwo">Name</th>
-                <th class="ppthree">Designation</th>
-                <th class="ppfour">Organisation</th>
-                <th class="ppfive">Category</th>
-                <th class="ppsix">Presentation/Speech</th>
-                <th class="ppseven">Video Link</th>
-                <th class="ppeight">Photo Link</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>52</td>
-                <td>Shiv Kaushik</td>
-                <td>Executive Director-BD & Branding</td>
-                <td>Inventive Software Solutions</td>
-                <td>Speaker</td>
-                <td>Speech</td>
-                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSeUX" target="_blank">Video</a></td>
-                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSeUX" target="_blank">Photo</a></td>
-				<!-- <td></td>
-				<td></td> -->
-				<!--<td><a target="_blank" href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
-				<td><a target="_blank" href="dumpdf/2024/12.pdf" download>Download</a></td> -->
-            </tr>
-        </tbody>
-    </table>
-	
-	<div class="header">DAY - 2: 15 NOVEMBER 2024 (FRIDAY)<br/>
-    SESSION – 5: SPECIAL PLENARY SESSION - SUSTAINABILITY OF DISCOMs (PART 2) | 10:00 ~ 11:30</div>
-    
-    <table>
-        <thead>
-            <tr>
-                <th class="ppone">S.No</th>
-                <th class="pptwo">Name</th>
-                <th class="ppthree">Designation</th>
-                <th class="ppfour">Organisation</th>
-                <th class="ppfive">Category</th>
-                <th class="ppsix">Presentation/Speech</th>
-                <th class="ppseven">Video Link</th>
-                <th class="ppeight">Photo Link</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>53</td>
-                <td>PK Pujari</td>
-                <td>Former Chairperson</td>
-                <td>CERC</td>
-                <td>Chair</td>
-                <td>Speech</td>
-                <td><a target="_blank" href="https://youtu.be/PA4pjF1_cNg?si=qUq-hY0WOF5gHo_b">Video</a></td>
-                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSfdU">Photo</a></td>
-				<!-- <td></td>
-				<td></td> -->
-				<!--<td><a target="_blank" href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
-				<td><a target="_blank" href="dumpdf/2024/12.pdf" download>Download</a></td> -->
-				
-            </tr>
-            <tr>
-                <td>54</td>
-                <td>Rahul Tongia</td>
-                <td>Advisor</td>
-                <td>ISGF</td>
-                <td>Moderator</td>
-                <td>Speech</td>
-                <td><a target="_blank" href="https://youtu.be/PA4pjF1_cNg?si=qUq-hY0WOF5gHo_b">Video</a></td>
-                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSfdU">Photo</a></td>
-				<!-- <td></td>
-				<td></td> -->
-				<!--<td><a target="_blank" href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
-				<td><a target="_blank" href="dumpdf/2024/12.pdf" download>Download</a></td> -->
-				
-            </tr>
-            <tr>
-                <td>55</td>
-                <td>PK Pujari</td>
-                <td>Former Chairperson</td>
-                <td>CERC</td>
-                <td>Presentation</td>
-                <td><a target="_blank" href="dumpdf/2024/55.pdf" target="_blank">View/ Download</a></td>
-                <td><a target="_blank" href="https://youtu.be/PA4pjF1_cNg?si=qUq-hY0WOF5gHo_b">Video</a></td>
-                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSfdU">Photo</a></td>
-				<!-- <td><a target="_blank" href="dumpdf/2024/55.pdf" target="_blank">View</a></td>
-			<td><a target="_blank" href="dumpdf/2024/55.pdf" download>Download</a></td> -->
-            </tr>
-            <tr>
-                <td>56</td>
-                <td>Sanjoy Mukherjee</td>
-                <td>Executive Director (Distribution Technical)</td>
-                <td>CESC Limited</td>
-                <td>Presentation</td>
-                <td><a target="_blank" href="dumpdf/2024/56.pdf" target="_blank">View/ Download</a></td>
-                <td><a target="_blank" href="https://youtu.be/PA4pjF1_cNg?si=qUq-hY0WOF5gHo_b">Video</a></td>
-                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSfdU">Photo</a></td>
-				<!-- <td><a target="_blank" href="dumpdf/2024/56.pdf" target="_blank">View</a></td>
-			<td><a target="_blank" href="dumpdf/2024/56.pdf" download>Download</a></td> -->
-            </tr>
-            <tr>
-                <td>57</td>
-                <td>Shailendra Dubey</td>
-                <td>Director</td>
-                <td>Inventive Software Solutions</td>
-                <td>Presentation</td>
-                <td><a target="_blank" href="dumpdf/2024/26.pdf" target="_blank">View/ Download</a></td>
-                <td><a target="_blank" href="https://youtu.be/PA4pjF1_cNg?si=qUq-hY0WOF5gHo_b">Video</a></td>
-                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSfdU">Photo</a></td>
-				<!-- <td><a target="_blank" href="dumpdf/2024/26.pdf" target="_blank">View</a></td>
-			<td><a target="_blank" href="dumpdf/2024/26.pdf" download>Download</a></td> -->
-            </tr>
-            <tr>
-                <td>58</td>
-                <td>Hemant Verma</td>
-                <td>Chairman</td>
-                <td>Chattisgarh Regulatory Commision</td>
-                <td>Speaker</td>
-                <td><a target="_blank" href="dumpdf/2024/57.pdf" target="_blank">View/Download</a></td>
-                <td><a target="_blank" href="https://youtu.be/PA4pjF1_cNg?si=qUq-hY0WOF5gHo_b">Video</a></td>
-                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSfdU">Photo</a></td>
-				<!-- <td><a target="_blank" href="dumpdf/2024/57.pdf" target="_blank">View</a></td>
-			<td><a target="_blank" href="dumpdf/2024/57.pdf" download>Download</a></td> -->
-            </tr>
-            <tr>
-                <td>59</td>
-                <td>Sushant Kumar Ray Mohapatra</td>
-                <td>Member-Technical</td>
-                <td>OERC</td>
-                <td>Speaker</td>
-                <td><a target="_blank" href="dumpdf/2024/26.pdf" target="_blank">View/Download</a></td>
-                <td><a target="_blank" href="https://youtu.be/PA4pjF1_cNg?si=qUq-hY0WOF5gHo_b">Video</a></td>
-                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSfdU">Photo</a></td>
-				<!-- <td><a target="_blank" href="dumpdf/2024/26.pdf" target="_blank">View</a></td>
-			<td><a target="_blank" href="dumpdf/2024/26.pdf" download>Download</a></td> -->
-            </tr>
-            <tr>
-                <td>60</td>
-                <td>Ashutosh Goel</td>
-                <td>MD</td>
-                <td>Allied Engineerings</td>
-                <td>Speaker</td>
-                <td>Speech</td>
-                <td><a target="_blank" href="https://youtu.be/PA4pjF1_cNg?si=qUq-hY0WOF5gHo_b">Video</a></td>
-                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSfdU">Photo</a></td>
-				<!-- <td></td>
-				<td></td> -->
-				<!--<td><a target="_blank" href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
-				<td><a target="_blank" href="dumpdf/2024/12.pdf" download>Download</a></td> -->
-            </tr>
-            <tr>
-                <td>61</td>
-                <td>Rajneesh Bahadur</td>
-                <td>Regional Head</td>
-                <td>Havells India Ltd</td>
-                <td>Speaker</td>
-                <td>Speech</td>
-                <td><a target="_blank" href="https://youtu.be/PA4pjF1_cNg?si=qUq-hY0WOF5gHo_b">Video</a></td>
-                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSfdU">Photo</a></td>
-				<!-- <td></td>
-				<td></td> -->
-				<!--<td><a target="_blank" href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
-				<td><a target="_blank" href="dumpdf/2024/12.pdf" download>Download</a></td> -->
-            </tr>
-        </tbody>
-    </table>
-	
-	<div class="header">SESSION – 6: ELECTRIC VEHICLE (EV) CHARGING INFRASTRUCTURE AND GRID INTEGRATION | 11:30 ~ 13:00</div>
-    
-    <table>
-        <thead>
-            <tr>
-                <th class="ppone">S.No</th>
-                <th class="pptwo">Name</th>
-                <th class="ppthree">Designation</th>
-                <th class="ppfour">Organisation</th>
-                <th class="ppfive">Category</th>
-                <th class="ppsix">Presentation/Speech</th>
-                <th class="ppseven">Video Link</th>
-                <th class="ppeight">Photo Link</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>62</td>
-                <td>KR Jyothilal</td>
-                <td>ACS – Energy</td>
-                <td>Kerala</td>
-                <td>Chair</td>
-                <td>Speech</td>
-                <td><a target="_blank" href="https://youtu.be/8CoESHC8Ndc?si=leAQ2EKC_1SRV113">Video</a></td>
-                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSkFu">Photo</a></td>
-				<!-- <td></td>
-				<td></td> -->
-				<!--<td><a target="_blank" href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
-				<td><a target="_blank" href="dumpdf/2024/12.pdf" download>Download</a></td> -->
-				
-            </tr>
-            <tr>
-                <td>63</td>
-                <td>Pankaj Kumar</td>
-                <td>MD</td>
-                <td>UPPCL</td>
-                <td>Moderator</td>
-                <td>Speech</td>
-                <td><a target="_blank" href="https://youtu.be/8CoESHC8Ndc?si=leAQ2EKC_1SRV113">Video</a></td>
-                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSkFu">Photo</a></td>
-				<!-- <td></td>
-				<td></td> -->
-				<!--<td><a target="_blank" href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
-				<td><a target="_blank" href="dumpdf/2024/12.pdf" download>Download</a></td> -->
-            </tr>
-            <tr>
-                <td>64</td>
-                <td>Mr. Nidhi Narang</td>
-                <td>Dir Finance</td>
-                <td>UPPCL</td>
-                <td>Presentation</td>
-                <td><a target="_blank" href="dumpdf/2024/64.pdf" target="_blank">View/ Download</a></td>
-                <td><a target="_blank" href="https://youtu.be/8CoESHC8Ndc?si=leAQ2EKC_1SRV113">Video</a></td>
-                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSkFu">Photo</a></td>
-				<!-- <td><a target="_blank" href="dumpdf/2024/64.pdf" target="_blank">View</a></td>
-				<td><a target="_blank" href="dumpdf/2024/64.pdf" download>Download</a></td> -->
-            </tr>
-            <tr>
-                <td>65</td>
-                <td>Hanif Qureshi</td>
-                <td>Additional Secretary</td>
-                <td>DHI</td>
-                <td>Presentation</td>
-                <td><a target="_blank" href="dumpdf/2024/65.pdf" target="_blank">View/ Download</a></td>
-                <td><a target="_blank" href="https://youtu.be/8CoESHC8Ndc?si=leAQ2EKC_1SRV113">Video</a></td>
-                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSkFu">Photo</a></td>
-				<!-- <td><a target="_blank" href="dumpdf/2024/65.pdf" target="_blank">View</a></td>
-				<td><a target="_blank" href="dumpdf/2024/65.pdf" download>Download</a></td> -->
-            </tr>
-            <tr>
-                <td>66</td>
-                <td>Awadhesh Jha</td>
-                <td>Executive Director</td>
-                <td>GLIDA INDIA</td>
-                <td>Speaker</td>
-                <td>Speech</td>
-                <td><a target="_blank" href="https://youtu.be/8CoESHC8Ndc?si=leAQ2EKC_1SRV113">Video</a></td>
-                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSkFu">Photo</a></td>
-				<!-- <td></td>
-				<td></td> -->
-				<!--<td><a target="_blank" href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
-				<td><a target="_blank" href="dumpdf/2024/12.pdf" download>Download</a></td> -->
-            </tr>
-            <tr>
-                <td>67</td>
-                <td>Isha Duhan</td>
-                <td>MD</td>
-                <td>PVVNL</td>
-                <td>Speaker</td>
-                <td>Speech</td>
-                <td><a target="_blank" href="https://youtu.be/8CoESHC8Ndc?si=leAQ2EKC_1SRV113">Video</a></td>
-                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSkFu">Photo</a></td>
-				<!-- <td></td>
-				<td></td> -->
-				<!--<td><a target="_blank" href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
-				<td><a target="_blank" href="dumpdf/2024/12.pdf" download>Download</a></td> -->
-            </tr>
-            <tr>
-                <td>68</td>
-                <td>RK Singh</td>
-                <td>Head – Business Operations-EV Charging</td>
-                <td>Tata Power Company Ltd</td>
-                <td>Speaker</td>
-                <td>Speech</td>
-                <td><a target="_blank" href="https://youtu.be/8CoESHC8Ndc?si=leAQ2EKC_1SRV113">Video</a></td>
-                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSkFu">Photo</a></td>
-				<!-- <td></td>
-				<td></td> -->
-				<!--<td><a target="_blank" href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
-				<td><a target="_blank" href="dumpdf/2024/12.pdf" download>Download</a></td> -->
-            </tr>
-            <tr>
-                <td>69</td>
-                <td>Praveen Rathore</td>
-                <td>Regional Manager-Power Distribution</td>
-                <td>Eaton India</td>
-                <td>Speaker</td>
-                <td>Speech</td>
-                <td><a target="_blank" href="https://youtu.be/8CoESHC8Ndc?si=leAQ2EKC_1SRV113">Video</a></td>
-                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSkFu">Photo</a></td>
-				<!-- <td></td>
-				<td></td> -->
-				<!--<td><a target="_blank" href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
-				<td><a target="_blank" href="dumpdf/2024/12.pdf" download>Download</a></td> -->
-            </tr>
-            <tr>
-                <td>70</td>
-                <td>Arjun Sinha Roy</td>
-                <td>Co-Founder and CEO</td>
-                <td>Irasus Technologies</td>
-                <td>Presentation</td>
-                <td><a target="_blank" href="dumpdf/2024/70.pdf" target="_blank">View/ Download</a></td>
-                <td><a target="_blank" href="https://youtu.be/8CoESHC8Ndc?si=leAQ2EKC_1SRV113">Video</a></td>
-                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSkFu">Photo</a></td>
-				<!-- <td><a target="_blank" href="dumpdf/2024/70.pdf" target="_blank">View</a></td>
-				<td><a target="_blank" href="dumpdf/2024/70.pdf" download>Download</a></td> -->
-            </tr>
-        </tbody>
-    </table>
-
-<div class="header">SESSION – 7: RE, EV AND GRID STABILITY AND CHALLENGES OF 10 MILLION ROOFTOP SOLAR PV SYSTEMS | Session Partner: GIZ | 14:00 ~ 16:00</div>
-    
-    <table>
-        <thead>
-            <tr>
-                <th class="ppone">S.No</th>
-                <th class="pptwo">Name</th>
-                <th class="ppthree">Designation</th>
-                <th class="ppfour">Organisation</th>
-                <th class="ppfive">Category</th>
-                <th class="ppsix">Presentation/Speech</th>
-                <th class="ppseven">Video Link</th>
-                <th class="ppeight">Photo Link</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>71</td>
-                <td>Ravi Seethapathy</td>
-                <td>Chair ISGF Working Group</td>
-                <td>ISGF</td>
-                <td>Chair and Moderator</td>
-                <td>Speech</td>
-                <td><a target="_blank" href="https://youtu.be/q84kShIZZ4A?si=lmuBE7IWkhbcLP2x">Video</a></td>
-                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSfuq">Photo</a></td>
-				<!-- <td></td>
-				<td></td> -->
-				<!--<td><a target="_blank" href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
-				<td><a target="_blank" href="dumpdf/2024/12.pdf" download>Download</a></td> -->
-            </tr>
-            <tr>
-                <td>72</td>
-                <td>Kuldeep Sharma</td>
-                <td>Head -RE and Discoms</td>
-                <td>GIZ</td>
-                <td>Presentation</td>
-                <td><a target="_blank" href="dumpdf/2024/72.pdf" target="_blank">View/ Download</a></td>
-                <td><a target="_blank" href="https://youtu.be/q84kShIZZ4A?si=lmuBE7IWkhbcLP2x">Video</a></td>
-                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSfuq">Photo</a></td>
-				<!-- <td><a target="_blank" href="dumpdf/2024/72.pdf" target="_blank">View</a></td>
-				<td><a target="_blank" href="dumpdf/2024/72.pdf" download>Download</a></td> -->
-            </tr>
-            <tr>
-                <td>73</td>
-                <td>Anupam Shukla</td>
-                <td>MD</td>
-                <td>UPNEDA</td>
-                <td>Presentation</td>
-                <td><a target="_blank" href="dumpdf/2024/73.pdf" target="_blank">View/ Download</a></td>
-                <td><a target="_blank" href="https://youtu.be/q84kShIZZ4A?si=lmuBE7IWkhbcLP2x">Video</a></td>
-                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSfuq">Photo</a></td>
-				<!-- <td><a target="_blank" href="dumpdf/2024/73.pdf" target="_blank">View</a></td>
-				<td><a target="_blank" href="dumpdf/2024/73.pdf" download>Download</a></td> -->
-            </tr>
-            <tr>
-                <td>74</td>
-                <td>Murali Baggu</td>
-                <td>Laboratory Program Manager - Grid Integration</td>
-                <td>NREL, USA</td>
-                <td>Presentation</td>
-                <td><a target="_blank" href="dumpdf/2024/74.pdf" target="_blank">View/ Download</a></td>
-                <td><a target="_blank" href="https://youtu.be/q84kShIZZ4A?si=lmuBE7IWkhbcLP2x">Video</a></td>
-                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSfuq">Photo</a></td>
-				<!-- <td><a target="_blank" href="dumpdf/2024/74.pdf" target="_blank">View</a></td>
-				<td><a target="_blank" href="dumpdf/2024/74.pdf" download>Download</a></td> -->
-            </tr>
-            <tr>
-                <td>75</td>
-                <td>Reena Suri</td>
-                <td>Executive Director</td>
-                <td>ISGF</td>
-                <td>Presentation</td>
-                <td><a target="_blank" href="dumpdf/2024/75.pdf" target="_blank">View/ Download</a></td>
-                <td><a target="_blank" href="https://youtu.be/q84kShIZZ4A?si=lmuBE7IWkhbcLP2x">Video</a></td>
-                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSfuq">Photo</a></td>
-				<!-- <td><a target="_blank" href="dumpdf/2024/75.pdf" target="_blank">View</a></td>
-				<td><a target="_blank" href="dumpdf/2024/75.pdf" download>Download</a></td> -->
-            </tr>
-            <tr>
-                <td>76</td>
-                <td>Eckehard Troster</td>
-                <td>CEO</td>
-                <td>Energynautics</td>
-                <td>Presentation</td>
-                <td><a target="_blank" href="dumpdf/2024/76.pdf" target="_blank">View/ Download</a></td>
-                <td><a target="_blank" href="https://youtu.be/q84kShIZZ4A?si=lmuBE7IWkhbcLP2x">Video</a></td>
-                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSfuq">Photo</a></td>
-				<!-- <td><a target="_blank" href="dumpdf/2024/76.pdf" target="_blank">View</a></td>
-				<td><a target="_blank" href="dumpdf/2024/76.pdf" download>Download</a></td> -->
-            </tr>
-            <tr>
-                <td>77</td>
-                <td>Samuel Paul N</td>
-                <td>MD</td>
-                <td>KESCO</td>
-                <td>Speaker</td>
-                <td>Speech</td>
-                <td><a target="_blank" href="https://youtu.be/q84kShIZZ4A?si=lmuBE7IWkhbcLP2x">Video</a></td>
-                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSfuq">Photo</a></td>
-				<!-- <td></td>
-				<td></td> -->
-				<!--<td><a target="_blank" href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
-				<td><a target="_blank" href="dumpdf/2024/12.pdf" download>Download</a></td> -->
-            </tr>
-            <tr>
-                <td>78</td>
-                <td>RJ Vala</td>
-                <td>CE-Distribution</td>
-                <td>PGVCL</td>
-                <td>Speaker</td>
-                <td>Speech</td>
-                <td><a target="_blank" href="https://youtu.be/q84kShIZZ4A?si=lmuBE7IWkhbcLP2x">Video</a></td>
-                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSfuq">Photo</a></td>
-				<!-- <td></td>
-				<td></td> -->
-				<!--<td><a target="_blank" href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
-				<td><a target="_blank" href="dumpdf/2024/12.pdf" download>Download</a></td> -->
-            </tr>
-            <tr>
-                <td>79</td>
-                <td>Shivram Bikkina</td>
-                <td></td>
-                <td>Tata Power Company Ltd</td>
-                <td>Speaker</td>
-                <td>Speech</td>
-                <td><a target="_blank" href="https://youtu.be/q84kShIZZ4A?si=lmuBE7IWkhbcLP2x">Video</a></td>
-                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSfuq">Photo</a></td>
-				<!-- <td></td>
-				<td></td> -->
-				<!--<td><a target="_blank" href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
-				<td><a target="_blank" href="dumpdf/2024/12.pdf" download>Download</a></td> -->
-            </tr>
-            <tr>
-                <td>80</td>
-                <td>BB Mehta</td>
-                <td>Director</td>
-                <td>SLDC, Odisha</td>
-                <td>Speaker</td>
-                <td>Speech</td>
-                <td><a target="_blank" href="https://youtu.be/q84kShIZZ4A?si=lmuBE7IWkhbcLP2x">Video</a></td>
-                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSfuq">Photo</a></td>
-				<!-- <td></td>
-				<td></td> -->
-				<!--<td><a target="_blank" href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
-				<td><a target="_blank" href="dumpdf/2024/12.pdf" download>Download</a></td> -->
-            </tr>
-            <tr>
-                <td>81</td>
-                <td>Dhananjay R Aundekar</td>
-                <td>Executive Director</td>
-                <td>MSEDCL</td>
-                <td>Presentation</td>
-                <td><a target="_blank" href="dumpdf/2024/81.pdf" target="_blank">View/ Download</a></td>
-                <td><a target="_blank" href="https://youtu.be/q84kShIZZ4A?si=lmuBE7IWkhbcLP2x">Video</a></td>
-                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSfuq">Photo</a></td>
-<!-- 				
-				<td><a target="_blank" href="dumpdf/2024/81.pdf" target="_blank">View</a></td>
-				<td><a target="_blank" href="dumpdf/2024/81.pdf" download>Download</a></td> -->
-            </tr>
-            <tr>
-                <td>82</td>
-                <td>Eckehard Troster</td>
-                <td>CEO</td>
-                <td>Energynautics</td>
-                <td>Speaker</td>
-                <td>Speech</td>
-                <td><a target="_blank" href="https://youtu.be/q84kShIZZ4A?si=lmuBE7IWkhbcLP2x">Video</a></td>
-                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSfuq">Photo</a></td>
-				<!-- <td></td>
-				<td></td> -->
-				<!--<td><a target="_blank" href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
-				<td><a target="_blank" href="dumpdf/2024/12.pdf" download>Download</a></td> -->
-            </tr>
-            <tr>
-                <td>83</td>
-                <td>SK Senapati</td>
-                <td>Head -Sales & Commercial Services</td>
-                <td>LnT</td>
-                <td>Presentation</td>
-                <td><a target="_blank" href="dumpdf/2024/83.pdf" target="_blank">View/ Download</a></td>
-                <td><a target="_blank" href="https://youtu.be/q84kShIZZ4A?si=lmuBE7IWkhbcLP2x">Video</a></td>
-                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSfuq">Photo</a></td>
-				<!-- <td><a target="_blank" href="dumpdf/2024/83.pdf" target="_blank">View</a></td>
-				<td><a target="_blank" href="dumpdf/2024/83.pdf" download>Download</a></td> -->
-            </tr>
-            <tr>
-                <td>84</td>
-                <td>Zakir Rather</td>
-                <td>Professor</td>
-                <td>IIT Bombay</td>
-                <td>Presentation</td>
-                <td><a target="_blank" href="dumpdf/2024/84.pdf" target="_blank">View/ Download</a></td>
-                <td><a target="_blank" href="https://youtu.be/q84kShIZZ4A?si=lmuBE7IWkhbcLP2x">Video</a></td>
-                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSfuq">Photo</a></td>
-				<!-- <td><a target="_blank" href="dumpdf/2024/84.pdf" target="_blank">View</a></td>
-				<td><a target="_blank" href="dumpdf/2024/84.pdf" download>Download</a></td> -->
-            </tr>
-        </tbody>
-    </table>
-
-<div class="header">DUM 2024: VALEDITORY SESSION | 16:00 ~ 17:00</div>
-    
-
-    <table>
         <tr>
-                <th class="ppone">S.No</th>
-                <th class="pptwo">Name</th>
-                <th class="ppthree">Designation</th>
-                <th class="ppfour">Organisation</th>
-                <th class="ppfive">Category</th>
-                <th class="ppsix">Presentation/Speech</th>
-                <th class="ppseven">Video Link</th>
-                <th class="ppeight">Photo Link</th>
-            </tr>
+            <td>28</td>
+            <td>Gurpreet Oberoi</td>
+            <td>Chief Business Officer</td>
+            <td>Kimbal</td>
+            <td>Speaker</td>
+            <td>Speech</td>
+            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjCAogZ">Photos</a></td>
+        </tr>
+        <tr>
+            <td colspan="8" style="text-align: center; font-weight: bold;">Panel: 2</td>
+        </tr>
+        <tr>
+            <td>29</td>
+            <td>Atul Bali</td>
+            <td>Director</td>
+            <td>NSGM</td>
+            <td>Speaker</td>
+            <td>Speech</td>
+            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjCAogZ">Photos</a></td>
+        </tr>
+        <tr>
+            <td>30</td>
+            <td>Dwijadas Basak</td>
+            <td>CEO</td>
+            <td>Tata Power Delhi Distribution Limited</td>
+            <td>Speaker</td>
+            <td>Speech</td>
+            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjCAogZ">Photos</a></td>
+        </tr>
+        <tr>
+            <td>31</td>
+            <td>Rahul Kumar</td>
+            <td>MD</td>
+            <td>North Bihar Power Distribution Company Ltd</td>
+            <td>Speaker</td>
+            <td>Speech</td>
+            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjCAogZ">Photos</a></td>
+        </tr>
+        <tr>
+            <td>32</td>
+            <td>Teppo Hemia</td>
+            <td>CEO</td>
+            <td>Wirepas</td>
+            <td>Speaker</td>
+            <td><a target="_blank" href="#">View/Download</a></td>
+            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjCAogZ">Photos</a></td>
+        </tr>
+        <tr>
+            <td>33</td>
+            <td>Vivek Chandra</td>
+            <td>Head-IT</td>
+            <td>Madhya Pradesh Poorv Kshetra Vidyut Vitaran Company Limited</td>
+            <td>Speaker</td>
+            <td>Speech</td>
+            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjCAogZ">Photos</a></td>
+        </tr>
+        <tr>
+            <td>34</td>
+            <td>Ashutosh Goel</td>
+            <td>CMD</td>
+            <td>Allied Engineering Works Limited</td>
+            <td>Speaker</td>
+            <td><a target="_blank" href="#">View/Download</a></td>
+            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjCAogZ">Photos</a></td>
+        </tr>
+        <tr>
+            <td>35</td>
+            <td>Jaideep Singh</td>
+            <td>Advisor, Strategy and Stakeholder Engagement</td>
+            <td>Radius Synergies International Pvt. Ltd.</td>
+            <td>Speaker</td>
+            <td><a target="_blank" href="#">View/Download</a></td>
+            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjCAogZ">Photos</a></td>
+        </tr>
+    </tbody>
+</table>
+
+<div class="header">SESSION 3: AI-ML-VR/AR-ROBOTICS APPLICATIONS FOR UTILITIES | 16:00~17:30</div>
+<table>
+    <thead>
+        <tr>
+            <th class="ppone">S.No</th>
+            <th class="pptwo">Name</th>
+            <th class="ppthree">Designation</th>
+            <th class="ppfour">Organisation</th>
+            <th class="ppfive">Category</th>
+            <th class="ppsix">Presentation/Speech</th>
+            <th class="ppseven">Video Link</th>
+            <th class="ppeight">Photo Link</th>
+		</tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>36</td>
+            <td>Alok Kumar</td>
+            <td>DG - AIDA</td>
+            <td>Former Secretary, Ministry of Power, GOI</td>
+            <td>Chair</td>
+            <td>Speech</td>
+            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjCAiDS">Photos</a></td>
+        </tr>
+        <tr>
+            <td>37</td>
+            <td>Reena Suri</td>
+            <td>Executive Director</td>
+            <td>India Smart Grid Forum</td>
+            <td>Moderator</td>
+            <td>Speech</td>
+            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjCAiDS">Photos</a></td>
+        </tr>
+        <tr>
+            <td>38</td>
+            <td>Rohit Pareek</td>
+            <td>Chief Product Officer</td>
+            <td>Impressa.ai</td>
+            <td>Presentation</td>
+            <td><a target="_blank" href="#">View/Download</a></td>
+            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjCAiDS">Photos</a></td>
+        </tr>
+        <tr>
+            <td>39</td>
+            <td>Reji Kumar Pillai</td>
+            <td>President</td>
+            <td>India Smart Grid Forum</td>
+            <td>Presentation</td>
+            <td><a target="_blank" href="#">View/Download</a></td>
+            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjCAiDS">Photos</a></td>
+        </tr>
+        <tr>
+            <td>40</td>
+            <td>Abhishek Ranjan</td>
+            <td>CEO</td>
+            <td>BSES Rajdhani Power Limited</td>
+            <td>Speaker</td>
+            <td>Speech</td>
+            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjCAiDS">Photos</a></td>
+        </tr>
+        <tr>
+            <td>41</td>
+            <td>Ganesh Das</td>
+            <td>Chief – Collaboration and Innovation</td>
+            <td>Tata Power Company Ltd</td>
+            <td>Speaker</td>
+            <td>Speech</td>
+            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjCAiDS">Photos</a></td>
+        </tr>
+        <tr>
+            <td>42</td>
+            <td>Pareekshit Bharadwaj</td>
+            <td>Senior Vice President</td>
+            <td>BSES Yamuna Power Limited</td>
+            <td>Speaker</td>
+            <td>Speech</td>
+            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjCAiDS">Photos</a></td>
+        </tr>
+        <tr>
+            <td>43</td>
+            <td>Alok Mishra</td>
+            <td>Market Area Manager-Power Grid</td>
+            <td>DNV</td>
+            <td>Speaker</td>
+            <td>Speech</td>
+            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjCAiDS">Photos</a></td>
+        </tr>
+        <tr>
+            <td>44</td>
+            <td>Swapnadeep Banerjee</td>
+            <td>Customer Solutions Manager</td>
+            <td>Trilliant</td>
+            <td>Speaker</td>
+            <td><a target="_blank" href="#">View/Download</a></td>
+            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjCAiDS">Photos</a></td>
+        </tr>
+        <tr>
+            <td>45</td>
+            <td>Anish Kalucha</td>
+            <td>CIO and Head - IT and Automation</td>
+            <td>Noida Power Company Limited</td>
+            <td>Speaker</td>
+            <td>Speech</td>
+            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjCAiDS">Photos</a></td>
+        </tr>
+    </tbody>
+</table>
+
+<div class="header">SESSION 4: DIGITAL ENERGY GRIDS AND THE EMERGING ERA OF ENERGY INTERNET | Session Partner: Impresa.ai | 17:30~19:00</div>
+<table>
+    <thead>
+        <tr>
+            <th class="ppone">S.No</th>
+            <th class="pptwo">Name</th>
+            <th class="ppthree">Designation</th>
+            <th class="ppfour">Organisation</th>
+            <th class="ppfive">Category</th>
+            <th class="ppsix">Presentation/Speech</th>
+            <th class="ppseven">Video Link</th>
+            <th class="ppeight">Photo Link</th>
+		</tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>46</td>
+            <td>Pankaj Kumar</td>
+            <td>MD</td>
+            <td>Uttar Pradesh Power Corporation Limited</td>
+            <td>Chair</td>
+            <td>Speech</td>
+            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjCAsxb">Photos</a></td>
+        </tr>
+        <tr>
+            <td>47</td>
+            <td>Rahul Tongia</td>
+            <td>Founding Advisor, ISGF</td>
+            <td>Senior Fellow, CSEP</td>
+            <td>Moderator</td>
+            <td>Speech</td>
+            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjCAsxb">Photos</a></td>
+        </tr>
+        <tr>
+            <td>48</td>
+            <td>Sujith Nair</td>
+            <td>Co-Founder and CEO</td>
+            <td>FIDE</td>
+            <td>Presentation</td>
+            <td><a target="_blank" href="#">View/Download</a></td>
+            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjCAsxb">Photos</a></td>
+        </tr>
+        <tr>
+            <td>49</td>
+            <td>Vishakha Chavan</td>
+            <td>Associate Product Manager</td>
+            <td>Impressa.ai</td>
+            <td>Presentation</td>
+            <td><a target="_blank" href="#">View/Download</a></td>
+            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjCAsxb">Photos</a></td>
+        </tr>
+        <tr>
+            <td>50</td>
+            <td>Shashi Bala</td>
+            <td>Senior Engineer</td>
+            <td>India Smart Grid Forum</td>
+            <td>Presentation</td>
+            <td><a target="_blank" href="#">View/Download</a></td>
+            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjCAsxb">Photos</a></td>
+        </tr>
+        <tr>
+            <td>51</td>
+            <td>Samanta Santadyuti</td>
+            <td>Chief – Digital Transformation and IT</td>
+            <td>Tata Power Company Ltd</td>
+            <td>Speaker</td>
+            <td>Speech</td>
+            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjCAsxb">Photos</a></td>
+        </tr>
+        <tr>
+            <td>52</td>
+            <td>Adarsh Nagarajan</td>
+            <td>Consultant</td>
+            <td>BSES Rajdhani Power Limited</td>
+            <td>Speaker</td>
+            <td>Speech</td>
+            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjCAsxb">Photos</a></td>
+        </tr>
+        <tr>
+            <td>53</td>
+            <td>Manoj Muthyala</td>
+            <td>Senior Director - Sales</td>
+            <td>Impresa.ai</td>
+            <td>Speaker</td>
+            <td>Speech</td>
+            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjCAsxb">Photos</a></td>
+        </tr>
+        <tr>
+            <td>54</td>
+            <td>RS Selvam</td>
+            <td>VP-R&D</td>
+            <td>Stelmec</td>
+            <td>Speaker</td>
+            <td><a target="_blank" href="#">View/Download</a></td>
+            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjCAsxb">Photos</a></td>
+        </tr>
+        <tr>
+            <td>55</td>
+            <td>Ravi Jagannathan</td>
+            <td>MD</td>
+            <td>KrypC</td>
+            <td>Speaker</td>
+            <td>Speech</td>
+            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjCAsxb">Photos</a></td>
+        </tr>
+        <tr>
+            <td>56</td>
+            <td>Mohit Bhargava</td>
+            <td>Country Director</td>
+            <td>India Energy and Climate Center</td>
+            <td>Speaker</td>
+            <td>Speech</td>
+            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjCAsxb">Photos</a></td>
+        </tr>
+    </tbody>
+</table>
+
+<div class="header">Welcome Reception and Gala Dinner | Cultural Program followed by Live Band | 19:00</div>
+<table>
+    <thead>
+        <tr>
+            <th class="ppone">S.No</th>
+            <th class="pptwo">Name</th>
+            <th class="ppthree">Designation</th>
+            <th class="ppfour">Organisation</th>
+            <th class="ppfive">Category</th>
+            <th class="ppsix">Presentation/Speech</th>
+            <th class="ppseven">Video Link</th>
+            <th class="ppeight">Photo Link</th>
+		</tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>57</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjCAq9L">Photos</a></td>
+        </tr>
+    </tbody>
+</table>
+
+<div class="header">DAY - 2: 5 NOVEMBER 2025 (WEDNESDAY)<br/>SESSION 5: GRID INTEGRATION OF DISTRIBUTED RE (DRE) | 10:00~11:30</div>
+<table>
+    <thead>
+        <tr>
+            <th class="ppone">S.No</th>
+            <th class="pptwo">Name</th>
+            <th class="ppthree">Designation</th>
+            <th class="ppfour">Organisation</th>
+            <th class="ppfive">Category</th>
+            <th class="ppsix">Presentation/Speech</th>
+            <th class="ppseven">Video Link</th>
+            <th class="ppeight">Photo Link</th>
+		</tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>58</td>
+            <td>Ravi Seethapathy</td>
+            <td>Chairman and WG Chair</td>
+            <td>Biosirus, Inc and ISGF</td>
+            <td>Chair and Moderator</td>
+            <td>Speech</td>
+            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjCAsQv">Photos</a></td>
+        </tr>
+        <tr>
+            <td>59</td>
+            <td>Dnyanesh Kulkarni</td>
+            <td>Chief Engineer - RE</td>
+            <td>Maharashtra State Electricity Distribution Company Limited</td>
+            <td>Presentation</td>
+            <td><a target="_blank" href="#">View/Download</a></td>
+            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjCAsQv">Photos</a></td>
+        </tr>
+        <tr>
+            <td>60</td>
+            <td>Dhananjay Aundhekar</td>
+            <td>Executive Director - SP</td>
+            <td>Maharashtra State Electricity Distribution Company Limited</td>
+            <td>Presentation</td>
+            <td><a target="_blank" href="#">View/Download</a></td>
+            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjCAsQv">Photos</a></td>
+        </tr>
+        <tr>
+            <td>61</td>
+            <td>Reji Kumar Pillai</td>
+            <td>President</td>
+            <td>India Smart Grid Forum</td>
+            <td>Presentation</td>
+            <td><a target="_blank" href="#">View/Download</a></td>
+            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjCAsQv">Photos</a></td>
+        </tr>
+        <tr>
+            <td>62</td>
+            <td>Nidhi Narang</td>
+            <td>Former Director – Finance</td>
+            <td>Uttar Pradesh Power Corporation Limited</td>
+            <td>Speaker</td>
+            <td>Speech</td>
+            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjCAsQv">Photos</a></td>
+        </tr>
+        <tr>
+            <td>63</td>
+            <td>Devanand Pullikuth</td>
+            <td>Chief – Tech Services and PSCC</td>
+            <td>TPREL</td>
+            <td>Speaker</td>
+            <td>Speech</td>
+            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjCAsQv">Photos</a></td>
+        </tr>
+    </tbody>
+</table>
+
+<div class="header">SESSION 6: ELECTRIC VEHICLES – A $200 BILLION OPPORTUNITY IN INDIA AND DISCOMs ROLE IN MAKING THIS A REALITY | Session Partner: Power Foundation of India (PFI) | 11:30~13:00</div>
+<table>
+    <thead>
+        <tr>
+            <th class="ppone">S.No</th>
+            <th class="pptwo">Name</th>
+            <th class="ppthree">Designation</th>
+            <th class="ppfour">Organisation</th>
+            <th class="ppfive">Category</th>
+            <th class="ppsix">Presentation/Speech</th>
+            <th class="ppseven">Video Link</th>
+            <th class="ppeight">Photo Link</th>
+		</tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>64</td>
+            <td>Rajendra Ambekar</td>
+            <td>Secretary</td>
+            <td>Maharashtra Electricity Regulatory Commission</td>
+            <td>Chair</td>
+            <td>Speech</td>
+            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjCAiwX">Photos</a></td>
+        </tr>
+        <tr>
+            <td>65</td>
+            <td>Himanshu Chawla</td>
+            <td>Head Regulatory (Senior Specialist)</td>
+            <td>Power Foundation of India (PFI)</td>
+            <td>Moderator</td>
+            <td>Speech</td>
+            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjCAiwX">Photos</a></td>
+        </tr>
+        <tr>
+            <td>66</td>
+            <td>Anshuman Srivastava</td>
+            <td>Executive Director</td>
+            <td>Power Foundation of India (PFI)</td>
+            <td>Presentation</td>
+            <td><a target="_blank" href="#">View/Download</a></td>
+            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjCAiwX">Photos</a></td>
+        </tr>
+        <tr>
+            <td>67</td>
+            <td>Anand Kumar Singh</td>
+            <td>General Manager</td>
+            <td>India Smart Grid Forum</td>
+            <td>Presentation</td>
+            <td><a target="_blank" href="#">View/Download</a></td>
+            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjCAiwX">Photos</a></td>
+        </tr>
+        <tr>
+            <td>68</td>
+            <td>Ramkrishna Singh</td>
+            <td>Head of Tata Power e-Mobility Business</td>
+            <td>Tata Power Company Limited</td>
+            <td>Speaker</td>
+            <td><a target="_blank" href="#">View/Download</a></td>
+            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjCAiwX">Photos</a></td>
+        </tr>
+        <tr>
+            <td>69</td>
+            <td>A Shrinivas Rao</td>
+            <td>GM – Transportation Engineering</td>
+            <td>BEST, Mumbai</td>
+            <td></td>
+            <td>Speech</td>
+            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjCAiwX">Photos</a></td>
+        </tr>
+        <tr>
+            <td>70</td>
+            <td>Omkar Shaligram</td>
+            <td>GM</td>
+            <td>Tata Motors Ltd</td>
+            <td>Speaker</td>
+            <td>Speech</td>
+            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjCAiwX">Photos</a></td>
+        </tr>
+        <tr>
+            <td>71</td>
+            <td>Pradeep Agarwal</td>
+            <td>GM</td>
+            <td>BSES Rajdhani Power Limited</td>
+            <td>Speaker</td>
+            <td>Speech</td>
+            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjCAiwX">Photos</a></td>
+        </tr>
+        <tr>
+            <td>72</td>
+            <td>Pramod Mishra</td>
+            <td>Vice President & CTO</td>
+            <td>Chandigarh Power Distribution Company Ltd</td>
+            <td>Speaker</td>
+            <td><a target="_blank" href="#">View/Download</a></td>
+            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjCAiwX">Photos</a></td>
+        </tr>
+        <tr>
+            <td>73</td>
+            <td>Kartikey Haryani</td>
+            <td>Founder and CEO</td>
+            <td>Charge Zone</td>
+            <td>Speaker</td>
+            <td>Speech</td>
+            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjCAiwX">Photos</a></td>
+        </tr>
+        <tr>
+            <td>74</td>
+            <td>Chetan Pathak</td>
+            <td>Director</td>
+            <td>IESA</td>
+            <td>Speaker</td>
+            <td>Speech</td>
+            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjCAiwX">Photos</a></td>
+        </tr>
+        <tr>
+            <td>75</td>
+            <td>Ashok Thanikonda</td>
+            <td>Sr. Program Officer</td>
+            <td>GGGI</td>
+            <td>Speaker</td>
+            <td>Speech</td>
+            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjCAiwX">Photos</a></td>
+        </tr>
+    </tbody>
+</table>
+
+<div class="header">SESSION 7: EMERGING CHALLENGES FOR DISCOMs: GW-scale AI DATA CENTERS, MW-scale EV CHARGING STATIONS, and GRID-level POWER QUALITY CHALLENGES | Session Partner: Enspar Energy Solutions | 14:00~15:30</div>
+<table>
+    <thead>
+        <tr>
+            <th class="ppone">S.No</th>
+            <th class="pptwo">Name</th>
+            <th class="ppthree">Designation</th>
+            <th class="ppfour">Organisation</th>
+            <th class="ppfive">Category</th>
+            <th class="ppsix">Presentation/Speech</th>
+            <th class="ppseven">Video Link</th>
+            <th class="ppeight">Photo Link</th>
+		</tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>76</td>
+            <td>Ashish Goel</td>
+            <td>Chairman and General Secretary</td>
+            <td>UPPCL and AIDA</td>
+            <td>Chair</td>
+            <td>Speech</td>
+            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjCAioF">Photos</a></td>
+        </tr>
+        <tr>
+            <td>77</td>
+            <td>Reena Suri</td>
+            <td>Executive Director</td>
+            <td>India Smart Grid Forum</td>
+            <td>Moderator</td>
+            <td>Speech</td>
+            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjCAioF">Photos</a></td>
+        </tr>
+        <tr>
+            <td>78</td>
+            <td>Anil Kumar Prasanna</td>
+            <td>Director</td>
+            <td>Enspar Energy Solutions</td>
+            <td>Presentation</td>
+            <td><a target="_blank" href="#">View/ Download</a></td>
+            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjCAioF">Photos</a></td>
+        </tr>
+        <tr>
+            <td>79</td>
+            <td>Saurav Shah</td>
+            <td>ED</td>
+            <td>Power Finance Corporation</td>
+            <td>Speaker</td>
+            <td>Speech</td>
+            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjCAioF">Photos</a></td>
+        </tr>
+        <tr>
+            <td>80</td>
+            <td>Ketan P Joshi</td>
+            <td>MD</td>
+            <td>PGVCL</td>
+            <td>Speaker</td>
+            <td><a target="_blank" href="#">View/ Download</a></td>
+            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjCAioF">Photos</a></td>
+        </tr>
+        <tr>
+            <td>81</td>
+            <td>Santosh Singh</td>
+            <td>Additional Vice President</td>
+            <td>BSES Yamuna Power Limited</td>
+            <td>Speaker</td>
+            <td><a target="_blank" href="#">View/ Download</a></td>
+            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjCAioF">Photos</a></td>
+        </tr>
+        <tr>
+            <td>82</td>
+            <td>Manish Wath</td>
+            <td>Chief Engineer</td>
+            <td>Maharashtra State Electricity Distribution Company Limited</td>
+            <td></td>
+            <td>Speech</td>
+            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjCAioF">Photos</a></td>
+        </tr>
+        <tr>
+            <td>83</td>
+            <td>Chintamani Chitnis</td>
+            <td>Chief Distribution Services</td>
+            <td>Tata Power Company Ltd</td>
+            <td>Speaker</td>
+            <td><a target="_blank" href="#">View/ Download</a></td>
+            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjCAioF">Photos</a></td>
+        </tr>
+        <tr>
+            <td>84</td>
+            <td>Manish Patel</td>
+            <td>BD and Product Head for Covered Conductor</td>
+            <td>APAR Industries</td>
+            <td>Speaker</td>
+            <td><a target="_blank" href="#">View/ Download</a></td>
+            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjCAioF">Photos</a></td>
+        </tr>
         <tr>
             <td>85</td>
-            <td>Arvind Kumar</td>
-            <td>Chairman</td>
-            <td>UPERC</td>
+            <td>Kishor Narang</td>
+            <td>Founder, Mentor, Principal Design Strategist and Architect</td>
+            <td>Narnix Technolabs</td>
             <td>Speaker</td>
-            <td>Speech</td>
-            <td><a target="_blank" href="https://flic.kr/s/aHBqjBSmfg" class="link">Video</a></td>
-            <td><a target="_blank" href="https://flic.kr/s/aHBqjBSmfg" class="link">Photos</a></td>
-			<!-- <td></td>
-				<td></td> -->
-				<!--<td><a target="_blank" href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
-				<td><a target="_blank" href="dumpdf/2024/12.pdf" download>Download</a></td> -->
+            <td><a target="_blank" href="#">View/ Download</a></td>
+            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjCAioF">Photos</a></td>
         </tr>
         <tr>
             <td>86</td>
-            <td>Hemant Verma</td>
-            <td>Chairman</td>
-            <td>CSERC</td>
+            <td>Gaurav Sharma</td>
+            <td>General Manager – Distribution Technical</td>
+            <td>Noida Power Company Limited</td>
             <td>Speaker</td>
-            <td>Speech</td>
-            <td><a target="_blank" href="https://flic.kr/s/aHBqjBSmfg" class="link">Video</a></td>
-            <td><a target="_blank" href="https://flic.kr/s/aHBqjBSmfg" class="link">Photos</a></td>
-			<!-- <td></td>
-				<td></td> -->
-				<!--<td><a target="_blank" href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
-				<td><a target="_blank" href="dumpdf/2024/12.pdf" download>Download</a></td> -->
+            <td><a target="_blank" href="#">View/ Download</a></td>
+            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjCAioF">Photos</a></td>
         </tr>
+    </tbody>
+</table>
+
+<div class="header">SESSION 8: EXTREME WEATHER EVENTS AND THE URGENT NEED FOR REVISION OF STANDARDS AND SPECIFICATIONS OF GRID EQUIPMENT | 15:30~17:00</div>
+<table>
+    <thead>
+        <tr>
+            <th class="ppone">S.No</th>
+            <th class="pptwo">Name</th>
+            <th class="ppthree">Designation</th>
+            <th class="ppfour">Organisation</th>
+            <th class="ppfive">Category</th>
+            <th class="ppsix">Presentation/Speech</th>
+            <th class="ppseven">Video Link</th>
+            <th class="ppeight">Photo Link</th>
+		</tr>
+    </thead>
+    <tbody>
         <tr>
             <td>87</td>
-            <td>Ashish Goel</td>
-            <td>Chairman</td>
-            <td>UPPCL</td>
-            <td>Speaker</td>
+            <td>Ravi Seethapathy</td>
+            <td>Chairman and WG Chair</td>
+            <td>Biosirus, Inc and ISGF</td>
+            <td>Chair & Moderator</td>
             <td>Speech</td>
-            <td><a target="_blank" href="https://flic.kr/s/aHBqjBSmfg" class="link">Video</a></td>
-            <td><a target="_blank" href="https://flic.kr/s/aHBqjBSmfg" class="link">Photos</a></td>
-			<!-- <td></td>
-				<td></td> -->
-				<!--<td><a target="_blank" href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
-				<td><a target="_blank" href="dumpdf/2024/12.pdf" download>Download</a></td> -->
+            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjCAipY">Photos</a></td>
         </tr>
         <tr>
             <td>88</td>
-            <td>Reji Kumar Pillai</td>
-            <td>President</td>
-            <td>ISGF</td>
+            <td>Amit Tripathi</td>
+            <td>Advisor – Power Sector</td>
+            <td>Coalition for Disaster Resilient Infrastructure (CDRI)</td>
+            <td>Presentation</td>
+            <td><a target="_blank" href="#">View/ Download</a></td>
+            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjCAipY">Photos</a></td>
+        </tr>
+        <tr>
+            <td>89</td>
+            <td>Gajanan Kale</td>
+            <td>CEO</td>
+            <td>Tata Power, Odisha</td>
+            <td>Speaker</td>
+            <td><a target="_blank" href="#">View/ Download</a></td>
+            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjCAipY">Photos</a></td>
+        </tr>
+        <tr>
+            <td>90</td>
+            <td>Sujit Pathak</td>
+            <td>General Manager</td>
+            <td>CESC, Kolkata</td>
+            <td>Speaker</td>
+            <td><a target="_blank" href="#">View/ Download</a></td>
+            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjCAipY">Photos</a></td>
+        </tr>
+        <tr>
+            <td>91</td>
+            <td>Aneesh Thomas</td>
+            <td>Associate Director - National Sales MV</td>
+            <td>Eaton Power Quality</td>
             <td>Speaker</td>
             <td>Speech</td>
-            <td><a target="_blank" href="https://flic.kr/s/aHBqjBSmfgg" class="link">Video</a></td>
-            <td><a target="_blank" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720322051275/" class="link">Photos</a></td>
-			<!-- <td></td>
-				<td></td> -->
-				<!--<td><a target="_blank" href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
-				<td><a target="_blank" href="dumpdf/2024/12.pdf" download>Download</a></td> -->
+            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjCAipY">Photos</a></td>
         </tr>
-    </table>
+        <tr>
+            <td>92</td>
+            <td>Aakash Saxena</td>
+            <td>Chief Operating Officer</td>
+            <td>CESC Rajasthan</td>
+            <td>Speaker</td>
+            <td>Speech</td>
+            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjCAipY">Photos</a></td>
+        </tr>
+        <tr>
+            <td>93</td>
+            <td>Deepti Sharma</td>
+            <td>Addl Vice President</td>
+            <td>BSES Rajdhani Power Limited</td>
+            <td>Speaker</td>
+            <td>Speech</td>
+            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjCAipY">Photos</a></td>
+        </tr>
+    </tbody>
+</table>
+
+<div class="header">VALEDICTORY SESSION | 17:00 - 18:00</div>
+<table>
+    <thead>
+        <tr>
+            <th class="ppone">S.No</th>
+            <th class="pptwo">Name</th>
+            <th class="ppthree">Designation</th>
+            <th class="ppfour">Organisation</th>
+            <th class="ppfive">Category</th>
+            <th class="ppsix">Presentation/Speech</th>
+            <th class="ppseven">Video Link</th>
+            <th class="ppeight">Photo Link</th>
+		</tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>95</td>
+            <td>Dileep Jagdale</td>
+            <td>Joint Managing Director</td>
+            <td>MSEDCL Kokan Region</td>
+            <td>Special Address</td>
+            <td>Speech</td>
+            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjCAjee">Photos</a></td>
+        </tr>
+        <tr>
+            <td>96</td>
+            <td>Anshuman Srivastava</td>
+            <td>Executive Director</td>
+            <td>Power Foundation of India</td>
+            <td>Special Address</td>
+            <td>Speech</td>
+            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjCAjee">Photos</a></td>
+        </tr>
+        <tr>
+            <td>97</td>
+            <td>Gajanan Kale</td>
+            <td>Chief Executive Officer</td>
+            <td>Tata Power, Odisha</td>
+            <td>Special Address</td>
+            <td>Speech</td>
+            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjCAjee">Photos</a></td>
+        </tr>
+        <tr>
+            <td>98</td>
+            <td>Reji Kumar Pillai</td>
+            <td>President</td>
+            <td>India Smart Grid Forum</td>
+            <td>Vote of Thanks</td>
+            <td>Speech</td>
+            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjCAjee">Photos</a></td>
+        </tr>
+        <tr>
+            <td>99</td>
+            <td>Reena Suri</td>
+            <td>Executive Director</td>
+            <td>India Smart Grid Forum</td>
+            <td>Vote of Thanks</td>
+            <td>Speech</td>
+            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjCAjee">Photos</a></td>
+        </tr>
+    </tbody>
+</table>
+
+<div class="header">DUM 2025_EXHIBITION</div>
+<table>
+    <thead>
+        <tr>
+            <th class="ppone">S.No</th>
+            <th class="pptwo">Name</th>
+            <th class="ppthree">Designation</th>
+            <th class="ppfour">Organisation</th>
+            <th class="ppfive">Category</th>
+            <th class="ppsix">Presentation/Speech</th>
+            <th class="ppseven">Video Link</th>
+            <th class="ppeight">Photo Link</th>
+		</tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td><a target="_blank" href="#">Video link</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjCApuy">Photos Link</a></td>
+        </tr>
+    </tbody>
+</table>
+
+<div class="header">DUM 2025_BRANDING</div>
+<table>
+    <thead>
+        <tr>
+            <th class="ppone">S.No</th>
+            <th class="pptwo">Name</th>
+            <th class="ppthree">Designation</th>
+            <th class="ppfour">Organisation</th>
+            <th class="ppfive">Category</th>
+            <th class="ppsix">Presentation/Speech</th>
+            <th class="ppseven">Video Link</th>
+            <th class="ppeight">Photo Link</th>
+		</tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td><a target="_blank" href="#">Video link</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjCwGZo">Photos Link</a></td>
+        </tr>
+    </tbody>
+</table>
 
     <div class="header">Previous Year Presentations</div>
     

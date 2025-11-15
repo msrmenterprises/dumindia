@@ -207,7 +207,7 @@ if($pass == "DUM2025#0405")
             <td>DG - AIDA</td>
             <td>Former Secretary, Ministry of Power, GOI</td>
             <td>Moderator</td>
-            <td><a target="_blank" href="#">View/Download</a></td>
+            <td><a target="_blank" href="/images/2026/ppt/12. Alok Kumar_Session 1 Special Plenary_Sustainability of DISCOMs.pdf">View/Download</a></td>
             <td><a target="_blank" href="#">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAi3q">Photos</a></td>
         </tr>

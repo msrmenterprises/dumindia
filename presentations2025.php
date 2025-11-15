@@ -53,7 +53,7 @@ if($pass == "DUM2025#0405")
 	</div>
 	
 	<div class="header">
-    DISTRIBUTION UTILITY MEET - DUM 2024 | 04-05 Nov 2025 | Mumbai, India
+    DISTRIBUTION UTILITY MEET - DUM 2025 | 04-05 Nov 2025 | Mumbai, India
     <!-- <br>DAY - 1: 14 NOVEMBER 2024 (THURSDAY)
     <br>INAUGURATION OF DUM 2024 CONFERENCE AND EXHIBITION | 09.00 ~ 11.15 -->
 </div>
@@ -207,7 +207,7 @@ if($pass == "DUM2025#0405")
             <td>DG - AIDA</td>
             <td>Former Secretary, Ministry of Power, GOI</td>
             <td>Moderator</td>
-            <td><a target="_blank" href="/images/2026/ppt/12. Alok Kumar_Session 1 Special Plenary_Sustainability of DISCOMs.pdf">View/Download</a></td>
+            <td><a target="_blank" rel="noopener" href="/images/2026/ppt/12. Alok Kumar_Session 1 Special Plenary_Sustainability of DISCOMs.pdf">View/Download</a></td>
             <td><a target="_blank" href="#">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAi3q">Photos</a></td>
         </tr>
@@ -217,7 +217,7 @@ if($pass == "DUM2025#0405")
             <td>Head Regulatory (Senior Specialist)</td>
             <td>Power Foundation of India</td>
             <td>Presentation</td>
-            <td><a target="_blank" href="#">View/Download</a></td>
+            <td><a target="_blank" rel="noopener" href="/images/2026/ppt/13. Himanshu Chawla_Session 1 Special Plenary_Sustainability of DISCOMs.pdf">View/Download</a></td>
             <td><a target="_blank" href="#">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAi3q">Photos</a></td>
         </tr>
@@ -335,7 +335,7 @@ if($pass == "DUM2025#0405")
             <td>MD & CEO</td>
             <td>IntelliSmart</td>
             <td>Presentation</td>
-            <td><a target="_blank" href="#">View/Download</a></td>
+            <td><a target="_blank" rel="noopener" href="/images/2026/ppt/23. Anil Rawal - Session 2 - Smart Meter Rollout in India.pdf">View/Download</a></td>
             <td><a target="_blank" href="#">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAogZ">Photos</a></td>
         </tr>
@@ -358,7 +358,7 @@ if($pass == "DUM2025#0405")
             <td>Vice President – Sales</td>
             <td>Trilliant Networks</td>
             <td>Speaker</td>
-            <td><a target="_blank" href="#">View/Download</a></td>
+            <td><a target="_blank" rel="noopener" href="/images/2026/ppt/25. Sandip Sinha - Session 2 - Smart Meter Rollout in India.pdf">View/Download</a></td>
             <td><a target="_blank" href="#">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAogZ">Photos</a></td>
         </tr>
@@ -368,7 +368,7 @@ if($pass == "DUM2025#0405")
             <td>CEO</td>
             <td>EDX Wireless</td>
             <td>Speaker</td>
-            <td><a target="_blank" href="#">View/Download</a></td>
+            <td><a target="_blank" rel="noopener" href="/images/2026/ppt/26. Anoop Kaur Bowdery - Session 2 - Smart Meter Rollout in India.pdf">View/Download</a></td>
             <td><a target="_blank" href="#">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAogZ">Photos</a></td>
         </tr>
@@ -431,7 +431,7 @@ if($pass == "DUM2025#0405")
             <td>CEO</td>
             <td>Wirepas</td>
             <td>Speaker</td>
-            <td><a target="_blank" href="#">View/Download</a></td>
+            <td><a target="_blank" rel="noopener" href="/images/2026/ppt/32. Teppo Hemia - Session 2 - Smart Meter Rollout in India.pdf">View/Download</a></td>
             <td><a target="_blank" href="#">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAogZ">Photos</a></td>
         </tr>
@@ -451,7 +451,7 @@ if($pass == "DUM2025#0405")
             <td>CMD</td>
             <td>Allied Engineering Works Limited</td>
             <td>Speaker</td>
-            <td><a target="_blank" href="#">View/Download</a></td>
+            <td><a target="_blank" rel="noopener" href="/images/2026/ppt/34. Asutosh Goel - Session 2 - Smart Meter Rollout in India.pdf">View/Download</a></td>
             <td><a target="_blank" href="#">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAogZ">Photos</a></td>
         </tr>
@@ -461,7 +461,7 @@ if($pass == "DUM2025#0405")
             <td>Advisor, Strategy and Stakeholder Engagement</td>
             <td>Radius Synergies International Pvt. Ltd.</td>
             <td>Speaker</td>
-            <td><a target="_blank" href="#">View/Download</a></td>
+            <td><a target="_blank" rel="noopener" href="/images/2026/ppt/35. Jaideep Singh - Session 2 - Smart Meter Rollout in India.pdf">View/Download</a></td>
             <td><a target="_blank" href="#">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAogZ">Photos</a></td>
         </tr>
@@ -509,7 +509,7 @@ if($pass == "DUM2025#0405")
             <td>Chief Product Officer</td>
             <td>Impressa.ai</td>
             <td>Presentation</td>
-            <td><a target="_blank" href="#">View/Download</a></td>
+            <td><a target="_blank" rel="noopener" href="/images/2026/ppt/38. Rohit Pareek - SESSION  3 AI-ML-VRAR-ROBOTICS.pdf">View/Download</a></td>
             <td><a target="_blank" href="#">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAiDS">Photos</a></td>
         </tr>
@@ -519,7 +519,7 @@ if($pass == "DUM2025#0405")
             <td>President</td>
             <td>India Smart Grid Forum</td>
             <td>Presentation</td>
-            <td><a target="_blank" href="#">View/Download</a></td>
+            <td><a target="_blank" rel="noopener" href="/images/2026/ppt/39. Reji Kumar Pillai - SESSION  3 AI-ML-VRAR-ROBOTICS.pdf">View/Download</a></td>
             <td><a target="_blank" href="#">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAiDS">Photos</a></td>
         </tr>
@@ -569,7 +569,7 @@ if($pass == "DUM2025#0405")
             <td>Customer Solutions Manager</td>
             <td>Trilliant</td>
             <td>Speaker</td>
-            <td><a target="_blank" href="#">View/Download</a></td>
+            <td><a target="_blank" rel="noopener" href="/images/2026/ppt/44. Swapnadeep Banerjee - SESSION  3 AI-ML-VRAR-ROBOTICS.pdf">View/Download</a></td>
             <td><a target="_blank" href="#">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAiDS">Photos</a></td>
         </tr>
@@ -627,7 +627,7 @@ if($pass == "DUM2025#0405")
             <td>Co-Founder and CEO</td>
             <td>FIDE</td>
             <td>Presentation</td>
-            <td><a target="_blank" href="#">View/Download</a></td>
+            <td><a target="_blank" rel="noopener" href="/images/2026/ppt/48. Sujith Nair - Session 4 - Digital Energy Grid _ DUM25.pdf">View/Download</a></td>
             <td><a target="_blank" href="#">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAsxb">Photos</a></td>
         </tr>
@@ -637,7 +637,7 @@ if($pass == "DUM2025#0405")
             <td>Associate Product Manager</td>
             <td>Impressa.ai</td>
             <td>Presentation</td>
-            <td><a target="_blank" href="#">View/Download</a></td>
+            <td><a target="_blank" rel="noopener" href="/images/2026/ppt/49. Vishakha Chavan - Session 4 - Digital Energy Grid _ DUM25.pdf">View/Download</a></td>
             <td><a target="_blank" href="#">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAsxb">Photos</a></td>
         </tr>
@@ -647,7 +647,7 @@ if($pass == "DUM2025#0405")
             <td>Senior Engineer</td>
             <td>India Smart Grid Forum</td>
             <td>Presentation</td>
-            <td><a target="_blank" href="#">View/Download</a></td>
+            <td><a target="_blank" rel="noopener" href="/images/2026/ppt/50. Shashi Bala - Session 4 - Digital Energy Grid _ DUM25.pdf">View/Download</a></td>
             <td><a target="_blank" href="#">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAsxb">Photos</a></td>
         </tr>
@@ -687,7 +687,7 @@ if($pass == "DUM2025#0405")
             <td>VP-R&D</td>
             <td>Stelmec</td>
             <td>Speaker</td>
-            <td><a target="_blank" href="#">View/Download</a></td>
+            <td><a target="_blank" rel="noopener" href="/images/2026/ppt/54. RS Selvam - Session 4 - Digital Energy Grid _ DUM25.pdf">View/Download</a></td>
             <td><a target="_blank" href="#">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAsxb">Photos</a></td>
         </tr>
@@ -773,7 +773,7 @@ if($pass == "DUM2025#0405")
             <td>Chief Engineer - RE</td>
             <td>Maharashtra State Electricity Distribution Company Limited</td>
             <td>Presentation</td>
-            <td><a target="_blank" href="#">View/Download</a></td>
+            <td><a target="_blank" rel="noopener" href="/images/2026/ppt/59. Dnyanesh Kulkarni - SESSION  - 5 GRID INTEGRATION OF DRE.pdf">View/Download</a></td>
             <td><a target="_blank" href="#">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAsQv">Photos</a></td>
         </tr>
@@ -783,7 +783,7 @@ if($pass == "DUM2025#0405")
             <td>Executive Director - SP</td>
             <td>Maharashtra State Electricity Distribution Company Limited</td>
             <td>Presentation</td>
-            <td><a target="_blank" href="#">View/Download</a></td>
+            <td><a target="_blank" rel="noopener" href="/images/2026/ppt/60. Dhananjay Aundhekar - SESSION - 5 GRID INTEGRATION OF DRE.pdf">View/Download</a></td>
             <td><a target="_blank" href="#">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAsQv">Photos</a></td>
         </tr>
@@ -793,7 +793,7 @@ if($pass == "DUM2025#0405")
             <td>President</td>
             <td>India Smart Grid Forum</td>
             <td>Presentation</td>
-            <td><a target="_blank" href="#">View/Download</a></td>
+            <td><a target="_blank" rel="noopener" href="/images/2026/ppt/61. Reji Kumar Pillai - SESSION  - 5 GRID INTEGRATION OF DRE.pdf">View/Download</a></td>
             <td><a target="_blank" href="#">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAsQv">Photos</a></td>
         </tr>
@@ -861,7 +861,7 @@ if($pass == "DUM2025#0405")
             <td>Executive Director</td>
             <td>Power Foundation of India (PFI)</td>
             <td>Presentation</td>
-            <td><a target="_blank" href="#">View/Download</a></td>
+            <td><a target="_blank" rel="noopener" href="/images/2026/ppt/66. Anshuman Srivastava - SESSION 6 - ELECTRIC VEHICLES – A $200 BILLION.pdf">View/Download</a></td>
             <td><a target="_blank" href="#">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAiwX">Photos</a></td>
         </tr>
@@ -871,7 +871,7 @@ if($pass == "DUM2025#0405")
             <td>General Manager</td>
             <td>India Smart Grid Forum</td>
             <td>Presentation</td>
-            <td><a target="_blank" href="#">View/Download</a></td>
+            <td><a target="_blank" rel="noopener" href="/images/2026/ppt/67. Anand Singh - SESSION 6 - ELECTRIC VEHICLES – A $200 BILLION.pdf">View/Download</a></td>
             <td><a target="_blank" href="#">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAiwX">Photos</a></td>
         </tr>
@@ -881,7 +881,7 @@ if($pass == "DUM2025#0405")
             <td>Head of Tata Power e-Mobility Business</td>
             <td>Tata Power Company Limited</td>
             <td>Speaker</td>
-            <td><a target="_blank" href="#">View/Download</a></td>
+            <td><a target="_blank" rel="noopener" href="/images/2026/ppt/68. Ramkrsihna - SESSION 6 - ELECTRIC VEHICLES – A $200 BILLION.pdf">View/Download</a></td>
             <td><a target="_blank" href="#">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAiwX">Photos</a></td>
         </tr>
@@ -921,7 +921,7 @@ if($pass == "DUM2025#0405")
             <td>Vice President & CTO</td>
             <td>Chandigarh Power Distribution Company Ltd</td>
             <td>Speaker</td>
-            <td><a target="_blank" href="#">View/Download</a></td>
+            <td><a target="_blank" rel="noopener" href="/images/2026/ppt/72. Pramod Mishra - SESSION 6 - ELECTRIC VEHICLES – A $200 BILLION.pdf">View/Download</a></td>
             <td><a target="_blank" href="#">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAiwX">Photos</a></td>
         </tr>
@@ -999,7 +999,7 @@ if($pass == "DUM2025#0405")
             <td>Director</td>
             <td>Enspar Energy Solutions</td>
             <td>Presentation</td>
-            <td><a target="_blank" href="#">View/ Download</a></td>
+            <td><a target="_blank" rel="noopener" href="/images/2026/ppt/78. Anil Prasanna - SESSION 7 - EMERGING CHALLENGES FOR DISCOMS.pdf">View/ Download</a></td>
             <td><a target="_blank" href="#">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAioF">Photos</a></td>
         </tr>
@@ -1019,7 +1019,7 @@ if($pass == "DUM2025#0405")
             <td>MD</td>
             <td>PGVCL</td>
             <td>Speaker</td>
-            <td><a target="_blank" href="#">View/ Download</a></td>
+            <td><a target="_blank" rel="noopener" href="/images/2026/ppt/80. Ketan Joshi - SESSION 7 - EMERGING CHALLENGES FOR DISCOMS.pdf">View/ Download</a></td>
             <td><a target="_blank" href="#">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAioF">Photos</a></td>
         </tr>
@@ -1029,7 +1029,7 @@ if($pass == "DUM2025#0405")
             <td>Additional Vice President</td>
             <td>BSES Yamuna Power Limited</td>
             <td>Speaker</td>
-            <td><a target="_blank" href="#">View/ Download</a></td>
+            <td><a target="_blank" rel="noopener" href="/images/2026/ppt/81. Santosh Singh BRPL - SESSION 7 - EMERGING CHALLENGES FOR DISCOMS.pdf">View/ Download</a></td>
             <td><a target="_blank" href="#">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAioF">Photos</a></td>
         </tr>
@@ -1049,7 +1049,7 @@ if($pass == "DUM2025#0405")
             <td>Chief Distribution Services</td>
             <td>Tata Power Company Ltd</td>
             <td>Speaker</td>
-            <td><a target="_blank" href="#">View/ Download</a></td>
+            <td><a target="_blank" rel="noopener" href="/images/2026/ppt/83. Chintamani Chitnis - SESSION 7 - EMERGING CHALLENGES FOR DISCOMS.pdf">View/ Download</a></td>
             <td><a target="_blank" href="#">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAioF">Photos</a></td>
         </tr>
@@ -1059,7 +1059,7 @@ if($pass == "DUM2025#0405")
             <td>BD and Product Head for Covered Conductor</td>
             <td>APAR Industries</td>
             <td>Speaker</td>
-            <td><a target="_blank" href="#">View/ Download</a></td>
+            <td><a target="_blank" rel="noopener" href="/images/2026/ppt/84. Manish Patel - SESSION 7 - EMERGING CHALLENGES FOR DISCOMS.pdf">View/ Download</a></td>
             <td><a target="_blank" href="#">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAioF">Photos</a></td>
         </tr>
@@ -1069,7 +1069,7 @@ if($pass == "DUM2025#0405")
             <td>Founder, Mentor, Principal Design Strategist and Architect</td>
             <td>Narnix Technolabs</td>
             <td>Speaker</td>
-            <td><a target="_blank" href="#">View/ Download</a></td>
+            <td><a target="_blank" rel="noopener" href="/images/2026/ppt/85. Kishor Narang - SESSION 7 - EMERGING CHALLENGES FOR DISCOMS.pdf">View/ Download</a></td>
             <td><a target="_blank" href="#">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAioF">Photos</a></td>
         </tr>
@@ -1079,7 +1079,7 @@ if($pass == "DUM2025#0405")
             <td>General Manager – Distribution Technical</td>
             <td>Noida Power Company Limited</td>
             <td>Speaker</td>
-            <td><a target="_blank" href="#">View/ Download</a></td>
+            <td><a target="_blank" rel="noopener" href="/images/2026/ppt/86. Gaurav Sharma - SESSION 7 - EMERGING CHALLENGES FOR DISCOMS.pdf">View/ Download</a></td>
             <td><a target="_blank" href="#">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAioF">Photos</a></td>
         </tr>
@@ -1117,7 +1117,7 @@ if($pass == "DUM2025#0405")
             <td>Advisor – Power Sector</td>
             <td>Coalition for Disaster Resilient Infrastructure (CDRI)</td>
             <td>Presentation</td>
-            <td><a target="_blank" href="#">View/ Download</a></td>
+            <td><a target="_blank" rel="noopener" href="/images/2026/ppt/88. Amit Tripathi - Session 8 - Coalition for Disaster Resilient Infrastructure.pdf">View/ Download</a></td>
             <td><a target="_blank" href="#">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAipY">Photos</a></td>
         </tr>
@@ -1127,7 +1127,7 @@ if($pass == "DUM2025#0405")
             <td>CEO</td>
             <td>Tata Power, Odisha</td>
             <td>Speaker</td>
-            <td><a target="_blank" href="#">View/ Download</a></td>
+            <td><a target="_blank" rel="noopener" href="/images/2026/ppt/89. Gajanan Kale - Session 8 - Climate Resilience of Future Grids.pdf">View/ Download</a></td>
             <td><a target="_blank" href="#">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAipY">Photos</a></td>
         </tr>
@@ -1137,7 +1137,7 @@ if($pass == "DUM2025#0405")
             <td>General Manager</td>
             <td>CESC, Kolkata</td>
             <td>Speaker</td>
-            <td><a target="_blank" href="#">View/ Download</a></td>
+            <td><a target="_blank" rel="noopener" href="/images/2026/ppt/90. Sujit Pathak - Session 8 - Extreme Weather Events.pdf">View/ Download</a></td>
             <td><a target="_blank" href="#">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAipY">Photos</a></td>
         </tr>

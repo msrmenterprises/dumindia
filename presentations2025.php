@@ -368,7 +368,7 @@ if($pass == "DUM2025#0405")
             <td>CEO</td>
             <td>EDX Wireless</td>
             <td>Speaker</td>
-            <td><a target="_blank" rel="noopener" href="/images/2026/ppt/26. Anoop Kaur Bowdery - Session 2 - Smart Meter Rollout in India.pdf">View/Download</a></td>
+            <td><a target="_blank" rel="noopener" href="/images/2026/ppt/26AnoopKaurBowdery - Session 2 - Smart Meter Rollout in India.pdf">View/Download</a></td>
             <td><a target="_blank" href="#">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAogZ">Photos</a></td>
         </tr>
@@ -1079,7 +1079,7 @@ if($pass == "DUM2025#0405")
             <td>General Manager – Distribution Technical</td>
             <td>Noida Power Company Limited</td>
             <td>Speaker</td>
-            <td><a target="_blank" rel="noopener" href="/images/2026/ppt/86. Gaurav Sharma - SESSION 7 - EMERGING CHALLENGES FOR DISCOMS.pdf">View/ Download</a></td>
+            <td><a target="_blank" rel="noopener" href="/images/2026/ppt/86GauravSharma - SESSION 7 - EMERGING CHALLENGES FOR DISCOMS.pdf">View/ Download</a></td>
             <td><a target="_blank" href="#">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAioF">Photos</a></td>
         </tr>

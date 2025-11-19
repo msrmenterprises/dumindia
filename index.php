@@ -455,7 +455,10 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 				<li><a href="https://www.successengineers.co.in/" target="_blank"><img src="/images/2026/SuccessEngineer.jpeg" style="border: 1px solid #aeb4b2; height: 120px;" alt="Success Engineers">Success Engineers</a></li>
 				<li><a href="https://www.hplindia.com/" target="_blank"><img src="/images/HPL Electric & Power Limited Logo.png" style="border: 1px solid #aeb4b2; height:123px;">HPL Electric & Power Limited </a></li>
 				<li><a href="https://pluto-men.com/" target="_blank"><img src="images/2026/Plutomen.png" style="height:155px;">Plutomen</a></li>	
-				<li><a href="https://www.adanielectricity.com/" target="_blank"><img src="images/2024/AdaniElectricity.png" style="height:155px;">Adani Electricity Mumbai Limited</a></li>	
+				<li><a href="https://www.adanielectricity.com/" target="_blank"><img src="images/2024/AdaniElectricity.png" style="height:155px;">Adani Electricity Mumbai Limited</a></li>
+				<li><a href="https://younityenergy.com/" target="_blank"><img src="images/2026/Younity.png" style="height:155px;">Younity Energy Pvt Ltd </a></li>
+				<li><a href="https://www.crigroups.com/" target="_blank"><img src="images/2026/CRI.png" style="height:155px;">CRI Pumps Pvt Ltd</a></li>	
+
 				</ul>
 
 	</div>

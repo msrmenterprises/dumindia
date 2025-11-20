@@ -56,6 +56,18 @@
 	<li><a href="https://www.mpwz.co.in/" target="_blank"><img src="images/utilities2019/4. MPPKVVCL.png" style="height:155px;">Madhya Pradesh Paschim Kshetra Vidyut Vitaran Co. Ltd. (MPPKVVCL)</a></li>
 	<li><a href="https://www.kesco.co.in/" target="_blank"><img src="images/2024/kanpur_electrict.png" style="height:155px;">Kanpur Electricity Supply Company Limited</a></li>
 	<li><a href="https://www.adanielectricity.com/" target="_blank"><img src="images/2024/AdaniElectricity.png" style="height:155px;">Adani Electricity Mumbai Limited</a></li>	
+
+	<li><a href="https://www.hpseb.in/irj/go/km/docs/internet/New_Website/Pages/Home.html" target="_blank" rel="noopener"><img src="images/utilities2019/himachal.png" style="height:155px;">Himachal Pradesh State Electricity Board Limited</a></li>
+		<li><a href="https://portal.mpcz.in/web/" target="_blank" rel="noopener"><img src="images/utilities2019/12. MPMKVVCL logo.jpeg" style="height:155px;">MP Madhya Kshetra Vidyut Vitran Co. Ltd.</a></li>
+		<li><a href="https://www.tatapower-ddl.com/" target="_blank" rel="noopener"><img src="images/utilities2019/tatapowerdlll.png" style="height:155px;">Tata Power Delhi Distribution Limited</a></li>
+		<li><a href="https://www.apdcl.org/website/" target="_blank" rel="noopener"><img src="images/utilities2019/assampower.png" style="height:155px;">Assam Power Distribution Company Ltd.</a></li>
+		<li><a href="https://kseb.in/" target="_blank" rel="noopener"><img src="images/KSEB_Logo_2022-new.jpg" style="height:155px;">Kerala State Electricity Board Limited</a></li>
+		<li><a href="https://www.cspdcl.co.in/cseb/" target="_blank" rel="noopener"><img src="images/2026/Chhattisgarh.png" style="height:155px;" alt="CSPDCL">Chhattisgarh State Power Distribution Company Limited</a></li>
+		<li><a href="https://tsecl.in/" target="_blank" rel="noopener"><img src="images/2026/TripuraState.jpg" style="height:155px;" alt="TSECL Logo Pending">Tripura State Electricity Corporation Limited</a></li>
+		<li><a href="http://www.jkpdd.gov.in/" target="_blank" rel="noopener"><img src="images/2026/Jammukashmir.jpg" style="height:155px;" alt="JKPDD">Jammu & Kashmir Power Development Department</a></li>
+		<li><a href="https://energy.rajasthan.gov.in/jdvvnl/#/home/dptHome" target="_blank" rel="noopener"><img src="images/utilities2019/Jodhpur Vidyut Vitran Nigam Limited.jpg" style="height:155px;">Jodhpur Vidyut Vitran Nigam Ltd.</a></li>
+		<li><a href="https://bescom.karnataka.gov.in/en" target="_blank" rel="noopener"><img src="images/utilities2019/bescom.png" style="height:155px;">Bangalore Electricity Supply Co. Ltd. (BESCOM)</a></li>
+
 </ul>
 
 <div class="k_cheading">

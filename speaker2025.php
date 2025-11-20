@@ -1906,6 +1906,779 @@ Personnel of the Company.</p>
 			</div>
 		</div>
 	</div>
+
+    <div class="row speaker_row">
+            <div class="k_list_part">
+                <div class="col-sm-12 dum_speaker">
+                    <div class="speaker_img">
+                        <img src="media/Shrinivas.png" alt="A Shrinivas Rao" class="speaker-photo">
+                    </div>
+                    <div class="speaker_content">
+                        <h1 class="key_head">
+                            A Shrinivas Rao,<br/>
+                            General Manager - Transportation Engineering<br/>
+                            BEST Undertaking, Mumbai
+                        </h1>
+                        <p>
+                            Mr Rao has Deep technical expertise was combined with strategic policy insight to facilitate the adoption of electric buses, modernization of infrastructure, and enhancement of safety and customer experience. The scale-up of e-buses under GCC/OPEX models was spearheaded, with prototype development, route planning, and energy management being overseen.
+                        </p>
+                        <p>
+                            Charging infrastructure, sub-stations, and solar PV systems were integrated to electrify depots. Fleet reliability was ensured through the implementation of maintenance protocols, SOPs, QA frameworks, and workforce training. KPI dashboards were developed to monitor operational metrics, while passenger safety and experience were improved via ITS/CCTV integration, accessibility upgrades, and training.
+                        </p>
+                        <p>
+                            Funding and partnerships were secured under FAME-II, Maharashtra EV Policy, and C40-aligned initiatives, with non-farebox opportunities being explored. Governance was strengthened through coordinated delivery, vendor management, and policy compliance, and BEST services were aligned with Metro and rail networks to enable integrated public transport.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Anand Singh -->
+        <div class="row speaker_row">
+            <div class="k_list_part">
+                <div class="col-sm-12 dum_speaker">
+                    <div class="speaker_img">
+                        <img src="media/Anand.jpg" alt="Anand Singh" class="speaker-photo">
+                    </div>
+                    <div class="speaker_content">
+                        <h1 class="key_head">
+                            Anand Singh,<br/>
+                            General Manager<br/>
+                            India Smart Grid Forum
+                        </h1>
+                        <p>
+                            Anand is currently working as General Manager at India Smart Grid Forum, Delhi. He carries over 20 years of experience in electricity sector in diverse functions covering technology and business consulting across the value chain in Smart Grid and Electric Mobility space.
+                        </p>
+                        <p>
+                            Anand has played a key role in several important initiatives related to renewable energy, electric grid modernization, electric mobility, energy storage and digitalization in India during the last decades.
+                        </p>
+                        <p>
+                            His current areas of work spans: Grid Integrated Vehicles, District Cooling Systems, Electric Cooking, Smart Grids, Freight corridors for Electric Trucks, Future Mobility Parks, Time of Use Tariff for Indian Utilities, Renewable Energy Trading Using Blockchain Technology; AI, VR and AR Applications for Utilities.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Anil Kumar Prasanna -->
+        <div class="row speaker_row">
+            <div class="k_list_part">
+                <div class="col-sm-12 dum_speaker">
+                    <div class="speaker_img">
+                        <img src="media/AnilKumarPrasanna.png" alt="Anil Kumar Prasanna" class="speaker-photo">
+                    </div>
+                    <div class="speaker_content">
+                        <h1 class="key_head">
+                            Anil Kumar Prasanna,<br/>
+                            Director<br/>
+                            Enspar Energy Solutions
+                        </h1>
+                        <p>
+                            Currently working as Director, Power Quality Management at Enspar Energy Solutions Pvt Ltd. Undergone advanced Training in Nuclear Science and Engineering at Training school, Bhabha Atomic research center (BARC), Mumbai.
+                        </p>
+                        <p>
+                            Later worked for NUCLEAR POWER CORPORATION TATA ELECTRIC, ASEA (ABB), VOLTAS (TATA COMPANY) and ROCKWELL AUTOMATION in various middle and senior level positions in the field of Power Generation (Nuclear, Thermal, Hydro), Relay Coordination and Protection, Substation SCADA and Automation.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Anshuman Srivastava -->
+        <div class="row speaker_row">
+            <div class="k_list_part">
+                <div class="col-sm-12 dum_speaker">
+                    <div class="speaker_img">
+                        <img src="media/anshuman_srivastava.png" alt="Anshuman Srivastava" class="speaker-photo">
+                    </div>
+                    <div class="speaker_content">
+                        <h1 class="key_head">
+                            Anshuman Srivastava,<br/>
+                            Executive Director<br/>
+                            Power Foundation of India
+                        </h1>
+                        <p>
+                            Anshuman Srivastava is currently serving as the Executive Director at Power Foundation of India (PFI). He holds a B.Tech degree in Electrical Engineering from G. B. Pant University, Pantnagar (Uttarakhand).
+                        </p>
+                        <p>
+                            With a distinguished career spanning 35 years at NTPC Ltd., he has extensive experience in Corporate Contracts and Materials, having worked both at the Corporate Office and various power plants.
+                        </p>
+                        <p>
+                            Prior to his current role, he led the Contracts and Materials Department at the Solapur Project of NTPC Ltd. Notably, he was an integral part of the NTPC team that successfully took over the Unchahar Project from UPRVUN in 1992.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Atul Save -->
+        <div class="row speaker_row">
+            <div class="k_list_part">
+                <div class="col-sm-12 dum_speaker">
+                    <div class="speaker_img">
+                        <img src="media/atul_save.jpeg" alt="Atul Save" class="speaker-photo">
+                    </div>
+                    <div class="speaker_content">
+                        <h1 class="key_head">
+                            Shri Atul Save,<br/>
+                            Hon'ble Minister of New and Renewable Energy<br/>
+                            Government of Maharashtra
+                        </h1>
+                        <p>
+                            Shri Atul Moreshwar Save is the Hon'ble Minister of New and Renewable Energy, Government of Maharashtra. In his current role, he is spearheading the state's transition towards sustainable and clean energy, with a focus on accelerating the adoption of solar, wind, and other renewable sources to strengthen Maharashtra's energy security.
+                        </p>
+                        <p>
+                            Under his leadership, the ministry is driving initiatives aimed at promoting green technologies, enhancing grid integration, and fostering public-private partnerships to build a resilient, low-carbon energy ecosystem. His vision is to make Maharashtra a leading state in renewable energy innovation and contribute significantly to India's clean energy goals.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Chetan Pathak -->
+        <div class="row speaker_row">
+            <div class="k_list_part">
+                <div class="col-sm-12 dum_speaker">
+                    <div class="speaker_img">
+                        <img src="media/chetan_pathak.png" alt="Chetan Pathak" class="speaker-photo">
+                    </div>
+                    <div class="speaker_content">
+                        <h1 class="key_head">
+                            Chetan Pathak,<br/>
+                            Director<br/>
+                            IESA
+                        </h1>
+                        <p>
+                            Chetan has 13+ years of experience in Distributed Energy Resources (DERs), Non-Wired Alternatives, Renewable Energy & Electricity Distribution domains. His portfolio spans Greening the Grid (GTG) Projects, Round-the-Clock (RTC) Green Energy, Battery Energy Storage Solutions for Grid Scale, Finance, E-Mobility (with High Voltage & Low Voltage Distribution), and Green Hydrogen.
+                        </p>
+                        <p>
+                            It extends to Greening Green Ammonia, Steel & Refinery based Applications in his recent assignments. Before joining Indian Energy Storage Alliance (IESA) & Customized Energy Storage Solution (CES) as Director -- Strategy & Growth, he has worked for Gensol Group as Group Leader -- Policy, Regulatory & Govt. Business, & Log 9 Materials Scientific Pvt. Ltd. on Lithium-Ion Cell Manufacturing as Vice President -- Energy Business.
+                        </p>
+                        <p>
+                            Before these, he also had worked in Electricity Distribution Sector for BSES Rajdhani Power Limited (BRPL), New Delhi (A Power Distribution Licensee in South & West Delhi, under joint ownership of Reliance Infra. Ltd. & Government of NCT Delhi [ESL & NIIF JV]). Prior to this, he had worked with Power Generation Companies for Billion Dollars (ReNew, Azure Power, ACME) as Business Development & Project Management professional. He also had experience working for Government of India Solar PV and Wind Power Projects in India.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- D Radhakrishna -->
+        <div class="row speaker_row">
+            <div class="k_list_part">
+                <div class="col-sm-12 dum_speaker">
+                    <div class="speaker_img">
+                        <img src="media/Radhakrishna.png" alt="D Radhakrishna" class="speaker-photo">
+                    </div>
+                    <div class="speaker_content">
+                        <h1 class="key_head">
+                            D Radhakrishna,<br/>
+                            Former Chairperson<br/>
+                            Tripura Electricity Regulatory Commission
+                        </h1>
+                        <p>
+                            D. Radhakrishna (Deshraju Radhakrishna) is the former Chairperson of the Tripura Electricity Regulatory Commission (TERC) and the former Chairman of the Appellate Tribunal of the Tripura Real Estate Regulatory Authority (RERA). He concluded his five-year tenure as TERC Chairman around August 2024.
+                        </p>
+                        <p>
+                            Throughout his distinguished career spanning over 42 years in the energy sector, D. Radhakrishna has held significant roles in public and private entities, including the Madhya Pradesh State Electricity Board (MPSEB) and Adani Group. He is a Lifetime Member of the World Energy Council and has served as the Secretary General of the Indian Biomass Power Association.
+                        </p>
+                        <p>
+                            He was also a pioneer in establishing India's first Power Exchange and served as the Chairperson of the Forum of Regulators for the Eastern and Northeastern states.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Dilip Jagdale -->
+        <div class="row speaker_row">
+            <div class="k_list_part">
+                <div class="col-sm-12 dum_speaker">
+                    <div class="speaker_img">
+                        <img src="media/Dilip_Jagdale.png" alt="Dilip Jagdale" class="speaker-photo">
+                    </div>
+                    <div class="speaker_content">
+                        <h1 class="key_head">
+                            Dilip Jagdale,<br/>
+                            Joint Managing Director - Kokan Region<br/>
+                            Maharashtra State Electricity Distribution Company Limited
+                        </h1>
+                        <p>
+                            Mr. Dileep Jagdale is the Joint Managing Director for the Kokan Region at MSEDCL, where he leads power distribution operations, service delivery, and regional performance. With strong administrative and technical expertise, he oversees network reliability, infrastructure enhancement, and consumer-focused initiatives.
+                        </p>
+                        <p>
+                            He plays a key role in implementing state-led programs, upgrading distribution systems, and supporting sustainable energy efforts across the Kokan region. His leadership continues to contribute to improved efficiency and reliable electricity supply for consumers.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Dhananjay Aundhekar -->
+        <div class="row speaker_row">
+            <div class="k_list_part">
+                <div class="col-sm-12 dum_speaker">
+                    <div class="speaker_img">
+                        <img src="media/Dhananjay.jpeg" alt="Dhananjay Aundhekar" class="speaker-photo">
+                    </div>
+                    <div class="speaker_content">
+                        <h1 class="key_head">
+                            Dhananjay Aundhekar,<br/>
+                            ED-- SP Projects<br/>
+                            Maharashtra State Electricity Distribution Company Limited
+                        </h1>
+                        <p>
+                            Dhananjay Aundhekar is a seasoned power sector leader currently serving as Executive Director (Projects) at MSEDCL, India's largest electricity distribution utility. With a distinguished career spanning over three decades, he has played a pivotal role in advancing Maharashtra's energy infrastructure through strategic project execution, rural electrification, and grid modernization initiatives.
+                        </p>
+                        <p>
+                            Previously serving as Chief Engineer for MSEDCL's Kalyan Zone, Mr. Aundhekar was instrumental in addressing critical power supply challenges across urban and semi-urban regions, including Ulhasnagar and Ambernath. His leadership during the rollout of the Saubhagya Yojana brought reliable electricity access to underserved communities, significantly improving quality of life and economic opportunity.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Dnyanesh Kulkarni -->
+        <div class="row speaker_row">
+            <div class="k_list_part">
+                <div class="col-sm-12 dum_speaker">
+                    <div class="speaker_img">
+                        <img src="media/Dnyanesh_kulkarni.png" alt="Dnyanesh Kulkarni" class="speaker-photo">
+                    </div>
+                    <div class="speaker_content">
+                        <h1 class="key_head">
+                            Dnyanesh Kulkarni,<br/>
+                            CE- Renewable Energy<br/>
+                            Maharashtra State Electricity Distribution Company Limited
+                        </h1>
+                        <p>
+                            Dnyanesh Kulkarni is Chief Engineer (Renewable Energy) at MSEDCL, driving Maharashtra's clean energy transition. With over three decades in the power sector, he has spearheaded the integration of solar, wind, and hybrid projects into the state's grid.
+                        </p>
+                        <p>
+                            His leadership has advanced innovative procurement models, long‑term agreements, and collaborations with developers, earning recognition such as the *Wind India 2025 Award*. Known for his technical expertise and strategic vision, Kulkarni emphasizes reliability and affordability in renewable adoption.
+                        </p>
+                        <p>
+                            As a speaker, he offers deep insights into policy, project execution, and India's sustainable energy future.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Gajendra Tiwari -->
+        <div class="row speaker_row">
+            <div class="k_list_part">
+                <div class="col-sm-12 dum_speaker">
+                    <div class="speaker_img">
+                        <img src="media/Gajendra.png" alt="Gajendra Tiwari" class="speaker-photo">
+                    </div>
+                    <div class="speaker_content">
+                        <h1 class="key_head">
+                            Gajendra Tiwari,<br/>
+                            Member<br/>
+                            Madhya Pradesh Electricity Regulatory Commission
+                        </h1>
+                        <p>
+                            Gajendra Tiwari is the Member (Technical) of the Madhya Pradesh Electricity Regulatory Commission (MPERC). A veteran of the power sector, he plays a crucial role in regulating electricity generation, transmission, and distribution in the state.
+                        </p>
+                        <p>
+                            Prior to this position, he served as the Ex-Secretary of MPERC. His responsibilities include applying technical expertise to tariff setting, licensing, and aligning state energy policies with national directives, ensuring a reliable power supply for Madhya Pradesh.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Ganesh Das -->
+        <div class="row speaker_row">
+            <div class="k_list_part">
+                <div class="col-sm-12 dum_speaker">
+                    <div class="speaker_img">
+                        <img src="media/Ganesh.png" alt="Ganesh Das" class="speaker-photo">
+                    </div>
+                    <div class="speaker_content">
+                        <h1 class="key_head">
+                            Ganesh Das,<br/>
+                            Chief -Collaboration & Innovation<br/>
+                            Tata Power Company Limited
+                        </h1>
+                        <p>
+                            Dr. Ganesh Das is working with Tata Power Company Limited, the largest vertical integrated Power Company of India and a flagship company of the Tata Group as Chief -- Collaboration and Innovation. He is a seasoned professional with over 37 years of experience in the Energy Sector.
+                        </p>
+                        <p>
+                            Since 2005, he has held various leadership roles in TPDDL, including Chief Strategy, Performance Management, Innovation and R&D.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Jaideep Singh -->
+        <div class="row speaker_row">
+            <div class="k_list_part">
+                <div class="col-sm-12 dum_speaker">
+                    <div class="speaker_img">
+                        <img src="media/Jaideep_singh.png" alt="Jaideep Singh" class="speaker-photo">
+                    </div>
+                    <div class="speaker_content">
+                        <h1 class="key_head">
+                            Jaideep Singh,<br/>
+                            Advisor - Strategy and Stakeholder Engagement<br/>
+                            Radius Synergies International Pvt. Ltd.
+                        </h1>
+                        <p>
+                            Jaideep has an experience of more than 35 years in the corporate environment spanning across Power Energy Telecom and Real Estate. While working with companies like Crompton Greaves, Schneider Electric, Havells, Schlumberger and Union Unitech, contributed significantly to their growth story by successfully delivering strategic businesses that most would have written off.
+                        </p>
+                        <p>
+                            Having successfully surfed the peaks and troughs of a cyclical economic environment with an experience of such a diverse portfolio. His latest venture as playing an advisory role and investments in tech-start ups has taken prominence, especially those with innovative IoT solutions powered by AI/ML platforms focused towards creating an impact in the energy space.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Kartikey Haryani -->
+        <div class="row speaker_row">
+            <div class="k_list_part">
+                <div class="col-sm-12 dum_speaker">
+                    <div class="speaker_img">
+                        <img src="media/Kartikey.png" alt="Kartikey Haryani" class="speaker-photo">
+                    </div>
+                    <div class="speaker_content">
+                        <h1 class="key_head">
+                            Kartikey Haryani,<br/>
+                            Founder and CEO<br/>
+                            Charge Zone
+                        </h1>
+                        <p>
+                            Mr. Kartikey Hariyani, an Alumni of Stanford University (Graduate School of Business) and LD College of Engineering, is an entrepreneur by passion and an engineer at heart. For past 25+ years, he has worked through utility, industrial and commercial applications of electrical engineering and information technology while building three core businesses of renewable energy + EV charging networks and E-Mobility for large commercial EVs each of them known as Billion Green Energy, CHARGE ZONE® and Billion-Electric.
+                        </p>
+                        <p>
+                            His tech-led Energy Transition Platform - Billion, currently valued at US$250m is on the annual revenue run rate of INR300crores; works closely with government regulators, state departments, technology providers, equipment manufacturers to create micro-grids with energy storage and help de-regulate electricity sector.
+                        </p>
+                        <p>
+                            His flagship EV charging brand CHARGE ZONE® is backed by Macquarie Capital and BII (formerly CDC) and continues to expand high speed charging network across India.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Ketan P Joshi -->
+        <div class="row speaker_row">
+            <div class="k_list_part">
+                <div class="col-sm-12 dum_speaker">
+                    <div class="speaker_img">
+                        <img src="media/Ketan.png" alt="Ketan P Joshi" class="speaker-photo">
+                    </div>
+                    <div class="speaker_content">
+                        <h1 class="key_head">
+                            Ketan P Joshi,<br/>
+                            Managing Director<br/>
+                            Paschim Gujarat Vij Company Limited
+                        </h1>
+                        <p>
+                            An officer of the Indian Administrative Service, 2021 batch, he has served in several key administrative capacities across Gujarat. His tenure includes assignments as Sub-Divisional Magistrate at Lalpur, Morbi, and Jamnagar, Executive Director of the Gujarat Industrial Development Corporation, Resident Additional Collector at Morbi and Navsari, and Deputy Municipal Commissioner, Vadodara Municipal Corporation. Through these roles, he has contributed significantly to governance, infrastructure development, and public service delivery.
+                        </p>
+                        <p>
+                            Since May 2025, he has been serving as Managing Director of Paschim Gujarat Vij Company Limited (PGVCL) --- the state's largest electricity distribution company, spanning over one lakh square kilometres and encompassing Gujarat's coastal, desert, forest, and industrial regions.
+                        </p>
+                        <p>
+                            Under his leadership, PGVCL has driven the state's renewable energy agenda through initiatives such as the PMSuryaghar Muft Bijli Yojana, PM-KUSUM, and Suryoday Kisan Yojana, while advancing open access renewable projects, smart metering, and smart grid modernisation to enhance efficiency, reliability, and sustainability in Gujarat's power distribution network.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Manish Wath -->
+        <div class="row speaker_row">
+            <div class="k_list_part">
+                <div class="col-sm-12 dum_speaker">
+                    <div class="speaker_img">
+                        <img src="media/Manish_Wath.jpg" alt="Manish Wath" class="speaker-photo">
+                    </div>
+                    <div class="speaker_content">
+                        <h1 class="key_head">
+                            Manish Wath,<br/>
+                            Chief Engineer<br/>
+                            Maharashtra State Electricity Distribution Company Limited
+                        </h1>
+                        <p>
+                            Manish Waith holds a B.E. in Electrical Engineering from Shivaji University (72%), an M.Tech in Industrial Power Systems from VNIT Nagpur (74%), and earned his Ph.D. in Electrical Engineering from VNIT Nagpur in 2019, specializing in "Error Compensation Technique in Smart Metering System."
+                        </p>
+                        <p>
+                            He has been serving in the Maharashtra State Electricity Distribution Company Limited (MSEDCL), Mumbai, since 1994, beginning as a Junior Engineer and currently holding the position of Chief Engineer (Testing) at Prakashgad, Mumbai. He is an active member of the Institution of Engineers, the BIS Metering and Transformer Committee in Delhi, and serves as a technical assessor for NABL's Metering Laboratory.
+                        </p>
+                        <p>
+                            His academic contributions include five IEEE journal publications, ten IEEE conference papers, two books published by Lambert Academic Publishing, and two patents---one on traction metering and another on error compensation. In recognition of his research, he was awarded second prize for "Best Paper" at Metering India 2024, organized by IEEMA, New Delhi, for his paper titled "Discrete Approach Over the Power Quality Parameters Monitored by Utility.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Mohit Bhargava -->
+        <div class="row speaker_row">
+            <div class="k_list_part">
+                <div class="col-sm-12 dum_speaker">
+                    <div class="speaker_img">
+                        <img src="media/Mohit_Bhargava.png" alt="Mohit Bhargava" class="speaker-photo">
+                    </div>
+                    <div class="speaker_content">
+                        <h1 class="key_head">
+                            Mohit Bhargava,<br/>
+                            Country Director<br/>
+                            India Energy and Climate Center, UC Berkeley
+                        </h1>
+                        <p>
+                            Mohit Bhargava is the Country Director for the India Energy & Climate Center at UC Berkeley, starting in 2025. He has over 35 years of experience in the power sector, primarily with NTPC Limited.
+                        </p>
+                        <p>
+                            As former CEO of NTPC Green Energy Limited (NGEL), he dramatically expanded their renewable portfolio from 1 GW to over 25 GW. Bhargava leverages his extensive background in energy policy and corporate strategy to bridge research insights with practical applications for India's clean energy transition.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Omkar Shaligram -->
+        <div class="row speaker_row">
+            <div class="k_list_part">
+                <div class="col-sm-12 dum_speaker">
+                    <div class="speaker_img">
+                        <img src="media/Omkar_Shaligram.png" alt="Omkar Shaligram" class="speaker-photo">
+                    </div>
+                    <div class="speaker_content">
+                        <h1 class="key_head">
+                            Omkar Shaligram,<br/>
+                            General Manager<br/>
+                            Tata Motors Limited
+                        </h1>
+                        <p>
+                            Omkar Shaligram leads the growth and deployment of India's largest passenger EV charging network at Tata.ev, the electric mobility arm of Tata Motors. With over 13 years of experience in automotive and clean mobility, he has driven high-impact initiatives across EVs, charging infrastructure, ADAS, hybrids, and mechatronics.
+                        </p>
+                        <p>
+                            At Tata.ev, Omkar is spearheading next-generation charging programs that integrate connected car analytics, digitisation, renewable energy, and circular economy principles to make EV charging accessible, reliable, and sustainable.
+                        </p>
+                        <p>
+                            Through strategic collaborations with Tata Power, Chargezone, Statiq, Zeon, Shell, and leading oil marketing companies, his mission is to accelerate India's EV adoption journey by creating a robust, future-ready charging ecosystem.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- P Ravi Kumar -->
+        <div class="row speaker_row">
+            <div class="k_list_part">
+                <div class="col-sm-12 dum_speaker">
+                    <div class="speaker_img">
+                        <img src="media/Ravi_kumar.jpeg" alt="P Ravi Kumar" class="speaker-photo">
+                    </div>
+                    <div class="speaker_content">
+                        <h1 class="key_head">
+                            P Ravi Kumar,<br/>
+                            Chairperson<br/>
+                            Karnataka Electricity Regulatory Commission
+                        </h1>
+                        <p>
+                            P. Ravi Kumar is a highly experienced retired Indian Administrative Service (IAS) officer currently serving as the Chairperson of the Karnataka Electricity Regulatory Commission (KERC). Appointed in June 2022, he brings over three decades of administrative expertise to the role.
+                        </p>
+                        <p>
+                            Before his retirement from the IAS, Mr. Kumar held the state's highest administrative position as the Chief Secretary of Karnataka. His extensive background in the energy sector includes a significant tenure as the Additional Chief Secretary (Energy), where he played a key role in the state's power infrastructure development, notably aiding in Karnataka's transition to an energy-surplus status and launching initiatives like the Pavagada solar park.
+                        </p>
+                        <p>
+                            Mr. Kumar's responsibilities at KERC involve regulating the electricity sector, determining tariffs, and balancing the interests of consumers and utility providers to ensure a stable, efficient, and transparent power supply across the state. His leadership is marked by a deep understanding of governance, public policy, and regulatory frameworks.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Pankaj Agarwal -->
+        <div class="row speaker_row">
+            <div class="k_list_part">
+                <div class="col-sm-12 dum_speaker">
+                    <div class="speaker_img">
+                        <img src="media/Pankaj_Agarwal.png" alt="Pankaj Agarwal" class="speaker-photo">
+                    </div>
+                    <div class="speaker_content">
+                        <h1 class="key_head">
+                            Pankaj Agarwal,<br/>
+                            Secretary<br/>
+                            Ministry of Power, GOI
+                        </h1>
+                        <p>
+                            Pankaj Agarwal is a 1992 batch Indian Administrative Service (IAS) officer from the Madhya Pradesh cadre who serves as the Secretary of the Ministry of Power for the Government of India. He assumed the role on July 1, 2023, and was also assigned the additional charge of Secretary for the Ministry of Road Transport and Highways in October 2024.
+                        </p>
+                        <p>
+                            His career has included prior service as the Additional Secretary and Director General (Acquisition) in the Ministry of Defence. He holds a Bachelor of Engineering in Civil Engineering from IIT Roorkee, a Master of Technology in Building Science from IIT Delhi, and a Master of Public Administration in Policy Analysis from the National University of Singapore.
+                        </p>
+                        <p>
+                            Throughout his tenure as Power Secretary, he has emphasized the importance of grid stability and has been involved in several major projects, including inaugurating a pumped storage plant in Tehri, inspecting the progress of the NTPC Khargone thermal power project, and reviewing the NHPC Subansiri Lower HE Project.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Pramod Mishra -->
+        <div class="row speaker_row">
+            <div class="k_list_part">
+                <div class="col-sm-12 dum_speaker">
+                    <div class="speaker_img">
+                        <img src="media/Pramod.png" alt="Pramod Mishra" class="speaker-photo">
+                    </div>
+                    <div class="speaker_content">
+                        <h1 class="key_head">
+                            Pramod Mishra,<br/>
+                            CTO<br/>
+                            Chandigarh Power Distribution Limited
+                        </h1>
+                        <p>
+                            Mr. Pramod Kumar Mishra is an Electrical Engineering graduate from IIT Roorkee having 23 years of experience in Power Distribution. He has worked in different functions/roles such as O & M, Engineering, Network Planning, BPR, Commercial, Loss reduction, Project Management, Energy Transition, and Strategy to name a few.
+                        </p>
+                        <p>
+                            He has played pivotal role in multiple transformation projects, nationally and internationally. With his diverse experience, he is presently heading transformational journey in CPDL as Chief Transformation Officer (CTO).
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Rajendra G Ambekar -->
+        <div class="row speaker_row">
+            <div class="k_list_part">
+                <div class="col-sm-12 dum_speaker">
+                    <div class="speaker_img">
+                        <img src="media/Rajendra_Ambekar.png" alt="Rajendra G Ambekar" class="speaker-photo">
+                    </div>
+                    <div class="speaker_content">
+                        <h1 class="key_head">
+                            Rajendra G Ambekar,<br/>
+                            Secretary<br/>
+                            Maharashtra Electricity Regulatory Commission
+                        </h1>
+                        <p>
+                            Dr. Rajendra G. Ambekar is the Secretary of the Maharashtra Electricity Regulatory Commission (MERC), with over 30 years of experience in the Indian power sector, spanning regulatory affairs, operations, commercial functions, and policy formulation.
+                        </p>
+                        <p>
+                            His expertise spans regulatory economics, sectoral reforms, power system modernization, renewable energy frameworks, and consumer-centric policy development, making him one of the most respected regulatory professionals in India.
+                        </p>
+                        <p>
+                            Dr. Ambekar holds a Ph.D. in Power Economics from the University of Mumbai, an MBA in Finance from Welingkar Institute of Management, and a Bachelor's degree in Electrical Engineering from Sardar Patel College of Engineering, Mumbai.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Samanta Santadyuti -->
+        <div class="row speaker_row">
+            <div class="k_list_part">
+                <div class="col-sm-12 dum_speaker">
+                    <div class="speaker_img">
+                        <img src="media/Samanta_Santadyuti.jpg" alt="Samanta Santadyuti" class="speaker-photo">
+                    </div>
+                    <div class="speaker_content">
+                        <h1 class="key_head">
+                            Samanta Santadyuti,<br/>
+                            Chief -- Digital Transformation and IT<br/>
+                            Tata Power Company Limited
+                        </h1>
+                        <p>
+                            Samanta Santadyuti is a respected leader in the digital transformation of the energy sector, serving as the Chief D & IT (Digital & Information Technology) for Transmission & Distribution at Tata Power. With over two decades of experience, he drives the company's enterprise-wide digitalization strategy, seamlessly integrating traditional IT systems with advanced Operational Technology such as SCADA, DMS, and IoT.
+                        </p>
+                        <p>
+                            His expertise lies in the strategic implementation of emerging technologies, including Artificial Intelligence (AI), Big Data analytics, and smart metering (AMI).
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Santosh Kumar Singh -->
+        <div class="row speaker_row">
+            <div class="k_list_part">
+                <div class="col-sm-12 dum_speaker">
+                    <div class="speaker_img">
+                        <img src="media/Santosh_Kumar_Singh.png" alt="Santosh Kumar Singh" class="speaker-photo">
+                    </div>
+                    <div class="speaker_content">
+                        <h1 class="key_head">
+                            Santosh Kumar Singh,<br/>
+                            AVP<br/>
+                            BSES Yamuna Power Limited
+                        </h1>
+                        <p>
+                            Santosh is currently working as AVP in BYPL and has 30 years of experience in Infra project and Power distribution business. Having EPC experience of ultra-mega Power Projects from Concept to Commissioning.
+                        </p>
+                        <p>
+                            Actively involved in Conceptualization to Commissioning of Sasan 6X660 MW Ultrapower plant. One of the State of Art long distance single flight Belt Conveyer system of 14.1 KM was engineered & commissioned.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Shashi Bala -->
+        <div class="row speaker_row">
+            <div class="k_list_part">
+                <div class="col-sm-12 dum_speaker">
+                    <div class="speaker_img">
+                        <img src="media/Shashi_Bala.png" alt="Shashi Bala" class="speaker-photo">
+                    </div>
+                    <div class="speaker_content">
+                        <h1 class="key_head">
+                            Shashi Bala,<br/>
+                            Senior Engineer<br/>
+                            India Smart Grid Forum
+                        </h1>
+                        <p>
+                            Shashi Bala is presently working as a Senior Engineer with the India Smart Grid Forum (ISGF), a globally reputed think-tank established by the Government of India that supports utilities, regulators, policymakers, and the industry in advancing energy transition, electric mobility, grid modernization, and smart cities.
+                        </p>
+                        <p>
+                            She has over eight years of professional experience, including more than four years with ISGF, where she has led several innovative first-of-a-kind (FOAK) projects such as the pilot demonstration of Time of Use (TOU) tariff for electricity in Uttar Pradesh, drone and AI-driven asset mapping of 22 kV transmission lines in Maharashtra, and the world's first Digital Energy Grid demonstration in Uttar Pradesh enabling peer-to-peer (P2P) rooftop solar trading on blockchain and digital platforms built on the Unified Energy Interface (UEI) architecture.
+                        </p>
+                        <p>
+                            In her current role, she is actively supporting UPPCL, UPREV, and state DISCOMs in developing regulatory and commercial frameworks for energy storage, open access, EV infrastructure, and distributed solar, while also contributing to consultations with UPERC, the Ministry of Power, and MNRE. With hands-on expertise in blockchain-enabled P2P trading platforms, digital energy grids, and strong proficiency in generative AI tools and solutions, Shashi is positioned among the leading professionals shaping India's journey towards decentralized and consumer-centric energy markets.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Smt Meghana Sakore -- Bordikar -->
+        <div class="row speaker_row">
+            <div class="k_list_part">
+                <div class="col-sm-12 dum_speaker">
+                    <div class="speaker_img">
+                        <img src="media/Meghana_Sakore_Bordikar.png" alt="Smt Meghana Sakore -- Bordikar" class="speaker-photo">
+                    </div>
+                    <div class="speaker_content">
+                        <h1 class="key_head">
+                            Smt Meghana Sakore -- Bordikar,<br/>
+                            Hon'ble Minster of State of Energy<br/>
+                            Government of Maharashtra
+                        </h1>
+                        <p>
+                            Mrs. Meghna Sakore Bordikar is a visionary leader shaping Maharashtra's future as Minister of State for Public Health, Water Supply & Sanitation, Energy, Women & Child Development, and Public Works (Public Undertakings). Representing Jintur, Parbhani, she has secured electoral victories in 2019 & 2024, earning the trust of her people, who fondly call her Didi.
+                        </p>
+                        <p>
+                            With over two decades of public service, she has championed farmer welfare, water security, and sustainable development. Her tenure in Parbhani Zilla Parishad saw transformative initiatives, including subsidized loans for farmers, fertilizer reserves, and large-scale water sector improvements.
+                        </p>
+                        <p>
+                            Known for her problem-solving approach, she remains committed to ensuring that no family in Parbhani is left unheard or unattended. A leader with a clear vision, Meghna Sakore Bordikar continues to drive progress with her unwavering dedication to public welfare and governance.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Sujit Pathak -->
+        <div class="row speaker_row">
+            <div class="k_list_part">
+                <div class="col-sm-12 dum_speaker">
+                    <div class="speaker_img">
+                        <img src="media/Sujit_Pathak.jpg" alt="Sujit Pathak" class="speaker-photo">
+                    </div>
+                    <div class="speaker_content">
+                        <h1 class="key_head">
+                            Sujit Pathak,<br/>
+                            General Manager<br/>
+                            CESC Limited, Kolkata
+                        </h1>
+                        <p>
+                            Sujit currently working with CESC Ltd., Kolkata as General Manager and is attached to the Substations department. He Looking after operation and maintenance of the electrical Plant & Equipment at the Substations and Distribution stations of CESC.
+                        </p>
+                        <p>
+                            He has experience of a total of 29 years plus (1995- 2025) in Power Utility, out of which 26 years in CESC Ltd., Kolkata. He also worked in Jindal Steel & Power Ltd. (JSPL), as Head of the Electrical Maintenance department in their 6X135 MW Power Plant at Angul, Orissa, in the period 2011-2013, and in Tata Power Jamshedpur Distribution Ltd. (TPJDL), Jamshedpur, a Franchise undertaken by Tata Power for the Jharkhand State Electricity Board (JSEB), as Head-Projects, in the period 2013-2014.
+                        </p>
+                        <p>
+                            He experienced in installation, testing, commissioning & maintenance of MV, HV & EHV Overhead and Underground distribution and sub-transmission networks and all associated network elements including the Protection systems.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Suresh Makwana -->
+        <div class="row speaker_row">
+            <div class="k_list_part">
+                <div class="col-sm-12 dum_speaker">
+                    <div class="speaker_img">
+                        <img src="media/Suresh_Makwana.jpg" alt="Suresh Makwana" class="speaker-photo">
+                    </div>
+                    <div class="speaker_content">
+                        <h1 class="key_head">
+                            Suresh Makwana,<br/>
+                            Chief Engineer -- Planning<br/>
+                            BEST, Mumbai
+                        </h1>
+                        <p>
+                            Mr. Suresh Makwana is the Chief Engineer (Planning) at the Brihanmumbai Electric Supply and Transport (BEST) Undertaking. He has been serving in the organization for over 34 years, contributing extensively to Mumbai's power distribution sector.
+                        </p>
+                        <p>
+                            With rich experience in planning, operations, and project implementation, he currently serves as the Nodal Officer for the Revamped Distribution Sector Scheme (RDSS). Mr. Makwana has played a key role in driving initiatives aimed at enhancing the reliability, efficiency, and modernization of the city's power distribution network.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Vivek Chandra -->
+        <div class="row speaker_row">
+            <div class="k_list_part">
+                <div class="col-sm-12 dum_speaker">
+                    <div class="speaker_img">
+                        <img src="media/Vivek_Chandra.png" alt="Vivek Chandra" class="speaker-photo">
+                    </div>
+                    <div class="speaker_content">
+                        <h1 class="key_head">
+                            Vivek Chandra,<br/>
+                            Head-IT<br/>
+                            Madhya Pradesh Poorv Kshetra Vidyut Vitaran Company Limited
+                        </h1>
+                        <p>
+                            Dr. Vivek Chandra is an accomplished professional with over three decades of experience in the power distribution sector. He currently serves as General Manager (IT) at MP East Discom, Jabalpur, where he has led major digital transformation initiatives including Oracle ERP implementation, Meter Data Management Systems, Advanced Consumer Care Systems, and establishment of a Tier-4 Data Centre.
+                        </p>
+                        <p>
+                            He holds a Ph.D. in Computer Science, an M.Tech in Power System Automation, and an MS in Artificial Intelligence & Machine Learning from Liverpool John Moores University, UK.
+                        </p>
+                        <p>
+                            His contributions have been recognized through multiple national and state-level awards, including the National e-Governance Award from the Government of India and the Skoch Award for IT automation in power utilities. A published author and active member of professional bodies such as IEEE, the Institution of Engineers, and the Computer Society of India, Dr. Chandra combines deep technical expertise with leadership in innovation, analytics, and digital governance in the energy sector.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Yogesh Gadkari -->
+        <div class="row speaker_row">
+            <div class="k_list_part">
+                <div class="col-sm-12 dum_speaker">
+                    <div class="speaker_img">
+                        <img src="images/speakers/Yogesh_Gadkari.jpg" alt="Yogesh Gadkari" class="speaker-photo">
+                    </div>
+                    <div class="speaker_content">
+                        <h1 class="key_head">
+                            Yogesh Gadkari,<br/>
+                            Director Commercial<br/>
+                            Maharashtra State Electricity Distribution Company Limited
+                        </h1>
+                        <p>
+                            Shri. Yogesh Madhukar Gadkari has been selected as the Director (Commercial) of MSEDCL through direct service recruitment. Shri. Yogesh Gadkari has taken over the charge of post of Director (Commercial) w.e.f. 03.05.2023. Earlier, Shri. Yogesh Gadkari was working as Executive Director (Billing & Revenue).
+                        </p>
+                        <p>
+                            A native of Nagpur, Shri. Yogesh Gadkari has completed his BE (Computer Engineering) from an Engineering College from Amravati. Shri. Yogesh Gadkari has a reputation as a very knowledgeable executive in the Power Sector.
+                        </p>
+                        <p>
+                            Also, Shri. Gadkari has brought about a radical change in the Central Billing System of MSEDCL, thereby reducing customer complaints.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
 	
 	
 	

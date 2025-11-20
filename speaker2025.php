@@ -1911,7 +1911,7 @@ Personnel of the Company.</p>
             <div class="k_list_part">
                 <div class="col-sm-12 dum_speaker">
                     <div class="speaker_img">
-                        <img src="media/Shrinivas.png" alt="A Shrinivas Rao" class="speaker-photo">
+                        <img src="images/2026/speakers/Shrinivas.png" alt="A Shrinivas Rao" class="speaker-photo">
                     </div>
                     <div class="speaker_content">
                         <h1 class="key_head">
@@ -1938,7 +1938,7 @@ Personnel of the Company.</p>
             <div class="k_list_part">
                 <div class="col-sm-12 dum_speaker">
                     <div class="speaker_img">
-                        <img src="media/Anand.jpg" alt="Anand Singh" class="speaker-photo">
+                        <img src="images/2026/speakers/Anand.jpg" alt="Anand Singh" class="speaker-photo">
                     </div>
                     <div class="speaker_content">
                         <h1 class="key_head">
@@ -1965,7 +1965,7 @@ Personnel of the Company.</p>
             <div class="k_list_part">
                 <div class="col-sm-12 dum_speaker">
                     <div class="speaker_img">
-                        <img src="media/AnilKumarPrasanna.png" alt="Anil Kumar Prasanna" class="speaker-photo">
+                        <img src="images/2026/speakers/AnilKumarPrasanna.png" alt="Anil Kumar Prasanna" class="speaker-photo">
                     </div>
                     <div class="speaker_content">
                         <h1 class="key_head">
@@ -1989,7 +1989,7 @@ Personnel of the Company.</p>
             <div class="k_list_part">
                 <div class="col-sm-12 dum_speaker">
                     <div class="speaker_img">
-                        <img src="media/anshuman_srivastava.png" alt="Anshuman Srivastava" class="speaker-photo">
+                        <img src="images/2026/speakers/anshuman_srivastava.png" alt="Anshuman Srivastava" class="speaker-photo">
                     </div>
                     <div class="speaker_content">
                         <h1 class="key_head">
@@ -2016,7 +2016,7 @@ Personnel of the Company.</p>
             <div class="k_list_part">
                 <div class="col-sm-12 dum_speaker">
                     <div class="speaker_img">
-                        <img src="media/atul_save.jpeg" alt="Atul Save" class="speaker-photo">
+                        <img src="images/2026/speakers/atul_save.jpeg" alt="Atul Save" class="speaker-photo">
                     </div>
                     <div class="speaker_content">
                         <h1 class="key_head">
@@ -2040,7 +2040,7 @@ Personnel of the Company.</p>
             <div class="k_list_part">
                 <div class="col-sm-12 dum_speaker">
                     <div class="speaker_img">
-                        <img src="media/chetan_pathak.png" alt="Chetan Pathak" class="speaker-photo">
+                        <img src="images/2026/speakers/chetan_pathak.png" alt="Chetan Pathak" class="speaker-photo">
                     </div>
                     <div class="speaker_content">
                         <h1 class="key_head">
@@ -2067,7 +2067,7 @@ Personnel of the Company.</p>
             <div class="k_list_part">
                 <div class="col-sm-12 dum_speaker">
                     <div class="speaker_img">
-                        <img src="media/Radhakrishna.png" alt="D Radhakrishna" class="speaker-photo">
+                        <img src="images/2026/speakers/Radhakrishna.png" alt="D Radhakrishna" class="speaker-photo">
                     </div>
                     <div class="speaker_content">
                         <h1 class="key_head">
@@ -2094,7 +2094,7 @@ Personnel of the Company.</p>
             <div class="k_list_part">
                 <div class="col-sm-12 dum_speaker">
                     <div class="speaker_img">
-                        <img src="media/Dilip_Jagdale.png" alt="Dilip Jagdale" class="speaker-photo">
+                        <img src="images/2026/speakers/Dilip_Jagdale.png" alt="Dilip Jagdale" class="speaker-photo">
                     </div>
                     <div class="speaker_content">
                         <h1 class="key_head">
@@ -2118,7 +2118,7 @@ Personnel of the Company.</p>
             <div class="k_list_part">
                 <div class="col-sm-12 dum_speaker">
                     <div class="speaker_img">
-                        <img src="media/Dhananjay.jpeg" alt="Dhananjay Aundhekar" class="speaker-photo">
+                        <img src="images/2026/speakers/Dhananjay.jpeg" alt="Dhananjay Aundhekar" class="speaker-photo">
                     </div>
                     <div class="speaker_content">
                         <h1 class="key_head">
@@ -2142,7 +2142,7 @@ Personnel of the Company.</p>
             <div class="k_list_part">
                 <div class="col-sm-12 dum_speaker">
                     <div class="speaker_img">
-                        <img src="media/Dnyanesh_kulkarni.png" alt="Dnyanesh Kulkarni" class="speaker-photo">
+                        <img src="images/2026/speakers/Dnyanesh_kulkarni.png" alt="Dnyanesh Kulkarni" class="speaker-photo">
                     </div>
                     <div class="speaker_content">
                         <h1 class="key_head">
@@ -2169,7 +2169,7 @@ Personnel of the Company.</p>
             <div class="k_list_part">
                 <div class="col-sm-12 dum_speaker">
                     <div class="speaker_img">
-                        <img src="media/Gajendra.png" alt="Gajendra Tiwari" class="speaker-photo">
+                        <img src="images/2026/speakers/Gajendra.png" alt="Gajendra Tiwari" class="speaker-photo">
                     </div>
                     <div class="speaker_content">
                         <h1 class="key_head">
@@ -2193,7 +2193,7 @@ Personnel of the Company.</p>
             <div class="k_list_part">
                 <div class="col-sm-12 dum_speaker">
                     <div class="speaker_img">
-                        <img src="media/Ganesh.png" alt="Ganesh Das" class="speaker-photo">
+                        <img src="images/2026/speakers/Ganesh.png" alt="Ganesh Das" class="speaker-photo">
                     </div>
                     <div class="speaker_content">
                         <h1 class="key_head">
@@ -2217,7 +2217,7 @@ Personnel of the Company.</p>
             <div class="k_list_part">
                 <div class="col-sm-12 dum_speaker">
                     <div class="speaker_img">
-                        <img src="media/Jaideep_singh.png" alt="Jaideep Singh" class="speaker-photo">
+                        <img src="images/2026/speakers/Jaideep_singh.png" alt="Jaideep Singh" class="speaker-photo">
                     </div>
                     <div class="speaker_content">
                         <h1 class="key_head">
@@ -2241,7 +2241,7 @@ Personnel of the Company.</p>
             <div class="k_list_part">
                 <div class="col-sm-12 dum_speaker">
                     <div class="speaker_img">
-                        <img src="media/Kartikey.png" alt="Kartikey Haryani" class="speaker-photo">
+                        <img src="images/2026/speakers/Kartikey.png" alt="Kartikey Haryani" class="speaker-photo">
                     </div>
                     <div class="speaker_content">
                         <h1 class="key_head">
@@ -2268,7 +2268,7 @@ Personnel of the Company.</p>
             <div class="k_list_part">
                 <div class="col-sm-12 dum_speaker">
                     <div class="speaker_img">
-                        <img src="media/Ketan.png" alt="Ketan P Joshi" class="speaker-photo">
+                        <img src="images/2026/speakers/Ketan.png" alt="Ketan P Joshi" class="speaker-photo">
                     </div>
                     <div class="speaker_content">
                         <h1 class="key_head">
@@ -2295,7 +2295,7 @@ Personnel of the Company.</p>
             <div class="k_list_part">
                 <div class="col-sm-12 dum_speaker">
                     <div class="speaker_img">
-                        <img src="media/Manish_Wath.jpg" alt="Manish Wath" class="speaker-photo">
+                        <img src="images/2026/speakers/Manish_Wath.jpg" alt="Manish Wath" class="speaker-photo">
                     </div>
                     <div class="speaker_content">
                         <h1 class="key_head">
@@ -2322,7 +2322,7 @@ Personnel of the Company.</p>
             <div class="k_list_part">
                 <div class="col-sm-12 dum_speaker">
                     <div class="speaker_img">
-                        <img src="media/Mohit_Bhargava.png" alt="Mohit Bhargava" class="speaker-photo">
+                        <img src="images/2026/speakers/Mohit_Bhargava.png" alt="Mohit Bhargava" class="speaker-photo">
                     </div>
                     <div class="speaker_content">
                         <h1 class="key_head">
@@ -2346,7 +2346,7 @@ Personnel of the Company.</p>
             <div class="k_list_part">
                 <div class="col-sm-12 dum_speaker">
                     <div class="speaker_img">
-                        <img src="media/Omkar_Shaligram.png" alt="Omkar Shaligram" class="speaker-photo">
+                        <img src="images/2026/speakers/Omkar_Shaligram.png" alt="Omkar Shaligram" class="speaker-photo">
                     </div>
                     <div class="speaker_content">
                         <h1 class="key_head">
@@ -2373,7 +2373,7 @@ Personnel of the Company.</p>
             <div class="k_list_part">
                 <div class="col-sm-12 dum_speaker">
                     <div class="speaker_img">
-                        <img src="media/Ravi_kumar.jpeg" alt="P Ravi Kumar" class="speaker-photo">
+                        <img src="images/2026/speakers/Ravi_kumar.jpeg" alt="P Ravi Kumar" class="speaker-photo">
                     </div>
                     <div class="speaker_content">
                         <h1 class="key_head">
@@ -2400,7 +2400,7 @@ Personnel of the Company.</p>
             <div class="k_list_part">
                 <div class="col-sm-12 dum_speaker">
                     <div class="speaker_img">
-                        <img src="media/Pankaj_Agarwal.png" alt="Pankaj Agarwal" class="speaker-photo">
+                        <img src="images/2026/speakers/Pankaj_Agarwal.png" alt="Pankaj Agarwal" class="speaker-photo">
                     </div>
                     <div class="speaker_content">
                         <h1 class="key_head">
@@ -2427,7 +2427,7 @@ Personnel of the Company.</p>
             <div class="k_list_part">
                 <div class="col-sm-12 dum_speaker">
                     <div class="speaker_img">
-                        <img src="media/Pramod.png" alt="Pramod Mishra" class="speaker-photo">
+                        <img src="images/2026/speakers/Pramod.png" alt="Pramod Mishra" class="speaker-photo">
                     </div>
                     <div class="speaker_content">
                         <h1 class="key_head">
@@ -2451,7 +2451,7 @@ Personnel of the Company.</p>
             <div class="k_list_part">
                 <div class="col-sm-12 dum_speaker">
                     <div class="speaker_img">
-                        <img src="media/Rajendra_Ambekar.png" alt="Rajendra G Ambekar" class="speaker-photo">
+                        <img src="images/2026/speakers/Rajendra_Ambekar.png" alt="Rajendra G Ambekar" class="speaker-photo">
                     </div>
                     <div class="speaker_content">
                         <h1 class="key_head">
@@ -2478,7 +2478,7 @@ Personnel of the Company.</p>
             <div class="k_list_part">
                 <div class="col-sm-12 dum_speaker">
                     <div class="speaker_img">
-                        <img src="media/Samanta_Santadyuti.jpg" alt="Samanta Santadyuti" class="speaker-photo">
+                        <img src="images/2026/speakers/Samanta_Santadyuti.jpg" alt="Samanta Santadyuti" class="speaker-photo">
                     </div>
                     <div class="speaker_content">
                         <h1 class="key_head">
@@ -2502,7 +2502,7 @@ Personnel of the Company.</p>
             <div class="k_list_part">
                 <div class="col-sm-12 dum_speaker">
                     <div class="speaker_img">
-                        <img src="media/Santosh_Kumar_Singh.png" alt="Santosh Kumar Singh" class="speaker-photo">
+                        <img src="images/2026/speakers/Santosh_Kumar_Singh.png" alt="Santosh Kumar Singh" class="speaker-photo">
                     </div>
                     <div class="speaker_content">
                         <h1 class="key_head">
@@ -2526,7 +2526,7 @@ Personnel of the Company.</p>
             <div class="k_list_part">
                 <div class="col-sm-12 dum_speaker">
                     <div class="speaker_img">
-                        <img src="media/Shashi_Bala.png" alt="Shashi Bala" class="speaker-photo">
+                        <img src="images/2026/speakers/Shashi_Bala.png" alt="Shashi Bala" class="speaker-photo">
                     </div>
                     <div class="speaker_content">
                         <h1 class="key_head">
@@ -2553,7 +2553,7 @@ Personnel of the Company.</p>
             <div class="k_list_part">
                 <div class="col-sm-12 dum_speaker">
                     <div class="speaker_img">
-                        <img src="media/Meghana_Sakore_Bordikar.png" alt="Smt Meghana Sakore -- Bordikar" class="speaker-photo">
+                        <img src="images/2026/speakers/Meghana_Sakore_Bordikar.png" alt="Smt Meghana Sakore -- Bordikar" class="speaker-photo">
                     </div>
                     <div class="speaker_content">
                         <h1 class="key_head">
@@ -2580,7 +2580,7 @@ Personnel of the Company.</p>
             <div class="k_list_part">
                 <div class="col-sm-12 dum_speaker">
                     <div class="speaker_img">
-                        <img src="media/Sujit_Pathak.jpg" alt="Sujit Pathak" class="speaker-photo">
+                        <img src="images/2026/speakers/Sujit_Pathak.jpg" alt="Sujit Pathak" class="speaker-photo">
                     </div>
                     <div class="speaker_content">
                         <h1 class="key_head">
@@ -2607,7 +2607,7 @@ Personnel of the Company.</p>
             <div class="k_list_part">
                 <div class="col-sm-12 dum_speaker">
                     <div class="speaker_img">
-                        <img src="media/Suresh_Makwana.jpg" alt="Suresh Makwana" class="speaker-photo">
+                        <img src="images/2026/speakers/Suresh_Makwana.jpg" alt="Suresh Makwana" class="speaker-photo">
                     </div>
                     <div class="speaker_content">
                         <h1 class="key_head">
@@ -2631,7 +2631,7 @@ Personnel of the Company.</p>
             <div class="k_list_part">
                 <div class="col-sm-12 dum_speaker">
                     <div class="speaker_img">
-                        <img src="media/Vivek_Chandra.png" alt="Vivek Chandra" class="speaker-photo">
+                        <img src="images/2026/speakers/Vivek_Chandra.png" alt="Vivek Chandra" class="speaker-photo">
                     </div>
                     <div class="speaker_content">
                         <h1 class="key_head">
@@ -2658,7 +2658,7 @@ Personnel of the Company.</p>
             <div class="k_list_part">
                 <div class="col-sm-12 dum_speaker">
                     <div class="speaker_img">
-                        <img src="images/speakers/Yogesh_Gadkari.jpg" alt="Yogesh Gadkari" class="speaker-photo">
+                        <img src="images/2026/speakers/Yogesh_Gadkari.jpg" alt="Yogesh Gadkari" class="speaker-photo">
                     </div>
                     <div class="speaker_content">
                         <h1 class="key_head">

@@ -1135,7 +1135,7 @@ for the company.
             <div class="k_list_part">
                 <div class="col-sm-12 dum_speaker">
                     <div class="speaker_img">
-                        <img src="images/2026/speakers/PareekshitBharadwaj.png" alt="Pareekshit Bharadwaj" class="speaker-photo">
+                        <img src="images/2026/speakers/PareekshitBhardwaj.png" alt="Pareekshit Bharadwaj" class="speaker-photo">
                     </div>
                     <div class="speaker_content">
                         <h1 class="key_head">
@@ -2016,7 +2016,7 @@ Personnel of the Company.</p>
             <div class="k_list_part">
                 <div class="col-sm-12 dum_speaker">
                     <div class="speaker_img">
-                        <img src="images/2026/speakers/atul_save.jpeg" alt="Atul Save" class="speaker-photo">
+                        <img src="images/2026/speakers/atul_save.jpg" alt="Atul Save" class="speaker-photo">
                     </div>
                     <div class="speaker_content">
                         <h1 class="key_head">
@@ -2118,7 +2118,7 @@ Personnel of the Company.</p>
             <div class="k_list_part">
                 <div class="col-sm-12 dum_speaker">
                     <div class="speaker_img">
-                        <img src="images/2026/speakers/Dhananjay.jpeg" alt="Dhananjay Aundhekar" class="speaker-photo">
+                        <img src="images/2026/speakers/Dhananjay.jpg" alt="Dhananjay Aundhekar" class="speaker-photo">
                     </div>
                     <div class="speaker_content">
                         <h1 class="key_head">
@@ -2193,7 +2193,7 @@ Personnel of the Company.</p>
             <div class="k_list_part">
                 <div class="col-sm-12 dum_speaker">
                     <div class="speaker_img">
-                        <img src="images/2026/speakers/Ganesh.png" alt="Ganesh Das" class="speaker-photo">
+                        <img src="images/2026/speakers/Ganesh.jpg" alt="Ganesh Das" class="speaker-photo">
                     </div>
                     <div class="speaker_content">
                         <h1 class="key_head">
@@ -2373,7 +2373,7 @@ Personnel of the Company.</p>
             <div class="k_list_part">
                 <div class="col-sm-12 dum_speaker">
                     <div class="speaker_img">
-                        <img src="images/2026/speakers/Ravi_kumar.jpeg" alt="P Ravi Kumar" class="speaker-photo">
+                        <img src="images/2026/speakers/Ravi_kumar.jpg" alt="P Ravi Kumar" class="speaker-photo">
                     </div>
                     <div class="speaker_content">
                         <h1 class="key_head">

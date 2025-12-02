@@ -103,7 +103,7 @@
 
 
     <!-- Abha Shukla -->
-        <div class="row speaker_row">
+        <!-- <div class="row speaker_row">
             <div class="k_list_part">
                 <div class="col-sm-12 dum_speaker">
                     <div class="speaker_img">
@@ -130,7 +130,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
 
 
     <!-- Aakash Saxena -->
@@ -381,7 +381,7 @@ that lie ahead.
 </div>
 
 <!-- Amit Singh Parihar -->
-<div class="row speaker_row">
+<!-- <div class="row speaker_row">
     <div class="k_list_part">
         <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
             <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
@@ -399,7 +399,7 @@ that lie ahead.
             </div>
         </div>
     </div>
-</div>
+</div> -->
 
 <!-- Anand Budholia -->
 <div class="row speaker_row">
@@ -608,7 +608,7 @@ Development and Reforms Programme (RAPDRP) in India.
 </div>
 
 <!-- Brajesh Kumar -->
-<div class="row speaker_row">
+<!-- <div class="row speaker_row">
     <div class="k_list_part">
         <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
             <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
@@ -626,7 +626,7 @@ Development and Reforms Programme (RAPDRP) in India.
             </div>
         </div>
     </div>
-</div>
+</div> -->
 
 <!-- Devanand Pallikuth -->
 <div class="row speaker_row">
@@ -880,7 +880,7 @@ driving impactful change and has a keen interest in luxury automobiles.  </p>
 </div>
 
 <!-- Isha Duhan -->
-<div class="row speaker_row">
+<!-- <div class="row speaker_row">
     <div class="k_list_part">
         <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
             <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
@@ -898,7 +898,7 @@ driving impactful change and has a keen interest in luxury automobiles.  </p>
             </div>
         </div>
     </div>
-</div>
+</div> -->
 
 <!-- Kishor Narang -->
 <div class="row speaker_row">
@@ -922,7 +922,7 @@ driving impactful change and has a keen interest in luxury automobiles.  </p>
 </div>
 
 <!-- Kaustuv Mohapatra -->
-<div class="row speaker_row">
+<!-- <div class="row speaker_row">
     <div class="k_list_part">
         <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
             <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
@@ -948,7 +948,7 @@ driving impactful change and has a keen interest in luxury automobiles.  </p>
             </div>
         </div>
     </div>
-</div>
+</div> -->
 
 <!-- Manish Patel -->
 	<div class="row speaker_row">
@@ -1015,7 +1015,7 @@ for the company.
 	</div>
 
 <!-- Matt Gleeson -->
-<div class="row speaker_row">
+<!-- <div class="row speaker_row">
     <div class="k_list_part">
         <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
             <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
@@ -1033,10 +1033,10 @@ for the company.
             </div>
         </div>
     </div>
-</div>    
+</div>     -->
 
 <!-- Moëz Cherif -->
-<div class="row speaker_row">
+<!-- <div class="row speaker_row">
     <div class="k_list_part">
         <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
             <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
@@ -1054,7 +1054,7 @@ for the company.
             </div>
         </div>
     </div>
-</div>
+</div> -->
 
 <!-- Nidhi Kumar Narang -->
 <div class="row speaker_row">
@@ -1213,7 +1213,7 @@ for the company.
 </div>
 
 <!-- Pradeep Kumar Jena -->
-<div class="row speaker_row">
+<!-- <div class="row speaker_row">
     <div class="k_list_part">
         <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
             <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
@@ -1240,10 +1240,10 @@ for the company.
             </div>
         </div>
     </div>
-</div>
+</div> -->
 
 <!-- Prudhvitej Immadi -->
-<div class="row speaker_row">
+<!-- <div class="row speaker_row">
     <div class="k_list_part">
         <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
             <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
@@ -1261,7 +1261,7 @@ for the company.
             </div>
         </div>
     </div>
-</div>
+</div> -->
 
 
 <!-- Ramkrishna Singh -->
@@ -1506,15 +1506,15 @@ Biosirus Inc.
 </div>
 
 <!-- Ritwik Anand -->
-<div class="row speaker_row">
+<!-- <div class="row speaker_row">
     <div class="k_list_part">
         <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
-            <!-- Speaker Image -->
+            
             <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
                 <img src="images/2026/speakers/RitwikAnand.png" alt="AtulBali" class="speaker-photo">
             </div>
 
-            <!-- Speaker Content -->
+            
             <div class="speaker_content" style="flex: 1;">
                 <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
                     Ritwik Anand,<br/>
@@ -1540,7 +1540,7 @@ the International Electrotechnical Commission (IEC).</p>
             </div>
         </div>
     </div>
-</div>
+</div> -->
 
 <!-- Rohit Pareek -->
 	<div class="row speaker_row">
@@ -1653,7 +1653,7 @@ development, making him a valuable asset and a respected figure in his field.</p
         </div>
 
 <!-- Sonia Sethi -->
-<div class="row speaker_row">
+<!-- <div class="row speaker_row">
     <div class="k_list_part">
         <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
             <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
@@ -1671,7 +1671,7 @@ development, making him a valuable asset and a respected figure in his field.</p
             </div>
         </div>
     </div>
-</div>    
+</div>     -->
 
 <!-- Sandip Sinha -->
 <div class="row speaker_row">
@@ -1714,7 +1714,7 @@ University.   </p>
 </div>    
 
 <!-- Satyendra R. Pandey -->
-<div class="row speaker_row">
+<!-- <div class="row speaker_row">
     <div class="k_list_part">
         <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
             <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
@@ -1732,7 +1732,7 @@ University.   </p>
             </div>
         </div>
     </div>
-</div>
+</div> -->
 
 <!-- Shashank Mishra -->
 <div class="row speaker_row">
@@ -1797,7 +1797,7 @@ Personnel of the Company.</p>
 </div>
 
 <!-- Subrahmanyam Pulipaka -->
-<div class="row speaker_row">
+<!-- <div class="row speaker_row">
     <div class="k_list_part">
         <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
             <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
@@ -1815,7 +1815,7 @@ Personnel of the Company.</p>
             </div>
         </div>
     </div>
-</div>
+</div> -->
 
 <!-- Swapnadeep Banerjee -->
 <div class="row speaker_row">
@@ -1845,7 +1845,7 @@ Personnel of the Company.</p>
 </div>
 
 <!-- Tripta Thakur -->
-<div class="row speaker_row">
+<!-- <div class="row speaker_row">
     <div class="k_list_part">
         <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
             <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
@@ -1866,7 +1866,7 @@ Personnel of the Company.</p>
             </div>
         </div>
     </div>
-</div>
+</div> -->
 
 <!-- Teppo Hemiä -->
 	<div class="row speaker_row">

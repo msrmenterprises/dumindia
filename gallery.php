@@ -123,6 +123,160 @@
     <li><a href="#videos" role="tab" data-toggle="tab"><span style="font-size:18px;">🎥 Videos</span></a></li>
 </ul>
 
+<!-- Tabs Content -->
+<div class="tab-content" style="width:100%">
+    <div class="tab-pane fade in active" id="photos">
+        <div class="gallery-photo-caption">
+            <h2>Glimpses of DUM 2025</h2>
+            <h4>DISTRIBUTION UTILITY MEET (DUM) 2025 | MUMBAI, MAHARASHTRA</h4>
+        </div>
+        
+        <div class="row">
+            <div class="col-md-12 gallery-card">
+                <div class="gallery-photo-title">
+                    DUM 2025 | INAUGURAL CONFERENCE SESSION | 04 NOVEMBER 2025 (TUESDAY)
+                </div>
+                <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720330237031" title="DUM 2025 | Inauguration of Conference and Exhibition">
+                    <img class="gallery-photo-img" src="https://live.staticflickr.com/65535/54915196907_17663b6d85_z.jpg" width="640" height="480" alt="DUM 2025 | Inauguration of Conference and Exhibition"/>
+                </a>
+                <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+            </div>
+        </div>
+        
+        <div class="row">
+            <div class="col-md-12 gallery-card">
+                <div class="gallery-photo-title">
+                    DUM 2025 | EXHIBITION INAUGURAL | 04 NOVEMBER 2025 (TUESDAY)
+                </div>
+                <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720330256900" title="DUM_2025 | Exhibition Inaugural | 04 Nov 2025">
+                    <img class="gallery-photo-img" src="https://live.staticflickr.com/65535/54918684958_f7c44a4cf0_z.jpg" width="640" height="480" alt="DUM_2025 | Exhibition Inaugural | 04 Nov 2025"/>
+                </a>
+                <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+            </div>
+        </div>
+        
+        <div class="row">
+            <div class="col-md-12 gallery-card">
+                <div class="gallery-photo-title">
+                    DUM 2025 | SESSION 1: SPECIAL PLENARY SESSION - INNOVATIVE POLICIES AND REGULATORY INTERVENTIONS FOR SUSTAINABILITY OF DISCOMs | Session Partners: PFI and AIDA | 04 NOVEMBER 2025 (TUESDAY)
+                </div>
+                <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720330235200" title="DUM 2025_ SESSION 1:  SPECIAL PLENARY SESSION - INNOVATIVE POLICIES AND REGULATORY INTERVENTIONS FOR SUSTAINABILITY OF DISCOMs | Session Partners: PFI and AIDA">
+                    <img class="gallery-photo-img" src="https://live.staticflickr.com/65535/54916290063_a1c5e570a7_z.jpg" width="640" height="480" alt="DUM 2025_ SESSION 1:  SPECIAL PLENARY SESSION - INNOVATIVE POLICIES AND REGULATORY INTERVENTIONS FOR SUSTAINABILITY OF DISCOMs | Session Partners: PFI and AIDA"/>
+                </a>
+                <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+            </div>
+        </div>
+        
+        <div class="row">
+            <div class="col-md-12 gallery-card">
+                <div class="gallery-photo-title">
+                    DUM 2025 | SESSION 2: SMART METERS AS THE FOUNDATION FOR DIGITALIZATION OF DISCOMs | Session Partner: AIDA | 04 NOVEMBER 2025 (TUESDAY)
+                </div>
+                <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720330252807" title="DUM 2025: SESSION 2: SMART METERS AS THE FOUNDATION FOR DIGITALIZATION OF DISCOMs | Session Partner: All India DISCOMs Association (AIDA)">
+                    <img class="gallery-photo-img" src="https://live.staticflickr.com/65535/54917237496_f4d3f2ed89_z.jpg" width="640" height="480" alt="DUM 2025: SESSION 2: SMART METERS AS THE FOUNDATION FOR DIGITALIZATION OF DISCOMs | Session Partner: All India DISCOMs Association (AIDA)"/>
+                </a>
+                <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+            </div>
+        </div>
+        
+        <div class="row">
+            <div class="col-md-12 gallery-card">
+                <div class="gallery-photo-title">
+                    DUM 2025 | SESSION 3: AI-ML-VR/AR-ROBOTICS APPLICATIONS FOR UTILITIES | 04 NOVEMBER 2025 (TUESDAY)
+                </div>
+                <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720330237256" title="DUM 2025_SESSION 3: AI-ML-VR/AR-ROBOTICS">
+                    <img class="gallery-photo-img" src="https://live.staticflickr.com/65535/54915226507_4232341655_z.jpg" width="640" height="480" alt="DUM 2025_SESSION 3: AI-ML-VR/AR-ROBOTICS"/>
+                </a>
+                <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+            </div>
+        </div>
+        
+        <div class="row">
+            <div class="col-md-12 gallery-card">
+                <div class="gallery-photo-title">
+                    DUM 2025 | SESSION 4: DIGITAL ENERGY GRIDS AND THE EMERGING ERA OF ENERGY INTERNET | Session Partner: Impresa.ai | 04 NOVEMBER 2025 (TUESDAY)
+                </div>
+                <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720330267144" title="DUM 2025_SESSION 4: DIGITAL ENERGY GRIDS AND THE EMERGING ERA OF ENERGY INTERNET">
+                    <img class="gallery-photo-img" src="https://live.staticflickr.com/65535/54916095306_fe092bed6e_z.jpg" width="640" height="480" alt="DUM 2025_SESSION 4: DIGITAL ENERGY GRIDS AND THE EMERGING ERA OF ENERGY INTERNET"/>
+                </a>
+                <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+            </div>
+        </div>
+        
+        <div class="row">
+            <div class="col-md-12 gallery-card">
+                <div class="gallery-photo-title">
+                    DUM 2025: Welcome Reception, Gala Dinner and Cultural Program followed by Live Band | 04 NOVEMBER 2025 (TUESDAY)
+                </div>
+                <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720330259116" title="DUM 2025: Welcome Reception, Gala Dinner and Cultural Program followed by Live Band">
+                    <img class="gallery-photo-img" src="https://live.staticflickr.com/65535/54917591777_d230ccc07b_z.jpg" width="640" height="480" alt="DUM 2025: Welcome Reception, Gala Dinner and Cultural Program followed by Live Band"/>
+                </a>
+                <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+            </div>
+        </div>
+        
+        <div class="row">
+            <div class="col-md-12 gallery-card">
+                <div class="gallery-photo-title">
+                    DUM 2025 | SESSION 5: GRID INTEGRATION OF DISTRIBUTED RE (DRE) | 05 NOVEMBER 2025 (WEDNESDAY)
+                </div>
+                <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720330268149" title="DUM 2025: SESSION 5: GRID INTEGRATION OF DISTRIBUTED">
+                    <img class="gallery-photo-img" src="https://live.staticflickr.com/65535/54916214291_788e58c008_z.jpg" width="640" height="480" alt="DUM 2025: SESSION 5: GRID INTEGRATION OF DISTRIBUTED"/>
+                </a>
+                <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+            </div>
+        </div>
+        
+        <div class="row">
+            <div class="col-md-12 gallery-card">
+                <div class="gallery-photo-title">
+                    DUM 2025 | SESSION 6: ELECTRIC VEHICLES – A $200 BILLION OPPORTUNITY IN INDIA AND DISCOMs ROLE IN MAKING THIS A REALITY | Session Partner: Power Foundation of India (PFI) | 05 NOVEMBER 2025 (WEDNESDAY)
+                </div>
+                <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720330236855" title="DUM 2025: SESSION 6: ELECTRIC VEHICLES – A $200 BILLION OPPORTUNITY IN INDIA AND DISCOMs ROLE IN MAKING THIS A REALITY">
+                    <img class="gallery-photo-img" src="https://live.staticflickr.com/65535/54916525149_b729d8ee5b_z.jpg" width="640" height="480" alt="DUM 2025: SESSION 6: ELECTRIC VEHICLES – A $200 BILLION OPPORTUNITY IN INDIA AND DISCOMs ROLE IN MAKING THIS A REALITY"/>
+                </a>
+                <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+            </div>
+        </div>
+        
+        <div class="row">
+            <div class="col-md-12 gallery-card">
+                <div class="gallery-photo-title">
+                    DUM 2025 | SESSION 7: EMERGING CHALLENGES FOR DISCOMs: GW-scale AI DATA CENTERS, MW-scale EV CHARGING STATIONS, and GRID-level POWER QUALITY CHALLENGES | Session Partner: Enspar Energy Solutions | 05 NOVEMBER 2025 (WEDNESDAY)
+                </div>
+                <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720330236375" title="DUM 2025: SESSION 7: EMERGING CHALLENGES FOR DISCOMs: GW-scale AI DATA CENTERS">
+                    <img class="gallery-photo-img" src="https://live.staticflickr.com/65535/54916524260_a7da393967_z.jpg" width="640" height="480" alt="DUM 2025: SESSION 7: EMERGING CHALLENGES FOR DISCOMs: GW-scale AI DATA CENTERS"/>
+                </a>
+                <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+            </div>
+        </div>
+        
+        <div class="row">
+            <div class="col-md-12 gallery-card">
+                <div class="gallery-photo-title">
+                    DUM 2025 | SESSION 8: EXTREME WEATHER EVENTS AND THE URGENT NEED FOR REVISION OF STANDARDS AND SPECIFICATIONS OF GRID EQUIPMENT | 05 NOVEMBER 2025 (WEDNESDAY)
+                </div>
+                <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720330236450" title="DUM 2025:  SESSION 8: EXTREME WEATHER EVENTS AND THE URGENT NEED FOR REVISION OF STANDARDS AND SPECIFICATIONS OF GRID EQUIPMENT">
+                    <img class="gallery-photo-img" src="https://live.staticflickr.com/65535/54916230801_ab867d78f4_z.jpg" width="640" height="480" alt="DUM 2025:  SESSION 8: EXTREME WEATHER EVENTS AND THE URGENT NEED FOR REVISION OF STANDARDS AND SPECIFICATIONS OF GRID EQUIPMENT"/>
+                </a>
+                <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+            </div>
+        </div>
+        
+        <div class="row">
+            <div class="col-md-12 gallery-card">
+                <div class="gallery-photo-title">
+                    DUM 2025 | VALEDICTORY SESSION | 05 NOVEMBER 2025 (WEDNESDAY)
+                </div>
+                <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720330239191" title="DUM 2025: Valedictory Session | 05th November 2025">
+                    <img class="gallery-photo-img" src="https://live.staticflickr.com/65535/54915471852_f179f5e20e_z.jpg" width="640" height="480" alt="DUM 2025: Valedictory Session | 05th November 2025"/>
+                </a>
+                <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+            </div>
+        </div>
+    </div>
+</div>
+
     <!-- Tabs Content -->
     <div class="tab-content" style="width:100%">
         <div class="tab-pane fade in active" id="photos">

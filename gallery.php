@@ -1025,6 +1025,106 @@
         </div>
 
         <div class="tab-pane fade" id="videos">
+
+
+			<!-- DUM 2025 Videos Section -->
+			<div class="row">
+				<div class="gallery-photo-caption">
+					<h2 class="text-center">Glimpses of DUM 2025 Videos</h2>
+					<h4>DISTRIBUTION UTILITY MEET (DUM) 2025 | MUMBAI, MAHARASHTRA</h4>
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="col-md-12 gallery-card text-center">
+					<h3>DUM 2025 | INAUGURATION OF DUM 2025 CONFERENCE AND EXHIBITION | 04 NOVEMBER 2025 (TUESDAY)</h3>
+					<div class="embed-responsive embed-responsive-16by9" style="max-width:560px; margin:0 auto;">
+						<iframe width="560" height="315" src="https://www.youtube.com/embed/AOOb8LJ4NiU?si=MA9BHQWkEIsd9hFa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+					</div>
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="col-md-12 gallery-card text-center">
+					<h3>DUM 2025 | SESSION 1: SPECIAL PLENARY SESSION - INNOVATIVE POLICIES AND REGULATORY INTERVENTIONS FOR SUSTAINABILITY OF DISCOMs | Session Partners: PFI and AIDA | 04 NOVEMBER 2025 (TUESDAY)</h3>
+					<div class="embed-responsive embed-responsive-16by9" style="max-width:560px; margin:0 auto;">
+						<iframe width="560" height="315" src="https://www.youtube.com/embed/q1h25kZE8LQ?si=5jAIzLWhPUxtkg7b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+					</div>
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="col-md-12 gallery-card text-center">
+					<h3>DUM 2025 | SESSION 2: SMART METERS AS THE FOUNDATION FOR DIGITALIZATION OF DISCOMs | Session Partner: AIDA | 04 NOVEMBER 2025 (TUESDAY)</h3>
+					<div class="embed-responsive embed-responsive-16by9" style="max-width:560px; margin:0 auto;">
+						<iframe width="560" height="315" src="https://www.youtube.com/embed/K7t-F4zRVos?si=GmOko_GEaP7VbQCl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+					</div>
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="col-md-12 gallery-card text-center">
+					<h3>DUM 2025 | SESSION 3: AI-ML-VR/AR-ROBOTICS APPLICATIONS FOR UTILITIES | 04 NOVEMBER 2025 (TUESDAY)</h3>
+					<div class="embed-responsive embed-responsive-16by9" style="max-width:560px; margin:0 auto;">
+						<iframe width="560" height="315" src="https://www.youtube.com/embed/hEGiqxyeAuI?si=iF-Xwh1xyjhRUUew" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+					</div>
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="col-md-12 gallery-card text-center">
+					<h3>DUM 2025 | SESSION 4: DIGITAL ENERGY GRIDS AND THE EMERGING ERA OF ENERGY INTERNET | Session Partner: Impresa.ai | 04 NOVEMBER 2025 (TUESDAY)</h3>
+					<div class="embed-responsive embed-responsive-16by9" style="max-width:560px; margin:0 auto;">
+						<iframe width="560" height="315" src="https://www.youtube.com/embed/L7ccVJi5kpY?si=34AnUOvC0cSX_QP9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+					</div>
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="col-md-12 gallery-card text-center">
+					<h3>DUM 2025 | SESSION 5: GRID INTEGRATION OF DISTRIBUTED RE (DRE) | 05 NOVEMBER 2025 (WEDNESDAY)</h3>
+					<div class="embed-responsive embed-responsive-16by9" style="max-width:560px; margin:0 auto;">
+						<iframe width="560" height="315" src="https://www.youtube.com/embed/EU4p6Kb3ZY0?si=A4IfiQf1ZKJf_Oql" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+					</div>
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="col-md-12 gallery-card text-center">
+					<h3>DUM 2025 | SESSION 6: ELECTRIC VEHICLES – A $200 BILLION OPPORTUNITY IN INDIA AND DISCOMs ROLE IN MAKING THIS A REALITY | Session Partner: Power Foundation of India (PFI) | 05 NOVEMBER 2025 (WEDNESDAY)</h3>
+					<div class="embed-responsive embed-responsive-16by9" style="max-width:560px; margin:0 auto;">
+						<iframe width="560" height="315" src="https://www.youtube.com/embed/EBMY0b4Zlvk?si=AyKCMcfD6lQBxgQN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+					</div>
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="col-md-12 gallery-card text-center">
+					<h3>DUM 2025 | SESSION 7: EMERGING CHALLENGES FOR DISCOMs: GW-scale AI DATA CENTERS, MW-scale EV CHARGING STATIONS, and GRID-level POWER QUALITY CHALLENGES | Session Partner: Enspar Energy Solutions | 05 NOVEMBER 2025 (WEDNESDAY)</h3>
+					<div class="embed-responsive embed-responsive-16by9" style="max-width:560px; margin:0 auto;">
+						<iframe width="560" height="315" src="https://www.youtube.com/embed/GE2kCNgxmVI?si=vVr2_3MVCHzWdebR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+					</div>
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="col-md-12 gallery-card text-center">
+					<h3>DUM 2025 | SESSION 8: EXTREME WEATHER EVENTS AND THE URGENT NEED FOR REVISION OF STANDARDS AND SPECIFICATIONS OF GRID EQUIPMENT | 05 NOVEMBER 2025 (WEDNESDAY)</h3>
+					<div class="embed-responsive embed-responsive-16by9" style="max-width:560px; margin:0 auto;">
+						<iframe width="560" height="315" src="https://www.youtube.com/embed/JTJoVwAWvcY?si=QK6eHLsm3yg0QyCr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+					</div>
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="col-md-12 gallery-card text-center">
+					<h3>DUM 2025 | VALEDICTORY SESSION | 05 NOVEMBER 2025 (WEDNESDAY)</h3>
+					<div class="embed-responsive embed-responsive-16by9" style="max-width:560px; margin:0 auto;">
+						<iframe width="560" height="315" src="https://www.youtube.com/embed/LRl4Tz1e7VI?si=SRkSlHKIdY4Y6twH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+					</div>
+				</div>
+			</div>
+
             
             <!-- DUM 2024 Videos Section -->
 			<div class="row">

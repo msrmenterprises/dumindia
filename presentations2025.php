@@ -80,7 +80,7 @@ if($pass == "DUM2025#0405")
             <td>President - India Smart Grid Forum</td>
             <td>Welcome Address</td>
             <td>Speech</td>
-            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://youtu.be/AOOb8LJ4NiU?si=cvOiM1CSJ4DlHKxc">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAizZ">Photos</a></td>
         </tr>
         <tr>
@@ -90,7 +90,7 @@ if($pass == "DUM2025#0405")
             <td>Additional Secretary, Ministry of Power, GOI</td>
             <td>Special Address</td>
             <td>Speech</td>
-            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://youtu.be/AOOb8LJ4NiU?si=cvOiM1CSJ4DlHKxc">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAizZ">Photos</a></td>
         </tr>
         <tr>
@@ -100,7 +100,7 @@ if($pass == "DUM2025#0405")
             <td>UPPCL and AIDA</td>
             <td>Special Address</td>
             <td>Speech</td>
-            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://youtu.be/AOOb8LJ4NiU?si=cvOiM1CSJ4DlHKxc">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAizZ">Photos</a></td>
         </tr>
         <tr>
@@ -110,7 +110,7 @@ if($pass == "DUM2025#0405")
             <td>Tata Power Company Ltd</td>
             <td>Special Address</td>
             <td>Speech</td>
-            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://youtu.be/AOOb8LJ4NiU?si=cvOiM1CSJ4DlHKxc">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAizZ">Photos</a></td>
         </tr>
         <tr>
@@ -120,7 +120,7 @@ if($pass == "DUM2025#0405")
             <td>Former Secretary, Ministry of Power, GOI</td>
             <td>Special Address</td>
             <td>Speech</td>
-            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://youtu.be/AOOb8LJ4NiU?si=cvOiM1CSJ4DlHKxc">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAizZ">Photos</a></td>
         </tr>
         <tr>
@@ -130,7 +130,7 @@ if($pass == "DUM2025#0405")
             <td>Ministry of Power, GOI</td>
             <td>Special Address</td>
             <td>Speech</td>
-            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://youtu.be/AOOb8LJ4NiU?si=cvOiM1CSJ4DlHKxc">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAizZ">Photos</a></td>
         </tr>
         <tr>
@@ -140,7 +140,7 @@ if($pass == "DUM2025#0405")
             <td>Government of Maharashtra</td>
             <td>Chief Guests</td>
             <td>Speech</td>
-            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://youtu.be/AOOb8LJ4NiU?si=cvOiM1CSJ4DlHKxc">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAizZ">Photos</a></td>
         </tr>
         <tr>
@@ -150,7 +150,7 @@ if($pass == "DUM2025#0405")
             <td>Government of Maharashtra</td>
             <td>Chief Guests</td>
             <td>Speech</td>
-            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://youtu.be/AOOb8LJ4NiU?si=cvOiM1CSJ4DlHKxc">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAizZ">Photos</a></td>
         </tr>
         <tr>
@@ -160,7 +160,7 @@ if($pass == "DUM2025#0405")
             <td>Maharashtra State Electricity Distribution Company Limited</td>
             <td>Vote of Thanks</td>
             <td>Speech</td>
-            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://youtu.be/AOOb8LJ4NiU?si=cvOiM1CSJ4DlHKxc">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAizZ">Photos</a></td>
         </tr>
         <tr>
@@ -170,7 +170,7 @@ if($pass == "DUM2025#0405")
             <td>Maharashtra State Electricity Distribution Company Limited</td>
             <td>Vote of Thanks</td>
             <td>Speech</td>
-            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://youtu.be/AOOb8LJ4NiU?si=cvOiM1CSJ4DlHKxc">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAizZ">Photos</a></td>
         </tr>
     </tbody>
@@ -198,7 +198,7 @@ if($pass == "DUM2025#0405")
             <td>Ministry of Power, GOI</td>
             <td>Chair</td>
             <td>Speech</td>
-            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://youtu.be/q1h25kZE8LQ?si=N_N0KpA20Vx67ZoE">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAi3q">Photos</a></td>
         </tr>
         <tr>
@@ -208,7 +208,7 @@ if($pass == "DUM2025#0405")
             <td>Former Secretary, Ministry of Power, GOI</td>
             <td>Moderator</td>
             <td><a target="_blank" rel="noopener" href="/images/2026/ppt/12. Alok Kumar_Session 1 Special Plenary_Sustainability of DISCOMs.pdf">View/Download</a></td>
-            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://youtu.be/q1h25kZE8LQ?si=N_N0KpA20Vx67ZoE">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAi3q">Photos</a></td>
         </tr>
         <tr>
@@ -218,7 +218,7 @@ if($pass == "DUM2025#0405")
             <td>Power Foundation of India</td>
             <td>Presentation</td>
             <td><a target="_blank" rel="noopener" href="/images/2026/ppt/13. Himanshu Chawla_Session 1 Special Plenary_Sustainability of DISCOMs.pdf">View/Download</a></td>
-            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://youtu.be/q1h25kZE8LQ?si=N_N0KpA20Vx67ZoE">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAi3q">Photos</a></td>
         </tr>
         <tr>
@@ -228,7 +228,7 @@ if($pass == "DUM2025#0405")
             <td>UPPCL and AIDA</td>
             <td>Presentation</td>
             <td>Speech</td>
-            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://youtu.be/q1h25kZE8LQ?si=N_N0KpA20Vx67ZoE">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAi3q">Photos</a></td>
         </tr>
         <tr>
@@ -238,7 +238,7 @@ if($pass == "DUM2025#0405")
             <td>Karnataka Electricity Regulatory Commission</td>
             <td>Speaker</td>
             <td>Speech</td>
-            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://youtu.be/q1h25kZE8LQ?si=N_N0KpA20Vx67ZoE">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAi3q">Photos</a></td>
         </tr>
         <tr>
@@ -248,7 +248,7 @@ if($pass == "DUM2025#0405")
             <td>Additional Secretary, Ministry of Power, GOI</td>
             <td>Speaker</td>
             <td>Speech</td>
-            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://youtu.be/q1h25kZE8LQ?si=N_N0KpA20Vx67ZoE">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAi3q">Photos</a></td>
         </tr>
         <tr>
@@ -258,7 +258,7 @@ if($pass == "DUM2025#0405")
             <td>Madhya Pradesh Electricity Regulatory Commission</td>
             <td>Speaker</td>
             <td>Speech</td>
-            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://youtu.be/q1h25kZE8LQ?si=N_N0KpA20Vx67ZoE">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAi3q">Photos</a></td>
         </tr>
         <tr>
@@ -268,7 +268,7 @@ if($pass == "DUM2025#0405")
             <td>Tata Power Company, Mumbai</td>
             <td>Speaker</td>
             <td>Speech</td>
-            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://youtu.be/q1h25kZE8LQ?si=N_N0KpA20Vx67ZoE">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAi3q">Photos</a></td>
         </tr>
         <tr>
@@ -278,7 +278,7 @@ if($pass == "DUM2025#0405")
             <td>BSES Rajdhani Power Limited</td>
             <td>Speaker</td>
             <td>Speech</td>
-            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://youtu.be/q1h25kZE8LQ?si=N_N0KpA20Vx67ZoE">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAi3q">Photos</a></td>
         </tr>
         <tr>
@@ -288,7 +288,7 @@ if($pass == "DUM2025#0405")
             <td>Tripura Electricity Regulatory Commission</td>
             <td>Speaker</td>
             <td>Speech</td>
-            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://youtu.be/q1h25kZE8LQ?si=N_N0KpA20Vx67ZoE">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAi3q">Photos</a></td>
         </tr>
     </tbody>
@@ -316,7 +316,7 @@ if($pass == "DUM2025#0405")
             <td>UPPCL and AIDA</td>
             <td>Chair</td>
             <td>Speech</td>
-            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://youtu.be/K7t-F4zRVos?si=kRyBi4_w6dNm9E0n">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAogZ">Photos</a></td>
         </tr>
         <tr>
@@ -326,7 +326,7 @@ if($pass == "DUM2025#0405")
             <td>Ministry of Power, GOI</td>
             <td>Moderator</td>
             <td>Speech</td>
-            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://youtu.be/K7t-F4zRVos?si=kRyBi4_w6dNm9E0n">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAogZ">Photos</a></td>
         </tr>
         <tr>
@@ -336,7 +336,7 @@ if($pass == "DUM2025#0405")
             <td>IntelliSmart</td>
             <td>Presentation</td>
             <td><a target="_blank" rel="noopener" href="/images/2026/ppt/23. Anil Rawal - Session 2 - Smart Meter Rollout in India.pdf">View/Download</a></td>
-            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://youtu.be/K7t-F4zRVos?si=kRyBi4_w6dNm9E0n">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAogZ">Photos</a></td>
         </tr>
         <tr>
@@ -349,7 +349,7 @@ if($pass == "DUM2025#0405")
             <td>BEST, Mumbai</td>
             <td>Speaker</td>
             <td>Speech</td>
-            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://youtu.be/K7t-F4zRVos?si=kRyBi4_w6dNm9E0n">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAogZ">Photos</a></td>
         </tr>
         <tr>
@@ -359,7 +359,7 @@ if($pass == "DUM2025#0405")
             <td>Trilliant Networks</td>
             <td>Speaker</td>
             <td><a target="_blank" rel="noopener" href="/images/2026/ppt/25. Sandip Sinha - Session 2 - Smart Meter Rollout in India.pdf">View/Download</a></td>
-            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://youtu.be/K7t-F4zRVos?si=kRyBi4_w6dNm9E0n">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAogZ">Photos</a></td>
         </tr>
         <tr>
@@ -369,7 +369,7 @@ if($pass == "DUM2025#0405")
             <td>EDX Wireless</td>
             <td>Speaker</td>
             <td><a target="_blank" rel="noopener" href="/images/2026/ppt/26AnoopKaurBowdery - Session 2 - Smart Meter Rollout in India.pdf">View/Download</a></td>
-            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://youtu.be/K7t-F4zRVos?si=kRyBi4_w6dNm9E0n">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAogZ">Photos</a></td>
         </tr>
         <tr>
@@ -379,7 +379,7 @@ if($pass == "DUM2025#0405")
             <td>BSES, Delhi</td>
             <td>Speaker</td>
             <td>Speech</td>
-            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://youtu.be/K7t-F4zRVos?si=kRyBi4_w6dNm9E0n">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAogZ">Photos</a></td>
         </tr>
         <tr>
@@ -389,7 +389,7 @@ if($pass == "DUM2025#0405")
             <td>Kimbal</td>
             <td>Speaker</td>
             <td>Speech</td>
-            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://youtu.be/K7t-F4zRVos?si=kRyBi4_w6dNm9E0n">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAogZ">Photos</a></td>
         </tr>
         <tr>
@@ -402,7 +402,7 @@ if($pass == "DUM2025#0405")
             <td>NSGM</td>
             <td>Speaker</td>
             <td>Speech</td>
-            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://youtu.be/K7t-F4zRVos?si=kRyBi4_w6dNm9E0n">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAogZ">Photos</a></td>
         </tr>
         <tr>
@@ -412,7 +412,7 @@ if($pass == "DUM2025#0405")
             <td>Tata Power Delhi Distribution Limited</td>
             <td>Speaker</td>
             <td>Speech</td>
-            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://youtu.be/K7t-F4zRVos?si=kRyBi4_w6dNm9E0n">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAogZ">Photos</a></td>
         </tr>
         <tr>
@@ -422,7 +422,7 @@ if($pass == "DUM2025#0405")
             <td>North Bihar Power Distribution Company Ltd</td>
             <td>Speaker</td>
             <td>Speech</td>
-            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://youtu.be/K7t-F4zRVos?si=kRyBi4_w6dNm9E0n">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAogZ">Photos</a></td>
         </tr>
         <tr>
@@ -432,7 +432,7 @@ if($pass == "DUM2025#0405")
             <td>Wirepas</td>
             <td>Speaker</td>
             <td><a target="_blank" rel="noopener" href="/images/2026/ppt/32. Teppo Hemia - Session 2 - Smart Meter Rollout in India.pdf">View/Download</a></td>
-            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://youtu.be/K7t-F4zRVos?si=kRyBi4_w6dNm9E0n">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAogZ">Photos</a></td>
         </tr>
         <tr>
@@ -442,7 +442,7 @@ if($pass == "DUM2025#0405")
             <td>Madhya Pradesh Poorv Kshetra Vidyut Vitaran Company Limited</td>
             <td>Speaker</td>
             <td>Speech</td>
-            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://youtu.be/K7t-F4zRVos?si=kRyBi4_w6dNm9E0n">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAogZ">Photos</a></td>
         </tr>
         <tr>
@@ -452,7 +452,7 @@ if($pass == "DUM2025#0405")
             <td>Allied Engineering Works Limited</td>
             <td>Speaker</td>
             <td><a target="_blank" rel="noopener" href="/images/2026/ppt/34. Asutosh Goel - Session 2 - Smart Meter Rollout in India.pdf">View/Download</a></td>
-            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://youtu.be/K7t-F4zRVos?si=kRyBi4_w6dNm9E0n">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAogZ">Photos</a></td>
         </tr>
         <tr>
@@ -462,7 +462,7 @@ if($pass == "DUM2025#0405")
             <td>Radius Synergies International Pvt. Ltd.</td>
             <td>Speaker</td>
             <td><a target="_blank" rel="noopener" href="/images/2026/ppt/35. Jaideep Singh - Session 2 - Smart Meter Rollout in India.pdf">View/Download</a></td>
-            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://youtu.be/K7t-F4zRVos?si=kRyBi4_w6dNm9E0n">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAogZ">Photos</a></td>
         </tr>
     </tbody>
@@ -490,7 +490,7 @@ if($pass == "DUM2025#0405")
             <td>Former Secretary, Ministry of Power, GOI</td>
             <td>Chair</td>
             <td>Speech</td>
-            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://youtu.be/hEGiqxyeAuI?si=O6L33QR8VIXBAwbp">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAiDS">Photos</a></td>
         </tr>
         <tr>
@@ -500,7 +500,7 @@ if($pass == "DUM2025#0405")
             <td>India Smart Grid Forum</td>
             <td>Moderator</td>
             <td>Speech</td>
-            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://youtu.be/hEGiqxyeAuI?si=O6L33QR8VIXBAwbp">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAiDS">Photos</a></td>
         </tr>
         <tr>
@@ -510,7 +510,7 @@ if($pass == "DUM2025#0405")
             <td>Impressa.ai</td>
             <td>Presentation</td>
             <td><a target="_blank" rel="noopener" href="/images/2026/ppt/38. Rohit Pareek - SESSION  3 AI-ML-VRAR-ROBOTICS.pdf">View/Download</a></td>
-            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://youtu.be/hEGiqxyeAuI?si=O6L33QR8VIXBAwbp">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAiDS">Photos</a></td>
         </tr>
         <tr>
@@ -520,7 +520,7 @@ if($pass == "DUM2025#0405")
             <td>India Smart Grid Forum</td>
             <td>Presentation</td>
             <td><a target="_blank" rel="noopener" href="/images/2026/ppt/39. Reji Kumar Pillai - SESSION  3 AI-ML-VRAR-ROBOTICS.pdf">View/Download</a></td>
-            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://youtu.be/hEGiqxyeAuI?si=O6L33QR8VIXBAwbp">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAiDS">Photos</a></td>
         </tr>
         <tr>
@@ -530,7 +530,7 @@ if($pass == "DUM2025#0405")
             <td>BSES Rajdhani Power Limited</td>
             <td>Speaker</td>
             <td>Speech</td>
-            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://youtu.be/hEGiqxyeAuI?si=O6L33QR8VIXBAwbp">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAiDS">Photos</a></td>
         </tr>
         <tr>
@@ -540,7 +540,7 @@ if($pass == "DUM2025#0405")
             <td>Tata Power Company Ltd</td>
             <td>Speaker</td>
             <td>Speech</td>
-            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://youtu.be/hEGiqxyeAuI?si=O6L33QR8VIXBAwbp">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAiDS">Photos</a></td>
         </tr>
         <tr>
@@ -550,7 +550,7 @@ if($pass == "DUM2025#0405")
             <td>BSES Yamuna Power Limited</td>
             <td>Speaker</td>
             <td>Speech</td>
-            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://youtu.be/hEGiqxyeAuI?si=O6L33QR8VIXBAwbp">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAiDS">Photos</a></td>
         </tr>
         <tr>
@@ -560,7 +560,7 @@ if($pass == "DUM2025#0405")
             <td>DNV</td>
             <td>Speaker</td>
             <td>Speech</td>
-            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://youtu.be/hEGiqxyeAuI?si=O6L33QR8VIXBAwbp">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAiDS">Photos</a></td>
         </tr>
         <tr>
@@ -570,7 +570,7 @@ if($pass == "DUM2025#0405")
             <td>Trilliant</td>
             <td>Speaker</td>
             <td><a target="_blank" rel="noopener" href="/images/2026/ppt/44. Swapnadeep Banerjee - SESSION  3 AI-ML-VRAR-ROBOTICS.pdf">View/Download</a></td>
-            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://youtu.be/hEGiqxyeAuI?si=O6L33QR8VIXBAwbp">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAiDS">Photos</a></td>
         </tr>
         <tr>
@@ -580,7 +580,7 @@ if($pass == "DUM2025#0405")
             <td>Noida Power Company Limited</td>
             <td>Speaker</td>
             <td>Speech</td>
-            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://youtu.be/hEGiqxyeAuI?si=O6L33QR8VIXBAwbp">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAiDS">Photos</a></td>
         </tr>
     </tbody>
@@ -608,7 +608,7 @@ if($pass == "DUM2025#0405")
             <td>Uttar Pradesh Power Corporation Limited</td>
             <td>Chair</td>
             <td>Speech</td>
-            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://youtu.be/L7ccVJi5kpY?si=e2JvCYwI9D_5REWK">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAsxb">Photos</a></td>
         </tr>
         <tr>
@@ -618,7 +618,7 @@ if($pass == "DUM2025#0405")
             <td>Senior Fellow, CSEP</td>
             <td>Moderator</td>
             <td>Speech</td>
-            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://youtu.be/L7ccVJi5kpY?si=e2JvCYwI9D_5REWK">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAsxb">Photos</a></td>
         </tr>
         <tr>
@@ -628,7 +628,7 @@ if($pass == "DUM2025#0405")
             <td>FIDE</td>
             <td>Presentation</td>
             <td><a target="_blank" rel="noopener" href="/images/2026/ppt/48. Sujith Nair - Session 4 - Digital Energy Grid _ DUM25.pdf">View/Download</a></td>
-            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://youtu.be/L7ccVJi5kpY?si=e2JvCYwI9D_5REWK">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAsxb">Photos</a></td>
         </tr>
         <tr>
@@ -638,7 +638,7 @@ if($pass == "DUM2025#0405")
             <td>Impressa.ai</td>
             <td>Presentation</td>
             <td><a target="_blank" rel="noopener" href="/images/2026/ppt/49. Vishakha Chavan - Session 4 - Digital Energy Grid _ DUM25.pdf">View/Download</a></td>
-            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://youtu.be/L7ccVJi5kpY?si=e2JvCYwI9D_5REWK">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAsxb">Photos</a></td>
         </tr>
         <tr>
@@ -648,7 +648,7 @@ if($pass == "DUM2025#0405")
             <td>India Smart Grid Forum</td>
             <td>Presentation</td>
             <td><a target="_blank" rel="noopener" href="/images/2026/ppt/50. Shashi Bala - Session 4 - Digital Energy Grid _ DUM25.pdf">View/Download</a></td>
-            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://youtu.be/L7ccVJi5kpY?si=e2JvCYwI9D_5REWK">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAsxb">Photos</a></td>
         </tr>
         <tr>
@@ -658,7 +658,7 @@ if($pass == "DUM2025#0405")
             <td>Tata Power Company Ltd</td>
             <td>Speaker</td>
             <td>Speech</td>
-            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://youtu.be/L7ccVJi5kpY?si=e2JvCYwI9D_5REWK">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAsxb">Photos</a></td>
         </tr>
         <tr>
@@ -668,7 +668,7 @@ if($pass == "DUM2025#0405")
             <td>BSES Rajdhani Power Limited</td>
             <td>Speaker</td>
             <td>Speech</td>
-            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://youtu.be/L7ccVJi5kpY?si=e2JvCYwI9D_5REWK">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAsxb">Photos</a></td>
         </tr>
         <tr>
@@ -678,7 +678,7 @@ if($pass == "DUM2025#0405")
             <td>Impresa.ai</td>
             <td>Speaker</td>
             <td>Speech</td>
-            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://youtu.be/L7ccVJi5kpY?si=e2JvCYwI9D_5REWK">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAsxb">Photos</a></td>
         </tr>
         <tr>
@@ -688,7 +688,7 @@ if($pass == "DUM2025#0405")
             <td>Stelmec</td>
             <td>Speaker</td>
             <td><a target="_blank" rel="noopener" href="/images/2026/ppt/54. RS Selvam - Session 4 - Digital Energy Grid _ DUM25.pdf">View/Download</a></td>
-            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://youtu.be/L7ccVJi5kpY?si=e2JvCYwI9D_5REWK">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAsxb">Photos</a></td>
         </tr>
         <tr>
@@ -698,7 +698,7 @@ if($pass == "DUM2025#0405")
             <td>KrypC</td>
             <td>Speaker</td>
             <td>Speech</td>
-            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://youtu.be/L7ccVJi5kpY?si=e2JvCYwI9D_5REWK">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAsxb">Photos</a></td>
         </tr>
         <tr>
@@ -708,7 +708,7 @@ if($pass == "DUM2025#0405")
             <td>India Energy and Climate Center</td>
             <td>Speaker</td>
             <td>Speech</td>
-            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://youtu.be/L7ccVJi5kpY?si=e2JvCYwI9D_5REWK">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAsxb">Photos</a></td>
         </tr>
     </tbody>
@@ -764,7 +764,7 @@ if($pass == "DUM2025#0405")
             <td>Biosirus, Inc and ISGF</td>
             <td>Chair and Moderator</td>
             <td>Speech</td>
-            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://youtu.be/EU4p6Kb3ZY0?si=Il5hpvHF-c-f7Exl">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAsQv">Photos</a></td>
         </tr>
         <tr>
@@ -774,7 +774,7 @@ if($pass == "DUM2025#0405")
             <td>Maharashtra State Electricity Distribution Company Limited</td>
             <td>Presentation</td>
             <td><a target="_blank" rel="noopener" href="/images/2026/ppt/59. Dnyanesh Kulkarni - SESSION  - 5 GRID INTEGRATION OF DRE.pdf">View/Download</a></td>
-            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://youtu.be/EU4p6Kb3ZY0?si=Il5hpvHF-c-f7Exl">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAsQv">Photos</a></td>
         </tr>
         <tr>
@@ -784,7 +784,7 @@ if($pass == "DUM2025#0405")
             <td>Maharashtra State Electricity Distribution Company Limited</td>
             <td>Presentation</td>
             <td><a target="_blank" rel="noopener" href="/images/2026/ppt/60. Dhananjay Aundhekar - SESSION - 5 GRID INTEGRATION OF DRE.pdf">View/Download</a></td>
-            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://youtu.be/EU4p6Kb3ZY0?si=Il5hpvHF-c-f7Exl">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAsQv">Photos</a></td>
         </tr>
         <tr>
@@ -794,7 +794,7 @@ if($pass == "DUM2025#0405")
             <td>India Smart Grid Forum</td>
             <td>Presentation</td>
             <td><a target="_blank" rel="noopener" href="/images/2026/ppt/61. Reji Kumar Pillai - SESSION  - 5 GRID INTEGRATION OF DRE.pdf">View/Download</a></td>
-            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://youtu.be/EU4p6Kb3ZY0?si=Il5hpvHF-c-f7Exl">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAsQv">Photos</a></td>
         </tr>
         <tr>
@@ -804,7 +804,7 @@ if($pass == "DUM2025#0405")
             <td>Uttar Pradesh Power Corporation Limited</td>
             <td>Speaker</td>
             <td>Speech</td>
-            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://youtu.be/EU4p6Kb3ZY0?si=Il5hpvHF-c-f7Exl">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAsQv">Photos</a></td>
         </tr>
         <tr>
@@ -814,7 +814,7 @@ if($pass == "DUM2025#0405")
             <td>TPREL</td>
             <td>Speaker</td>
             <td>Speech</td>
-            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://youtu.be/EU4p6Kb3ZY0?si=Il5hpvHF-c-f7Exl">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAsQv">Photos</a></td>
         </tr>
     </tbody>
@@ -842,7 +842,7 @@ if($pass == "DUM2025#0405")
             <td>Maharashtra Electricity Regulatory Commission</td>
             <td>Chair</td>
             <td>Speech</td>
-            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://youtu.be/EBMY0b4Zlvk?si=nScDr4Iwm2ahurz7">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAiwX">Photos</a></td>
         </tr>
         <tr>
@@ -852,7 +852,7 @@ if($pass == "DUM2025#0405")
             <td>Power Foundation of India (PFI)</td>
             <td>Moderator</td>
             <td>Speech</td>
-            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://youtu.be/EBMY0b4Zlvk?si=nScDr4Iwm2ahurz7">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAiwX">Photos</a></td>
         </tr>
         <tr>
@@ -862,7 +862,7 @@ if($pass == "DUM2025#0405")
             <td>Power Foundation of India (PFI)</td>
             <td>Presentation</td>
             <td><a target="_blank" rel="noopener" href="/images/2026/ppt/66. Anshuman Srivastava - SESSION 6 - ELECTRIC VEHICLES – A $200 BILLION.pdf">View/Download</a></td>
-            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://youtu.be/EBMY0b4Zlvk?si=nScDr4Iwm2ahurz7">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAiwX">Photos</a></td>
         </tr>
         <tr>
@@ -872,7 +872,7 @@ if($pass == "DUM2025#0405")
             <td>India Smart Grid Forum</td>
             <td>Presentation</td>
             <td><a target="_blank" rel="noopener" href="/images/2026/ppt/67. Anand Singh - SESSION 6 - ELECTRIC VEHICLES – A $200 BILLION.pdf">View/Download</a></td>
-            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://youtu.be/EBMY0b4Zlvk?si=nScDr4Iwm2ahurz7">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAiwX">Photos</a></td>
         </tr>
         <tr>
@@ -882,7 +882,7 @@ if($pass == "DUM2025#0405")
             <td>Tata Power Company Limited</td>
             <td>Speaker</td>
             <td><a target="_blank" rel="noopener" href="/images/2026/ppt/68. Ramkrsihna - SESSION 6 - ELECTRIC VEHICLES – A $200 BILLION.pdf">View/Download</a></td>
-            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://youtu.be/EBMY0b4Zlvk?si=nScDr4Iwm2ahurz7">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAiwX">Photos</a></td>
         </tr>
         <tr>
@@ -892,7 +892,7 @@ if($pass == "DUM2025#0405")
             <td>BEST, Mumbai</td>
             <td></td>
             <td>Speech</td>
-            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://youtu.be/EBMY0b4Zlvk?si=nScDr4Iwm2ahurz7">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAiwX">Photos</a></td>
         </tr>
         <tr>
@@ -902,7 +902,7 @@ if($pass == "DUM2025#0405")
             <td>Tata Motors Ltd</td>
             <td>Speaker</td>
             <td>Speech</td>
-            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://youtu.be/EBMY0b4Zlvk?si=nScDr4Iwm2ahurz7">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAiwX">Photos</a></td>
         </tr>
         <tr>
@@ -912,7 +912,7 @@ if($pass == "DUM2025#0405")
             <td>BSES Rajdhani Power Limited</td>
             <td>Speaker</td>
             <td>Speech</td>
-            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://youtu.be/EBMY0b4Zlvk?si=nScDr4Iwm2ahurz7">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAiwX">Photos</a></td>
         </tr>
         <tr>
@@ -922,7 +922,7 @@ if($pass == "DUM2025#0405")
             <td>Chandigarh Power Distribution Company Ltd</td>
             <td>Speaker</td>
             <td><a target="_blank" rel="noopener" href="/images/2026/ppt/72. Pramod Mishra - SESSION 6 - ELECTRIC VEHICLES – A $200 BILLION.pdf">View/Download</a></td>
-            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://youtu.be/EBMY0b4Zlvk?si=nScDr4Iwm2ahurz7">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAiwX">Photos</a></td>
         </tr>
         <tr>
@@ -932,7 +932,7 @@ if($pass == "DUM2025#0405")
             <td>Charge Zone</td>
             <td>Speaker</td>
             <td>Speech</td>
-            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://youtu.be/EBMY0b4Zlvk?si=nScDr4Iwm2ahurz7">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAiwX">Photos</a></td>
         </tr>
         <tr>
@@ -942,7 +942,7 @@ if($pass == "DUM2025#0405")
             <td>IESA</td>
             <td>Speaker</td>
             <td>Speech</td>
-            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://youtu.be/EBMY0b4Zlvk?si=nScDr4Iwm2ahurz7">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAiwX">Photos</a></td>
         </tr>
         <tr>
@@ -952,7 +952,7 @@ if($pass == "DUM2025#0405")
             <td>GGGI</td>
             <td>Speaker</td>
             <td>Speech</td>
-            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://youtu.be/EBMY0b4Zlvk?si=nScDr4Iwm2ahurz7">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAiwX">Photos</a></td>
         </tr>
     </tbody>
@@ -980,7 +980,7 @@ if($pass == "DUM2025#0405")
             <td>UPPCL and AIDA</td>
             <td>Chair</td>
             <td>Speech</td>
-            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://youtu.be/GE2kCNgxmVI?si=U_ryMiVaLjhE9KCE">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAioF">Photos</a></td>
         </tr>
         <tr>
@@ -990,7 +990,7 @@ if($pass == "DUM2025#0405")
             <td>India Smart Grid Forum</td>
             <td>Moderator</td>
             <td>Speech</td>
-            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://youtu.be/GE2kCNgxmVI?si=U_ryMiVaLjhE9KCE">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAioF">Photos</a></td>
         </tr>
         <tr>
@@ -1000,7 +1000,7 @@ if($pass == "DUM2025#0405")
             <td>Enspar Energy Solutions</td>
             <td>Presentation</td>
             <td><a target="_blank" rel="noopener" href="/images/2026/ppt/78. Anil Prasanna - SESSION 7 - EMERGING CHALLENGES FOR DISCOMS.pdf">View/ Download</a></td>
-            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://youtu.be/GE2kCNgxmVI?si=U_ryMiVaLjhE9KCE">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAioF">Photos</a></td>
         </tr>
         <tr>
@@ -1010,7 +1010,7 @@ if($pass == "DUM2025#0405")
             <td>Power Finance Corporation</td>
             <td>Speaker</td>
             <td>Speech</td>
-            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://youtu.be/GE2kCNgxmVI?si=U_ryMiVaLjhE9KCE">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAioF">Photos</a></td>
         </tr>
         <tr>
@@ -1020,7 +1020,7 @@ if($pass == "DUM2025#0405")
             <td>PGVCL</td>
             <td>Speaker</td>
             <td><a target="_blank" rel="noopener" href="/images/2026/ppt/80. Ketan Joshi - SESSION 7 - EMERGING CHALLENGES FOR DISCOMS.pdf">View/ Download</a></td>
-            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://youtu.be/GE2kCNgxmVI?si=U_ryMiVaLjhE9KCE">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAioF">Photos</a></td>
         </tr>
         <tr>
@@ -1030,7 +1030,7 @@ if($pass == "DUM2025#0405")
             <td>BSES Yamuna Power Limited</td>
             <td>Speaker</td>
             <td><a target="_blank" rel="noopener" href="/images/2026/ppt/81. Santosh Singh BRPL - SESSION 7 - EMERGING CHALLENGES FOR DISCOMS.pdf">View/ Download</a></td>
-            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://youtu.be/GE2kCNgxmVI?si=U_ryMiVaLjhE9KCE">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAioF">Photos</a></td>
         </tr>
         <tr>
@@ -1040,7 +1040,7 @@ if($pass == "DUM2025#0405")
             <td>Maharashtra State Electricity Distribution Company Limited</td>
             <td></td>
             <td>Speech</td>
-            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://youtu.be/GE2kCNgxmVI?si=U_ryMiVaLjhE9KCE">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAioF">Photos</a></td>
         </tr>
         <tr>
@@ -1050,7 +1050,7 @@ if($pass == "DUM2025#0405")
             <td>Tata Power Company Ltd</td>
             <td>Speaker</td>
             <td><a target="_blank" rel="noopener" href="/images/2026/ppt/83. Chintamani Chitnis - SESSION 7 - EMERGING CHALLENGES FOR DISCOMS.pdf">View/ Download</a></td>
-            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://youtu.be/GE2kCNgxmVI?si=U_ryMiVaLjhE9KCE">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAioF">Photos</a></td>
         </tr>
         <tr>
@@ -1060,7 +1060,7 @@ if($pass == "DUM2025#0405")
             <td>APAR Industries</td>
             <td>Speaker</td>
             <td><a target="_blank" rel="noopener" href="/images/2026/ppt/84. Manish Patel - SESSION 7 - EMERGING CHALLENGES FOR DISCOMS.pdf">View/ Download</a></td>
-            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://youtu.be/GE2kCNgxmVI?si=U_ryMiVaLjhE9KCE">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAioF">Photos</a></td>
         </tr>
         <tr>
@@ -1070,7 +1070,7 @@ if($pass == "DUM2025#0405")
             <td>Narnix Technolabs</td>
             <td>Speaker</td>
             <td><a target="_blank" rel="noopener" href="/images/2026/ppt/85. Kishor Narang - SESSION 7 - EMERGING CHALLENGES FOR DISCOMS.pdf">View/ Download</a></td>
-            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://youtu.be/GE2kCNgxmVI?si=U_ryMiVaLjhE9KCE">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAioF">Photos</a></td>
         </tr>
         <tr>
@@ -1080,7 +1080,7 @@ if($pass == "DUM2025#0405")
             <td>Noida Power Company Limited</td>
             <td>Speaker</td>
             <td><a target="_blank" rel="noopener" href="/images/2026/ppt/86GauravSharma - SESSION 7 - EMERGING CHALLENGES FOR DISCOMS.pdf">View/ Download</a></td>
-            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://youtu.be/GE2kCNgxmVI?si=U_ryMiVaLjhE9KCE">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAioF">Photos</a></td>
         </tr>
     </tbody>
@@ -1108,7 +1108,7 @@ if($pass == "DUM2025#0405")
             <td>Biosirus, Inc and ISGF</td>
             <td>Chair & Moderator</td>
             <td>Speech</td>
-            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://youtu.be/JTJoVwAWvcY?si=MOrtSqZmJvQSuI7H">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAipY">Photos</a></td>
         </tr>
         <tr>
@@ -1118,7 +1118,7 @@ if($pass == "DUM2025#0405")
             <td>Coalition for Disaster Resilient Infrastructure (CDRI)</td>
             <td>Presentation</td>
             <td><a target="_blank" rel="noopener" href="/images/2026/ppt/88. Amit Tripathi - Session 8 - Coalition for Disaster Resilient Infrastructure.pdf">View/ Download</a></td>
-            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://youtu.be/JTJoVwAWvcY?si=MOrtSqZmJvQSuI7H">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAipY">Photos</a></td>
         </tr>
         <tr>
@@ -1128,7 +1128,7 @@ if($pass == "DUM2025#0405")
             <td>Tata Power, Odisha</td>
             <td>Speaker</td>
             <td><a target="_blank" rel="noopener" href="/images/2026/ppt/89. Gajanan Kale - Session 8 - Climate Resilience of Future Grids.pdf">View/ Download</a></td>
-            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://youtu.be/JTJoVwAWvcY?si=MOrtSqZmJvQSuI7H">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAipY">Photos</a></td>
         </tr>
         <tr>
@@ -1138,7 +1138,7 @@ if($pass == "DUM2025#0405")
             <td>CESC, Kolkata</td>
             <td>Speaker</td>
             <td><a target="_blank" rel="noopener" href="/images/2026/ppt/90. Sujit Pathak - Session 8 - Extreme Weather Events.pdf">View/ Download</a></td>
-            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://youtu.be/JTJoVwAWvcY?si=MOrtSqZmJvQSuI7H">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAipY">Photos</a></td>
         </tr>
         <tr>
@@ -1148,7 +1148,7 @@ if($pass == "DUM2025#0405")
             <td>Eaton Power Quality</td>
             <td>Speaker</td>
             <td>Speech</td>
-            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://youtu.be/JTJoVwAWvcY?si=MOrtSqZmJvQSuI7H">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAipY">Photos</a></td>
         </tr>
         <tr>
@@ -1158,7 +1158,7 @@ if($pass == "DUM2025#0405")
             <td>CESC Rajasthan</td>
             <td>Speaker</td>
             <td>Speech</td>
-            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://youtu.be/JTJoVwAWvcY?si=MOrtSqZmJvQSuI7H">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAipY">Photos</a></td>
         </tr>
         <tr>
@@ -1168,7 +1168,7 @@ if($pass == "DUM2025#0405")
             <td>BSES Rajdhani Power Limited</td>
             <td>Speaker</td>
             <td>Speech</td>
-            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://youtu.be/JTJoVwAWvcY?si=MOrtSqZmJvQSuI7H">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAipY">Photos</a></td>
         </tr>
     </tbody>
@@ -1196,7 +1196,7 @@ if($pass == "DUM2025#0405")
             <td>MSEDCL Kokan Region</td>
             <td>Special Address</td>
             <td>Speech</td>
-            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://youtu.be/LRl4Tz1e7VI?si=lOeEI8Ca8eSDUwqw">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAjee">Photos</a></td>
         </tr>
         <tr>
@@ -1206,7 +1206,7 @@ if($pass == "DUM2025#0405")
             <td>Power Foundation of India</td>
             <td>Special Address</td>
             <td>Speech</td>
-            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://youtu.be/LRl4Tz1e7VI?si=lOeEI8Ca8eSDUwqw">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAjee">Photos</a></td>
         </tr>
         <tr>
@@ -1216,7 +1216,7 @@ if($pass == "DUM2025#0405")
             <td>Tata Power, Odisha</td>
             <td>Special Address</td>
             <td>Speech</td>
-            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://youtu.be/LRl4Tz1e7VI?si=lOeEI8Ca8eSDUwqw">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAjee">Photos</a></td>
         </tr>
         <tr>
@@ -1226,7 +1226,7 @@ if($pass == "DUM2025#0405")
             <td>India Smart Grid Forum</td>
             <td>Vote of Thanks</td>
             <td>Speech</td>
-            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://youtu.be/LRl4Tz1e7VI?si=lOeEI8Ca8eSDUwqw">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAjee">Photos</a></td>
         </tr>
         <tr>
@@ -1236,7 +1236,7 @@ if($pass == "DUM2025#0405")
             <td>India Smart Grid Forum</td>
             <td>Vote of Thanks</td>
             <td>Speech</td>
-            <td><a target="_blank" href="#">Video</a></td>
+            <td><a target="_blank" href="https://youtu.be/LRl4Tz1e7VI?si=lOeEI8Ca8eSDUwqw">Video</a></td>
             <td><a target="_blank" href="https://flic.kr/s/aHBqjCAjee">Photos</a></td>
         </tr>
     </tbody>

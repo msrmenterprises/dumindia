@@ -1,21 +1,131 @@
 <?php include "include/header.php"; ?>
 <style>
-.k_confirmed_als li a img {
-    border: 1px solid #aeb4b2;
-    max-height: 80px;
-   
-    max-width: 100%;
-    object-fit: contain;
-    border: 1px solid #aeb4b2 !important;
-    display: block;
-    margin: 0 auto 7px;
+/* Responsive grid and consistent logo sizing (aligned with home page) */
+.k_confirmed_als {
+	display: block;
+	grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+	gap: 12px 18px;
+	list-style: none;
+	padding: 0;
+	margin: 0 auto;
+	align-items: start;
+	justify-items: center;
+	grid-auto-rows: minmax(120px, auto);
+	overflow:auto
 }
-.k_confirmed_als h5 {text-transform: UPPERCASE;}
+.k_confirmed_als li { text-align:center; margin:0; padding:6px 4px; display:table-cell !important ;
+box-shadow: 0 1px 6px rgba(0, 0, 0, 0.06);
+    border: 1px solid rgba(44, 58, 100, 0.08) !important;
+	width:0% !important
+}
+.k_confirmed_als li a { display:flex; flex-direction:column; align-items:center; justify-content:center; text-decoration:none; color:inherit; width:100%; }
+.k_confirmed_als li img {
+	max-width: 160px !important;
+	max-height: 110px !important;
+	width: auto !important;
+	height: auto !important;
+	object-fit: contain;
+	/* border-radius: 6px; */
+	/* box-shadow: 0 1px 6px rgba(0,0,0,0.06); */
+	background: #fff;
+	padding: 6px;
+	display: block;
+	margin: 0 auto 8px;
+	border:0px !important
+	/* border: 1px solid rgba(44,58,100,0.08) !important; */
+}
+.k_confirmed_als h5 { text-transform: uppercase; grid-column: 1 / -1; background: rgba(44,58,100,0.06); padding:8px 12px; border-radius:8px; font-size:15px; text-align:center; }
+@media (max-width: 576px) {
+	.k_confirmed_als { grid-template-columns: repeat(2,1fr); gap:10px; }
+	.k_confirmed_als li img { max-width:120px !important; max-height:80px !important; padding:4px; }
+	.k_confirmed_als h5 { font-size:13px; padding:6px 8px; }
+}
+
+/* Section spacing like home page */
+.k_cheading { margin: 36px 0 12px; padding-top: 6px; }
+.k_cheading h1 { margin: 0 0 10px; font-size: 30px; line-height: 1.08; }
+.k_container { padding-top: 28px; padding-bottom: 28px; }
+.k_cheading img {margin-top:8px; }
+@media (max-width: 768px) {
+	.k_cheading { margin: 24px 0 8px; }
+	.k_cheading h1 { font-size: 22px; }
+	.k_container { padding-top: 18px; padding-bottom: 18px; }
+}
 </style>
 <!-- key objective starts here -->
 <div class="row k_inbanner">
 	<img src="images/baner1.jpg" alt="">
 </div>
+
+<div class="row dum_container key_div">
+	<div class="k_cheading">
+		<h1><span class="k_greencolor">DUM 2025 </span> PARTNERS </h1>
+		<img src="images/kborder_bottom.png" alt="">
+	</div>
+
+	<BR/>
+		<ul class="k_confirmed_als">
+		<h5><STRONG>HOST UTILITIES</STRONG></h5>
+		
+		<li><a href="https://www.tatapower.com/" target="_blank"><img src="images/2024/tatapower.png" style="height: 135px;">Tata Power </a></li>
+		<li><a href="https://www.mahadiscom.in/en/home/" target="_blank"><img src="images/MSEDCL_logo.jpg" style="height:120px;">MSEDCL</a></li>
+		<!-- <li><a href="https://cea.nic.in/?lang=en" target="_blank"><img src="/images/2026/CEA.png" style="width: 183px;">Central Electricity of Authority</a></li> -->
+		</ul>
+
+		<!-- Knowledge Partner inserted below Host Utilities -->
+		<ul class="k_confirmed_als">
+		<h5><STRONG>KNOWLEDGE PARTNER</STRONG></h5>
+		<li><a href="https://www.powerfoundation.org.in/" target="_blank"><img src="images/2026/PowerFoundationofIndia.jpeg">Power Foundation of India</a></li>
+		</ul>
+
+	<BR/>
+		<ul class="k_confirmed_als">
+		<h5><STRONG>CO HOST UTILITIES</STRONG></h5>
+		<li><a href="https://www.bsesdelhi.com/web/brpl/home" target="_blank"><img src="images/utilities2019/bsess.png">BSES Rajdhani Power Limited</a></li>
+		<li><a href="https://www.bsesdelhi.com/web/bypl/home" target="_blank"><img src="images/utilities2019/bsess_yahh.png">BSES Yamuna Power Limited</a></li>
+		<li><a href="https://www.noidapower.com/" target="_blank"><img src="images/utilities2019/npcl.png">NPCL</a></li>	
+		<li><a href="https://www.adanielectricity.com/" target="_blank"><img src="images/2024/AdaniElectricity.png" style="height:155px;">Adani Electricity Mumbai Limited</a></li>	
+	</ul>	
+	
+		<BR/>
+		<ul class="k_confirmed_als">
+		<h5><STRONG>SUPPORTED BY</STRONG></h5>
+		<li><a href="https://energy.maharashtra.gov.in/en/" target="_blank"><img src="images/2026/energydepartment1.png">Energy Department of Maharashtra</a></li>
+		<li><a href="https://cea.nic.in/?lang=en" target="_blank"><img src="images/2026/CEA.png">Central Electricity Authority</a></li>
+		<li><a href="https://aida-india.org/" target="_blank"><img src="images/2026/AIDANew.png">All India Discoms Associations (AIDA)</a></li>
+		<li><a href="https://powermin.gov.in/" target="_blank"><img src="/images/MOP.png" >Ministry of Power</a></li>
+		<li><a href="https://www.niti.gov.in/" target="_blank"><img src="/images/NITI Aayog.png" style="height: 135px;">NITI Aayog</a></li>
+		</ul>	
+
+		<BR/>
+		<ul class="k_confirmed_als">
+		<h5><STRONG>THEMATIC SESSION PARTNERS</STRONG></h5>
+		<li><a href="https://www.enspar.com/" target="_blank"><img src="images/2026/Enspar.jpeg">Enspar Energy Solutions Pvt. Ltd.</a></li>
+		<li><a href="https://www.impresa.ai/" target="_blank"><img src="images/2025/ImpressaFinal.png" style="height: 135px;">Impresa.ai </a></li>	
+	</ul>	
+
+		<BR/>
+		<ul class="k_confirmed_als">
+			<h5><STRONG>TECHNOLOGY INNOVATION PARTNERS</STRONG></h5>
+			<li><a href="https://edx.com/" target="_blank"><img src="images/2026/EDXWireless.jpeg">EDX Wireless</a></li>
+			<li><a href="https://apar.com/" target="_blank"><img src="/images/apar.png" style="border: 1px solid #aeb4b2; height:100px;">APAR Industries </a></li>
+			<li><a href="https://kimbal.io/" target="_blank"><img src="/images/Kimbal.jpg" style="border: 1px solid #aeb4b2; height: 120px;">Kimbal </a></li>
+			<li><a href="https://www.wirepas.com/" target="_blank"><img src="/images/WIREPASS.png" style="border: 1px solid #aeb4b2; height:120px;">Wirepas</a></li>
+			<li><a href="https://aewinfra.com/" target="_blank"><img src="images/2024/allied.png" style="border: 1px solid #aeb4b2; height: 120px;">Allied Engineering Works Limited</a></li>	
+			<li><a href="https://stelmec.com/" target="_blank"><img src="/images/stelmac.png" style="border: 1px solid #aeb4b2; height: 120px;">Stelmec</a></li>	
+			
+			<!-- <li><a href="https://www.megger.com/en" target="_blank"><img src="/images/2025/Megger.jpeg" style="border: 1px solid #aeb4b2;">Megger India Pvt Ltd</a></li> -->
+			
+		</ul>	
+		<ul class="k_confirmed_als">
+			<li><a href="https://www.eaton.com/in/en-us.html" target="_blank"><img src="/images/2024/eaton.png" style="border: 1px solid #aeb4b2;">Eaton </a></li>
+			<li><a href="https://trilliant.com/" target="_blank"><img src="/images/2025/Trilliant.jpeg" style="border: 1px solid #aeb4b2;">Trilliant </a></li>
+			<li><a href="https://radius.co.in/" target="_blank"><img src="/images/2026/Radius.jpeg" style="border: 1px solid #aeb4b2; height:100px;">Radius Synergies International Private Limited</a></li>	
+			<li><a href="https://www.dnv.com/" target="_blank"><img src="/images/DNV.jpg" style="border: 1px solid #aeb4b2;">DNV </a></li>	
+		</ul>
+
+</div>	
+
 <div class="row dum_container key_div">
 	<div class="k_cheading">
 		<h1><span class="k_greencolor">DUM 2024 </span> PARTNERS </h1>
@@ -37,7 +147,8 @@
 		<li><a href="https://www.noidapower.com/" target="_blank"><img src="images/utilities2019/npcl.png" style="width:180px; height: 120px;">NPCL</a></li>
 		<li><a href="https://www.bsesdelhi.com/web/bypl" target="_blank"><img src="/images/bses.png" style="width:180px; height: 140px;">BSES Yamuna Power Limited</a></li>
 		<li><a href="https://www.cesc.co.in/home" target="_blank"><img src="images/2024/CESC_Logo.svg.png" style="height: 135px;">CESC Limited</a></li>		
-		</ul>
+			
+	</ul>
 		
          <br>	 
 	    <ul class="k_confirmed_als">	

@@ -1,0 +1,29 @@
+
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>jQuery PgwSlider Plugin Demo</title>
+<link href="css/pgwslider.css" rel="stylesheet" type="text/css">
+<link href="https://www.jqueryscript.net/css/jquerysctipttop.css" rel="stylesheet" type="text/css">
+
+</head>
+
+<body>
+
+<ul class="pgwSlider">
+<li><img src="images/hotel/baner1.jpg" alt="Paris, France" data-description="Eiffel Tower and Champ de Mars"></li>
+<li><img src="images/hotel/farfield.jpg" alt="Montréal, QC, Canada" data-large-src="images/hotel/farfield.jpg"></li>
+<li> <img src="images/hotel/movenpick.jpg"> <span>Shanghai, China123</span>
+<li> <a href="https://www.jqueryscript.net" target="_blank"> <img src="images/hotel/sanctum_suites.jpg"> <span>New York, NY, USA</span> </a> </li>
+</ul>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<script src="js/pgwslider.js"></script>
+<script>
+$(document).ready(function() {
+    $('.pgwSlider').pgwSlider();
+});
+</script>
+
+</body>
+</html>

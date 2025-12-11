@@ -41,7 +41,7 @@
 
   <!-- <link rel='stylesheet' href='unitegallery/css/unite-gallery.css' type='text/css' /> -->
 
-  <link rel="stylesheet" type="text/css" href="css/style.css">
+  <link rel="stylesheet" type="text/css" href="css/style.css?v2">
  
 
   <base href="http://dumindia.in/">
@@ -294,14 +294,14 @@ display: none;
     transition: .30s all;
     width: 9px;
 }
-.k_fixed_social ul li:first-child
+/* .k_fixed_social ul li:first-child
 {
 	background: #4e71a8;
-}
-.k_fixed_social ul li:nth-child(2)
+} */
+/* .k_fixed_social ul li:nth-child(2)
 {
 	background: #1cb7eb;
-}
+} */
 .k_fixed_social ul li:first-child:hover, .k_fixed_social ul li:nth-child(2):hover
 {
     	padding-left: 10px;
@@ -353,7 +353,7 @@ display: none;
         </a>
       </div>
 	  <div class="col-md-8 col-sm-2 k_logo_main co-org-vin head-vin-icon-web">
-	  <img src="images/2025/headerNew.png" style="width:100%;">
+	  <img src="images/2026/WebHeaderv7.jpg?refetch" style="width:100%;">
 	  </div>
      
 
@@ -404,18 +404,18 @@ display: none;
       <li><a href="">home <span>|</span></a></li>
       <li><a href="http://dumindia.in/key_objective.php">About DUM  <span>|</span></a>
         <ul>
-		  <li><a href="brochure.php">DUM Brochure</a></li>
-           <li><a href="partners.php">DUM Partners</a></li>		 
-		  <li><a href="key_themes.php">Key Themes</a></li>
-		   <li><a href="key_objective.php">Key Objective of DUM</a></li>
-		   <li><a href="knowledge-partners.php">Knowledge Partners</a></li> 
-		   <li><a href="media-and-marketing-partner-2023.php">Media Partners</a></li>
-		   <li><a href="organiser.php">Organisers</a></li>
-		    <li><a href="post-event-outcome-report.php">Post Event Outcome Report</a></li>
-			 <li><a href="supporting-by-2024.php">Supported by</a></li>
-			 <li><a href="target-audience.php">Target Audience</a></li>
-        
+            <li><a href="key_objective.php">About DUM</a></li>    
+            <li><a href="brochure.php">DUM Brochure</a></li>
+            <li><a href="partners.php">DUM Partners</a></li>		 
+            <li><a href="key_themes.php">Key Themes</a></li>
 
+            <li><a href="knowledge-partners.php">Knowledge Partner</a></li> 
+            <li><a href="media-and-marketing-partner-2023.php">Media Partners</a></li>
+            <li><a href="organiser.php">Organisers</a></li>
+            <li><a href="post-event-outcome-report.php">Post Event Outcome Report</a></li>
+            <li><a href="supporting-by.php">Supported by</a></li>
+            <li><a href="target-audience.php">Target Audience</a></li>
+            
         </ul>
       </li>
       <li><a>Utility Participation  <span>|</span></a>
@@ -428,7 +428,7 @@ display: none;
         
         <li><a>Exhibition   <span>|</span></a>
           <ul>
-            <li><a href="exhibitor-resigtration.php">Exhibitor Registration</a></li>
+            <li><a href="exhibitor-registration.php">Exhibitor Registration</a></li>
             <li><a href="confirmed-exhibitor.php">Confirmed Exhibitors</a>
              
             </li>
@@ -439,7 +439,7 @@ display: none;
          
         </li>
 
-        <li><a href="presentations2024.php">Presentations <span>|</span></a></li>
+        <li><a href="presentations2025.php">Presentations <span>|</span></a></li>
          <li><a>Programme  <span>|</span></a>
           <ul>
             <li><a href="agenda.php">Conference Agenda</a></li>
@@ -447,7 +447,7 @@ display: none;
             <li><a href="key_themes.php">Key Themes</a></li>
           </ul>
         </li>
-        <li><a href="speaker2024.php">Speakers <span>|</span></a></li>
+        <li><a href="speaker2025.php">Speakers <span>|</span></a></li>
         </li>
         <li><a href="gallery.php">Gallery  <span>|</span></a>
      </li>

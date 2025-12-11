@@ -67,8 +67,8 @@ if($pass == "DUM14152024#%")
             <th class="ppfour">Organisation</th>
             <th class="ppfive">Category</th>
             <th class="ppsix">Presentation/Speech</th>
-            <th class="ppseven">Video link</th>
-            <th class="ppeight">Photos Link</th>
+            <th class="ppseven">Video Link</th>
+            <th class="ppeight">Photo Link</th>
 		</tr>
     </thead>
     <tbody>
@@ -79,8 +79,8 @@ if($pass == "DUM14152024#%")
             <td>UPPCL</td>
             <td>Welcome Address</td>
             <td>Speech</td>
-            <td><a href="https://flic.kr/s/aHBqjBSiKz">Video</a></td>
-            <td><a href="https://flic.kr/s/aHBqjBSiKz">Photos</a></td>
+            <td><a target="_blank" target="_blank" href="https://youtu.be/k8X0oysPHhM?si=DJ3TvjeS2xMTn8ks">Video</a></td>
+            <td><a target="_blank" target="_blank" href="https://flic.kr/s/aHBqjBSiKz">Photos</a></td>
 			
 			
         </tr>
@@ -91,8 +91,8 @@ if($pass == "DUM14152024#%")
             <td>ISGF</td>
             <td>Welcome Address</td>
             <td>Speech</td>
-            <td><a href="https://flic.kr/s/aHBqjBSiKz">Video</a></td>
-            <td><a href="https://flic.kr/s/aHBqjBSiKz">Photos</a></td>
+            <td><a target="_blank" target="_blank" href="https://youtu.be/k8X0oysPHhM?si=DJ3TvjeS2xMTn8ks">Video</a></td>
+            <td><a target="_blank" target="_blank" href="https://flic.kr/s/aHBqjBSiKz">Photos</a></td>
 			
 			
         </tr>
@@ -103,8 +103,8 @@ if($pass == "DUM14152024#%")
             <td>Govt of UP</td>
             <td>Special Address</td>
             <td>Speech</td>
-            <td><a href="https://flic.kr/s/aHBqjBSiKz">Video</a></td>
-            <td><a href="https://flic.kr/s/aHBqjBSiKz">Photos</a></td>
+            <td><a target="_blank" target="_blank" href="https://youtu.be/k8X0oysPHhM?si=DJ3TvjeS2xMTn8ks">Video</a></td>
+            <td><a target="_blank" target="_blank" href="https://flic.kr/s/aHBqjBSiKz">Photos</a></td>
 			
         </tr>
         <tr>
@@ -114,8 +114,8 @@ if($pass == "DUM14152024#%")
             <td>UPERC</td>
             <td>Special Address</td>
             <td>Speech</td>
-            <td><a href="https://flic.kr/s/aHBqjBSiKz">Video</a></td>
-            <td><a href="https://flic.kr/s/aHBqjBSiKz">Photos</a></td>
+            <td><a target="_blank" target="_blank" href="https://youtu.be/k8X0oysPHhM?si=DJ3TvjeS2xMTn8ks">Video</a></td>
+            <td><a target="_blank" target="_blank" href="https://flic.kr/s/aHBqjBSiKz">Photos</a></td>
 			
 			
         </tr>
@@ -126,8 +126,8 @@ if($pass == "DUM14152024#%")
             <td>UPPTCL/UPRVUNL</td>
             <td>Special Address</td>
             <td>Speech</td>
-            <td><a href="https://flic.kr/s/aHBqjBSiKz">Video</a></td>
-            <td><a href="https://flic.kr/s/aHBqjBSiKz">Photos</a></td>
+            <td><a target="_blank" target="_blank" href="https://youtu.be/k8X0oysPHhM?si=DJ3TvjeS2xMTn8ks">Video</a></td>
+            <td><a target="_blank" target="_blank" href="https://flic.kr/s/aHBqjBSiKz">Photos</a></td>
 			
 			
         </tr>
@@ -138,8 +138,8 @@ if($pass == "DUM14152024#%")
             <td>Government of India</td>
             <td>Chief Guest</td>
             <td>Speech</td>
-            <td><a href="https://flic.kr/s/aHBqjBSiKz">Video</a></td>
-            <td><a href="https://flic.kr/s/aHBqjBSiKz">Photos</a></td>
+            <td><a target="_blank" target="_blank" href="https://youtu.be/k8X0oysPHhM?si=DJ3TvjeS2xMTn8ks">Video</a></td>
+            <td><a target="_blank" target="_blank" href="https://flic.kr/s/aHBqjBSiKz">Photos</a></td>
 			
 			
         </tr>
@@ -150,8 +150,8 @@ if($pass == "DUM14152024#%")
             <td>Government of Uttar Pradesh</td>
             <td>Chief Guest</td>
             <td>Speech</td>
-            <td><a href="https://flic.kr/s/aHBqjBSiKz">Video</a></td>
-            <td><a href="https://flic.kr/s/aHBqjBSiKz">Photos</a></td>
+            <td><a target="_blank" target="_blank" href="https://youtu.be/k8X0oysPHhM?si=DJ3TvjeS2xMTn8ks">Video</a></td>
+            <td><a target="_blank" target="_blank" href="https://flic.kr/s/aHBqjBSiKz">Photos</a></td>
 			
 			
         </tr>
@@ -162,8 +162,8 @@ if($pass == "DUM14152024#%")
             <td>Government of Uttar Pradesh</td>
             <td>Special Guest</td>
             <td>Speech</td>
-            <td><a href="https://flic.kr/s/aHBqjBSiKz">Video</a></td>
-            <td><a href="https://flic.kr/s/aHBqjBSiKz">Photos</a></td>
+            <td><a target="_blank" target="_blank" href="https://youtu.be/k8X0oysPHhM?si=DJ3TvjeS2xMTn8ks">Video</a></td>
+            <td><a target="_blank" target="_blank" href="https://flic.kr/s/aHBqjBSiKz">Photos</a></td>
 			
 			
         </tr>
@@ -174,8 +174,8 @@ if($pass == "DUM14152024#%")
             <td>UPPCL</td>
             <td>Vote of Thanks</td>
             <td>Speech</td>
-            <td><a href="https://flic.kr/s/aHBqjBSiKz">Video</a></td>
-            <td><a href="https://flic.kr/s/aHBqjBSiKz">Photos</a></td>
+            <td><a target="_blank" target="_blank" href="https://youtu.be/k8X0oysPHhM?si=DJ3TvjeS2xMTn8ks">Video</a></td>
+            <td><a target="_blank" target="_blank" href="https://flic.kr/s/aHBqjBSiKz">Photos</a></td>
 			
 			
         </tr>
@@ -192,8 +192,8 @@ if($pass == "DUM14152024#%")
             <th class="ppfour">Organisation</th>
             <th class="ppfive">Category</th>
             <th class="ppsix">Presentation/Speech</th>
-            <th class="ppseven">Video link</th>
-            <th class="ppeight">Photos Link</th>
+            <th class="ppseven">Video Link</th>
+            <th class="ppeight">Photo Link</th>
 		</tr>
         </thead>
         <tbody>
@@ -203,11 +203,11 @@ if($pass == "DUM14152024#%")
                 <td>Chairman</td>
                 <td>UPPCL</td>
                 <td>Chair & Moderator</td>
-                <td><a href="dumpdf/2024/10.pdf" target="_blank">View/ Download</a></td>
-                <td><a href="https://flic.kr/s/aHBqjBSeU7">Video Link</a></td>
-                <td><a href="https://flic.kr/s/aHBqjBSeU7">Photos Link</a></td>
-				<!-- <td><a href="dumpdf/2024/10.pdf" target="_blank">View</a></td>
-			<td><a href="dumpdf/2024/10.pdf" download>Download</a></td> -->
+                <td><a target="_blank" target="_blank" href="dumpdf/2024/10.pdf" target="_blank">View/ Download</a></td>
+                <td><a target="_blank" target="_blank" href="https://youtu.be/2uUwGWodvtE?si=jR9brgx_uqw4CDGv" >Video</a></td>
+                <td><a target="_blank" target="_blank" href="https://flic.kr/s/aHBqjBSeU7">Photo</a></td>
+				<!-- <td><a target="_blank" target="_blank" href="dumpdf/2024/10.pdf" target="_blank">View</a></td>
+			<td><a target="_blank" target="_blank" href="dumpdf/2024/10.pdf" download>Download</a></td> -->
             </tr>
             <tr>
                 <td>11</td>
@@ -215,11 +215,11 @@ if($pass == "DUM14152024#%")
                 <td>MD & CEO</td>
                 <td>Tata Power Company Ltd</td>
                 <td>Presentation</td>
-                <td><a href="dumpdf/2024/11.pdf" target="_blank">View/ Download</a></td>
-                <td><a href="https://flic.kr/s/aHBqjBSeU7">Video Link</a></td>
-                <td><a href="https://flic.kr/s/aHBqjBSeU7">Photos Link</a></td>
-				<!-- <td><a href="dumpdf/2024/11.pdf" target="_blank">View</a></td>
-			<td><a href="dumpdf/2024/11.pdf" download>Download</a></td> -->
+                <td><a target="_blank" target="_blank" href="dumpdf/2024/11.pdf" target="_blank">View/ Download</a></td>
+                <td><a target="_blank" target="_blank" href="https://youtu.be/2uUwGWodvtE?si=jR9brgx_uqw4CDGv" >Video</a></td>
+                <td><a target="_blank" target="_blank" href="https://flic.kr/s/aHBqjBSeU7">Photo</a></td>
+				<!-- <td><a target="_blank" target="_blank" href="dumpdf/2024/11.pdf" target="_blank">View</a></td>
+			<td><a target="_blank" target="_blank" href="dumpdf/2024/11.pdf" download>Download</a></td> -->
             </tr>
             <tr>
                 <td>12</td>
@@ -228,12 +228,12 @@ if($pass == "DUM14152024#%")
                 <td>CERC</td>
                 <td>Speaker</td>
                 <td>Speech</td>
-                <td><a href="https://flic.kr/s/aHBqjBSeU7">Video Link</a></td>
-                <td><a href="https://flic.kr/s/aHBqjBSeU7">Photos Link</a></td>
+                <td><a target="_blank" target="_blank" href="https://youtu.be/2uUwGWodvtE?si=jR9brgx_uqw4CDGv" >Video</a></td>
+                <td><a target="_blank" target="_blank" href="https://flic.kr/s/aHBqjBSeU7">Photo</a></td>
 				<!-- <td></td>
 				<td></td> -->
-				<!--<td><a href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
-				<td><a href="dumpdf/2024/12.pdf" download>Download</a></td> -->
+				<!--<td><a target="_blank" target="_blank" href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
+				<td><a target="_blank" target="_blank" href="dumpdf/2024/12.pdf" download>Download</a></td> -->
             </tr>
             <tr>
                 <td>13</td>
@@ -242,12 +242,12 @@ if($pass == "DUM14152024#%")
                 <td>Noida Power Company Limited</td>
                 <td>Speaker</td>
                 <td>Speech</td>
-                <td><a href="https://flic.kr/s/aHBqjBSeU7">Video Link</a></td>
-                <td><a href="https://flic.kr/s/aHBqjBSeU7">Photos Link</a></td>
+                <td><a target="_blank" target="_blank" href="https://youtu.be/2uUwGWodvtE?si=jR9brgx_uqw4CDGv" >Video</a></td>
+                <td><a target="_blank" target="_blank" href="https://flic.kr/s/aHBqjBSeU7">Photo</a></td>
 				<!-- <td></td>
 				<td></td> --> 
-				<!--<td><a href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
-				<td><a href="dumpdf/2024/12.pdf" download>Download</a></td> -->
+				<!--<td><a target="_blank" target="_blank" href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
+				<td><a target="_blank" target="_blank" href="dumpdf/2024/12.pdf" download>Download</a></td> -->
             </tr>
             <tr>
                 <td>14</td>
@@ -256,12 +256,12 @@ if($pass == "DUM14152024#%")
                 <td>BSES Yamuna Power Limited</td>
                 <td>Speaker</td>
                 <td>Speech</td>
-                <td><a href="https://flic.kr/s/aHBqjBSeU7">Video Link</a></td>
-                <td><a href="https://flic.kr/s/aHBqjBSeU7">Photos Link</a></td>
+                <td><a target="_blank" target="_blank" href="https://youtu.be/2uUwGWodvtE?si=jR9brgx_uqw4CDGv" >Video</a></td>
+                <td><a target="_blank" target="_blank" href="https://flic.kr/s/aHBqjBSeU7">Photo</a></td>
 				<!-- <td></td>
 				<td></td> --> 
-				<!--<td><a href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
-				<td><a href="dumpdf/2024/12.pdf" download>Download</a></td> -->
+				<!--<td><a target="_blank" target="_blank" href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
+				<td><a target="_blank" target="_blank" href="dumpdf/2024/12.pdf" download>Download</a></td> -->
             </tr>
             <tr>
                 <td>15</td>
@@ -270,12 +270,12 @@ if($pass == "DUM14152024#%")
                 <td>DNV MES India Private Limited</td>
                 <td>Speaker</td>
                 <td>Speech</td>
-                <td><a href="https://flic.kr/s/aHBqjBSeU7">Video Link</a></td>
-                <td><a href="https://flic.kr/s/aHBqjBSeU7">Photos Link</a></td>
+                <td><a target="_blank" target="_blank" href="https://youtu.be/2uUwGWodvtE?si=jR9brgx_uqw4CDGv" >Video</a></td>
+                <td><a target="_blank" target="_blank" href="https://flic.kr/s/aHBqjBSeU7">Photo</a></td>
 				<!-- <td></td>
 				<td></td> -->
-				<!--<td><a href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
-				<td><a href="dumpdf/2024/12.pdf" download>Download</a></td> -->
+				<!--<td><a target="_blank" target="_blank" href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
+				<td><a target="_blank" target="_blank" href="dumpdf/2024/12.pdf" download>Download</a></td> -->
             </tr>
         </tbody>
     </table>
@@ -290,8 +290,8 @@ if($pass == "DUM14152024#%")
                 <th class="ppfour">Organisation</th>
                 <th class="ppfive">Category</th>
                 <th class="ppsix">Presentation/Speech</th>
-                <th class="ppseven">Video link</th>
-                <th class="ppeight">Photos Link</th>
+                <th class="ppseven">Video Link</th>
+                <th class="ppeight">Photo Link</th>
             </tr>
         </thead>
         <tbody>
@@ -302,12 +302,12 @@ if($pass == "DUM14152024#%")
                 <td>Maharashtra</td>
                 <td>Chair</td>
                 <td>Speech</td>
-                <td><a href="https://flic.kr/s/aHBqjBSeWM">Video Link</a></td>
-                <td><a href="https://flic.kr/s/aHBqjBSeWM">Photos Link</a></td>
+                <td><a target="_blank" target="_blank" href="https://youtu.be/hHFRZoJxbmc?si=Q8V6aX2akIcDaLjj">Video</a></td>
+                <td><a target="_blank" target="_blank" href="https://flic.kr/s/aHBqjBSeWM">Photo</a></td>
 				<!-- <td></td>
 				<td></td> -->
-				<!--<td><a href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
-				<td><a href="dumpdf/2024/12.pdf" download>Download</a></td> -->
+				<!--<td><a target="_blank" target="_blank" href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
+				<td><a target="_blank" target="_blank" href="dumpdf/2024/12.pdf" download>Download</a></td> -->
             </tr>
             <tr>
                 <td>17</td>
@@ -316,12 +316,12 @@ if($pass == "DUM14152024#%")
                 <td>ISGF</td>
                 <td>Moderator</td>
                 <td>Speech</td>
-                <td><a href="https://flic.kr/s/aHBqjBSeWM">Video Link</a></td>
-                <td><a href="https://flic.kr/s/aHBqjBSeWM">Photos Link</a></td>
+                <td><a target="_blank" target="_blank" href="https://youtu.be/hHFRZoJxbmc?si=Q8V6aX2akIcDaLjj">Video</a></td>
+                <td><a target="_blank" target="_blank" href="https://flic.kr/s/aHBqjBSeWM">Photo</a></td>
 				<!-- <td></td>
 				<td></td> -->
-				<!--<td><a href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
-				<td><a href="dumpdf/2024/12.pdf" download>Download</a></td> -->
+				<!--<td><a target="_blank" target="_blank" href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
+				<td><a target="_blank" target="_blank" href="dumpdf/2024/12.pdf" download>Download</a></td> -->
             </tr>
             <tr>
                 <td>18</td>
@@ -329,11 +329,11 @@ if($pass == "DUM14152024#%")
                 <td>ACS – Energy</td>
                 <td>Maharashtra</td>
                 <td>Presentation</td>
-                <td><a href="dumpdf/2024/18.pdf" target="_blank">View/ Download</a></td>
-                <td><a href="https://flic.kr/s/aHBqjBSeWM">Video Link</a></td>
-                <td><a href="https://flic.kr/s/aHBqjBSeWM">Photos Link</a></td>
-				<!-- <td><a href="dumpdf/2024/18.pdf" target="_blank">View</a></td>
-				<td><a href="dumpdf/2024/18.pdf" download>Download</a></td> -->
+                <td><a target="_blank" target="_blank" href="dumpdf/2024/18.pdf" target="_blank">View/ Download</a></td>
+                <td><a target="_blank" target="_blank" href="https://youtu.be/hHFRZoJxbmc?si=Q8V6aX2akIcDaLjj">Video</a></td>
+                <td><a target="_blank" target="_blank" href="https://flic.kr/s/aHBqjBSeWM">Photo</a></td>
+				<!-- <td><a target="_blank" target="_blank" href="dumpdf/2024/18.pdf" target="_blank">View</a></td>
+				<td><a target="_blank" target="_blank" href="dumpdf/2024/18.pdf" download>Download</a></td> -->
             </tr>
             <tr>
                 <td>19</td>
@@ -341,11 +341,11 @@ if($pass == "DUM14152024#%")
                 <td>Director</td>
                 <td>Aditya Green Energy Pvt Limited</td>
                 <td>Presentation</td>
-                <td><a href="dumpdf/2024/19.pdf" target="_blank">View/ Download</a></td>
-                <td><a href="https://flic.kr/s/aHBqjBSeWM">Video Link</a></td>
-                <td><a href="https://flic.kr/s/aHBqjBSeWM">Photos Link</a></td>
-				<!-- <td><a href="dumpdf/2024/19.pdf" target="_blank">View</a></td>
-				<td><a href="dumpdf/2024/19.pdf" download>Download</a></td> -->
+                <td><a target="_blank" target="_blank" href="dumpdf/2024/19.pdf" target="_blank">View/ Download</a></td>
+                <td><a target="_blank" target="_blank" href="https://youtu.be/hHFRZoJxbmc?si=Q8V6aX2akIcDaLjj">Video</a></td>
+                <td><a target="_blank" target="_blank" href="https://flic.kr/s/aHBqjBSeWM">Photo</a></td>
+				<!-- <td><a target="_blank" target="_blank" href="dumpdf/2024/19.pdf" target="_blank">View</a></td>
+				<td><a target="_blank" target="_blank" href="dumpdf/2024/19.pdf" download>Download</a></td> -->
             </tr>
             <tr>
                 <td>20</td>
@@ -353,11 +353,11 @@ if($pass == "DUM14152024#%")
                 <td>CE PPA</td>
                 <td>UPPCL</td>
                 <td>Presentation</td>
-                <td><a href="dumpdf/2024/20.pdf" target="_blank">View/ Download</a></td>
-                <td><a href="https://flic.kr/s/aHBqjBSeWM">Video Link</a></td>
-                <td><a href="https://flic.kr/s/aHBqjBSeWM">Photos Link</a></td>
-				<!-- <td><a href="dumpdf/2024/20.pdf" target="_blank">View</a></td>
-				<td><a href="dumpdf/2024/20.pdf" download>Download</a></td> -->
+                <td><a target="_blank" target="_blank" href="dumpdf/2024/20.pdf" target="_blank">View/ Download</a></td>
+                <td><a target="_blank" target="_blank" href="https://youtu.be/hHFRZoJxbmc?si=Q8V6aX2akIcDaLjj">Video</a></td>
+                <td><a target="_blank" target="_blank" href="https://flic.kr/s/aHBqjBSeWM">Photo</a></td>
+				<!-- <td><a target="_blank" target="_blank" href="dumpdf/2024/20.pdf" target="_blank">View</a></td>
+				<td><a target="_blank" target="_blank" href="dumpdf/2024/20.pdf" download>Download</a></td> -->
             </tr>
             <tr>
                 <td>21</td>
@@ -365,11 +365,11 @@ if($pass == "DUM14152024#%")
                 <td>MD</td>
                 <td>UPPTCL</td>
                 <td>Presentation</td>
-                <td><a href="dumpdf/2024/21.pdf" target="_blank">View/ Download</a></td>
-                <td><a href="https://flic.kr/s/aHBqjBSeWM">Video Link</a></td>
-                <td><a href="https://flic.kr/s/aHBqjBSeWM">Photos Link</a></td>
-				<!-- <td><a href="dumpdf/2024/21.pdf" target="_blank">View</a></td>
-				<td><a href="dumpdf/2024/21.pdf" download>Download</a></td> -->
+                <td><a target="_blank" target="_blank" href="dumpdf/2024/21.pdf" target="_blank">View/ Download</a></td>
+                <td><a target="_blank" target="_blank" href="https://youtu.be/hHFRZoJxbmc?si=Q8V6aX2akIcDaLjj">Video</a></td>
+                <td><a target="_blank" target="_blank" href="https://flic.kr/s/aHBqjBSeWM">Photo</a></td>
+				<!-- <td><a target="_blank" target="_blank" href="dumpdf/2024/21.pdf" target="_blank">View</a></td>
+				<td><a target="_blank" target="_blank" href="dumpdf/2024/21.pdf" download>Download</a></td> -->
             </tr>
             <tr>
                 <td>22</td>
@@ -377,11 +377,11 @@ if($pass == "DUM14152024#%")
                 <td>Standford University</td>
                 <td></td>
                 <td>Presentation</td>
-                <td><a href="dumpdf/2024/22.pdf" target="_blank">View/ Download</a></td>
-                <td><a href="https://flic.kr/s/aHBqjBSeWM">Video Link</a></td>
-                <td><a href="https://flic.kr/s/aHBqjBSeWM">Photos Link</a></td>
-				<!-- <td><a href="dumpdf/2024/22.pdf" target="_blank">View</a></td>
-				<td><a href="dumpdf/2024/22.pdf" download>Download</a></td> -->
+                <td><a target="_blank" href="dumpdf/2024/22.pdf" target="_blank">View/ Download</a></td>
+                <td><a target="_blank" href="https://youtu.be/hHFRZoJxbmc?si=Q8V6aX2akIcDaLjj">Video</a></td>
+                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSeWM">Photo</a></td>
+				<!-- <td><a target="_blank" href="dumpdf/2024/22.pdf" target="_blank">View</a></td>
+				<td><a target="_blank" href="dumpdf/2024/22.pdf" download>Download</a></td> -->
             </tr>
             <tr>
             <td>23</td>
@@ -389,11 +389,11 @@ if($pass == "DUM14152024#%")
             <td>CEO</td>
             <td>TPCODCL</td>
             <td>Presentation</td>
-            <td><a href="dumpdf/2024/23.pdf" target="_blank">View/ Download</a></td>
-            <td><a href="https://flic.kr/s/aHBqjBSeWM" class="link">Video</a></td>
-            <td><a href="https://flic.kr/s/aHBqjBSeWM" class="link">Photos</a></td>
-			<!-- <td><a href="dumpdf/2024/23.pdf" target="_blank">View</a></td>
-				<td><a href="dumpdf/2024/23.pdf" download>Download</a></td> -->
+            <td><a target="_blank" href="dumpdf/2024/23.pdf" target="_blank">View/ Download</a></td>
+            <td><a target="_blank" href="https://youtu.be/hHFRZoJxbmc?si=Q8V6aX2akIcDaLjj" class="link">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjBSeWM" class="link">Photos</a></td>
+			<!-- <td><a target="_blank" href="dumpdf/2024/23.pdf" target="_blank">View</a></td>
+				<td><a target="_blank" href="dumpdf/2024/23.pdf" download>Download</a></td> -->
         </tr>
         <tr>
             <td>24</td>
@@ -402,12 +402,12 @@ if($pass == "DUM14152024#%")
             <td>GERC</td>
             <td>Speaker</td>
             <td>Speech</td>
-            <td><a href="https://flic.kr/s/aHBqjBSeWM" class="link">Video</a></td>
-            <td><a href="https://flic.kr/s/aHBqjBSeWM" class="link">Photos</a></td>
+            <td><a target="_blank" href="https://youtu.be/hHFRZoJxbmc?si=Q8V6aX2akIcDaLjj" class="link">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjBSeWM" class="link">Photos</a></td>
 			<!-- <td></td>
 				<td></td> -->
-				<!--<td><a href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
-				<td><a href="dumpdf/2024/12.pdf" download>Download</a></td> -->
+				<!--<td><a target="_blank" href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
+				<td><a target="_blank" href="dumpdf/2024/12.pdf" download>Download</a></td> -->
         </tr>
         <tr>
             <td>25</td>
@@ -416,12 +416,12 @@ if($pass == "DUM14152024#%")
             <td>MNRE</td>
             <td>Speaker</td>
             <td>Speech</td>
-            <td><a href="https://flic.kr/s/aHBqjBSeWM" class="link">Video</a></td>
-            <td><a href="https://flic.kr/s/aHBqjBSeWM" class="link">Photos</a></td>
+            <td><a target="_blank" href="https://youtu.be/hHFRZoJxbmc?si=Q8V6aX2akIcDaLjj" class="link">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjBSeWM" class="link">Photos</a></td>
 			<!-- <td></td>
 				<td></td> -->
-				<!--<td><a href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
-				<td><a href="dumpdf/2024/12.pdf" download>Download</a></td> -->
+				<!--<td><a target="_blank" href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
+				<td><a target="_blank" href="dumpdf/2024/12.pdf" download>Download</a></td> -->
         </tr>
         <tr>
             <td>26</td>
@@ -430,12 +430,12 @@ if($pass == "DUM14152024#%")
             <td>DVVNL</td>
             <td>Speaker</td>
             <td>Speech</td>
-            <td><a href="https://flic.kr/s/aHBqjBSeWM" class="link">Video</a></td>
-            <td><a href="https://flic.kr/s/aHBqjBSeWM" class="link">Photos</a></td>
+            <td><a target="_blank" href="https://youtu.be/hHFRZoJxbmc?si=Q8V6aX2akIcDaLjj" class="link">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjBSeWM" class="link">Photos</a></td>
 			<!-- <td></td>
 				<td></td> -->
-				<!--<td><a href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
-				<td><a href="dumpdf/2024/12.pdf" download>Download</a></td> -->
+				<!--<td><a target="_blank" href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
+				<td><a target="_blank" href="dumpdf/2024/12.pdf" download>Download</a></td> -->
         </tr>
         <tr>
             <td>27</td>
@@ -444,12 +444,12 @@ if($pass == "DUM14152024#%")
             <td>ISGF</td>
             <td>Speaker</td>
             <td>Speech</td>
-            <td><a href="https://flic.kr/s/aHBqjBSeWM" class="link">Video</a></td>
-            <td><a href="https://flic.kr/s/aHBqjBSeWM" class="link">Photos</a></td>
+            <td><a target="_blank" href="https://youtu.be/hHFRZoJxbmc?si=Q8V6aX2akIcDaLjj" class="link">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjBSeWM" class="link">Photos</a></td>
 			<!-- <td></td>
 				<td></td> -->
-				<!--<td><a href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
-				<td><a href="dumpdf/2024/12.pdf" download>Download</a></td> -->
+				<!--<td><a target="_blank" href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
+				<td><a target="_blank" href="dumpdf/2024/12.pdf" download>Download</a></td> -->
         </tr>
         </tbody>
     </table>
@@ -464,8 +464,8 @@ if($pass == "DUM14152024#%")
                 <th class="ppfour">Organisation</th>
                 <th class="ppfive">Category</th>
                 <th class="ppsix">Presentation/Speech</th>
-                <th class="ppseven">Video link</th>
-                <th class="ppeight">Photos Link</th>
+                <th class="ppseven">Video Link</th>
+                <th class="ppeight">Photo Link</th>
             </tr>
         </thead>
         <tbody>
@@ -476,12 +476,12 @@ if($pass == "DUM14152024#%")
                 <td>MoP</td>
                 <td>Chair</td>
                 <td>Speech</td>
-                <td></td>
-                <td><a href="https://flic.kr/s/aHBqjBSkn8">Photos</a></td>
+                <td><a target="_blank" href="https://youtu.be/zZRA9DG8JaY?si=o2kUhcHrwnrMuE0f" class="link">Video</a></td>
+                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSkn8">Photos</a></td>
 				<!-- <td></td>
 				<td></td> -->
-				<!--<td><a href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
-				<td><a href="dumpdf/2024/12.pdf" download>Download</a></td> -->
+				<!--<td><a target="_blank" href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
+				<td><a target="_blank" href="dumpdf/2024/12.pdf" download>Download</a></td> -->
             </tr>
             <tr>
                 <td>29</td>
@@ -490,12 +490,12 @@ if($pass == "DUM14152024#%")
                 <td>NSGM</td>
                 <td>Moderator</td>
                 <td>Speech</td>
-                <td></td>
-                <td><a href="https://flic.kr/s/aHBqjBSkn8">Photos</a></td>
+                <td><a target="_blank" href="https://youtu.be/zZRA9DG8JaY?si=o2kUhcHrwnrMuE0f" class="link">Video</a></td>
+                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSkn8">Photos</a></td>
 				<!-- <td></td>
 				<td></td> -->
-				<!--<td><a href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
-				<td><a href="dumpdf/2024/12.pdf" download>Download</a></td> -->
+				<!--<td><a target="_blank" href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
+				<td><a target="_blank" href="dumpdf/2024/12.pdf" download>Download</a></td> -->
             </tr>
             <tr>
                 <td>30</td>
@@ -504,12 +504,12 @@ if($pass == "DUM14152024#%")
                 <td>Tata Power Company Ltd</td>
                 <td>Speaker</td>
                 <td>Speech</td>
-                <td></td>
-                <td><a href="https://flic.kr/s/aHBqjBSkn8">Photos</a></td>
+                <td><a target="_blank" href="https://youtu.be/zZRA9DG8JaY?si=o2kUhcHrwnrMuE0f" class="link">Video</a></td>
+                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSkn8">Photos</a></td>
 				<!-- <td></td>
 				<td></td> -->
-				<!--<td><a href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
-				<td><a href="dumpdf/2024/12.pdf" download>Download</a></td> -->
+				<!--<td><a target="_blank" href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
+				<td><a target="_blank" href="dumpdf/2024/12.pdf" download>Download</a></td> -->
             </tr>
             <tr>
                 <td>31</td>
@@ -517,11 +517,11 @@ if($pass == "DUM14152024#%")
                 <td>CDIO</td>
                 <td>Tata Power</td>
                 <td>Presentation</td>
-                <td><a href="dumpdf/2024/31.pdf" target="_blank">View/Download</a></td>
-                <td></td>
-                <td><a href="https://flic.kr/s/aHBqjBSkn8">Photos</a></td>
-				<!-- <td><a href="dumpdf/2024/31.pdf" target="_blank">View</a></td>
-			<td><a href="dumpdf/2024/31.pdf" download>Download</a></td> -->
+                <td><a target="_blank" href="dumpdf/2024/31.pdf" target="_blank">View/Download</a></td>
+                <td><a target="_blank" href="https://youtu.be/zZRA9DG8JaY?si=o2kUhcHrwnrMuE0f" class="link">Video</a></td>
+                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSkn8">Photos</a></td>
+				<!-- <td><a target="_blank" href="dumpdf/2024/31.pdf" target="_blank">View</a></td>
+			<td><a target="_blank" href="dumpdf/2024/31.pdf" download>Download</a></td> -->
             </tr>
             <tr>
                 <td>32</td>
@@ -529,11 +529,11 @@ if($pass == "DUM14152024#%")
                 <td>CIO</td>
                 <td>Inventive Software Solutions</td>
                 <td>Presentation</td>
-                <td><a href="dumpdf/2024/32.pdf" target="_blank">View/Download</a></td>
-                <td></td>
-                <td><a href="https://flic.kr/s/aHBqjBSkn8">Photos</a></td>
-				<!-- <td><a href="dumpdf/2024/32.pdf" target="_blank">View</a></td>
-			<td><a href="dumpdf/2024/32.pdf" download>Download</a></td> -->
+                <td><a target="_blank" href="dumpdf/2024/32.pdf" target="_blank">View/Download</a></td>
+                <td><a target="_blank" href="https://youtu.be/zZRA9DG8JaY?si=o2kUhcHrwnrMuE0f" class="link">Video</a></td>
+                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSkn8">Photos</a></td>
+				<!-- <td><a target="_blank" href="dumpdf/2024/32.pdf" target="_blank">View</a></td>
+			<td><a target="_blank" href="dumpdf/2024/32.pdf" download>Download</a></td> -->
             </tr>
             <tr>
                 <td>33</td>
@@ -541,11 +541,11 @@ if($pass == "DUM14152024#%")
                 <td>COO</td>
                 <td>Polaris</td>
                 <td>Presentation</td>
-                <td><a href="dumpdf/2024/33.pdf" target="_blank">View/Download</a></td>
-                <td></td>
-                <td><a href="https://flic.kr/s/aHBqjBSkn8">Photos</a></td>
-				<!-- <td><a href="dumpdf/2024/33.pdf" target="_blank">View</a></td>
-			<td><a href="dumpdf/2024/33.pdf" download>Download</a></td> -->
+                <td><a target="_blank" href="dumpdf/2024/33.pdf" target="_blank">View/Download</a></td>
+                <td><a target="_blank" href="https://youtu.be/zZRA9DG8JaY?si=o2kUhcHrwnrMuE0f" class="link">Video</a></td>
+                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSkn8">Photos</a></td>
+				<!-- <td><a target="_blank" href="dumpdf/2024/33.pdf" target="_blank">View</a></td>
+			<td><a target="_blank" href="dumpdf/2024/33.pdf" download>Download</a></td> -->
             </tr>
             <tr>
                 <td>34</td>
@@ -553,11 +553,11 @@ if($pass == "DUM14152024#%")
                 <td></td>
                 <td>Trilliant, Inc</td>
                 <td>Presentation</td>
-                <td><a href="dumpdf/2024/34.pdf" target="_blank">View/Download</a></td>
-                <td></td>
-                <td><a href="https://flic.kr/s/aHBqjBSkn8">Photos</a></td>
-				<!-- <td><a href="dumpdf/2024/34.pdf" target="_blank">View</a></td>
-			<td><a href="dumpdf/2024/34.pdf" download>Download</a></td> -->
+                <td><a target="_blank" href="dumpdf/2024/34.pdf" target="_blank">View/Download</a></td>
+                <td><a target="_blank" href="https://youtu.be/zZRA9DG8JaY?si=o2kUhcHrwnrMuE0f" class="link">Video</a></td>
+                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSkn8">Photos</a></td>
+				<!-- <td><a target="_blank" href="dumpdf/2024/34.pdf" target="_blank">View</a></td>
+			<td><a target="_blank" href="dumpdf/2024/34.pdf" download>Download</a></td> -->
             </tr>
             <tr>
                 <td>35</td>
@@ -566,12 +566,12 @@ if($pass == "DUM14152024#%")
                 <td>PFC</td>
                 <td>Speaker</td>
                 <td>Speech</td>
-                <td></td>
-                <td><a href="https://flic.kr/s/aHBqjBSkn8">Photos</a></td>
+                <td><a target="_blank" href="https://youtu.be/zZRA9DG8JaY?si=o2kUhcHrwnrMuE0f" class="link">Video</a></td>
+                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSkn8">Photos</a></td>
 				<!-- <td></td>
 				<td></td> -->
-				<!--<td><a href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
-				<td><a href="dumpdf/2024/12.pdf" download>Download</a></td> -->
+				<!--<td><a target="_blank" href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
+				<td><a target="_blank" href="dumpdf/2024/12.pdf" download>Download</a></td> -->
             </tr>
             <tr>
                 <td>36</td>
@@ -580,12 +580,12 @@ if($pass == "DUM14152024#%")
                 <td>PuVVNL</td>
                 <td>Speaker</td>
                 <td>Speech</td>
-                <td></td>
-                <td><a href="https://flic.kr/s/aHBqjBSkn8">Photos</a></td>
+                <td><a target="_blank" href="https://youtu.be/zZRA9DG8JaY?si=o2kUhcHrwnrMuE0f" class="link">Video</a></td>
+                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSkn8">Photos</a></td>
 				<!-- <td></td>
 				<td></td> -->
-				<!--<td><a href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
-				<td><a href="dumpdf/2024/12.pdf" download>Download</a></td> -->
+				<!--<td><a target="_blank" href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
+				<td><a target="_blank" href="dumpdf/2024/12.pdf" download>Download</a></td> -->
             </tr>
             <tr>
                 <td>37</td>
@@ -594,12 +594,12 @@ if($pass == "DUM14152024#%")
                 <td>MVVNL</td>
                 <td>Speaker</td>
                 <td>Speech</td>
-                <td></td>
-                <td><a href="https://flic.kr/s/aHBqjBSkn8">Photos</a></td>
+                <td><a target="_blank" href="https://youtu.be/zZRA9DG8JaY?si=o2kUhcHrwnrMuE0f" class="link">Video</a></td>
+                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSkn8">Photos</a></td>
 				<!-- <td></td>
 				<td></td> -->
-				<!--<td><a href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
-				<td><a href="dumpdf/2024/12.pdf" download>Download</a></td> -->
+				<!--<td><a target="_blank" href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
+				<td><a target="_blank" href="dumpdf/2024/12.pdf" download>Download</a></td> -->
             </tr>
             <tr>
                 <td>38</td>
@@ -608,12 +608,12 @@ if($pass == "DUM14152024#%")
                 <td>Kimbal</td>
                 <td>Speaker</td>
                 <td>Speech</td>
-                <td></td>
-                <td><a href="https://flic.kr/s/aHBqjBSkn8">Photos</a></td>
+                <td><a target="_blank" href="https://youtu.be/zZRA9DG8JaY?si=o2kUhcHrwnrMuE0f" class="link">Video</a></td>
+                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSkn8">Photos</a></td>
 				<!-- <td></td>
 				<td></td> -->
-				<!--<td><a href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
-				<td><a href="dumpdf/2024/12.pdf" download>Download</a></td> -->
+				<!--<td><a target="_blank" href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
+				<td><a target="_blank" href="dumpdf/2024/12.pdf" download>Download</a></td> -->
             </tr>
             <tr>
                 <td>39</td>
@@ -622,12 +622,12 @@ if($pass == "DUM14152024#%")
                 <td>BSES</td>
                 <td>Speaker</td>
                 <td>Speech</td>
-                <td></td>
-                <td><a href="https://flic.kr/s/aHBqjBSkn8">Photos</a></td>
+                <td><a target="_blank" href="https://youtu.be/zZRA9DG8JaY?si=o2kUhcHrwnrMuE0f" class="link">Video</a></td>
+                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSkn8">Photos</a></td>
 				<!-- <td></td>
 				<td></td> -->
-				<!--<td><a href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
-				<td><a href="dumpdf/2024/12.pdf" download>Download</a></td> -->
+				<!--<td><a target="_blank" href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
+				<td><a target="_blank" href="dumpdf/2024/12.pdf" download>Download</a></td> -->
             </tr>
     </tbody>
     </table>
@@ -642,8 +642,8 @@ if($pass == "DUM14152024#%")
                 <th class="ppfour">Organisation</th>
                 <th class="ppfive">Category</th>
                 <th class="ppsix">Presentation/Speech</th>
-                <th class="ppseven">Video link</th>
-                <th class="ppeight">Photos Link</th>
+                <th class="ppseven">Video Link</th>
+                <th class="ppeight">Photo Link</th>
             </tr>
         </thead>
         <tbody>
@@ -654,12 +654,12 @@ if($pass == "DUM14152024#%")
                 <td>UPPCL</td>
                 <td>Chair</td>
                 <td>Speech</td>
-                <td><a href="https://flic.kr/s/aHBqjBSeLL" target="_blank">Video Link</a></td>
-                <td><a href="https://flic.kr/s/aHBqjBSeLL" target="_blank">Photos Link</a></td>
+                <td><a target="_blank" href="https://youtu.be/W49f6ddu6GI?si=CCnb_ky19xcNVuX3" target="_blank">Video</a></td>
+                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSeLL" target="_blank">Photo</a></td>
 				<!-- <td></td>
 				<td></td> -->
-				<!--<td><a href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
-				<td><a href="dumpdf/2024/12.pdf" download>Download</a></td> -->
+				<!--<td><a target="_blank" href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
+				<td><a target="_blank" href="dumpdf/2024/12.pdf" download>Download</a></td> -->
             </tr>
             <tr>
                 <td>41</td>
@@ -668,12 +668,12 @@ if($pass == "DUM14152024#%")
                 <td>ISGF</td>
                 <td>Moderator</td>
                 <td>Speech</td>
-                <td><a href="https://flic.kr/s/aHBqjBSeLL" target="_blank">Video Link</a></td>
-                <td><a href="https://flic.kr/s/aHBqjBSeLL" target="_blank">Photos Link</a></td>
+                <td><a target="_blank" href="https://youtu.be/W49f6ddu6GI?si=CCnb_ky19xcNVuX3" target="_blank">Video</a></td>
+                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSeLL" target="_blank">Photo</a></td>
 				<!-- <td></td>
 				<td></td> -->
-				<!--<td><a href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
-				<td><a href="dumpdf/2024/12.pdf" download>Download</a></td> -->
+				<!--<td><a target="_blank" href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
+				<td><a target="_blank" href="dumpdf/2024/12.pdf" download>Download</a></td> -->
             </tr>
             <tr>
                 <td>42</td>
@@ -681,12 +681,12 @@ if($pass == "DUM14152024#%")
                 <td>Laboratory Program Manager - Grid Integration</td>
                 <td>NREL, USA</td>
                 <td>Presentation</td>
-				<td><a href="http://dumindia.in/dumpdf/2024/42.pdf">View/Download</a></td>
+				<td><a target="_blank" href="http://dumindia.in/dumpdf/2024/42.pdf">View/Download</a></td>
 				
-                <td><a href="#" target="_blank">Video Link</a></td>
-                <td><a href="https://flic.kr/s/aHBqjBSeLL" target="_blank">Photos Link</a></td>
-				<!-- <td><a href="dumpdf/2024/42.pdf" target="_blank">View</a></td>
-			<td><a href="dumpdf/2024/42.pdf" download>Download</a></td> -->
+                <td><a target="_blank" href="https://youtu.be/W49f6ddu6GI?si=CCnb_ky19xcNVuX3" target="_blank">Video</a></td>
+                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSeLL" target="_blank">Photo</a></td>
+				<!-- <td><a target="_blank" href="dumpdf/2024/42.pdf" target="_blank">View</a></td>
+			<td><a target="_blank" href="dumpdf/2024/42.pdf" download>Download</a></td> -->
             </tr>
             <tr>
                 <td>43</td>
@@ -695,12 +695,12 @@ if($pass == "DUM14152024#%")
                 <td>Assetplus</td>
                 <td>Speaker</td>
                 <td>Speech</td>
-                <td><a href="https://flic.kr/s/aHBqjBSeLL" target="_blank">Video Link</a></td>
-                <td><a href="https://flic.kr/s/aHBqjBSeLL" target="_blank">Photos Link</a></td>
+                <td><a target="_blank" href="https://youtu.be/W49f6ddu6GI?si=CCnb_ky19xcNVuX3" target="_blank">Video</a></td>
+                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSeLL" target="_blank">Photo</a></td>
 				<!-- <td></td>
 				<td></td> -->
-				<!--<td><a href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
-				<td><a href="dumpdf/2024/12.pdf" download>Download</a></td> -->
+				<!--<td><a target="_blank" href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
+				<td><a target="_blank" href="dumpdf/2024/12.pdf" download>Download</a></td> -->
             </tr>
             <tr>
                 <td>44</td>
@@ -708,11 +708,11 @@ if($pass == "DUM14152024#%")
                 <td>Head - Sales & Commercial Services</td>
                 <td>LnT</td>
                 <td>Presentation</td>
-				<td><a href="http://dumindia.in/dumpdf/2024/44.pdf">View/Download</a></td>
-                <td><a href="#" target="_blank">Video Link</a></td>
-                <td><a href="https://flic.kr/s/aHBqjBSeLL" target="_blank">Photos Link</a></td>
-				<!-- <td><a href="dumpdf/2024/44.pdf" target="_blank">View</a></td>
-			<td><a href="dumpdf/2024/44.pdf" download>Download</a></td> -->
+				<td><a target="_blank" href="http://dumindia.in/dumpdf/2024/44.pdf">View/Download</a></td>
+                <td><a target="_blank" href="https://youtu.be/W49f6ddu6GI?si=CCnb_ky19xcNVuX3" target="_blank">Video</a></td>
+                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSeLL" target="_blank">Photo</a></td>
+				<!-- <td><a target="_blank" href="dumpdf/2024/44.pdf" target="_blank">View</a></td>
+			<td><a target="_blank" href="dumpdf/2024/44.pdf" download>Download</a></td> -->
             </tr>
             <tr>
                 <td>45</td>
@@ -720,11 +720,11 @@ if($pass == "DUM14152024#%")
                 <td>Product Marketing Head – Industrial Automation</td>
                 <td>Phoenix Contact India Pvt. Ltd</td>
                 <td>Presentation</td>
-				<td><a href="http://dumindia.in/dumpdf/2024/45.pdf">View/Download</a></td>
-                <td><a href="#" target="_blank">Video Link</a></td>
-                <td><a href="https://flic.kr/s/aHBqjBSeLL" target="_blank">Photos Link</a></td>
-				<!-- <td><a href="dumpdf/2024/45.pdf" target="_blank">View</a></td>
-			<td><a href="dumpdf/2024/45.pdf" download>Download</a></td> -->
+				<td><a target="_blank" href="http://dumindia.in/dumpdf/2024/45.pdf">View/Download</a></td>
+                <td><a target="_blank" href="https://youtu.be/W49f6ddu6GI?si=CCnb_ky19xcNVuX3" target="_blank">Video</a></td>
+                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSeLL" target="_blank">Photo</a></td>
+				<!-- <td><a target="_blank" href="dumpdf/2024/45.pdf" target="_blank">View</a></td>
+			<td><a target="_blank" href="dumpdf/2024/45.pdf" download>Download</a></td> -->
             </tr>
             <tr>
                 <td>46</td>
@@ -733,12 +733,12 @@ if($pass == "DUM14152024#%")
                 <td>BSES Yamuna Power Limited</td>
                 <td>Speaker</td>
                 <td>Speech</td>
-                <td><a href="https://flic.kr/s/aHBqjBSeLL" target="_blank">Video Link</a></td>
-                <td><a href="https://flic.kr/s/aHBqjBSeLL" target="_blank">Photos Link</a></td>
+                <td><a target="_blank" href="https://youtu.be/W49f6ddu6GI?si=CCnb_ky19xcNVuX3" target="_blank">Video</a></td>
+                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSeLL" target="_blank">Photo</a></td>
 				<!-- <td></td>
 				<td></td> -->
-				<!--<td><a href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
-				<td><a href="dumpdf/2024/12.pdf" download>Download</a></td> -->
+				<!--<td><a target="_blank" href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
+				<td><a target="_blank" href="dumpdf/2024/12.pdf" download>Download</a></td> -->
             </tr>
             <tr>
                 <td>47</td>
@@ -747,12 +747,12 @@ if($pass == "DUM14152024#%")
                 <td>NPTI</td>
                 <td>Speaker</td>
                 <td>Speech</td>
-                <td><a href="https://flic.kr/s/aHBqjBSeLL" target="_blank">Video Link</a></td>
-                <td><a href="https://flic.kr/s/aHBqjBSeLL" target="_blank">Photos Link</a></td>
+                <td><a target="_blank" href="https://youtu.be/W49f6ddu6GI?si=CCnb_ky19xcNVuX3" target="_blank">Video</a></td>
+                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSeLL" target="_blank">Photo</a></td>
 				<!-- <td></td>
 				<td></td> -->
-				<!--<td><a href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
-				<td><a href="dumpdf/2024/12.pdf" download>Download</a></td> -->
+				<!--<td><a target="_blank" href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
+				<td><a target="_blank" href="dumpdf/2024/12.pdf" download>Download</a></td> -->
             </tr>
             <tr>
                 <td>48</td>
@@ -760,11 +760,11 @@ if($pass == "DUM14152024#%")
                 <td>VP (D&D)</td>
                 <td>Stelmec</td>
                 <td>Presentation</td>
-				<td><a href="http://dumindia.in/dumpdf/2024/48.pdf">View/Download</a></td>
-                <td><a href="#" target="_blank">Video Link</a></td>
-                <td><a href="https://flic.kr/s/aHBqjBSeLL" target="_blank">Photos Link</a></td>
-				<!-- <td><a href="dumpdf/2024/48.pdf" target="_blank">View</a></td>
-			<td><a href="dumpdf/2024/48.pdf" download>Download</a></td> -->
+				<td><a target="_blank" href="http://dumindia.in/dumpdf/2024/48.pdf">View/Download</a></td>
+                <td><a target="_blank" href="https://youtu.be/W49f6ddu6GI?si=CCnb_ky19xcNVuX3" target="_blank">Video</a></td>
+                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSeLL" target="_blank">Photo</a></td>
+				<!-- <td><a target="_blank" href="dumpdf/2024/48.pdf" target="_blank">View</a></td>
+			<td><a target="_blank" href="dumpdf/2024/48.pdf" download>Download</a></td> -->
             </tr>
             <tr>
                 <td>49</td>
@@ -773,12 +773,12 @@ if($pass == "DUM14152024#%")
                 <td>Sai Computers</td>
                 <td>Speaker</td>
                 <td>Speech</td>
-                <td><a href="https://flic.kr/s/aHBqjBSeLL" target="_blank">Video Link</a></td>
-                <td><a href="https://flic.kr/s/aHBqjBSeLL" target="_blank">Photos Link</a></td>
+                <td><a target="_blank" href="https://youtu.be/W49f6ddu6GI?si=CCnb_ky19xcNVuX3" target="_blank">Video</a></td>
+                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSeLL" target="_blank">Photo</a></td>
 				<!-- <td></td>
 				<td></td> -->
-				<!--<td><a href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
-				<td><a href="dumpdf/2024/12.pdf" download>Download</a></td> -->
+				<!--<td><a target="_blank" href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
+				<td><a target="_blank" href="dumpdf/2024/12.pdf" download>Download</a></td> -->
             </tr>
             <tr>
                 <td>50</td>
@@ -787,12 +787,12 @@ if($pass == "DUM14152024#%")
                 <td>Trilliant, Inc</td>
                 <td>Speaker</td>
                 <td>Speech</td>
-                <td><a href="https://flic.kr/s/aHBqjBSeLL" target="_blank">Video Link</a></td>
-                <td><a href="https://flic.kr/s/aHBqjBSeLL" target="_blank">Photos Link</a></td>
+                <td><a target="_blank" href="https://youtu.be/W49f6ddu6GI?si=CCnb_ky19xcNVuX3" target="_blank">Video</a></td>
+                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSeLL" target="_blank">Photo</a></td>
 				<!-- <td></td>
 				<td></td> -->
-				<!--<td><a href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
-				<td><a href="dumpdf/2024/12.pdf" download>Download</a></td> -->
+				<!--<td><a target="_blank" href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
+				<td><a target="_blank" href="dumpdf/2024/12.pdf" download>Download</a></td> -->
             </tr>
             <tr>
                 <td>51</td>
@@ -801,12 +801,12 @@ if($pass == "DUM14152024#%")
                 <td>Deloitte</td>
                 <td>Speaker</td>
                 <td>Speech</td>
-                <td><a href="https://flic.kr/s/aHBqjBSeLL" target="_blank">Video Link</a></td>
-                <td><a href="https://flic.kr/s/aHBqjBSeLL" target="_blank">Photos Link</a></td>
+                <td><a target="_blank" href="https://youtu.be/W49f6ddu6GI?si=CCnb_ky19xcNVuX3" target="_blank">Video</a></td>
+                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSeLL" target="_blank">Photo</a></td>
 				<!-- <td></td>
 				<td></td> -->
-				<!--<td><a href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
-				<td><a href="dumpdf/2024/12.pdf" download>Download</a></td> -->
+				<!--<td><a target="_blank" href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
+				<td><a target="_blank" href="dumpdf/2024/12.pdf" download>Download</a></td> -->
             </tr>
         </tbody>
     </table>
@@ -823,8 +823,8 @@ if($pass == "DUM14152024#%")
                 <th class="ppfour">Organisation</th>
                 <th class="ppfive">Category</th>
                 <th class="ppsix">Presentation/Speech</th>
-                <th class="ppseven">Video link</th>
-                <th class="ppeight">Photos Link</th>
+                <th class="ppseven">Video Link</th>
+                <th class="ppeight">Photo Link</th>
             </tr>
         </thead>
         <tbody>
@@ -835,12 +835,12 @@ if($pass == "DUM14152024#%")
                 <td>Inventive Software Solutions</td>
                 <td>Speaker</td>
                 <td>Speech</td>
-                <td><a href="https://flic.kr/s/aHBqjBSeUX" target="_blank">Video Link</a></td>
-                <td><a href="https://flic.kr/s/aHBqjBSeUX" target="_blank">Photos Link</a></td>
+                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSeUX" target="_blank">Video</a></td>
+                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSeUX" target="_blank">Photo</a></td>
 				<!-- <td></td>
 				<td></td> -->
-				<!--<td><a href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
-				<td><a href="dumpdf/2024/12.pdf" download>Download</a></td> -->
+				<!--<td><a target="_blank" href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
+				<td><a target="_blank" href="dumpdf/2024/12.pdf" download>Download</a></td> -->
             </tr>
         </tbody>
     </table>
@@ -857,8 +857,8 @@ if($pass == "DUM14152024#%")
                 <th class="ppfour">Organisation</th>
                 <th class="ppfive">Category</th>
                 <th class="ppsix">Presentation/Speech</th>
-                <th class="ppseven">Video link</th>
-                <th class="ppeight">Photos Link</th>
+                <th class="ppseven">Video Link</th>
+                <th class="ppeight">Photo Link</th>
             </tr>
         </thead>
         <tbody>
@@ -869,12 +869,12 @@ if($pass == "DUM14152024#%")
                 <td>CERC</td>
                 <td>Chair</td>
                 <td>Speech</td>
-                <td><a href="https://flic.kr/s/aHBqjBSfdU">Video Link</a></td>
-                <td><a href="https://flic.kr/s/aHBqjBSfdU">Photos Link</a></td>
+                <td><a target="_blank" href="https://youtu.be/PA4pjF1_cNg?si=qUq-hY0WOF5gHo_b">Video</a></td>
+                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSfdU">Photo</a></td>
 				<!-- <td></td>
 				<td></td> -->
-				<!--<td><a href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
-				<td><a href="dumpdf/2024/12.pdf" download>Download</a></td> -->
+				<!--<td><a target="_blank" href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
+				<td><a target="_blank" href="dumpdf/2024/12.pdf" download>Download</a></td> -->
 				
             </tr>
             <tr>
@@ -884,12 +884,12 @@ if($pass == "DUM14152024#%")
                 <td>ISGF</td>
                 <td>Moderator</td>
                 <td>Speech</td>
-                <td><a href="https://flic.kr/s/aHBqjBSfdU">Video Link</a></td>
-                <td><a href="https://flic.kr/s/aHBqjBSfdU">Photos Link</a></td>
+                <td><a target="_blank" href="https://youtu.be/PA4pjF1_cNg?si=qUq-hY0WOF5gHo_b">Video</a></td>
+                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSfdU">Photo</a></td>
 				<!-- <td></td>
 				<td></td> -->
-				<!--<td><a href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
-				<td><a href="dumpdf/2024/12.pdf" download>Download</a></td> -->
+				<!--<td><a target="_blank" href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
+				<td><a target="_blank" href="dumpdf/2024/12.pdf" download>Download</a></td> -->
 				
             </tr>
             <tr>
@@ -898,11 +898,11 @@ if($pass == "DUM14152024#%")
                 <td>Former Chairperson</td>
                 <td>CERC</td>
                 <td>Presentation</td>
-                <td><a href="dumpdf/2024/55.pdf" target="_blank">View/ Download</a></td>
-                <td><a href="https://flic.kr/s/aHBqjBSfdU">Video Link</a></td>
-                <td><a href="https://flic.kr/s/aHBqjBSfdU">Photos Link</a></td>
-				<!-- <td><a href="dumpdf/2024/55.pdf" target="_blank">View</a></td>
-			<td><a href="dumpdf/2024/55.pdf" download>Download</a></td> -->
+                <td><a target="_blank" href="dumpdf/2024/55.pdf" target="_blank">View/ Download</a></td>
+                <td><a target="_blank" href="https://youtu.be/PA4pjF1_cNg?si=qUq-hY0WOF5gHo_b">Video</a></td>
+                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSfdU">Photo</a></td>
+				<!-- <td><a target="_blank" href="dumpdf/2024/55.pdf" target="_blank">View</a></td>
+			<td><a target="_blank" href="dumpdf/2024/55.pdf" download>Download</a></td> -->
             </tr>
             <tr>
                 <td>56</td>
@@ -910,11 +910,11 @@ if($pass == "DUM14152024#%")
                 <td>Executive Director (Distribution Technical)</td>
                 <td>CESC Limited</td>
                 <td>Presentation</td>
-                <td><a href="dumpdf/2024/56.pdf" target="_blank">View/ Download</a></td>
-                <td><a href="https://flic.kr/s/aHBqjBSfdU">Video Link</a></td>
-                <td><a href="https://flic.kr/s/aHBqjBSfdU">Photos Link</a></td>
-				<!-- <td><a href="dumpdf/2024/56.pdf" target="_blank">View</a></td>
-			<td><a href="dumpdf/2024/56.pdf" download>Download</a></td> -->
+                <td><a target="_blank" href="dumpdf/2024/56.pdf" target="_blank">View/ Download</a></td>
+                <td><a target="_blank" href="https://youtu.be/PA4pjF1_cNg?si=qUq-hY0WOF5gHo_b">Video</a></td>
+                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSfdU">Photo</a></td>
+				<!-- <td><a target="_blank" href="dumpdf/2024/56.pdf" target="_blank">View</a></td>
+			<td><a target="_blank" href="dumpdf/2024/56.pdf" download>Download</a></td> -->
             </tr>
             <tr>
                 <td>57</td>
@@ -922,11 +922,11 @@ if($pass == "DUM14152024#%")
                 <td>Director</td>
                 <td>Inventive Software Solutions</td>
                 <td>Presentation</td>
-                <td><a href="dumpdf/2024/26.pdf" target="_blank">View/ Download</a></td>
-                <td><a href="https://flic.kr/s/aHBqjBSfdU">Video Link</a></td>
-                <td><a href="https://flic.kr/s/aHBqjBSfdU">Photos Link</a></td>
-				<!-- <td><a href="dumpdf/2024/26.pdf" target="_blank">View</a></td>
-			<td><a href="dumpdf/2024/26.pdf" download>Download</a></td> -->
+                <td><a target="_blank" href="dumpdf/2024/26.pdf" target="_blank">View/ Download</a></td>
+                <td><a target="_blank" href="https://youtu.be/PA4pjF1_cNg?si=qUq-hY0WOF5gHo_b">Video</a></td>
+                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSfdU">Photo</a></td>
+				<!-- <td><a target="_blank" href="dumpdf/2024/26.pdf" target="_blank">View</a></td>
+			<td><a target="_blank" href="dumpdf/2024/26.pdf" download>Download</a></td> -->
             </tr>
             <tr>
                 <td>58</td>
@@ -934,11 +934,11 @@ if($pass == "DUM14152024#%")
                 <td>Chairman</td>
                 <td>Chattisgarh Regulatory Commision</td>
                 <td>Speaker</td>
-                <td><a href="dumpdf/2024/57.pdf" target="_blank">View/Download</a></td>
-                <td><a href="https://flic.kr/s/aHBqjBSfdU">Video Link</a></td>
-                <td><a href="https://flic.kr/s/aHBqjBSfdU">Photos Link</a></td>
-				<!-- <td><a href="dumpdf/2024/57.pdf" target="_blank">View</a></td>
-			<td><a href="dumpdf/2024/57.pdf" download>Download</a></td> -->
+                <td><a target="_blank" href="dumpdf/2024/57.pdf" target="_blank">View/Download</a></td>
+                <td><a target="_blank" href="https://youtu.be/PA4pjF1_cNg?si=qUq-hY0WOF5gHo_b">Video</a></td>
+                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSfdU">Photo</a></td>
+				<!-- <td><a target="_blank" href="dumpdf/2024/57.pdf" target="_blank">View</a></td>
+			<td><a target="_blank" href="dumpdf/2024/57.pdf" download>Download</a></td> -->
             </tr>
             <tr>
                 <td>59</td>
@@ -946,11 +946,11 @@ if($pass == "DUM14152024#%")
                 <td>Member-Technical</td>
                 <td>OERC</td>
                 <td>Speaker</td>
-                <td><a href="dumpdf/2024/26.pdf" target="_blank">View/Download</a></td>
-                <td><a href="https://flic.kr/s/aHBqjBSfdU">Video Link</a></td>
-                <td><a href="https://flic.kr/s/aHBqjBSfdU">Photos Link</a></td>
-				<!-- <td><a href="dumpdf/2024/26.pdf" target="_blank">View</a></td>
-			<td><a href="dumpdf/2024/26.pdf" download>Download</a></td> -->
+                <td><a target="_blank" href="dumpdf/2024/26.pdf" target="_blank">View/Download</a></td>
+                <td><a target="_blank" href="https://youtu.be/PA4pjF1_cNg?si=qUq-hY0WOF5gHo_b">Video</a></td>
+                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSfdU">Photo</a></td>
+				<!-- <td><a target="_blank" href="dumpdf/2024/26.pdf" target="_blank">View</a></td>
+			<td><a target="_blank" href="dumpdf/2024/26.pdf" download>Download</a></td> -->
             </tr>
             <tr>
                 <td>60</td>
@@ -959,12 +959,12 @@ if($pass == "DUM14152024#%")
                 <td>Allied Engineerings</td>
                 <td>Speaker</td>
                 <td>Speech</td>
-                <td><a href="https://flic.kr/s/aHBqjBSfdU">Video Link</a></td>
-                <td><a href="https://flic.kr/s/aHBqjBSfdU">Photos Link</a></td>
+                <td><a target="_blank" href="https://youtu.be/PA4pjF1_cNg?si=qUq-hY0WOF5gHo_b">Video</a></td>
+                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSfdU">Photo</a></td>
 				<!-- <td></td>
 				<td></td> -->
-				<!--<td><a href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
-				<td><a href="dumpdf/2024/12.pdf" download>Download</a></td> -->
+				<!--<td><a target="_blank" href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
+				<td><a target="_blank" href="dumpdf/2024/12.pdf" download>Download</a></td> -->
             </tr>
             <tr>
                 <td>61</td>
@@ -973,12 +973,12 @@ if($pass == "DUM14152024#%")
                 <td>Havells India Ltd</td>
                 <td>Speaker</td>
                 <td>Speech</td>
-                <td><a href="https://flic.kr/s/aHBqjBSfdU">Video Link</a></td>
-                <td><a href="https://flic.kr/s/aHBqjBSfdU">Photos Link</a></td>
+                <td><a target="_blank" href="https://youtu.be/PA4pjF1_cNg?si=qUq-hY0WOF5gHo_b">Video</a></td>
+                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSfdU">Photo</a></td>
 				<!-- <td></td>
 				<td></td> -->
-				<!--<td><a href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
-				<td><a href="dumpdf/2024/12.pdf" download>Download</a></td> -->
+				<!--<td><a target="_blank" href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
+				<td><a target="_blank" href="dumpdf/2024/12.pdf" download>Download</a></td> -->
             </tr>
         </tbody>
     </table>
@@ -994,8 +994,8 @@ if($pass == "DUM14152024#%")
                 <th class="ppfour">Organisation</th>
                 <th class="ppfive">Category</th>
                 <th class="ppsix">Presentation/Speech</th>
-                <th class="ppseven">Video link</th>
-                <th class="ppeight">Photos Link</th>
+                <th class="ppseven">Video Link</th>
+                <th class="ppeight">Photo Link</th>
             </tr>
         </thead>
         <tbody>
@@ -1006,12 +1006,12 @@ if($pass == "DUM14152024#%")
                 <td>Kerala</td>
                 <td>Chair</td>
                 <td>Speech</td>
-                <td><a href="https://flic.kr/s/aHBqjBSkFu">Video Link</a></td>
-                <td><a href="https://flic.kr/s/aHBqjBSkFu">Photos Link</a></td>
+                <td><a target="_blank" href="https://youtu.be/8CoESHC8Ndc?si=leAQ2EKC_1SRV113">Video</a></td>
+                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSkFu">Photo</a></td>
 				<!-- <td></td>
 				<td></td> -->
-				<!--<td><a href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
-				<td><a href="dumpdf/2024/12.pdf" download>Download</a></td> -->
+				<!--<td><a target="_blank" href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
+				<td><a target="_blank" href="dumpdf/2024/12.pdf" download>Download</a></td> -->
 				
             </tr>
             <tr>
@@ -1021,12 +1021,12 @@ if($pass == "DUM14152024#%")
                 <td>UPPCL</td>
                 <td>Moderator</td>
                 <td>Speech</td>
-                <td><a href="https://flic.kr/s/aHBqjBSkFu">Video Link</a></td>
-                <td><a href="https://flic.kr/s/aHBqjBSkFu">Photos Link</a></td>
+                <td><a target="_blank" href="https://youtu.be/8CoESHC8Ndc?si=leAQ2EKC_1SRV113">Video</a></td>
+                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSkFu">Photo</a></td>
 				<!-- <td></td>
 				<td></td> -->
-				<!--<td><a href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
-				<td><a href="dumpdf/2024/12.pdf" download>Download</a></td> -->
+				<!--<td><a target="_blank" href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
+				<td><a target="_blank" href="dumpdf/2024/12.pdf" download>Download</a></td> -->
             </tr>
             <tr>
                 <td>64</td>
@@ -1034,11 +1034,11 @@ if($pass == "DUM14152024#%")
                 <td>Dir Finance</td>
                 <td>UPPCL</td>
                 <td>Presentation</td>
-                <td><a href="dumpdf/2024/64.pdf" target="_blank">View/ Download</a></td>
-                <td><a href="https://flic.kr/s/aHBqjBSkFu">Video Link</a></td>
-                <td><a href="https://flic.kr/s/aHBqjBSkFu">Photos Link</a></td>
-				<!-- <td><a href="dumpdf/2024/64.pdf" target="_blank">View</a></td>
-				<td><a href="dumpdf/2024/64.pdf" download>Download</a></td> -->
+                <td><a target="_blank" href="dumpdf/2024/64.pdf" target="_blank">View/ Download</a></td>
+                <td><a target="_blank" href="https://youtu.be/8CoESHC8Ndc?si=leAQ2EKC_1SRV113">Video</a></td>
+                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSkFu">Photo</a></td>
+				<!-- <td><a target="_blank" href="dumpdf/2024/64.pdf" target="_blank">View</a></td>
+				<td><a target="_blank" href="dumpdf/2024/64.pdf" download>Download</a></td> -->
             </tr>
             <tr>
                 <td>65</td>
@@ -1046,11 +1046,11 @@ if($pass == "DUM14152024#%")
                 <td>Additional Secretary</td>
                 <td>DHI</td>
                 <td>Presentation</td>
-                <td><a href="dumpdf/2024/65.pdf" target="_blank">View/ Download</a></td>
-                <td><a href="https://flic.kr/s/aHBqjBSkFu">Video Link</a></td>
-                <td><a href="https://flic.kr/s/aHBqjBSkFu">Photos Link</a></td>
-				<!-- <td><a href="dumpdf/2024/65.pdf" target="_blank">View</a></td>
-				<td><a href="dumpdf/2024/65.pdf" download>Download</a></td> -->
+                <td><a target="_blank" href="dumpdf/2024/65.pdf" target="_blank">View/ Download</a></td>
+                <td><a target="_blank" href="https://youtu.be/8CoESHC8Ndc?si=leAQ2EKC_1SRV113">Video</a></td>
+                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSkFu">Photo</a></td>
+				<!-- <td><a target="_blank" href="dumpdf/2024/65.pdf" target="_blank">View</a></td>
+				<td><a target="_blank" href="dumpdf/2024/65.pdf" download>Download</a></td> -->
             </tr>
             <tr>
                 <td>66</td>
@@ -1059,12 +1059,12 @@ if($pass == "DUM14152024#%")
                 <td>GLIDA INDIA</td>
                 <td>Speaker</td>
                 <td>Speech</td>
-                <td><a href="https://flic.kr/s/aHBqjBSkFu">Video Link</a></td>
-                <td><a href="https://flic.kr/s/aHBqjBSkFu">Photos Link</a></td>
+                <td><a target="_blank" href="https://youtu.be/8CoESHC8Ndc?si=leAQ2EKC_1SRV113">Video</a></td>
+                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSkFu">Photo</a></td>
 				<!-- <td></td>
 				<td></td> -->
-				<!--<td><a href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
-				<td><a href="dumpdf/2024/12.pdf" download>Download</a></td> -->
+				<!--<td><a target="_blank" href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
+				<td><a target="_blank" href="dumpdf/2024/12.pdf" download>Download</a></td> -->
             </tr>
             <tr>
                 <td>67</td>
@@ -1073,12 +1073,12 @@ if($pass == "DUM14152024#%")
                 <td>PVVNL</td>
                 <td>Speaker</td>
                 <td>Speech</td>
-                <td><a href="https://flic.kr/s/aHBqjBSkFu">Video Link</a></td>
-                <td><a href="https://flic.kr/s/aHBqjBSkFu">Photos Link</a></td>
+                <td><a target="_blank" href="https://youtu.be/8CoESHC8Ndc?si=leAQ2EKC_1SRV113">Video</a></td>
+                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSkFu">Photo</a></td>
 				<!-- <td></td>
 				<td></td> -->
-				<!--<td><a href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
-				<td><a href="dumpdf/2024/12.pdf" download>Download</a></td> -->
+				<!--<td><a target="_blank" href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
+				<td><a target="_blank" href="dumpdf/2024/12.pdf" download>Download</a></td> -->
             </tr>
             <tr>
                 <td>68</td>
@@ -1087,12 +1087,12 @@ if($pass == "DUM14152024#%")
                 <td>Tata Power Company Ltd</td>
                 <td>Speaker</td>
                 <td>Speech</td>
-                <td><a href="https://flic.kr/s/aHBqjBSkFu">Video Link</a></td>
-                <td><a href="https://flic.kr/s/aHBqjBSkFu">Photos Link</a></td>
+                <td><a target="_blank" href="https://youtu.be/8CoESHC8Ndc?si=leAQ2EKC_1SRV113">Video</a></td>
+                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSkFu">Photo</a></td>
 				<!-- <td></td>
 				<td></td> -->
-				<!--<td><a href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
-				<td><a href="dumpdf/2024/12.pdf" download>Download</a></td> -->
+				<!--<td><a target="_blank" href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
+				<td><a target="_blank" href="dumpdf/2024/12.pdf" download>Download</a></td> -->
             </tr>
             <tr>
                 <td>69</td>
@@ -1101,12 +1101,12 @@ if($pass == "DUM14152024#%")
                 <td>Eaton India</td>
                 <td>Speaker</td>
                 <td>Speech</td>
-                <td><a href="https://flic.kr/s/aHBqjBSkFu">Video Link</a></td>
-                <td><a href="https://flic.kr/s/aHBqjBSkFu">Photos Link</a></td>
+                <td><a target="_blank" href="https://youtu.be/8CoESHC8Ndc?si=leAQ2EKC_1SRV113">Video</a></td>
+                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSkFu">Photo</a></td>
 				<!-- <td></td>
 				<td></td> -->
-				<!--<td><a href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
-				<td><a href="dumpdf/2024/12.pdf" download>Download</a></td> -->
+				<!--<td><a target="_blank" href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
+				<td><a target="_blank" href="dumpdf/2024/12.pdf" download>Download</a></td> -->
             </tr>
             <tr>
                 <td>70</td>
@@ -1114,11 +1114,11 @@ if($pass == "DUM14152024#%")
                 <td>Co-Founder and CEO</td>
                 <td>Irasus Technologies</td>
                 <td>Presentation</td>
-                <td><a href="dumpdf/2024/70.pdf" target="_blank">View/ Download</a></td>
-                <td><a href="https://flic.kr/s/aHBqjBSkFu">Video Link</a></td>
-                <td><a href="https://flic.kr/s/aHBqjBSkFu">Photos Link</a></td>
-				<!-- <td><a href="dumpdf/2024/70.pdf" target="_blank">View</a></td>
-				<td><a href="dumpdf/2024/70.pdf" download>Download</a></td> -->
+                <td><a target="_blank" href="dumpdf/2024/70.pdf" target="_blank">View/ Download</a></td>
+                <td><a target="_blank" href="https://youtu.be/8CoESHC8Ndc?si=leAQ2EKC_1SRV113">Video</a></td>
+                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSkFu">Photo</a></td>
+				<!-- <td><a target="_blank" href="dumpdf/2024/70.pdf" target="_blank">View</a></td>
+				<td><a target="_blank" href="dumpdf/2024/70.pdf" download>Download</a></td> -->
             </tr>
         </tbody>
     </table>
@@ -1134,8 +1134,8 @@ if($pass == "DUM14152024#%")
                 <th class="ppfour">Organisation</th>
                 <th class="ppfive">Category</th>
                 <th class="ppsix">Presentation/Speech</th>
-                <th class="ppseven">Video link</th>
-                <th class="ppeight">Photos Link</th>
+                <th class="ppseven">Video Link</th>
+                <th class="ppeight">Photo Link</th>
             </tr>
         </thead>
         <tbody>
@@ -1146,12 +1146,12 @@ if($pass == "DUM14152024#%")
                 <td>ISGF</td>
                 <td>Chair and Moderator</td>
                 <td>Speech</td>
-                <td><a href="https://flic.kr/s/aHBqjBSfuq">Video Link</a></td>
-                <td><a href="https://flic.kr/s/aHBqjBSfuq">Photos Link</a></td>
+                <td><a target="_blank" href="https://youtu.be/q84kShIZZ4A?si=lmuBE7IWkhbcLP2x">Video</a></td>
+                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSfuq">Photo</a></td>
 				<!-- <td></td>
 				<td></td> -->
-				<!--<td><a href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
-				<td><a href="dumpdf/2024/12.pdf" download>Download</a></td> -->
+				<!--<td><a target="_blank" href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
+				<td><a target="_blank" href="dumpdf/2024/12.pdf" download>Download</a></td> -->
             </tr>
             <tr>
                 <td>72</td>
@@ -1159,11 +1159,11 @@ if($pass == "DUM14152024#%")
                 <td>Head -RE and Discoms</td>
                 <td>GIZ</td>
                 <td>Presentation</td>
-                <td><a href="dumpdf/2024/72.pdf" target="_blank">View/ Download</a></td>
-                <td><a href="https://flic.kr/s/aHBqjBSfuq">Video Link</a></td>
-                <td><a href="https://flic.kr/s/aHBqjBSfuq">Photos Link</a></td>
-				<!-- <td><a href="dumpdf/2024/72.pdf" target="_blank">View</a></td>
-				<td><a href="dumpdf/2024/72.pdf" download>Download</a></td> -->
+                <td><a target="_blank" href="dumpdf/2024/72.pdf" target="_blank">View/ Download</a></td>
+                <td><a target="_blank" href="https://youtu.be/q84kShIZZ4A?si=lmuBE7IWkhbcLP2x">Video</a></td>
+                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSfuq">Photo</a></td>
+				<!-- <td><a target="_blank" href="dumpdf/2024/72.pdf" target="_blank">View</a></td>
+				<td><a target="_blank" href="dumpdf/2024/72.pdf" download>Download</a></td> -->
             </tr>
             <tr>
                 <td>73</td>
@@ -1171,11 +1171,11 @@ if($pass == "DUM14152024#%")
                 <td>MD</td>
                 <td>UPNEDA</td>
                 <td>Presentation</td>
-                <td><a href="dumpdf/2024/73.pdf" target="_blank">View/ Download</a></td>
-                <td><a href="https://flic.kr/s/aHBqjBSfuq">Video Link</a></td>
-                <td><a href="https://flic.kr/s/aHBqjBSfuq">Photos Link</a></td>
-				<!-- <td><a href="dumpdf/2024/73.pdf" target="_blank">View</a></td>
-				<td><a href="dumpdf/2024/73.pdf" download>Download</a></td> -->
+                <td><a target="_blank" href="dumpdf/2024/73.pdf" target="_blank">View/ Download</a></td>
+                <td><a target="_blank" href="https://youtu.be/q84kShIZZ4A?si=lmuBE7IWkhbcLP2x">Video</a></td>
+                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSfuq">Photo</a></td>
+				<!-- <td><a target="_blank" href="dumpdf/2024/73.pdf" target="_blank">View</a></td>
+				<td><a target="_blank" href="dumpdf/2024/73.pdf" download>Download</a></td> -->
             </tr>
             <tr>
                 <td>74</td>
@@ -1183,11 +1183,11 @@ if($pass == "DUM14152024#%")
                 <td>Laboratory Program Manager - Grid Integration</td>
                 <td>NREL, USA</td>
                 <td>Presentation</td>
-                <td><a href="dumpdf/2024/74.pdf" target="_blank">View/ Download</a></td>
-                <td><a href="https://flic.kr/s/aHBqjBSfuq">Video Link</a></td>
-                <td><a href="https://flic.kr/s/aHBqjBSfuq">Photos Link</a></td>
-				<!-- <td><a href="dumpdf/2024/74.pdf" target="_blank">View</a></td>
-				<td><a href="dumpdf/2024/74.pdf" download>Download</a></td> -->
+                <td><a target="_blank" href="dumpdf/2024/74.pdf" target="_blank">View/ Download</a></td>
+                <td><a target="_blank" href="https://youtu.be/q84kShIZZ4A?si=lmuBE7IWkhbcLP2x">Video</a></td>
+                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSfuq">Photo</a></td>
+				<!-- <td><a target="_blank" href="dumpdf/2024/74.pdf" target="_blank">View</a></td>
+				<td><a target="_blank" href="dumpdf/2024/74.pdf" download>Download</a></td> -->
             </tr>
             <tr>
                 <td>75</td>
@@ -1195,11 +1195,11 @@ if($pass == "DUM14152024#%")
                 <td>Executive Director</td>
                 <td>ISGF</td>
                 <td>Presentation</td>
-                <td><a href="dumpdf/2024/75.pdf" target="_blank">View/ Download</a></td>
-                <td><a href="https://flic.kr/s/aHBqjBSfuq">Video Link</a></td>
-                <td><a href="https://flic.kr/s/aHBqjBSfuq">Photos Link</a></td>
-				<!-- <td><a href="dumpdf/2024/75.pdf" target="_blank">View</a></td>
-				<td><a href="dumpdf/2024/75.pdf" download>Download</a></td> -->
+                <td><a target="_blank" href="dumpdf/2024/75.pdf" target="_blank">View/ Download</a></td>
+                <td><a target="_blank" href="https://youtu.be/q84kShIZZ4A?si=lmuBE7IWkhbcLP2x">Video</a></td>
+                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSfuq">Photo</a></td>
+				<!-- <td><a target="_blank" href="dumpdf/2024/75.pdf" target="_blank">View</a></td>
+				<td><a target="_blank" href="dumpdf/2024/75.pdf" download>Download</a></td> -->
             </tr>
             <tr>
                 <td>76</td>
@@ -1207,11 +1207,11 @@ if($pass == "DUM14152024#%")
                 <td>CEO</td>
                 <td>Energynautics</td>
                 <td>Presentation</td>
-                <td><a href="dumpdf/2024/76.pdf" target="_blank">View/ Download</a></td>
-                <td><a href="https://flic.kr/s/aHBqjBSfuq">Video Link</a></td>
-                <td><a href="https://flic.kr/s/aHBqjBSfuq">Photos Link</a></td>
-				<!-- <td><a href="dumpdf/2024/76.pdf" target="_blank">View</a></td>
-				<td><a href="dumpdf/2024/76.pdf" download>Download</a></td> -->
+                <td><a target="_blank" href="dumpdf/2024/76.pdf" target="_blank">View/ Download</a></td>
+                <td><a target="_blank" href="https://youtu.be/q84kShIZZ4A?si=lmuBE7IWkhbcLP2x">Video</a></td>
+                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSfuq">Photo</a></td>
+				<!-- <td><a target="_blank" href="dumpdf/2024/76.pdf" target="_blank">View</a></td>
+				<td><a target="_blank" href="dumpdf/2024/76.pdf" download>Download</a></td> -->
             </tr>
             <tr>
                 <td>77</td>
@@ -1220,12 +1220,12 @@ if($pass == "DUM14152024#%")
                 <td>KESCO</td>
                 <td>Speaker</td>
                 <td>Speech</td>
-                <td><a href="https://flic.kr/s/aHBqjBSfuq">Video Link</a></td>
-                <td><a href="https://flic.kr/s/aHBqjBSfuq">Photos Link</a></td>
+                <td><a target="_blank" href="https://youtu.be/q84kShIZZ4A?si=lmuBE7IWkhbcLP2x">Video</a></td>
+                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSfuq">Photo</a></td>
 				<!-- <td></td>
 				<td></td> -->
-				<!--<td><a href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
-				<td><a href="dumpdf/2024/12.pdf" download>Download</a></td> -->
+				<!--<td><a target="_blank" href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
+				<td><a target="_blank" href="dumpdf/2024/12.pdf" download>Download</a></td> -->
             </tr>
             <tr>
                 <td>78</td>
@@ -1234,12 +1234,12 @@ if($pass == "DUM14152024#%")
                 <td>PGVCL</td>
                 <td>Speaker</td>
                 <td>Speech</td>
-                <td><a href="https://flic.kr/s/aHBqjBSfuq">Video Link</a></td>
-                <td><a href="https://flic.kr/s/aHBqjBSfuq">Photos Link</a></td>
+                <td><a target="_blank" href="https://youtu.be/q84kShIZZ4A?si=lmuBE7IWkhbcLP2x">Video</a></td>
+                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSfuq">Photo</a></td>
 				<!-- <td></td>
 				<td></td> -->
-				<!--<td><a href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
-				<td><a href="dumpdf/2024/12.pdf" download>Download</a></td> -->
+				<!--<td><a target="_blank" href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
+				<td><a target="_blank" href="dumpdf/2024/12.pdf" download>Download</a></td> -->
             </tr>
             <tr>
                 <td>79</td>
@@ -1248,12 +1248,12 @@ if($pass == "DUM14152024#%")
                 <td>Tata Power Company Ltd</td>
                 <td>Speaker</td>
                 <td>Speech</td>
-                <td><a href="https://flic.kr/s/aHBqjBSfuq">Video Link</a></td>
-                <td><a href="https://flic.kr/s/aHBqjBSfuq">Photos Link</a></td>
+                <td><a target="_blank" href="https://youtu.be/q84kShIZZ4A?si=lmuBE7IWkhbcLP2x">Video</a></td>
+                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSfuq">Photo</a></td>
 				<!-- <td></td>
 				<td></td> -->
-				<!--<td><a href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
-				<td><a href="dumpdf/2024/12.pdf" download>Download</a></td> -->
+				<!--<td><a target="_blank" href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
+				<td><a target="_blank" href="dumpdf/2024/12.pdf" download>Download</a></td> -->
             </tr>
             <tr>
                 <td>80</td>
@@ -1262,12 +1262,12 @@ if($pass == "DUM14152024#%")
                 <td>SLDC, Odisha</td>
                 <td>Speaker</td>
                 <td>Speech</td>
-                <td><a href="https://flic.kr/s/aHBqjBSfuq">Video Link</a></td>
-                <td><a href="https://flic.kr/s/aHBqjBSfuq">Photos Link</a></td>
+                <td><a target="_blank" href="https://youtu.be/q84kShIZZ4A?si=lmuBE7IWkhbcLP2x">Video</a></td>
+                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSfuq">Photo</a></td>
 				<!-- <td></td>
 				<td></td> -->
-				<!--<td><a href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
-				<td><a href="dumpdf/2024/12.pdf" download>Download</a></td> -->
+				<!--<td><a target="_blank" href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
+				<td><a target="_blank" href="dumpdf/2024/12.pdf" download>Download</a></td> -->
             </tr>
             <tr>
                 <td>81</td>
@@ -1275,12 +1275,12 @@ if($pass == "DUM14152024#%")
                 <td>Executive Director</td>
                 <td>MSEDCL</td>
                 <td>Presentation</td>
-                <td><a href="dumpdf/2024/81.pdf" target="_blank">View/ Download</a></td>
-                <td><a href="https://flic.kr/s/aHBqjBSfuq">Video Link</a></td>
-                <td><a href="https://flic.kr/s/aHBqjBSfuq">Photos Link</a></td>
+                <td><a target="_blank" href="dumpdf/2024/81.pdf" target="_blank">View/ Download</a></td>
+                <td><a target="_blank" href="https://youtu.be/q84kShIZZ4A?si=lmuBE7IWkhbcLP2x">Video</a></td>
+                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSfuq">Photo</a></td>
 <!-- 				
-				<td><a href="dumpdf/2024/81.pdf" target="_blank">View</a></td>
-				<td><a href="dumpdf/2024/81.pdf" download>Download</a></td> -->
+				<td><a target="_blank" href="dumpdf/2024/81.pdf" target="_blank">View</a></td>
+				<td><a target="_blank" href="dumpdf/2024/81.pdf" download>Download</a></td> -->
             </tr>
             <tr>
                 <td>82</td>
@@ -1289,12 +1289,12 @@ if($pass == "DUM14152024#%")
                 <td>Energynautics</td>
                 <td>Speaker</td>
                 <td>Speech</td>
-                <td><a href="https://flic.kr/s/aHBqjBSfuq">Video Link</a></td>
-                <td><a href="https://flic.kr/s/aHBqjBSfuq">Photos Link</a></td>
+                <td><a target="_blank" href="https://youtu.be/q84kShIZZ4A?si=lmuBE7IWkhbcLP2x">Video</a></td>
+                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSfuq">Photo</a></td>
 				<!-- <td></td>
 				<td></td> -->
-				<!--<td><a href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
-				<td><a href="dumpdf/2024/12.pdf" download>Download</a></td> -->
+				<!--<td><a target="_blank" href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
+				<td><a target="_blank" href="dumpdf/2024/12.pdf" download>Download</a></td> -->
             </tr>
             <tr>
                 <td>83</td>
@@ -1302,11 +1302,11 @@ if($pass == "DUM14152024#%")
                 <td>Head -Sales & Commercial Services</td>
                 <td>LnT</td>
                 <td>Presentation</td>
-                <td><a href="dumpdf/2024/83.pdf" target="_blank">View/ Download</a></td>
-                <td><a href="https://flic.kr/s/aHBqjBSfuq">Video Link</a></td>
-                <td><a href="https://flic.kr/s/aHBqjBSfuq">Photos Link</a></td>
-				<!-- <td><a href="dumpdf/2024/83.pdf" target="_blank">View</a></td>
-				<td><a href="dumpdf/2024/83.pdf" download>Download</a></td> -->
+                <td><a target="_blank" href="dumpdf/2024/83.pdf" target="_blank">View/ Download</a></td>
+                <td><a target="_blank" href="https://youtu.be/q84kShIZZ4A?si=lmuBE7IWkhbcLP2x">Video</a></td>
+                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSfuq">Photo</a></td>
+				<!-- <td><a target="_blank" href="dumpdf/2024/83.pdf" target="_blank">View</a></td>
+				<td><a target="_blank" href="dumpdf/2024/83.pdf" download>Download</a></td> -->
             </tr>
             <tr>
                 <td>84</td>
@@ -1314,11 +1314,11 @@ if($pass == "DUM14152024#%")
                 <td>Professor</td>
                 <td>IIT Bombay</td>
                 <td>Presentation</td>
-                <td><a href="dumpdf/2024/84.pdf" target="_blank">View/ Download</a></td>
-                <td><a href="https://flic.kr/s/aHBqjBSfuq">Video Link</a></td>
-                <td><a href="https://flic.kr/s/aHBqjBSfuq">Photos Link</a></td>
-				<!-- <td><a href="dumpdf/2024/84.pdf" target="_blank">View</a></td>
-				<td><a href="dumpdf/2024/84.pdf" download>Download</a></td> -->
+                <td><a target="_blank" href="dumpdf/2024/84.pdf" target="_blank">View/ Download</a></td>
+                <td><a target="_blank" href="https://youtu.be/q84kShIZZ4A?si=lmuBE7IWkhbcLP2x">Video</a></td>
+                <td><a target="_blank" href="https://flic.kr/s/aHBqjBSfuq">Photo</a></td>
+				<!-- <td><a target="_blank" href="dumpdf/2024/84.pdf" target="_blank">View</a></td>
+				<td><a target="_blank" href="dumpdf/2024/84.pdf" download>Download</a></td> -->
             </tr>
         </tbody>
     </table>
@@ -1334,8 +1334,8 @@ if($pass == "DUM14152024#%")
                 <th class="ppfour">Organisation</th>
                 <th class="ppfive">Category</th>
                 <th class="ppsix">Presentation/Speech</th>
-                <th class="ppseven">Video link</th>
-                <th class="ppeight">Photos Link</th>
+                <th class="ppseven">Video Link</th>
+                <th class="ppeight">Photo Link</th>
             </tr>
         <tr>
             <td>85</td>
@@ -1344,12 +1344,12 @@ if($pass == "DUM14152024#%")
             <td>UPERC</td>
             <td>Speaker</td>
             <td>Speech</td>
-            <td><a href="https://flic.kr/s/aHBqjBSmfg" class="link">Video</a></td>
-            <td><a href="https://flic.kr/s/aHBqjBSmfg" class="link">Photos</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjBSmfg" class="link">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjBSmfg" class="link">Photos</a></td>
 			<!-- <td></td>
 				<td></td> -->
-				<!--<td><a href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
-				<td><a href="dumpdf/2024/12.pdf" download>Download</a></td> -->
+				<!--<td><a target="_blank" href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
+				<td><a target="_blank" href="dumpdf/2024/12.pdf" download>Download</a></td> -->
         </tr>
         <tr>
             <td>86</td>
@@ -1358,12 +1358,12 @@ if($pass == "DUM14152024#%")
             <td>CSERC</td>
             <td>Speaker</td>
             <td>Speech</td>
-            <td><a href="https://flic.kr/s/aHBqjBSmfg" class="link">Video</a></td>
-            <td><a href="https://flic.kr/s/aHBqjBSmfg" class="link">Photos</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjBSmfg" class="link">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjBSmfg" class="link">Photos</a></td>
 			<!-- <td></td>
 				<td></td> -->
-				<!--<td><a href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
-				<td><a href="dumpdf/2024/12.pdf" download>Download</a></td> -->
+				<!--<td><a target="_blank" href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
+				<td><a target="_blank" href="dumpdf/2024/12.pdf" download>Download</a></td> -->
         </tr>
         <tr>
             <td>87</td>
@@ -1372,12 +1372,12 @@ if($pass == "DUM14152024#%")
             <td>UPPCL</td>
             <td>Speaker</td>
             <td>Speech</td>
-            <td><a href="https://flic.kr/s/aHBqjBSmfg" class="link">Video</a></td>
-            <td><a href="https://flic.kr/s/aHBqjBSmfg" class="link">Photos</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjBSmfg" class="link">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjBSmfg" class="link">Photos</a></td>
 			<!-- <td></td>
 				<td></td> -->
-				<!--<td><a href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
-				<td><a href="dumpdf/2024/12.pdf" download>Download</a></td> -->
+				<!--<td><a target="_blank" href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
+				<td><a target="_blank" href="dumpdf/2024/12.pdf" download>Download</a></td> -->
         </tr>
         <tr>
             <td>88</td>
@@ -1386,12 +1386,12 @@ if($pass == "DUM14152024#%")
             <td>ISGF</td>
             <td>Speaker</td>
             <td>Speech</td>
-            <td><a href="https://flic.kr/s/aHBqjBSmfgg" class="link">Video</a></td>
-            <td><a href="https://flic.kr/s/aHBqjBSmfgg" class="link">Photos</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjBSmfgg" class="link">Video</a></td>
+            <td><a target="_blank" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720322051275/" class="link">Photos</a></td>
 			<!-- <td></td>
 				<td></td> -->
-				<!--<td><a href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
-				<td><a href="dumpdf/2024/12.pdf" download>Download</a></td> -->
+				<!--<td><a target="_blank" href="dumpdf/2024/12.pdf" target="_blank">View</a></td>
+				<td><a target="_blank" href="dumpdf/2024/12.pdf" download>Download</a></td> -->
         </tr>
     </table>
 
@@ -1406,8 +1406,8 @@ if($pass == "DUM14152024#%")
                 <th class="ppfour">Organisation</th>
                 <th class="ppfive">Category</th>
                 <th class="ppsix">Presentation/Speech</th>
-                <th class="ppseven">Video link</th>
-                <th class="ppeight">Photos Link</th>
+                <th class="ppseven">Video Link</th>
+                <th class="ppeight">Photo Link</th>
             </tr>
 
         <!-- <tr>
@@ -1417,8 +1417,8 @@ if($pass == "DUM14152024#%")
             <td></td>
             <td></td>
             <td></td>
-            <td><a href="https://flic.kr/s/aHBqjBSmGK" class="link">Video</a></td>
-            <td><a href="https://flic.kr/s/aHBqjBSmGK" class="link">Photos</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjBSmGK" class="link">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjBSmGK" class="link">Photos</a></td>
 			
         </tr>
 
@@ -1429,8 +1429,8 @@ if($pass == "DUM14152024#%")
             <td></td>
             <td></td>
             <td></td>
-            <td><a href="https://flic.kr/s/aHBqjBSnii" class="link">Video</a></td>
-            <td><a href="https://flic.kr/s/aHBqjBSnii" class="link">Photos</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjBSnii" class="link">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjBSnii" class="link">Photos</a></td>
 			
         </tr>
 
@@ -1441,8 +1441,8 @@ if($pass == "DUM14152024#%")
             <td></td>
             <td></td>
             <td></td>
-            <td><a href="https://flic.kr/s/aHBqjBSnii" class="link">Video</a></td>
-            <td><a href="https://flic.kr/s/aHBqjBSnii" class="link">Photos</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjBSnii" class="link">Video</a></td>
+            <td><a target="_blank" href="https://flic.kr/s/aHBqjBSnii" class="link">Photos</a></td>
 			
         </tr> -->
 
@@ -1452,9 +1452,9 @@ if($pass == "DUM14152024#%")
             <td>Not Applicable</td>
             <td>Not Applicable</td>
             <td>Not Applicable</td>
-            <td><a href="https://dumindia.in/presentations2023.php">Presentation Page</a></td>
-            <td><a href="https://www.youtube.com/watch?v=WWVcHN4u5u4&list=PLgSiPGd4NrcifVi7CfRpm8tmDSAAZUU4S&pp=gAQB" class="link">Video</a></td>
-            <td><a href="https://www.flickr.com/photos/indiasmartgridforum/collections/72157722224586178/" class="link">Photos</a></td>
+            <td><a target="_blank" href="https://dumindia.in/presentations2023.php">Presentation Page</a></td>
+            <td><a target="_blank" href="https://www.youtube.com/watch?v=WWVcHN4u5u4&list=PLgSiPGd4NrcifVi7CfRpm8tmDSAAZUU4S&pp=gAQB" class="link">Video</a></td>
+            <td><a target="_blank" href="https://www.flickr.com/photos/indiasmartgridforum/collections/72157722224586178/" class="link">Photos</a></td>
 			
         </tr>
         <tr>
@@ -1463,9 +1463,9 @@ if($pass == "DUM14152024#%")
             <td>Not Applicable</td>
             <td>Not Applicable</td>
             <td>Not Applicable</td>
-            <td><a href="https://dumindia.in/presentations2022.php">Presentation Page</a></td>
-            <td><a href="https://www.youtube.com/watch?v=e-C0VhMHIuw&list=PLgSiPGd4NrchQDQenwahAywa_X17nsQGB&pp=gAQB" class="link">Video</a></td>
-            <td><a href="https://www.flickr.com/photos/indiasmartgridforum/collections/72157721265276778/" class="link">Photos</a></td>
+            <td><a target="_blank" href="https://dumindia.in/presentations2022.php">Presentation Page</a></td>
+            <td><a target="_blank" href="https://www.youtube.com/watch?v=e-C0VhMHIuw&list=PLgSiPGd4NrchQDQenwahAywa_X17nsQGB&pp=gAQB" class="link">Video</a></td>
+            <td><a target="_blank" href="https://www.flickr.com/photos/indiasmartgridforum/collections/72157721265276778/" class="link">Photos</a></td>
 			
         </tr>
         <tr>
@@ -1474,9 +1474,9 @@ if($pass == "DUM14152024#%")
             <td>Not Applicable</td>
             <td>Not Applicable</td>
             <td>Not Applicable</td>
-            <td><a href="https://dumindia.in/presentations2021.php">Presentation Page</a></td>
-            <td><a href="https://www.youtube.com/watch?v=bx9s28u8qcs&list=PLgSiPGd4Nrcj6YQE_otL91d73uYpB2vpu&pp=gAQB" class="link">Video</a></td>
-            <td><a href="https://www.flickr.com/photos/indiasmartgridforum/collections/72157720172706046/" class="link">Photos</a></td>
+            <td><a target="_blank" href="https://dumindia.in/presentations2021.php">Presentation Page</a></td>
+            <td><a target="_blank" href="https://www.youtube.com/watch?v=bx9s28u8qcs&list=PLgSiPGd4Nrcj6YQE_otL91d73uYpB2vpu&pp=gAQB" class="link">Video</a></td>
+            <td><a target="_blank" href="https://www.flickr.com/photos/indiasmartgridforum/collections/72157720172706046/" class="link">Photos</a></td>
 			
         </tr>
         <tr>
@@ -1485,9 +1485,9 @@ if($pass == "DUM14152024#%")
             <td>Not Applicable</td>
             <td>Not Applicable</td>
             <td>Not Applicable</td>
-            <td><a href="https://dumindia.in/presentations2020.php">Presentation Page</a></td>
-            <td><a href="https://www.youtube.com/watch?v=yC73asR5zas&list=PLgSiPGd4NrcgJ_vx0hauSJaa4yy74UIVp&pp=gAQB" class="link">Video</a></td>
-            <td><a href="https://www.flickr.com/photos/indiasmartgridforum/collections/72157718570173302/" class="link">Photos</a></td>
+            <td><a target="_blank" href="https://dumindia.in/presentations2020.php">Presentation Page</a></td>
+            <td><a target="_blank" href="https://www.youtube.com/watch?v=yC73asR5zas&list=PLgSiPGd4NrcgJ_vx0hauSJaa4yy74UIVp&pp=gAQB" class="link">Video</a></td>
+            <td><a target="_blank" href="https://www.flickr.com/photos/indiasmartgridforum/collections/72157718570173302/" class="link">Photos</a></td>
 			
         </tr>
         <tr>
@@ -1497,8 +1497,8 @@ if($pass == "DUM14152024#%")
             <td>Not Applicable</td>
             <td>Not Applicable</td>
             <td>Presentation Page<</td>
-            <td><a href="#" class="link">Video</a></td>
-            <td><a href="https://www.flickr.com/photos/indiasmartgridforum/collections/72157711828520547/" class="link">Photos</a></td>
+            <td><a target="_blank" href="#" class="link">Video</a></td>
+            <td><a target="_blank" href="https://www.flickr.com/photos/indiasmartgridforum/collections/72157711828520547/" class="link">Photos</a></td>
 			
         </tr>
         <tr>
@@ -1508,8 +1508,8 @@ if($pass == "DUM14152024#%")
             <td>Not Applicable</td>
             <td>Not Applicable</td>
             <td>Presentation Page<</td>
-            <td><a href="#" class="link">Video</a></td>
-            <td><a href="https://www.flickr.com/photos/indiasmartgridforum/collections/72157673707740587/" class="link">Photos</a></td>
+            <td><a target="_blank" href="#" class="link">Video</a></td>
+            <td><a target="_blank" href="https://www.flickr.com/photos/indiasmartgridforum/collections/72157673707740587/" class="link">Photos</a></td>
 			
         </tr>
         <tr>
@@ -1519,29 +1519,29 @@ if($pass == "DUM14152024#%")
             <td>Not Applicable</td>
             <td>Not Applicable</td>
             <td>Presentation Page<</td>
-            <td><a href="#" class="link">Video</a></td>
-            <td><a href="https://www.flickr.com/photos/indiasmartgridforum/collections/72157694469354085/" class="link">Photos</a></td>
+            <td><a target="_blank" href="#" class="link">Video</a></td>
+            <td><a target="_blank" href="https://www.flickr.com/photos/indiasmartgridforum/collections/72157694469354085/" class="link">Photos</a></td>
 			
         </tr>
     </table>    
 
     <!-- <center>
     <div class="session-header">DUM 2024 Exhibition</div>
-    <a href="https://flic.kr/s/aHBqjBSmGK" class="link">Exhibition Video Link</a><br/>
-    <a href="https://flic.kr/s/aHBqjBSmGK" class="link">Exhibition Photos Link</a>
+    <a target="_blank" href="https://flic.kr/s/aHBqjBSmGK" class="link">Exhibition Video</a><br/>
+    <a target="_blank" href="https://flic.kr/s/aHBqjBSmGK" class="link">Exhibition Photo</a>
 
     <div class="session-header">DUM 2024 Branding</div>
-    <a href="https://flic.kr/s/aHBqjBSnii" class="link">Branding Video Link</a><br/>
-    <a href="https://flic.kr/s/aHBqjBSnii" class="link">Branding Photos Link</a>
+    <a target="_blank" href="https://flic.kr/s/aHBqjBSnii" class="link">Branding Video</a><br/>
+    <a target="_blank" href="https://flic.kr/s/aHBqjBSnii" class="link">Branding Photo</a>
 </center> -->
 
-    <!-- <center><a href="presentations2023.php" target="_blank"><h6>DUM 2023 presentations</h6></a></center>
-    <center><a href="presentations2022.php" target="_blank"><h6>DUM 2022 presentations</h6></a></center>
-  <center><a href="presentations2021.php" target="_blank"><h6>DUM 2021 presentations</h6></a></center>
-    <center><a href="presentations2020.php" target="_blank"><h6>DUM 2020 presentations</h6></a></center>
-    <center><a href="presentations.php" target="_blank"><h6>DUM 2019 presentations</h6></a></center>
-	<center><a href="presentations_2018.php" target="_blank"><h6>DUM 2018 presentations</h6></a></center>
-	<center><a href="presentations_2017.php" target="_blank"><h6>DUM 2017 presentations</h6></a></center> -->
+    <!-- <center><a target="_blank" href="presentations2023.php" target="_blank"><h6>DUM 2023 presentations</h6></a></center>
+    <center><a target="_blank" href="presentations2022.php" target="_blank"><h6>DUM 2022 presentations</h6></a></center>
+  <center><a target="_blank" href="presentations2021.php" target="_blank"><h6>DUM 2021 presentations</h6></a></center>
+    <center><a target="_blank" href="presentations2020.php" target="_blank"><h6>DUM 2020 presentations</h6></a></center>
+    <center><a target="_blank" href="presentations.php" target="_blank"><h6>DUM 2019 presentations</h6></a></center>
+	<center><a target="_blank" href="presentations_2018.php" target="_blank"><h6>DUM 2018 presentations</h6></a></center>
+	<center><a target="_blank" href="presentations_2017.php" target="_blank"><h6>DUM 2017 presentations</h6></a></center> -->
 
 
 <?php 
@@ -1556,7 +1556,7 @@ else
 			<h1><span class="k_greencolor">Password Protected Page</span> </h1>
 			<img src="images/kborder_bottom.png" alt="">
 			</div>
-			<form method="POST" action="https://dumindia.in/presentations2024.php" class="k_form">
+			<form method="POST" action="https://dumindia.in/presentations2024.php" class="k_form" style="text-align:center;">>
             
             Enter Password To Open Presentation <input type="password" name="pass"></input><br/><br/>
             <input type="submit" name="submit" value="Go"></input>

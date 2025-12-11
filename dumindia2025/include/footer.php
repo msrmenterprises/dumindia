@@ -28,22 +28,60 @@
 <div class="k_fixed_bro">
     <!--<a href="https://register.indiasmartgrid.org/" target="_blank"><img src="images/th.jpg" alt=""></a>
 	<a href="https://dumindia.virtualmnc.com/" target="_blank"><img src="images/live-streaming-button.png" alt=""></a>-->
-    <a href="http://dumindia.in/dumpdf/DUM-2024-brochure.pdf" target="_blank"><img src="images/brochure-download-icon.png" alt=""></a>
+    <a href="http://dumindia.in/images/2026/DUMBrochureLSV2.pdf" target="_blank"><img src="images/brochure-download-icon.png" alt=""></a>
 	  <!--<a href="" target="_blank"><img src="images/dum-button.jpg" alt="" style="height: 50px; width: 189px;"></a>-->
 </div> 
 <!-- download brochure -->
 
 
 <!-- social links -->
+ <style type="text/css">
+  .k_fixed_social {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 1000;
+  width:5px !important;
+}
+
+.k_fixed_social ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column; /* Arrange icons vertically */
+  gap: 10px; /* Add spacing between icons */
+}
+
+.k_fixed_social ul li {
+  display: block; /* Ensure each icon is on a new line */
+}
+
+.k_fixed_social ul li a img {
+  width: 40px; /* Set icon size */
+  height: 40px;
+  transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out; /* Smooth hover effect */
+}
+
+.k_fixed_social ul li a img:hover {
+  transform: scale(1.15); /* Slightly enlarge on hover */
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3); /* Add a subtle shadow */
+}
+
+.k_fixed_social ul li a {
+  display: inline-block;
+  text-decoration: none;
+}
+  </style>
  <div class="k_fixed_social k_icons_header social-width head-vin-icon-web">
           <ul>
-            <li class="f1"><a href="https://www.facebook.com/Distribution-Utility-Meet-DUM-1203351576478554/" target="_blank"><img src="images/fb.png"></a></li>
-            <li class="f1"><a href="https://www.linkedin.com/company/28480899/" target="_blank"><img src="images/LinkedIn22.png"></a></li>		
-		    <li><a href="https://twitter.com/DUM_India" target="_blank"><img src="images/tw.png"></a></li>
-				<!--<li><a href=""><img src="images/k_icon3.jpg"></a></li>
-        <li><a href=""><img src="images/k_icon4.jpg"></a></li>-->
-      </ul>
-    </div>
+            <li class="f1"><a href="https://www.facebook.com/Distribution-Utility-Meet-DUM-1203351576478554/" target="_blank"><img src="images/facebook_5968764.png"></a></li>
+            <li class="f1"><a href="https://www.linkedin.com/company/28480899/" target="_blank"><img src="images/social_15707753.png"></a></li>		
+            <li class="f1"><a href="https://twitter.com/DUM_India" target="_blank"><img src="images/twitter_5969020.png"></a></li>
+            <li class="f1"><a href="https://www.youtube.com/@INDIASMARTGRIDFORUM_" target="_blank"><img src="images/social_15707814.png"></a></li>
+            <li class="f1"><a href="https://www.instagram.com/indiasmartgridforum/" target="_blank"><img src="images/instagram_4138124.png"></a></li>
+        </ul>
+  </div>
 <!-- social links -->
 
 <!-- modal for location starts-->

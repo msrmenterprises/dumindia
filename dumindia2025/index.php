@@ -6,21 +6,21 @@
 
 <div class="row k_slider">
 
-	<h1>Distribution <br><span class="k_greencolor">Utility Meet</span></h1>
+	<!-- <h1>Distribution <br><span class="k_greencolor">Utility Meet</span></h1> -->
 
 	<br><br>
 
 
 
-	<ul>
+	<!-- <ul style="position: relative;top: 229px;">
 
 		<li><a href="images/invite.ics" class="k_green" style="cursor: pointer;" class="pull-left"><i class="fa fa-calendar" aria-hidden="true"></i>06 - 07 November 2025</a></li>
 
-		<!--<li><a data-toggle="modal" data-target="#myModal" class="pull-right" style="cursor: pointer;" ><i class="fa fa-map-marker" aria-hidden="true"></i>Bhubaneswar, Odisha </a></li>
+		<li><a data-toggle="modal" data-target="#myModal" class="pull-right" style="cursor: pointer;" ><i class="fa fa-map-marker" aria-hidden="true"></i>Bhubaneswar, Odisha </a></li>
 
-	    --><li><a data-toggle="modal" data-target="#" class="pull-right" style="cursor: pointer;" ><i class="fa fa-map-marker" aria-hidden="true"></i>Mumbai, Maharashtra, India </a></li>
+	    <li><a data-toggle="modal" data-target="#" class="pull-right" style="cursor: pointer;" ><i class="fa fa-map-marker" aria-hidden="true"></i>Mumbai, Maharashtra, India </a></li>
 
-	</ul>
+	</ul> -->
 
 </div>
 
@@ -40,6 +40,39 @@
 font-size: 12px;	
 
 }   
+
+.k_confirmed_als {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    justify-content: center; /* Center-align the items */
+    gap: 15px; /* Add spacing between items */
+}
+
+.k_confirmed_als li {
+    flex: 1 1 150px; /* Ensure items are responsive */
+    max-width: 200px; /* Set a maximum width for each item */
+    text-align: center;
+    margin: 10px;
+	width:100% !important
+}
+
+.k_confirmed_als li a {
+    display: block;
+    text-decoration: none;
+    color: inherit;
+}
+
+.k_confirmed_als li img {
+    max-height: 100px; /* Set a consistent height for all images */
+    max-width: 100%; /* Ensure images don't exceed their container width */
+    object-fit: contain; /* Maintain aspect ratio and fit within the container */
+    border: 1px solid #2c3a64 !important; /* Add a border for better visibility */
+    display: block;
+    margin: 0 auto 7px; /* Center the image and add spacing below */
+}
 
 <!-- Css fr Gold Sponsor 
  
@@ -74,7 +107,7 @@ font-size: 12px;
     width: auto;
     max-width: 100%;
     object-fit: contain;
-    border: 1px solid #aeb4b2 !important; 
+    border: 1px solid #2c3a64 !important; 
     display: block;
     margin: 0 auto 7px;
 }
@@ -94,7 +127,7 @@ font-size: 12px;
 
 	</div>
 
-	<p class="k_p" style="text-align:justify;"><strong>ISGF has the pleasure of inviting key stakeholders in the DISCOM domains to the 9th Edition of Distribution Utility Meet <a href="http://www.dumindia.in/">(DISTRIBUTION UTILITY MEET )</a> in Mumbai, Maharashtra, India on 06 to 07 November 2025 in partnership with Maharashtra State Electricity Distribution Company Limited and the Tata Power Company Limited. DUM 2025 will be supported by All India Discoms Association (AIDA). DUM 2025 will provide a unique platform for all the DISCOM community to share each other's experiences in dealing with efforts towards energy transition, grid modernization and digitalization on a fast track as we leapfrog towards a Net Zero power sector in India. In the post pandemic world, it is imperative that utilities do not make the same mistakes but learn from each other, and from global expertise/experiences. Experts from leading utilities from the USA, Europe, Japan, South Korea and Japan will be invited to participate in DUM 2025 and share their valuable experiences.
+	<p class="k_p" style="text-align:justify;"><strong>ISGF has the pleasure of inviting key stakeholders in the DISCOM domains to the 9th Edition of Distribution Utility Meet <a href="http://www.dumindia.in/">(DISTRIBUTION UTILITY MEET )</a> in Mumbai, Maharashtra, India on 04 - 05  November 2025 in partnership with Maharashtra State Electricity Distribution Company Limited and the Tata Power Company Limited. DUM 2025 will be supported by All India Discoms Association (AIDA). DUM 2025 will provide a unique platform for all the DISCOM community to share each other's experiences in dealing with efforts towards energy transition, grid modernization and digitalization on a fast track as we leapfrog towards a Net Zero power sector in India. In the post pandemic world, it is imperative that utilities do not make the same mistakes but learn from each other, and from global expertise/experiences. Experts from leading utilities from the USA, Europe, Japan, South Korea and Japan will be invited to participate in DUM 2025 and share their valuable experiences.
 
 		</strong></p>
 
@@ -107,7 +140,7 @@ font-size: 12px;
 		
 
 	</div>
-		<img src="images/2025/ProgramStructure.png" alt="Program Structure for Dum 2024" width="100%">
+		<img src="images/2026/ProgramStructurev2.jpg" alt="Program Structure for Dum 2024" width="100%">
 	<!--<img src="http://dumindia.in/DUM 2023 PROGRAM.png" width="780" height="295"></img>-->
 
 </div>
@@ -134,7 +167,7 @@ font-size: 12px;
 
 	</div>
 
-	<p class="k_p">DUM will include plenaries sessions. Invited International Utilities and Knowledge Partners will present on select topics. Case studies and project experiences will be discussed during DUM. Key challenges to Discoms will be compiled and circulated as session themes. Presentations and discussions will be around themes as mentioned in Agenda. For Utility participation please write to <a href="mailto:yashika@indiasmartgrid.org">yashika@indiasmartgrid.org</a></p>
+	<p class="k_p">DUM will include plenary sessions. Invited International Utilities and Knowledge Partners will present on select topics. Case studies and project experiences will be discussed during DUM. Key challenges to Discoms will be compiled and circulated as session themes. Presentations and discussions will be around themes as mentioned in Agenda. For Utility participation please write to <a href="mailto:yashika@indiasmartgrid.org">yashika@indiasmartgrid.org</a></p>
 
    <!-- 	<div class="col-sm-5 img-part"><img src="images/k_keythemes.jpg" alt=""></div> -->
 
@@ -166,13 +199,13 @@ font-size: 12px;
 
 	</div>
 
-	<p class="k_p">Traditionally participation in DUM has been by INVITATION ONLY. Utilities and select Technology Providers have the option to exhibit their products and solutions in the Exhibition Booths which will give a unique experience of interacting with visitors from around the globe and explaining about their offerings.</p>
+	<p class="k_p">Utilities and select Technology Providers have the option to exhibit their products and solutions in the Exhibition Booths which will give a unique experience of interacting with visitors from around the globe and explaining about their offerings.</p>
 
-	<p class="k_p">Exhibition Booths are available in two categories: (1) PLATINUM BOOTH and (2) GOLD BOOTH.<br/> For Special participation packages, list of features of the booth and other enquiry please write to <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid.org</a>
+	<p class="k_p">For Special participation packages, list of features of the booth and other enquiry please write to <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid.org</a>
 
-    <br/>For Delegate Participation and Registration, please write to us at <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid.org</a></p>
+    <br/>For Delegate Participation and Registration, please write to us at <a href="mailto:dum@indiasmartgrid.org">dum@indiasmartgrid.org</a></p>
 
-    <div class="k_cheading"><a href="https://register.indiasmartgrid.org/">
+    <div class="k_cheading"><a href="industry_participation.php">
 
 	<img src="images/Register_Now_Button.png" style="width:20%; text-align: center;"></a>
 
@@ -183,6 +216,58 @@ font-size: 12px;
 	
 
 </div>
+
+<div class="row k_container k_key_themes" style="background: #fff;">
+
+	<div class="k_cheading">
+
+		<h1>EXHIBITION BOOTH <span class="k_greencolor">AT DUM 2025</span> </h1>
+
+		<img src="images/kborder_bottom.png" alt="">
+
+	</div>
+
+	<p class="k_p">Utilities and select Technology Providers have the option to exhibit their products and solutions in the booths which will give a unique experience of interacting with visitors from around the globe and explaining about their offerings.</p>
+
+	<p class="k_p">Exhibition Booths are available in following options​:<br/>
+
+	<table border="1" style="width: 50%; border-collapse: collapse; text-align: center; margin: 0 auto;">
+    <thead>
+        <tr style="background-color: #f2f2f2;">
+            <th style="text-align:center">EXHIBITION BOOTH OPTIONS</th>
+            <th  style="text-align:center">EXHIBITION SPACE (SQM)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>PLATINUM</td>
+            <td>18 SQM</td>
+        </tr>
+        <tr>
+            <td>GOLD</td>
+            <td>9 SQM</td>
+        </tr>
+       
+        <tr>
+            <td>START-UP</td>
+            <td>Shared Space</td>
+        </tr>
+    </tbody>
+</table>
+</p>
+
+<p>For Special Participation Packages, list of Features of the Booths and other inquiries
+Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid.org</a></p>	
+
+ </p>
+
+	<!--<img src="images/DUMMY BOOTH DUM SCREENSHOT.PNG" alt="" style="border: 1px solid #aeb4b2; width:850px; height: 350px; text-align="center;">
+
+      <div class="col-sm-5 img-part"><img src="images/k_keythemes.jpg" alt=""></div> -->
+
+</div>
+
+
 
 <div class="row k_container" style="background: #fff;">
 
@@ -208,6 +293,46 @@ font-size: 12px;
 
 </div>
 
+<div class="row k_container" style="background: #fff;">
+
+	<div class="k_cheading">
+
+			<h1>DUM 2025<span class="k_greencolor"> Knowledge Partner </span> </h1>
+
+			<img src="images/kborder_bottom.png" alt="">
+
+	</div>
+
+	<br>
+
+			<ul class="k_confirmed_als">
+			<li><a href="https://www.powerfoundation.org.in/" target="_blank"><img src="images/2026/PowerFoundationofIndia.jpeg" style="height:120px;">Power Foundation of India</a></li>
+
+			</ul>
+
+</div>
+
+<div class="row k_container" style="background: #fff;">
+
+<div class="k_cheading">
+
+		<h1>DUM 2025<span class="k_greencolor"> Co-Host Utilities </span> </h1>
+
+		<img src="images/kborder_bottom.png" alt="">
+
+</div>
+
+<br>
+
+	    <ul class="k_confirmed_als">
+		<li><a href="https://www.bsesdelhi.com/web/brpl/home" target="_blank"><img src="images/utilities2019/bsess.png">BSES Rajdhani Power Limited</a></li>
+		<li><a href="https://www.bsesdelhi.com/web/bypl/home" target="_blank"><img src="images/utilities2019/bsess_yahh.png">BSES Yamuna Power Limited</a></li>
+		<li><a href="https://www.noidapower.com/" target="_blank"><img src="images/utilities2019/npcl.png">Noida power Company Limited</a></li>
+		<li><a href="https://www.adanielectricity.com/" target="_blank"><img src="images/2024/AdaniElectricity.png" style="height:155px;">Adani Electricity Mumbai Limited</a></li>	
+		</ul>
+
+</div>
+
 <div class="row k_container k_key_themes" style="background: #fff;">
 
 	<div class="k_cheading">
@@ -220,483 +345,226 @@ font-size: 12px;
 
 		<br>
 		<ul class="k_confirmed_als">
-		<li><a href="" target="_blank"><img src="/images/2025/AIDA.png" alt="" style="height: 135px;">All India Discoms Association (AIDA)</a></li>
+		<li><a href="" target="_blank"><img src="/images/2026/AIDANew.png" alt="" style="height: 135px;">All India Discoms Association (AIDA)</a></li>
 		<!--<li><a href="https://upneda.org.in/" target="_blank"><img src="/images/UP Department of Energy.png" alt="" style="height: 135px;">UP Department of Energy</a></li>
-		<li><a href="https://powermin.gov.in/" target="_blank"><img src="/images/MOP.png" style="width: 183px;">Ministry of Power</a></li>
+		
 		<li><a href="https://cea.nic.in/?lang=en" target="_blank"><img src="/images/CEA.jpg" style="width: 183px;">Electricity Authority</a></li>
 		<li><a href="https://www.niti.gov.in/" target="_blank"><img src="/images/NITI Aayog.png" style="height: 135px;">NITI Aayog</a></li> -->
 		<!--<li><a href="https://www.keralatourism.org/" target="_blank"><img src="/images/Kerala.png" style="height: 135px;">Kerala Tourism</a></li>-->
+		<li><a href='' target="_blank"><img src="images/2026/energydepartment.png">Energy Department of Maharashtra</a></li>
+		<li><a href="https://cea.nic.in/?lang=en" target="_blank"><img src="/images/2026/CEA.png" style="width: 183px;">Central Electricity Authority</a></li>
+		<li><a href="https://powermin.gov.in/" target="_blank"><img src="/images/MOP.png" >Ministry of Power</a></li>
+		<li><a href="https://www.niti.gov.in/" target="_blank"><img src="/images/NITI Aayog.png" style="height: 135px;">NITI Aayog</a></li>
 		</ul>
 	</div>	
 
-</div> 
+	
+	<div class="row k_container" style="background: #fff;">
 
-<div class="row k_container" style="background: #fff;">
+		<div class="k_cheading">
 
-	<div class="k_cheading">
+				<h1>DUM 2025<span class="k_greencolor"> KEY PARTNER </span> </h1>
 
-			<h1>DUM 2024<span class="k_greencolor"> Co Host Utilities </span> </h1>
+				<img src="images/kborder_bottom.png" alt="">
 
-			<img src="images/kborder_bottom.png" alt=""/>
+			</div>
+
+		<br>
+
+		<ul class="k_confirmed_als">
+
+					<h5><b>THEMATIC SESSION PARTNERS</b></h5>
+
+					<li><a href="https://www.enspar.com/" target="_blank"><img src="images/2026/Enspar.jpeg" style="height: 135px;">Enspar Energy Solutions Pvt. Ltd. </a></li>
+					<li><a href="https://www.impresa.ai/" target="_blank"><img src="images/2025/ImpressaFinal.png" style="height: 135px;">Impresa.ai </a></li>
+					
+					</ul> 
+
+		<br>	
+
+		<ul class="k_confirmed_als">
+
+					<h5><b>TECHNOLOGY INNOVATION PARTNERS</b></h5>
+
+					<li><a href="https://edx.com/" target="_blank"><img src="images/2026/EDXWireless.jpeg" style="height: 135px;">EDX Wireless </a></li>
+					<li><a href="https://apar.com/" target="_blank"><img src="/images/apar.png" style="border: 1px solid #aeb4b2; height:100px;">APAR Industries </a></li>
+					
+					<li><a href="https://kimbal.io/" target="_blank"><img src="/images/Kimbal.jpg" style="border: 1px solid #aeb4b2; height: 120px;">Kimbal </a></li>
+					<li><a href="https://www.wirepas.com/" target="_blank"><img src="/images/WIREPASS.png" style="border: 1px solid #aeb4b2; height:120px;">Wirepas</a></li>
+					<li><a href="https://aewinfra.com/" target="_blank"><img src="images/2024/allied.png" style="border: 1px solid #aeb4b2; height: 120px;">Allied Engineering Works Limited</a></li>
+					<li><a href="https://stelmec.com/" target="_blank"><img src="/images/2026/Stelmac.png" style="border: 1px solid #aeb4b2; height: 120px;">Stelmec</a></li>	
+					<!-- <li><a href="https://www.megger.com/en" target="_blank"><img src="/images/2025/Megger.jpeg" style="border: 1px solid #aeb4b2;">Megger India Pvt Ltd</a></li> -->
+					<li><a href="https://www.eaton.com/in/en-us.html" target="_blank"><img src="/images/2024/eaton.png" style="border: 1px solid #aeb4b2;">Eaton </a></li>
+					<li><a href="https://trilliant.com/" target="_blank"><img src="/images/2025/Trilliant.jpeg" style="border: 1px solid #aeb4b2;">Trilliant </a></li>
+					<li><a href="https://radius.co.in/" target="_blank"><img src="/images/2026/Radius.jpeg" style="border: 1px solid #aeb4b2; height:100px;">Radius Synergies International Private Limited</a></li>			
+					<li><a href="https://www.dnv.com/" target="_blank"><img src="/images/2026/DNV.png" style="border: 1px solid #aeb4b2;">DNV</a></li>
+					</ul> 
+
+		<br>
+
+	</div>	
+
+	<div class="row k_container" style="background: #fff;">
+
+		<div class="k_cheading">
+
+				<h1>DUM 2025<span class="k_greencolor"> Confirmed Exhibitor </span> </h1>
+
+				<img src="images/kborder_bottom.png" alt="">
 
 		</div>
 
 		<br>
-		<ul class="k_confirmed_als">
-		<li><a href="https://www.bsesdelhi.com/web/brpl" target="_blank"><img src="images/bsesllt.png" style="width:180px; height: 140px;">BSES Rajdhani Power Limited </a></li>
-		<li><a href="https://www.tatapower.com/" target="_blank"><img src="images/2024/tatapower.png" style="height: 135px;">Tata Power </a></li>
-		<li><a href="https://www.noidapower.com/" target="_blank"><img src="images/utilities2019/npcl.png" style="width:180px; height: 120px;">NPCL</a></li>
-		<li><a href="https://www.bsesdelhi.com/web/bypl" target="_blank"><img src="/images/bses.png" style="width:180px; height: 140px;">BSES Yamuna Power Limited</a></li>
-		<li><a href="https://www.cesc.co.in/home" target="_blank"><img src="images/2024/CESC_Logo.svg.png" style="height: 135px;">CESC Limited</a></li>		
-		</ul>
 
-	</div>
-</div>
+				<ul class="k_confirmed_als">
+				<h5><b>Platinum Exhibitors</b></h5>
+				<li><a href="https://www.mahadiscom.in/en/home/" target="_blank"><img src="images/2026/MSEDCL.jpeg" style="height:120px;">Maharashtra State Electricity Distribution Company Limited</a></li>
+				<li><a href="https://www.tatapower.com/" target="_blank"><img src="images/2026/tatapower.png" style="height:135px;">Tata Power</a></li>
+				<li><a href="https://www.powerfoundation.org.in/" target="_blank"><img src="images/2026/PowerFoundationofIndia.jpeg" style="height:120px;">Power Foundation of India</a></li>
+				<li><a href="https://indiasmartgrid.org/" target="_blank"><img src="images/2026/ISGF.png" style="height:120px;">ISGF</a></li>
+				<li><a href="https://eppeltone.in/" target="_blank"><img src="images/2026/Eppeltone.jpg" style="height:120px;">Eppeltone Engineers Limited</a></li>
+				<li><a href="https://bentecindia.com/" target="_blank"><img src="images/2026/Bentecv1.png" style="border: 1px solid #aeb4b2; height: 120px;">Bentec</a></li>
+				<li><a href="https://www.tauruspowertronics.com/" target="_blank"><img src="/images/Exhibitors/TAURUS LOGO.jpg" alt="Tauras Power Tronics">Tauras Power Tronics</a></li>
 
-
-<div class="row k_container" style="background: #fff;">
-
-<div class="k_cheading">
-
-		<h1>DUM 2024<span class="k_greencolor"> Key Partners </span> </h1>
-
-		<img src="images/kborder_bottom.png" alt="">
-
-	</div>
-	
-<br>
-
-<ul class="k_confirmed_als">
-
-			<h5><b>Powered by Partner</b></h5>
-
-			<li><a href="https://www.insolutions.in/" target="_blank"><img src="/images/2024/inventive_logo.png" style="height: 135px;">Inventive Software Solutions Private Limited </a></li>
-			
-			</ul> 
-
-<br>
-
-<!--<ul class="k_confirmed_als">
-
-			<h5><b>Knowledge Partners</b></h5>
-
-			<li><a href="https://www.giz.de/en/html/index.html" target="_blank"><img src="/images/Giz & German Cooperation.jpg" style="height: 135px;">GIZ GmbH, Germany</a></li>
-			<li><a href="https://www.epri.com/" target="_blank"><img src="images/epri.jpg" alt="" style="height: 100px;">EPRI, USA</a></li>
-			
-
-			</ul>  -->
-			
-			<br/>
+				<h5><b>Gold Exhibitors</b></h5>
+				<li><a href="https://apar.com/" target="_blank"><img src="/images/apar.png" style="border: 1px solid #aeb4b2; height:100px;">APAR Industries </a></li>
+				<!-- Added Gold Exhibitors -->
+				<li><a href="https://www.securemeters.com/" target="_blank"><img src="images/2024/secure.png" style="border: 1px solid #aeb4b2; height:120px;">Secure Meters</a></li>
+				<li><a href="https://teslatransformersindia.com/" target="_blank"><img src="images/2026/tesla-transformers.png" style="border: 1px solid #aeb4b2; height:120px;">Tesla Transformers</a></li>
+				<li><a href="https://www.ncc.co.in/" target="_blank"><img src="images/2026/ncc.png" style="border: 1px solid #aeb4b2; height:120px;">NCC Ltd</a></li>
+				<li><a href="https://edx.com/" target="_blank"><img src="images/2026/EDXWireless.jpeg" style="height:135px;">EDX Wireless </a></li>
+				<li><a href="https://kimbal.io/" target="_blank"><img src="/images/Kimbal.jpg" style="border: 1px solid #aeb4b2; height: 120px;">Kimbal </a></li>
+				<li><a href="https://genuspower.com/" target="_blank"><img src="http://dumindia.in/images/Exhibitors/2019/genus.png">GENUS Power Infrastructures Limited</a></li>
+				<li><a href="https://www.enspar.com/" target="_blank"><img src="images/2026/Enspar.jpeg">Enspar Energy Solutions Pvt. Ltd.</a></li>
+				<li><a href="https://aewinfra.com/" target="_blank"><img src="images/2024/allied.png" style="border: 1px solid #aeb4b2; height: 120px;">Allied Engineering Works Limited</a></li>
+				<li><a href="https://stelmec.com/" target="_blank"><img src="/images/stelmac.png" style="border: 1px solid #aeb4b2; height: 120px;">Stelmec</a></li>
 				
-		
-					<ul class="k_confirmed_als">
-					<h5><b>Lunch Reception Partner</b></h5>
-					<li><a href="https://lteindia.in/" target="_blank"><img src="/images/2024/lakshmi.png" style="border: 1px solid #aeb4b2; height:100px;">Lakshmi Transformer & Electricals </a></li>		
-					</ul>
-			
-			<br/>
+				<li><a href="https://www.eaton.com/in/en-us.html" target="_blank"><img src="/images/2024/eaton.png" style="border: 1px solid #aeb4b2;">Eaton </a></li>
+				
+				<li><a href="https://www.phoenixcontact.com/en-in/" target="_blank"><img src="/images/Logo - Phoenix Contact.jpg" style="height:100px;">Phoenix Contact</a></li>
+				<li><a href="https://brodersen.com/" target="_blank"><img src="/images/2025/Brodersen.jpeg" style="height:100px;">Brodersen Systems Pvt. Ltd.</a></li>
+				<li><a href="http://www.probus.io/" target="_blank"><img src="/images/Exhibitors/2019/probus.png" style="border: 1px solid #aeb4b2;">Probus</a></li>
+				<li><a href="https://radius.co.in/" target="_blank"><img src="/images/2026/Radius.jpeg" style="border: 1px solid #aeb4b2; height:100px;">Radius Synergies International Private Limited</a></li>
+				<li><a href="https://www.tekuncorked.com/" target="_blank"><img src="/images/2026/Tekuncorked.jpeg" style="border: 1px solid #aeb4b2;">Tekuncorked</a></li>
+				<li><a href="http://www.rmcindia.in/index.php" target="_blank"><img src="/images/2026/rmc.png" style="border: 1px solid #aeb4b2;">RMC India</a></li>
+				<li><a href="https://www.mahaurja.maharashtra.gov.in" target="_blank"><img src="/images/2026/MEDA.jpeg" style="border: 1px solid #aeb4b2;">Maharashtra Energy Development Agency</a></li>
+				<li><a href="https://www.trustgroup.in/" target="_blank"><img src="/images/2026/Trustgroup.png" style="border: 1px solid #aeb4b2;">Trust Group</a></li>
+				
+				<li><a href="https://smsystems.co.in/" target="_blank"><img src="/images/2026/SMSystems.jpg" style="border: 1px solid #aeb4b2; height: 120px;">SM Systems</a></li>
+				<li><a href="https://madhavengineers.com/" target="_blank"><img src="/images/2026/MADHAVLOGO_002.jpg" style="border: 1px solid #aeb4b2; height: 120px;" alt="Madhav Engineers Pvt. Ltd.">Madhav Engineers Pvt. Ltd.</a></li>
+				<li><a href="https://www.successengineers.co.in/" target="_blank"><img src="/images/2026/SuccessEngineer.jpeg" style="border: 1px solid #aeb4b2; height: 120px;" alt="Success Engineers">Success Engineers</a></li>
+				<li><a href="https://www.hplindia.com/" target="_blank"><img src="/images/HPL Electric & Power Limited Logo.png" style="border: 1px solid #aeb4b2; height:123px;">HPL Electric & Power Limited </a></li>
+				<li><a href="https://pluto-men.com/" target="_blank"><img src="images/2026/Plutomen.png" style="height:155px;">Plutomen</a></li>	
+				<li><a href="https://www.adanielectricity.com/" target="_blank"><img src="images/2024/AdaniElectricity.png" style="height:155px;">Adani Electricity Mumbai Limited</a></li>
+				<li><a href="https://younityenergy.com/" target="_blank"><img src="images/2026/Younity.png" style="height:155px;">Younity Energy Pvt Ltd </a></li>
+				<li><a href="https://www.crigroups.com/" target="_blank"><img src="images/2026/CRI.png" style="height:155px;">CRI Pumps Pvt Ltd</a></li>	
 
-	        <ul class="k_confirmed_als">
-
-			<h5><b>THEMATIC SESSION PARTNERS</b></h5>
-
-			<li><a href="https://www.polarisgrids.com/" target="_blank"><img src="images/2024/Polaris-logo.svg" style="border: 1px solid #aeb4b2; height: 120px;">Polaris Smart Metering</a></li>
-			<li><a href="https://ltptd-des.com/" target="_blank"><img src="/images/LT.png" style="border: 1px solid #aeb4b2; height:120px;">L&T Digital Energy Solutions - Power, Transmission and Distribution</a></li>
-
-			</ul> 
-
-			<br/>				
-
-			<ul class="k_confirmed_als">
-
-			<h5><b>TECHNOLOGY INNOVATION PARTNERS</b></h5>
-			<li><a href="https://trilliant.com/" target="_blank"><img src="/images/Exhibitors/2019/Trilliant.png" style="border: 1px solid #aeb4b2;">Trilliant Networks, Inc. </a></li>
-			<li><a href="https://havells.com/" target="_blank"><img src="images/2024/havells.png" style="border: 1px solid #aeb4b2; height: 120px;">Havells India Pvt Ltd</a></li>
-			<li><a href="https://www.phoenixcontact.com/en-in/" target="_blank"><img src="/images/Logo - Phoenix Contact.jpg" style="height:100px;">Phoenix Contact</a></li>
-			<!--<li><a href="https://apar.com/" target="_blank"><img src="/images/apar.png" style="border: 1px solid #aeb4b2; height:100px;">APAR Industries </a></li>
-			<li><a href="https://www.se.com/in/en/" target="_blank"><img src="/images/Exhibitors/2019/schneider.png" style="border: 1px solid #aeb4b2; height:120px;">Schneider Electric </a></li> -->			
-			<li><a href="https://stelmec.com/" target="_blank"><img src="/images/stelmac.png" style="border: 1px solid #aeb4b2; height: 120px;">Stelmec</a></li>				
-			<li><a href="https://kimbal.io/" target="_blank"><img src="/images/Kimbal.jpg" style="border: 1px solid #aeb4b2; height: 120px;">Kimbal </a></li>
-			<li><a href="https://www.dnv.com/" target="_blank"><img src="/images/DNV.jpg" style="border: 1px solid #aeb4b2;">DNV </a></li>			
-			<li><a href="https://www.thesaicomputers.com/" target="_blank"><img src="/images/SaiComputers.png" style="border: 1px solid #aeb4b2; height: 120px;">Sai Computers </a></li>
-			<li><a href="https://www.eaton.com/in/en-us.html" target="_blank"><img src="/images/2024/eaton.png" style="border: 1px solid #aeb4b2;">Eaton </a></li>
-			<li><a href="https://aewinfra.com/" target="_blank"><img src="images/2024/allied.png" style="border: 1px solid #aeb4b2; height: 120px;">Allied Engineerings</a></li>			
-			<!--<li><a href="https://www.polarisgrids.com/" target="_blank"><img src="images/2024/Polaris-logo.svg" style="border: 1px solid #aeb4b2; height: 120px;">Polaris Grids</a></li>-->
-			</ul> 	
-			
-			
-			<br/>
-					<ul class="k_confirmed_als">
-					<h5><b>Bronze Partners</b></h5>
-					<li><a href="#" target="_blank"><img src="/images/2024/modern.png" style="border: 1px solid #aeb4b2; height:100px;">Modern Transformer Pvt Ltd </a></li>	
-					<li><a href="https://radius.co.in/" target="_blank"><img src="/images/2024/radius.png" style="border: 1px solid #aeb4b2; height:100px;">Radius Synergies International Private Limited</a></li>					
-					</ul>
-			
-			
-
-</div>
-
-<!--<div class="row k_container" style="background: #fff;">
-
-<div class="k_cheading">
-
-		<h1>DUM 2023<span class="k_greencolor"> Host Utility </span> </h1>
-
-		<img src="images/kborder_bottom.png" alt="">
+				</ul>
 
 	</div>
 
-<br>
+</div> 
 
-	    <ul class="k_confirmed_als">
 
-        <li><a href="https://www.kseb.in/index.php?lang=en" target="_blank"><img src="/images/KSEB_Logo_2022.png" style="height: 135px;">KSEB </a></li></ul>
-
-</div>-->
-
-<div class="row k_container" style="background: #fff;"> 
-
-<div class="k_cheading">
-
-		<h1>DUM 2024<span class="k_greencolor"> KNOWLEDGE PARTNERS  </span> </h1>
-
-		<img src="images/kborder_bottom.png" alt="">
-
-	</div>
-
-	<br>
-
-	<ul class="k_confirmed_als"> 
-
-	<li><a href="https://www.giz.de/en/html/index.html" target="_blank"><img src="/images/Giz & German Cooperation.jpg" style="height: 135px;">GIZ GmbH, Germany</a></li>
-	<li><a href="https://www.epri.com/" target="_blank"><img src="images/epri.jpg" alt="" style="height: 135px;">EPRI, USA</a></li>
-	<li><a href="https://www.nrel.gov/index.html" target="_blank"><img src="images/NREL.jpg" alt="" style="height: 135px;">NREL, USA</a></li>
-	</ul>
-
-</div>
-
-
-<div class="row k_container" style="background: #fff;"> 
-
-<div class="k_cheading">
-
-		<h1>DUM 2024<span class="k_greencolor"> Exhibitors  </span> </h1>
-
-		<img src="images/kborder_bottom.png" alt="">
-
-	</div>
-
-<br>
-
-			<ul class="k_confirmed_als">
-			<h5><b>Platinum Exhibitors</b></h5>
-			<li><a href="https://havells.com/" target="_blank"><img src="images/2024/havells.png" style="border: 1px solid #aeb4b2; height: 120px;">Havells India Pvt Ltd</a></li>
-			<li><a href="https://www.3mindia.in/3M/en_IN/company-in/" target="_blank"><img src="images/2024/sm.png" style="border: 1px solid #aeb4b2; height: 120px;">SM Systems</a></li>
-			<li><a href="https://www.tatapower.com/" target="_blank"><img src="/images/tatapower.png" style="border: 1px solid #aeb4b2; height: 120px;">TATA Power</a></li>
-			<li><a href="https://www.polarisgrids.com/" target="_blank"><img src="images/2024/Polaris-logo.svg" style="border: 1px solid #aeb4b2; height: 120px;">Polaris Grids</a></li>
-			<li><a href="https://www.insolutions.in/" target="_blank"><img src="/images/2024/inventive_logo.png" style="height: 135px;">Inventive Software Solutions Private Limited </a></li>
-			</ul> 
-			<br/>
-			<ul class="k_confirmed_als">
-			<h5><b>Gold Exhibitors</b></h5>
-			<li><a href="https://www.phoenixcontact.com/en-in/" target="_blank"><img src="/images/Logo - Phoenix Contact.jpg" style="height:100px;">Phoenix Contact</a></li>
-			<li><a href="https://apar.com/" target="_blank"><img src="/images/apar.png" style="border: 1px solid #aeb4b2; height:100px;">APAR Industries </a></li>
-			<li><a href="https://stelmec.com/" target="_blank"><img src="/images/stelmac.png" style="border: 1px solid #aeb4b2; height: 120px;">Stelmec</a></li>
-			<li><a href="https://kimbal.io/" target="_blank"><img src="/images/Kimbal.jpg" style="border: 1px solid #aeb4b2; height: 120px;">Kimbal </a></li>	
-			<li><a href="https://www.thesaicomputers.com/" target="_blank"><img src="/images/SaiComputers.png" style="border: 1px solid #aeb4b2; height: 120px;">Sai Computers </a></li>
-			<li><a href="https://aewinfra.com/" target="_blank"><img src="images/2024/allied.png" style="border: 1px solid #aeb4b2; height: 120px;">Allied Engineerings</a></li>
-			<li><a href="https://www.securemeters.com/" target="_blank"><img src="images/2024/secure.png" style="border: 1px solid #aeb4b2; height: 120px;">Secure Meters</a></li>
-			<li><a href="https://bentecindia.com/" target="_blank"><img src="images/2026/Bentecv1.png" style="border: 1px solid #aeb4b2; height: 120px;">Bentec</a></li>
-			<li><a href="https://www.compaqinternational.com/" target="_blank"><img src="/images/Compaq.jpg" style="border: 1px solid #aeb4b2; height:123px;">Compaq International</a></li>
-			<li><a href="https://www.tauruspowertronics.com/" target="_blank"><img src="/images/Exhibitors/TAURUS LOGO.jpg" alt="Tauras Power Tronics">Tauras Power Tronics</a></li>
-			<!--<li><a href="https://blockcube.co/" target="_blank"><img src="/images/2024/block.png" alt="Tauras Power Tronics">Block Cube</a></li> -->
-			<li><a href="https://www.powerxchange.io/" target="_blank"><img src="/images/2024/powrChange.jpeg" alt="Tauras Power Tronics">Power Xchange</a></li>
-			<li><a href="https://www.noidapower.com/" target="_blank"><img src="images/utilities2019/npcl.png">Noida Power Company Ltd.</a></li>
-			<li><a href="https://genuspower.com/" target="_blank"><img src="http://dumindia.in/images/Exhibitors/2019/genus.png">GENUS Power Infrastructures Limited</a></li>
-			<li><a href="https://radius.co.in/" target="_blank"><img src="/images/2024/radius.png" style="border: 1px solid #aeb4b2; height:100px;">Radius Synergies International Private Limited</a></li>
-			<li><a href="https://www.intellismartinfra.in/" target="_blank"><img src="/images/2024/intelli_padded.png" style="border: 1px solid #aeb4b2;">IntelliSmart</a></li>
-			<li><a href="https://www.eaton.com/in/en-us.html" target="_blank"><img src="/images/2024/eaton.png" style="border: 1px solid #aeb4b2;">Eaton </a></li>
-			</ul>
-
-</div>
-
-<!--<div class="row k_container" style="background: #fff;">
-
-<div class="k_cheading">
-
-		<h1>DUM 2023<span class="k_greencolor"> Co-Host Utilities </span> </h1>
-
-		<img src="images/kborder_bottom.png" alt="">
-
-	</div>
-
-<br>
-
-	    <ul class="k_confirmed_als">
-
-            <li><a href="https://www.bsesdelhi.com/web/brpl" target="_blank"><img src="images/bsesllt.png" style="width:180px; height: 140px;"></a></li>
-
-			<li><a href="https://www.bsesdelhi.com/web/bypl" target="_blank"><img src="/images/bses.png" style="width:180px; height: 140px;"></a></li>
-
-		    <li><a href="https://www.tpnodl.com/" target="_blank"><img src="images/TPNODL.jpg" style="height: 140px;"></a></li>
-
-			<li><a href="https://www.tpsouthernodisha.com/" target="_blank"><img src="images/TPSODL.jpg" style="height: 140px;"></a></li>
-
-			<li><a href="https://www.tpcentralodisha.com/" target="_blank"><img src="images/TPCODL.jpg" style="height: 140px;"></a></li>
-
-			<li><a href="https://www.tpwesternodisha.com/" target="_blank"><img src="images/TPWODL.jpg" style="height: 140px;"></a></li>
-
-			<li><a href="https://www.cesc.co.in/" target="_blank"><img src="/images/CESC_cohost.jpg" alt="" style="width:180px; height: 120px;"></a></li>
-
-		    <li><a href="https://www.tatapower.com/" target="_blank"><img src="/images/tatapower.png" alt=""  style="height: 120px;"></a></li>  
-
-			<li><a href="https://www.tatapower-ddl.com/" target="_blank"><img src="images/utilities2019/tatapowerdlll.png" style="height: 120px;"></a></li>
-
-			<li><a href="https://www.noidapower.com/" target="_blank"><img src="images/utilities2019/npcl.png" style="width:180px; height: 120px;"></a></li>
-
-		   
-
-			   </ul>
-
-</div> -->
-
-<!-- <div class="row k_container" style="background: #fff;">
-
-<div class="k_cheading">
-
-		<h1>DUM 2023<span class="k_greencolor"> Key Partners </span> </h1>
-
-		<img src="images/kborder_bottom.png" alt="">
-
-	</div>
-
-<br>
-
-<ul class="k_confirmed_als">
-
-			<h5><b>POWERED BY PARTNER</b></h5>
-
-			<li><a href="https://aws.amazon.com/?nc2=h_lg" target="_blank"><img src="/images/AWS_logo_RGB.png" style="border: 1px solid #aeb4b2; height:133px;">Amazon Web Services</a></li>
-
-			</ul> 
-
-			<br/>
-
-	        <ul class="k_confirmed_als">
-
-			<h5><b>THEMATIC SESSION PARTNERS</b></h5>
-
-			<li><a href="https://www.rti.org/" target="_blank"><img src="/images/rti.jpg" style="height:120px;">RTI INTERNATIONAL</a></li>
-
-			<li><a href="https://www.wirepas.com/" target="_blank"><img src="/images/WIREPASS.png" style="border: 1px solid #aeb4b2; height:120px;">Wirepas</a></li>
-
-			<li><a href="https://www.lntecc.com/we-are/our-businesses/power-transmission-distribution/" target="_blank"><img src="/images/LT.png" style="border: 1px solid #aeb4b2; height:120px;">L&T </a></li>
-
-			</ul> 
-
-			<br/>
-
-			  <ul class="k_confirmed_als">
-
-			<h5><b>TECHNOLOGY INNOVATION PARTNERS</b></h5>
-
-			<li><a href="https://www.phoenixcontact.com/en-in/" target="_blank"><img src="/images/Logo - Phoenix Contact.jpg" style="height:100px;">Phoenix Contact</a></li>
-
-			<li><a href="https://apar.com/" target="_blank"><img src="/images/apar.png" style="border: 1px solid #aeb4b2; height:100px;">APAR Industries </a></li>
-
-			<li><a href="https://www.se.com/in/en/" target="_blank"><img src="/images/Exhibitors/2019/schneider.png" style="border: 1px solid #aeb4b2; height:120px;">Schneider Electric </a></li>
-
-			<li><a href="https://trilliant.com/" target="_blank"><img src="/images/Exhibitors/2019/Trilliant.png" style="border: 1px solid #aeb4b2;">Trilliant Networks, Inc. </a></li>
-
-			<li><a href="https://www.dnv.com/" target="_blank"><img src="/images/DNV.jpg" style="border: 1px solid #aeb4b2;">DNV </a></li>
-
-			
-
-			</ul> 
-
-			
-
-</div>-->
-
-<!--<div class="row k_container" style="background: #fff;"> 
-
-<div class="k_cheading">
-
-		<h1>DUM 2023<span class="k_greencolor"> KNOWLEDGE PARTNERS  </span> </h1>
-
-		<img src="images/kborder_bottom.png" alt="">
-
-	</div>
-
-<br>
-
-	    <ul class="k_confirmed_als"> 
-
-		<li><a href="https://www.giz.de/en/html/index.html" target="_blank"><img src="/images/Giz & German Cooperation.jpg" style="height: 135px;">GIZ GmbH, Germany</a></li>
-
-		<li><a href="https://www.nrel.gov/index.html" target="_blank"><img src="images/NREL.jpg" alt="" style="height: 135px;">NREL, USA</a></li>
-
-		<li><a href="https://www.cdri.world/" target="_blank"><img src="images/CDRI.png" alt="" style="height: 135px;">CDRI</a></li>
-
-		<li><a href="https://www.epri.com/" target="_blank"><img src="images/epri.jpg" alt="" style="height: 135px;">EPRI, USA</a></li>
-
-		</ul>
-
-</div>		-->	
-
-<div class="row k_container k_key_themes" style="background: #fff;">
-
-	<div class="k_cheading">
-
-		<h1>EXHIBITION BOOTH <span class="k_greencolor">AT DUM 2024</span> </h1>
-
-		<img src="images/kborder_bottom.png" alt="">
-
-	</div>
-
-	<p class="k_p">Utilities and select Technology Providers have the option to exhibit their products and solutions in the Booths which will give a unique experience of interacting with visitors from around the globe and explaining about their offerings.</p>
-
-	<p class="k_p">Exhibition Booth is available in PLATINUM and GOLD categories.For Special Participation Packages, list of Features of the Booths and other inquiries<br/>
-
-Please contact : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid.org</a></p>	
-
- </p>
-
-	<!--<img src="images/DUMMY BOOTH DUM SCREENSHOT.PNG" alt="" style="border: 1px solid #aeb4b2; width:850px; height: 350px; text-align="center;">
-
-      <div class="col-sm-5 img-part"><img src="images/k_keythemes.jpg" alt=""></div> -->
-
-</div>
-
-<!--<div class="row k_container" style="background: #fff;">
-
-	<div class="k_cheading">
-
-		<h1>DUM 2023 CONFIRMED <span class="k_greencolor">EXHIBITORS  </span> </h1>
-
-		<img src="images/kborder_bottom.png" alt="">
-
-	</div>
-
-	<p>
-	
-
-	<br/>
-
-	<ul class="k_confirmed_als">
-
-			 <h5 style="font-size:20px;"><b>PLATINUM EXHIBITORS</b></h5>
-
-			 <li><a href="https://aws.amazon.com/?nc2=h_lg" target="_blank"><img src="/images/AWS_logo_RGB.png" style="border: 1px solid #aeb4b2; height:120px;">Amazon Web Services</a></li>
-
-			 <li><a href="https://www.kseb.in/index.php?lang=en" target="_blank"><img src="images/KSEB_Logo_2022-new.jpg" style="border: 1px solid #aeb4b2; height: 120px;">Kerala State Electricity Board</a></li>
-
-			 <li><a href="https://indiasmartgrid.org/" target="_blank"><img src="/images/ISGF.jpg" style="border: 1px solid #aeb4b2; height:120px;" >ISGF</a></li>
-
-			  <li><a href="https://www.tatapower.com/" target="_blank"><img src="/images/tatapower.png" style="border: 1px solid #aeb4b2; height: 120px;">TATA Power</a></li>
-
-			  <li><a href="https://kimbal.io/" target="_blank"><img src="/images/Kimbal.jpg" style="border: 1px solid #aeb4b2; height: 120px;">Kimbal </a></li>			
-
-			</UL>
-
-		<br>			
-
-		
-
-<ul class="k_confirmed_als">
-
-			 <h5 style="font-size:20px;"><b>GOLD EXHIBITORS</b></h5>
-
-			 <li><a href="https://www.wirepas.com/" target="_blank"><img src="/images/WIREPASS.png" style="border: 1px solid #aeb4b2; height:100px;">Wirepas</a></li>
-
-			 <li><a href="https://www.visiontek.co.in/contact.html" target="_blank"><img src="/images/VISIONTEK.jpg" style="border: 1px solid #aeb4b2; height:100px;">Linkwell Telesystems Pvt Ltd</a></li>
-
-			 <li><a href="https://www.phoenixcontact.com/en-in/" target="_blank"><img src="/images/Logo - Phoenix Contact.jpg" style="border: 1px solid #aeb4b2; height:100px;">Phoenix Contact</a></li>
-
-             <li><a href="https://apar.com/" target="_blank"><img src="/images/apar.png" style="border: 1px solid #aeb4b2; height:100px;">APAR Industries </a></li>
-
-			 <li><a href="https://atandra.in/" target="_blank"><img src="images/Atandra.jpg" style="border: 1px solid #aeb4b2; height:100px;">Atandra Energy Private Limited</a></li>
-
-			 <li><a href="https://www.se.com/in/en/" target="_blank"><img src="/images/Exhibitors/2019/schneider.png" style="border: 1px solid #aeb4b2; height:120px;">Schneider Electric </a></li> 
-
-		     <li><a href="https://www.tekuncorked.com/" target="_blank"><img src="/images/Exhibitors/teku.png" style="border: 1px solid #aeb4b2; height:120px;">Tekuncorked </a></li> 
-
-		     <li><a href="https://www.opal-rt.com/" target="_blank"><img src="/images/Exhibitors/2019/Logo_OPAL-RT_Horizontal_Color (1).png" style="border: 1px solid #aeb4b2; height:120px;">OPAL RT </a></li>
-
-			 
-
-             <li><a href="https://kel.co.in/" target="_blank"><img src="/images/Exhibitors/17. KEL.png" style="border: 1px solid #aeb4b2; height:120px;">KEL </a></li>
-
-			<li><a href="https://labour.delhi.gov.in/labour/electrical-inspectorate" target="_blank"><img src="/images/Exhibitors/15 ELECTRICAL INSPECTORATE.jpg" style="border: 1px solid #aeb4b2; height:120px;">ELECTRICAL INSPECTORATE </a></li>
-
-			<li><a href="https://mvd.kerala.gov.in/" target="_blank"><img src="/images/Exhibitors/22. MVD.png" style="border: 1px solid #aeb4b2; height:120px;">MVD </a></li>
-
-			<li><a href="https://anert.gov.in/" target="_blank"><img src="/images/Exhibitors/13 &amp; 14 ANERT-logo.jpg" style="border: 1px solid #aeb4b2; height:120px;">ANERT </a></li>
-
-			<li><a href="https://www.keralaenergy.gov.in/" target="_blank"><img src="/images/Exhibitors/16. ENERGY MANAGEMENT CENTER.jpg" style="border: 1px solid #aeb4b2; height:120px;">ENERGY MANAGEMENT CENTER </a></li>
-
-			<li><a href="https://www.tauruspowertronics.com/" target="_blank"><img src="/images/Exhibitors/TAURUS LOGO.jpg" style="border: 1px solid #aeb4b2; height:120px;">Tauras Power Tronics</a></li>
-
-			<li><a href="https://inkel.in/" target="_blank"><img src="/images/Exhibitors/inkel.jpg" style="border: 1px solid #aeb4b2; height:120px;">Inkel</a></li>
-			
-					 
-
-			</ul>
-
-		</p>
-
-		</div>
--->
-
-
-<!--key themes ends here-->
-
-
-
-<!-- participants starts here -->
 <!-- participants starts here -->
 <div class="row k_parti">
 <div class="k_cheading k_white_haeding">
+		<h1>CONFIRMED UTILITIES  <span class="k_greencolor">OF DUM 2025</span> </h1>
+		<img src="images/kborder_bottomg.png" alt="">
+	</div>
+	<ul class="k_confirmed_als">
+		<li><a href="https://www.tatapower.com/" target="_blank"><img src="/images/tatapower.png" alt="" style="height: 120px;">The Tata Power Company Limited</a></li>
+		<li><a href="https://www.mahadiscom.in/en/home/" target="_blank"><img src="images/MSEDCL_logo.jpg" style="height:120px;">Maharashtra State Electricity Distribution Co. Ltd </a></li>
+		<li><a href="https://www.bsesdelhi.com/web/bypl" target="_blank"><img src="/images/bses.png" style="border: 2px solid #aeb4b2; height: 120px;">BSES Yamuna Power Limited</a></li>
+		<li><a href="https://www.bsesdelhi.com/web/brpl" target="_blank"><img src="images/bsesllt.png" style="height: 120px;">BSES Rajdhani Power Limited</a></li>
+		<li><a href="http://www.mvvnl.in/" target="_blank"><img src="images/2026/MVVNL.png" alt="Madhyanchal Vidyut Vitaran Nigam Ltd" style="height:120px;">Madhyanchal Vidyut Vitaran Nigam Ltd. (MVVNL)</a></li>
+		<li><a href="https://pvvnl.org/" target="_blank"><img src="images/2026/Pashchimanchal.png" alt="Pashchimanchal Vidyut Vitran Nigam Limited" style="height:120px;">Pashchimanchal Vidyut Vitran Nigam Limited</a></li>
+		<li><a href="https://www.pgvcl.com/" target="_blank"><img src="images/2026/PGVCL.png" alt="Paschim Gujarat Vij Company Limited" style="height:120px;">Paschim Gujarat Vij Company Limited</a></li>
+		<li><a href="https://tgsouthernpower.org/" target="_blank"><img src="images/2026/TGSPDCL.png" alt="Southern Power Distribution Company of Telangana Limited" style="height:120px;">Southern Power Distribution Company of Telangana Limited (TGSPDCL)</a></li>
+		<li><a href="https://www.cesc.co.in/home" target="_blank"><img src="/images/CESC_cohost.jpg" style="height: 100px;">CESC Limited</a></li>
+		<li><a href="https://uppcl.org/uppcl/hi/" target="_blank"><img src="images/2024/uppcl1.png" style="height:155px;"> Uttar Pradesh Power Corporation Limited</a></li> 
+		<li><a href="" target="_blank"><img src="images/utilities2019/nb.png">North Bihar Power Distribution Company Limited</a></li>
+		<li><a href="" target="_blank"><img src="images/2026/SBPDCL.png">South Bihar Power Distribution Company Limited</a></li>
+		<li><a href="https://www.upcl.org/" target="_blank"><img src="images/Uttarakhand Power Corporation Limited logo.jpg" style="height:155px;">Uttarakhand Power Corporation Limited </a></li>
+		<li><a href="https://www.wbsedcl.in/irj/go/km/docs/internet/new_website/Home.html" target="_blank"><img src="images/2024/wbsedcl.png" style="height:155px;">West Bengal State Electricity Distribution Company Limited</a></li>
+		<li><a href="https://www.mgvcl.com/" target="_blank"><img src="images/2024/mgvcl.png" style="height:102px;">Madhya Gujarat Vij Company Limited</a></li>
+		<li><a href="https://www.noidapower.com/" target="_blank"><img src="images/utilities2019/npcl.png" style="height: 120px;">Noida power Company Limited</a></li>
+		<li><a href="https://www.tpcentralodisha.com/" target="_blank"><img src="images/2026/TPCODL.png" style="height:155px;">TP Central Odisha Distribution Limited</a></li>
+		<li><a href="https://www.apeasternpower.com/" target="_blank"><img src="images/Eastern Power Distribution Company of Andhra Pradesh Limited.jpg" style="height:155px;">Eastern Power Distribution Company Of Andhra Pradesh Limited</a></li>
+		<li><a href="https://www.tpnodl.com/" target="_blank"><img src="images/2026/TPNODL.png" style="height:155px;">TP Northern Odisha Distribution Limited</a></li>
+		<li><a href="https://www.tpsouthernodisha.com/" target="_blank"><img src="images/2026/TPSODL.png" style="height:155px;">TP Southern Odisha Distribution Limited</a></li>
+		<li><a href="https://www.tpwesternodisha.com/" target="_blank"><img src="images/2026/TPWODL.png" style="height:155px;">TP Western Odisha Distribution Limited</a></li>
+		<li><a href="https://cescrajasthan.co.in/open.php" target="_blank"><img src="images/2024/cesc_rajasthan.png" style="height:155px;">CESC Rajasthan</a></li>
+		
+		<li><a href="https://puvvnl.in/en" target="_blank"><img src="images/utilities2019/5. PUVVNL Logo.jpeg" style="height:155px;">Purvanchal Vidyut Vitaran Nigam Limited</a></li>
+		<li><a href="https://www.dvvnl.org/" target="_blank"><img src="images/utilities2019/2. DVVNL logo.png" style="height:155px;">Dakshinanchal Vidyut Vitran Nigam Limited</a></li>
+		<li><a href="https://tgnpdcl.com/" target="_blank"><img src="images/utilities2019/download (1).png" style="height:155px;">Northern Power Distribution Company of Telangana Limited</a></li>
+		<li><a href="https://chandigarhpower.com/" target="_blank"><img src="images/2026/ChandigarhPower.png" style="height:155px;">Chandigarh Power Distribution Limited</a></li>
+		<li><a href="https://www.guvnl.com/" target="_blank"><img src="images/utilities2019/gujrat.jpg" style="height:155px;">Gujarat Urja Vikas Nigam Limited</a></li>
+		<li><a href="https://www.goaelectricity.gov.in/" target="_blank"><img src="images/Goa Electricity Department Logo.png" style="height:155px;">Government of Goa, Electricity Department</a></li>
+		<li><a href="https://www.bestundertaking.com/" target="_blank"><img src="images/2026/BEST.jpg" style="height:155px;">Brihanmumbai Electricity Supply and Transport Undertaking (BEST)</a></li>
+		<li><a href="https://www.mpez.co.in/" target="_blank"><img src="images/2026/MadhyaPradesh.png" style="height:155px;">Madhya Pradesh Poorv Kshetra Vidyut Vitaran Company Limited</a></li>
+		<li><a href="https://www.mpwz.co.in/" target="_blank"><img src="images/utilities2019/4. MPPKVVCL.png" style="height:155px;">Madhya Pradesh Paschim Kshetra Vidyut Vitaran Co. Ltd. (MPPKVVCL)</a></li>
+		<li><a href="https://www.kesco.co.in/" target="_blank"><img src="images/2024/kanpur_electrict.png" style="height:155px;">Kanpur Electricity Supply Company Limited</a></li>
+		<li><a href="https://www.adanielectricity.com/" target="_blank"><img src="images/2024/AdaniElectricity.png" style="height:155px;">Adani Electricity Mumbai Limited</a></li>	
+		
+		<!-- Additional Confirmed Utilities (DUM 2025) -->
+		<li><a href="https://www.hpseb.in/irj/go/km/docs/internet/New_Website/Pages/Home.html" target="_blank" rel="noopener"><img src="images/utilities2019/himachal.png" style="height:155px;">Himachal Pradesh State Electricity Board Limited</a></li>
+		<li><a href="https://portal.mpcz.in/web/" target="_blank" rel="noopener"><img src="images/utilities2019/12. MPMKVVCL logo.jpeg" style="height:155px;">MP Madhya Kshetra Vidyut Vitran Co. Ltd.</a></li>
+		<li><a href="https://www.tatapower-ddl.com/" target="_blank" rel="noopener"><img src="images/utilities2019/tatapowerdlll.png" style="height:155px;">Tata Power Delhi Distribution Limited</a></li>
+		<li><a href="https://www.apdcl.org/website/" target="_blank" rel="noopener"><img src="images/utilities2019/assampower.png" style="height:155px;">Assam Power Distribution Company Ltd.</a></li>
+		<li><a href="https://kseb.in/" target="_blank" rel="noopener"><img src="images/KSEB_Logo_2022-new.jpg" style="height:155px;">Kerala State Electricity Board Limited</a></li>
+		<li><a href="https://www.cspdcl.co.in/cseb/" target="_blank" rel="noopener"><img src="images/2026/Chhattisgarh.png" style="height:155px;" alt="CSPDCL">Chhattisgarh State Power Distribution Company Limited</a></li>
+		<li><a href="https://tsecl.in/" target="_blank" rel="noopener"><img src="images/2026/TripuraState.jpg" style="height:155px;" alt="TSECL Logo Pending">Tripura State Electricity Corporation Limited</a></li>
+		<li><a href="http://www.jkpdd.gov.in/" target="_blank" rel="noopener"><img src="images/2026/Jammukashmir.jpg" style="height:155px;" alt="JKPDD">Jammu & Kashmir Power Development Department</a></li>
+		<li><a href="https://energy.rajasthan.gov.in/jdvvnl/#/home/dptHome" target="_blank" rel="noopener"><img src="images/utilities2019/Jodhpur Vidyut Vitran Nigam Limited.jpg" style="height:155px;">Jodhpur Vidyut Vitran Nigam Ltd.</a></li>
+		<li><a href="https://bescom.karnataka.gov.in/en" target="_blank" rel="noopener"><img src="images/utilities2019/bescom.png" style="height:155px;">Bangalore Electricity Supply Co. Ltd. (BESCOM)</a></li>
+		
+		
+		</ul>
+
+	<div class="k_cheading k_white_haeding">
 		<h1>CONFIRMED UTILITIES  <span class="k_greencolor">OF DUM 2024</span> </h1>
 		<img src="images/kborder_bottomg.png" alt="">
 	</div>
 	<ul class="k_confirmed_als">
-	<li><a href="https://uppcl.org/uppcl/hi/" target="_blank"><img src="images/2024/uppcl1.png" style="height:155px;"> Uttar Pradesh Power Corporation Limited</a></li> 
-<li><a href="https://pvvnl.org/" target="_blank"><img src="images/utilities2019/1. PVVNL.jpg" style="height:155px;">Pashchimanchal Vidyut Vitran Nigam Limited</a></li>
-<li><a href="https://puvvnl.up.nic.in/" target="_blank"><img src="images/utilities2019/5. PUVVNL Logo.jpeg" style="height:155px;">Purvanchal Vidyut Vitran Nigam Limited</a></li>
-<li><a href="http://www.mvvnl.in/" target="_blank"><img src="images/Madhyanchal Vidyut Vitran Nigam Ltd.png" style="height:155px;">Madhyanchal Vidyut Vitran Nigam Ltd </a></li>
- <li><a href="https://www.noidapower.com/" target="_blank"><img src="images/utilities2019/npcl.png" style="height: 120px;">Noida power Company Limited</a></li>
-<li><a href="https://www.mahadiscom.in/en/home/" target="_blank"><img src="images/MSEDCL_logo.jpg" style="height:120px;">Maharashtra State Electricity Distribution Co. Ltd </a></li>
-<li><a href="https://upptcl.org/upptcl" target="_blank"><img src="images/utilities2019/8. UP power transmission corp. ltd.jpg" style="height: 120px;">Uttar Pradesh Power Transmission Corporation Limited</a></li>           <li><a href="https://www.dvvnl.org/" target="_blank"><img src="images/utilities2019/2. DVVNL logo.png" style="height:155px;">Dakshinanchal Vidyut Vitran Nigam Limited</a></li>
-<li><a href="https://www.adanielectricity.com/" target="_blank"><img src="images/2024/AdaniElectricity.png" style="height:155px;">Adani Electricity Mumbai Limited</a></li>
-<li><a href="https://www.tpcentralodisha.com/" target="_blank"><img src="images/2024/TPCODL.png" style="height:155px;">Tata Power Central Odisha Distribution Limited</a></li>
-<li><a href="https://pdd.jk.gov.in/#" target="_blank"><img src="images/2024/JKPowerDepartment.jpg" style="height:155px;">Jammu & Kashmir Power Development Department</a></li>
-<li><a href="https://www.ugvcl.com/" target="_blank"><img src="images/2024/UGVCL.png" style="height:155px;">Uttar Gujarat Vij Company Limited</a></li>
-<li><a href="https://www.tatapower.com/" target="_blank"><img src="/images/tatapower.png" alt="" style="height: 120px;">The Tata Power Company Limited</a></li>
-<li><a href="https://www.tatapower-ddl.com/" target="_blank"><img src="images/utilities2019/tatapowerdlll.png" style="height: 120px;">Tata Power Delhi Distribution Limited </a></li>
-<li><a href="https://www.tpnodl.com/" target="_blank"><img src="images/TPNODL.jpg" style="height: 155px;">Tata Power Northern Odisha Distribution Limited</a></li>
-<li><a href="https://www.tpsouthernodisha.com/" target="_blank"><img src="images/TPSODL.jpg" style="height: 155px;">Tata Power Southern Odisha Distribution Limited</a></li>
-<li><a href="https://www.tpwesternodisha.com/" target="_blank"><img src="images/TPWODL.jpg" style="height: 155px;">Tata Power Western Odisha Distribution Limited</a></li>
-<li><a href="https://www.cesc.co.in/home" target="_blank"><img src="/images/CESC_cohost.jpg" style="height: 100px;">CESC Limited</a></li>
-<li><a href="https://www.guvnl.com/" target="_blank"><img src="images/utilities2019/gujrat.jpg" style="height:120px;">Gujarat Urja Vikas Nigam Limited</a></li>
-<li><a href="https://www.bsesdelhi.com/web/bypl" target="_blank"><img src="/images/bses.png" style="border: 2px solid #aeb4b2; height: 120px;">BSES Yamuna Power Limited</a></li>
-<li><a href="https://www.bsesdelhi.com/web/brpl" target="_blank"><img src="images/bsesllt.png" style="height: 120px;">BSES Rajdhani Power Limited</a></li>
-<li><a href="https://www.mpwz.co.in/#/home" target="_blank"><img src="images/utilities2019/4. MPPKVVCL.png" style="height:120px;">MP Paschim Kshetra Vidyut Vitaran Co. Ltd.</a></li>
-<li><a href="https://www.pgvcl.com/" target="_blank"><img src="images/utilities2019/2. PGVCL.png" style="height:155px;">Paschim Gujarat Vij Company Limited</a></li>
-<li><a href="https://www.kesco.co.in/" target="_blank"><img src="images/2024/kanpur_electrict.png" style="height:155px;">Kanpur Electricity Supply Company Limited</a></li>
-<li><a href="https://www.upcl.org/" target="_blank"><img src="images/Uttarakhand Power Corporation Limited logo.jpg" style="height:155px;">Uttarakhand Power Corporation Limited </a></li>
-<li><a href="https://www.mgvcl.com/" target="_blank"><img src="images/2024/mgvcl.png" style="height:102px;">Madhya Gujarat Vij Company Limited</a></li>
-<li><a href="https://www.kseb.in/" target="_blank"><img src="images/KSEB_Logo_2022-new.jpg" style="height: 100px;">Kerala State Electricity Board</a></li>
-<li><a href="https://energy.rajasthan.gov.in/jvvnl/#/home/dptHome" target="_blank"><img src="images/Jaipur Vidut Vitran Nigam Limited logo.png" style="height: 100px;">Jaipur Vidyut Vitran Nigam Limited</a></li>
-<li><a href="https://www.apdcl.org/" target="_blank"><img src="images/images_2018/APDCL_logo.png">Assam Power Distribution Company Limited</a></li>
-<li><a href="http://www.mpez.co.in/portal/Jabalpur_home.portal" target="_blank"><img src="images/2024/mppkc.png" style="height:155px;">Madhya Pradesh Poorv Kshetra Vidyut Vitaran Company Ltd.</a></li>
-<li><a href="https://www.goaelectricity.gov.in/" target="_blank"><img src="images/utilities2019/8. Goa Electricity Department.jpeg" style="height:155px;">Government of Goa, Electricity Department</a></li>
-<li><a href="https://cescrajasthan.co.in/open.php" target="_blank"><img src="images/2024/cesc_rajasthan.png" style="height:155px;">CESC Rajasthan</a></li>
-<li><a href="https://energy.rajasthan.gov.in/jdvvnl/#/home/dptHome" target="_blank"><img src="images/2024/jodhpur_vidhut.jpeg" style="height:155px;">Jodhpur Vidyut Virtan Nigam Limited</a></li>
-<li><a href="https://www.wbsedcl.in/irj/go/km/docs/internet/new_website/Home.html" target="_blank"><img src="images/2024/wbsedcl.png" style="height:155px;">West Bengal State Electricity Distribution Company Limited</a></li>
-<li><a href="https://jbvnl.co.in/" target="_blank"><img src="images/2024/bijli.jpeg" style="height:155px;">Jharkhand Bijli Vitran Nigam Limited</a></li>
+		<li><a href="https://uppcl.org/uppcl/hi/" target="_blank"><img src="images/2024/uppcl1.png" style="height:155px;"> Uttar Pradesh Power Corporation Limited</a></li> 
+		<li><a href="https://pvvnl.org/" target="_blank"><img src="images/utilities2019/1. PVVNL.jpg" style="height:155px;">Pashchimanchal Vidyut Vitran Nigam Limited</a></li>
+		<li><a href="https://puvvnl.up.nic.in/" target="_blank"><img src="images/utilities2019/5. PUVVNL Logo.jpeg" style="height:155px;">Purvanchal Vidyut Vitran Nigam Limited</a></li>
+		<li><a href="http://www.mvvnl.in/" target="_blank"><img src="images/Madhyanchal Vidyut Vitran Nigam Ltd.png" style="height:155px;">Madhyanchal Vidyut Vitran Nigam Ltd </a></li>
+		<li><a href="https://www.noidapower.com/" target="_blank"><img src="images/utilities2019/npcl.png" style="height: 120px;">Noida power Company Limited</a></li>
+		<li><a href="https://www.mahadiscom.in/en/home/" target="_blank"><img src="images/MSEDCL_logo.jpg" style="height:120px;">Maharashtra State Electricity Distribution Co. Ltd </a></li>
+		<li><a href="https://upptcl.org/upptcl" target="_blank"><img src="images/utilities2019/8. UP power transmission corp. ltd.jpg" style="height: 120px;">Uttar Pradesh Power Transmission Corporation Limited</a></li>           
+		<li><a href="https://www.dvvnl.org/" target="_blank"><img src="images/utilities2019/2. DVVNL logo.png" style="height:155px;">Dakshinanchal Vidyut Vitran Nigam Limited</a></li>
+		<li><a href="https://www.adanielectricity.com/" target="_blank"><img src="images/2024/AdaniElectricity.png" style="height:155px;">Adani Electricity Mumbai Limited</a></li>
+		<li><a href="https://www.tpcentralodisha.com/" target="_blank"><img src="images/2024/TPCODL.png" style="height:155px;">Tata Power Central Odisha Distribution Limited</a></li>
+		<li><a href="https://pdd.jk.gov.in/#" target="_blank"><img src="images/2024/JKPowerDepartment.jpg" style="height:155px;">Jammu & Kashmir Power Development Department</a></li>
+		<li><a href="https://www.ugvcl.com/" target="_blank"><img src="images/2024/UGVCL.png" style="height:155px;">Uttar Gujarat Vij Company Limited</a></li>
+		<li><a href="https://www.tatapower.com/" target="_blank"><img src="/images/tatapower.png" alt="" style="height: 120px;">The Tata Power Company Limited</a></li>
+		<li><a href="https://www.tatapower-ddl.com/" target="_blank"><img src="images/utilities2019/tatapowerdlll.png" style="height: 120px;">Tata Power Delhi Distribution Limited </a></li>
+		<li><a href="https://www.tpnodl.com/" target="_blank"><img src="images/TPNODL.jpg" style="height: 155px;">Tata Power Northern Odisha Distribution Limited</a></li>
+		<li><a href="https://www.tpsouthernodisha.com/" target="_blank"><img src="images/TPSODL.jpg" style="height: 155px;">Tata Power Southern Odisha Distribution Limited</a></li>
+		<li><a href="https://www.tpwesternodisha.com/" target="_blank"><img src="images/TPWODL.jpg" style="height: 155px;">Tata Power Western Odisha Distribution Limited</a></li>
+		<li><a href="https://www.cesc.co.in/home" target="_blank"><img src="/images/CESC_cohost.jpg" style="height: 100px;">CESC Limited</a></li>
+		<li><a href="https://www.guvnl.com/" target="_blank"><img src="images/utilities2019/gujrat.jpg" style="height:120px;">Gujarat Urja Vikas Nigam Limited</a></li>
+		<li><a href="https://www.bsesdelhi.com/web/bypl" target="_blank"><img src="/images/bses.png" style="border: 2px solid #aeb4b2; height: 120px;">BSES Yamuna Power Limited</a></li>
+		<li><a href="https://www.bsesdelhi.com/web/brpl" target="_blank"><img src="images/bsesllt.png" style="height: 120px;">BSES Rajdhani Power Limited</a></li>
+		<li><a href="https://www.mpwz.co.in/#/home" target="_blank"><img src="images/utilities2019/4. MPPKVVCL.png" style="height:120px;">MP Paschim Kshetra Vidyut Vitaran Co. Ltd.</a></li>
+		<li><a href="https://www.pgvcl.com/" target="_blank"><img src="images/utilities2019/2. PGVCL.png" style="height:155px;">Paschim Gujarat Vij Company Limited</a></li>
+		<li><a href="https://www.kesco.co.in/" target="_blank"><img src="images/2024/kanpur_electrict.png" style="height:155px;">Kanpur Electricity Supply Company Limited</a></li>
+		<li><a href="https://www.upcl.org/" target="_blank"><img src="images/Uttarakhand Power Corporation Limited logo.jpg" style="height:155px;">Uttarakhand Power Corporation Limited </a></li>
+		<li><a href="https://www.mgvcl.com/" target="_blank"><img src="images/2024/mgvcl.png" style="height:102px;">Madhya Gujarat Vij Company Limited</a></li>
+		<li><a href="https://www.kseb.in/" target="_blank"><img src="images/KSEB_Logo_2022-new.jpg" style="height: 100px;">Kerala State Electricity Board</a></li>
+		<li><a href="https://energy.rajasthan.gov.in/jvvnl/#/home/dptHome" target="_blank"><img src="images/Jaipur Vidut Vitran Nigam Limited logo.png" style="height: 100px;">Jaipur Vidyut Vitran Nigam Limited</a></li>
+		<li><a href="https://www.apdcl.org/" target="_blank"><img src="images/images_2018/APDCL_logo.png">Assam Power Distribution Company Limited</a></li>
+		<li><a href="http://www.mpez.co.in/portal/Jabalpur_home.portal" target="_blank"><img src="images/2024/mppkc.png" style="height:155px;">Madhya Pradesh Poorv Kshetra Vidyut Vitaran Company Ltd.</a></li>
+		<li><a href="https://www.goaelectricity.gov.in/" target="_blank"><img src="images/utilities2019/8. Goa Electricity Department.jpeg" style="height:155px;">Government of Goa, Electricity Department</a></li>
+		<li><a href="https://cescrajasthan.co.in/open.php" target="_blank"><img src="images/2024/cesc_rajasthan.png" style="height:155px;">CESC Rajasthan</a></li>
+		<li><a href="https://energy.rajasthan.gov.in/jdvvnl/#/home/dptHome" target="_blank"><img src="images/2024/jodhpur_vidhut.jpeg" style="height:155px;">Jodhpur Vidyut Virtan Nigam Limited</a></li>
+		<li><a href="https://www.wbsedcl.in/irj/go/km/docs/internet/new_website/Home.html" target="_blank"><img src="images/2024/wbsedcl.png" style="height:155px;">West Bengal State Electricity Distribution Company Limited</a></li>
+		<li><a href="https://jbvnl.co.in/" target="_blank"><img src="images/2024/bijli.jpeg" style="height:155px;">Jharkhand Bijli Vitran Nigam Limited</a></li>
 
-</ul>
+	</ul>
 <!--<div class="k_cheading k_white_haeding">
 		<h1>CONFIRMED UTILITIES  <span class="k_greencolor">OF DUM 2023</span> </h1>
 		<img src="images/kborder_bottomg.png" alt="">
@@ -808,8 +676,15 @@ Please contact : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid.
             <li><a href="http://www.mpez.co.in/portal/Jabalpur_home.portal" target="_blank"><img src="images/utilities2019/download (9).jpg">Madhya Pradesh Poorv Kshetra Vidyut Vitaran Company Ltd.</a></li>
 	        <li><a href="http://www.mpez.co.in/portal/Jabalpur_home.portal" target="_blank"><img src="images/utilities2019/12. MPMKVVCL logo.jpeg" style="height:155px;">Madhya Pradesh Poorv Kshetra Vidyut Vitaran Company Ltd.</a></li>
 			<li><a href="https://web.pln.co.id/" target="_blank"><img src="images/Logo_PLN.png" style="height:155px;">PLN Indonesia</a></li>
-			
-		</ul>
+			<li><a href="" target="_blank"><img src="images/utilities2019/purvanchalvidhut.png">Purvanchal Vidyut Vitran Nigam Ltd</a></li>
+			<li><a href="https://upptcl.org/upptcl" target="_blank"><img src="images/utilities2019/8. UP power transmission corp. ltd.jpg" style="height: 120px;">Uttar Pradesh Power Transmission Corporation Limited</a></li>           
+			<li><a href="https://www.dvvnl.org/" target="_blank"><img src="images/utilities2019/2. DVVNL logo.png" style="height:155px;">Dakshinanchal Vidyut Vitran Nigam Limited</a></li>
+			<li><a href="https://pdd.jk.gov.in/#" target="_blank"><img src="images/2024/JKPowerDepartment.jpg" style="height:155px;">Jammu & Kashmir Power Development Department</a></li>
+			<li><a href="https://www.ugvcl.com/" target="_blank"><img src="images/2024/UGVCL.png" style="height:155px;">Uttar Gujarat Vij Company Limited</a></li>
+			<li><a href="https://www.kesco.co.in/" target="_blank"><img src="images/2024/kanpur_electrict.png" style="height:155px;">Kanpur Electricity Supply Company Limited</a></li>
+			<li><a href="https://www.goaelectricity.gov.in/" target="_blank"><img src="images/utilities2019/8. Goa Electricity Department.jpeg" style="height:155px;">Government of Goa, Electricity Department</a></li>
+			<li><a href="https://jbvnl.co.in/" target="_blank"><img src="images/2024/bijli.jpeg" style="height:155px;">Jharkhand Bijli Vitran Nigam Limited</a></li>
+			</ul>
 
 	<!-- <p style="margin-bottom: 50px; margin-top: 20px;">
 		<a href="" class="k_read_more">see all</a>
@@ -884,6 +759,35 @@ Please contact : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid.
 			<li><a href="https://www.visiontek.co.in/" target="_blank"><img src="/images/VISIONTEK.jpg" style="border: 1px solid #aeb4b2; height:100px;">VISIONTEK</a></li>
 			<li><a href="" target="_blank"><img src="images/utilities2019/wesco.png">Western Electricity Supply Company of Odisha</a></li>
 			
+			<!-- New Entries -->
+			<li><a href="https://www.insolutions.in/" target="_blank"><img src="/images/2026/Inventive.jpg" style="height: 135px;">Inventive Software Solutions Private Limited</a></li>
+			<li><a href="https://www.polarisgrids.com/" target="_blank"><img src="/images/2026/Polaris.jpeg" style="border: 1px solid #aeb4b2; height: 120px;">Polaris Smart Metering</a></li>
+			<li><a href="https://ltptd-des.com/" target="_blank"><img src="/images/2026/LnTPTD.png" style="border: 1px solid #aeb4b2; height:120px;">L&T Digital Energy Solutions - Power, Transmission and Distribution</a></li>
+			<li><a href="https://www.phoenixcontact.com/en-in/" target="_blank"><img src="/images/2026/Phoenix.jpg" style="height:100px;">Phoenix Contact</a></li>
+			<li><a href="https://trilliant.com/" target="_blank"><img src="/images/2026/Trilliant.png" style="border: 1px solid #aeb4b2;">Trilliant</a></li>
+			<li><a href="https://stelmec.com/" target="_blank"><img src="/images/2026/Stelmac.png" style="border: 1px solid #aeb4b2; height: 120px;">Stelmec</a></li>
+			<li><a href="https://www.thesaicomputers.com/" target="_blank"><img src="/images/2026/Sai.png" style="border: 1px solid #aeb4b2; height: 120px;">Sai Computers</a></li>
+			<li><a href="https://kimbal.io/" target="_blank"><img src="/images/2026/Kimbal.jpeg" style="border: 1px solid #aeb4b2; height: 120px;">Kimbal</a></li>
+			<li><a href="https://havells.com/" target="_blank"><img src="/images/2026/Havells.png" style="border: 1px solid #aeb4b2; height: 120px;">Havells India Pvt Ltd</a></li>
+			<li><a href="https://aewinfra.com/" target="_blank"><img src="/images/2026/AlliedEngineering.jpg" style="border: 1px solid #aeb4b2; height: 120px;">Allied Engineerings</a></li>
+			<li><a href="https://www.eaton.com/in/en-us.html" target="_blank"><img src="/images/2026/eaton.png" style="border: 1px solid #aeb4b2;">Eaton</a></li>
+			<li><a href="https://www.dnv.com/" target="_blank"><img src="/images/2026/DNV.png" style="border: 1px solid #aeb4b2;">DNV</a></li>
+			<li><a href="#" target="_blank"><img src="/images/2026/SMSystems.jpg" style="border: 1px solid #aeb4b2; height: 120px;">SM Systems</a></li>
+			<li><a href="https://bentecindia.com/" target="_blank"><img src="/images/2026/Bentecv1.png" style="border: 1px solid #aeb4b2; height: 120px;">Bentec</a></li>
+			<li><a href="https://www.securemeters.com/" target="_blank"><img src="/images/2026/Secure.jpg" style="border: 1px solid #aeb4b2; height: 120px;">Secure Meters</a></li>
+			<li><a href="https://www.powerxchange.io/" target="_blank"><img src="/images/2026/PowerExchange.jpeg" style="border: 1px solid #aeb4b2;">PowerXchange</a></li>
+			<li><a href="https://genuspower.com/" target="_blank"><img src="/images/2026/Genus.png" style="border: 1px solid #aeb4b2;">Genus Power Infrastructures Limited</a></li>
+			<li><a href="https://www.intellismartinfra.in/" target="_blank"><img src="/images/2026/IntelliSmart.jpg" style="border: 1px solid #aeb4b2;">Intellismart</a></li>
+			<li><a href="https://lteindia.in/" target="_blank"><img src="/images/2026/lakshmitransformers.png" style="border: 1px solid #aeb4b2; height:100px;">Lakshmi Transformers and Electricals</a></li>
+			<li><a href="#" target="_blank"><img src="/images/2026/Moderntransformers.jpeg" style="border: 1px solid #aeb4b2; height:100px;">Modern Technology</a></li>
+			<li><a href="https://radius.co.in/" target="_blank"><img src="/images/2026/Radius.jpeg" style="border: 1px solid #aeb4b2; height:100px;">Radius Synergies International Private Limited</a></li>
+			<li><a href="https://aws.amazon.com/" target="_blank"><img src="/images/2026/Amazon.jpeg" style="border: 1px solid #aeb4b2; height:130px;">Amazon Web Services</a></li>
+			<li><a href="https://www.wirepas.com/" target="_blank"><img src="/images/2026/Wirepas.jpeg" style="border: 1px solid #aeb4b2; height:120px;">Wirepas</a></li>
+			<li><a href="https://www.opal-rt.com/" target="_blank"><img src="/images/2026/Opal-RT.jpeg" style="border: 1px solid #aeb4b2;">Opal-RT</a></li>
+			<li><a href="https://www.tekuncorked.com/" target="_blank"><img src="/images/2026/Tekuncorked.jpeg" style="border: 1px solid #aeb4b2;">Tekuncorked</a></li>
+			<li><a href="https://www.rti.org/" target="_blank"><img src="/images/2026/RTIInternation.jpeg" style="height:120px;">RTI International</a></li>
+			<li><a href="https://www.kseb.in/" target="_blank"><img src="/images/2026/KeralaState.jpg" style="height:100px;">Kerala State Electricity Board Limited</a></li>
+			<li><a href="https://www.se.com/in/en/" target="_blank"><img src="/images/2026/Schneider.jpeg" style="border: 1px solid #aeb4b2; height:120px;">Schneider Electric</a></li>
 		</ul>	
 
 	<!-- <p style="margin-bottom: 50px; margin-top: 20px;">
@@ -923,85 +827,109 @@ Please contact : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid.
 		  </li>
 	</ul>
 </div> -->
-<!-- time remaining ends here -->
+<style>
+/* Layout improvements for partner/exhibitor logos */
+.k_confirmed_als h5 { text-transform: uppercase; width:100%; text-align:center; margin:0 0 8px; font-weight:700; }
+.k_partiexh { padding:0 10%; }
+.buckyroberts_dum_contactus_icons_div span a{ font-size:12px; }
 
+/* Responsive grid ensures logos line up neatly */
+.k_confirmed_als {
+	display: block;
+	grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+	gap: 12px 18px; /* row gap, column gap */
+	list-style: none;
+	padding: 0;
+	margin: 0 auto;
+	align-items: start;
+	justify-items: center;
+	grid-auto-rows: minmax(120px, auto); /* helps normalize row heights */
+}
 
-<!-- venue starts here -->
-<div class="row k_venue">
-	<div class="k_cheading">
-		<h1 style="color: #fff;">Venue Information </h1>
-		<img src="images/kborderwh_bottom.png" alt="">
-		
-	</div>
-	<!--<div class="k_cheading"><a href="https://register.indiasmartgrid.org/">
-	<img src="images/Register_Now_Button.png" style="width:18%; text-align: center;"></a>
-	</div>-->
-	
-	
-	<div class="k_location">
-		<ul>
-			<!--<li><a data-toggle="modal" data-target="#myModal" class="k_green" style="cursor: pointer;"><i class="fa fa-map-marker" aria-hidden="true"></i>
-				-->
-							<li><a data-toggle="modal" data-target="#" class="k_green" style="cursor: pointer;"><i class="fa fa-map-marker" aria-hidden="true"></i>
-				<br>Mumbai, Maharashtra, India </a></li>
-				<li><a href="images/invite.ics" target="_blank" class="k_blue"><i class="fa fa-calendar" aria-hidden="true"></i>
-					<br>06 - 07 November 2025</a></li>
-				</ul>
-			</div>
-		</div>
-		<!-- venue ends here -->
+/* Each item becomes a centered column; captions are full-width below the logo */
+.k_confirmed_als li {
+	list-style: none;
+	text-align: center;
+	margin: 0;
+	padding: 6px 4px;
+}
 
-		<!-- map starts here -->
-		<div class="row k_map">
-			<!--<iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d237630.0074118501!2d77.09802989702487!3d28.55246629984706!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x390ce3cf1dfeece7%3A0xee690c3f5b362567!2sThe+Eros+Hotel%2C+Eros+Hotel%2C+Nehru+Place%2C+New+Delhi%2C+Delhi%2C+India!3m2!1d28.550435!2d77.24913!5e0!3m2!1sen!2sin!4v1566398556531!5m2!1sen!2sin" width="100%" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
-		    -->
-			<iframe src="https://www.google.com/maps/embed/v1/place?q=Mumbia,+Maharastra,+India&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8" width="100%" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
-		    <!--<iframe src="https://maps.google.com/maps?q=Lucknow%2C+Uttar+Pradesh&t=&z=12&ie=UTF8&iwloc=&output=embed" width="100%" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>-->
-		   <!--<a href="https://pdflist.com/" alt="pdf">Pdf</a></div><style>.mapouter{position:relative;text-align:right;width:600px;height:400px;}.gmap_canvas {overflow:hidden;background:none!important;width:600px;height:400px;}.gmap_iframe {width:600px!important;height:400px!important;}</style></div>
-		<!--<div class="mapouter"><div class="gmap_canvas"><iframe class="gmap_iframe" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=600&amp;height=400&amp;hl=en&amp;q=Taj Vivanta Bhubaneshwar Odisha&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe><a href="https://piratebay-proxys.com/">Piratebay</a></div><style>.mapouter{position:relative;text-align:right;width:600px;height:400px;}.gmap_canvas {overflow:hidden;background:none!important;width:600px;height:400px;}.gmap_iframe {width:600px!important;height:400px!important;}</style></div>
-			</div>
-		<!-- map ends here -->
+.k_confirmed_als li a {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	text-decoration: none;
+	color: inherit;
+	width: 100%;
+}
 
-<!-- contact us div starts here -->
-	<div class="row" id="buckyroberts_dum_contactus">
-			<div class="col-sm-12">
-				<!-- <h1>Contact us</h1> -->
-			</div>
-<!-- 			<div class="col-sm-12 buckyroberts_dum_contactus_icons_div">
-				<div class="row">
-					<div class="col-sm-3 col-xs-4 buckyroberts_dum_contactus_icons" style="text-align: left;">
-						<h1 style="color: #8cc63e; text-align: left;">DUM 2017</h1>
-						<p><a href="agenda-2017.php">1.&nbsp;&nbsp;Agenda</a></p>
-						<p><a href="knowledge-2017.php">2.&nbsp;&nbsp;Knowledge</a></p>
-						<p><a href="confirmed_utility-2017.php">3.&nbsp;&nbsp;Confirmed Utilities</a></p>
-						<p><a href="images/DUM Brochure_v6.pdf">4.&nbsp;&nbsp;Download Brochure</a></p>
-						<p><a href="contact_us-2017.php">5.&nbsp;&nbsp;Contact Us</a></p>
-						<p><a href="site_visit-2017.php">6.&nbsp;&nbsp;Site Visit</a></p>
-						<p><a href="speakers-2017.php">7.&nbsp;&nbsp;Speakers</a></p>
-						<p><a href="organiser-2017.php">8.&nbsp;&nbsp;Organiser</a></p>
-						<p><a href="gallery.php">9.&nbsp;&nbsp;Gallery</a></p>
-					</div>
-					<div class="col-sm-9">
-						<div class="row">
-							<div class="col-sm-12">
-								<h1>Contact us</h1>
-							</div>
-							<div class="col-sm-4 col-xs-4 buckyroberts_dum_contactus_icons">
-								<h4><i class="fa fa-envelope" aria-hidden="true"></i></h4>
-								<p><a href="mailto:dum2018@indiasmartgrid.org">dum2018@indiasmartgrid.org</a></p>
-							</div>
-							<div class="col-sm-4 col-xs-4 buckyroberts_dum_contactus_icons">
-								<h4><i class="fa fa-map-marker" aria-hidden="true"></i></h4>
-								<p>26 - 27 November, 2019 <br>New Delhi, India </p>
-							</div>
-							<div class="col-sm-4 col-xs-4 buckyroberts_dum_contactus_icons">
-								<h4><i class="fa fa-phone" aria-hidden="true"></i></h4>
-								<p>011-41030398</p>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div> -->
+/* Force consistent logo sizing and neutral background. Use !important to override inline height attributes. */
+.k_confirmed_als li img {
+	max-width: 160px !important;
+	max-height: 110px !important;
+	width: auto !important;
+	height: auto !important;
+	object-fit: contain;
+	border-radius: 6px;
+	box-shadow: 0 1px 6px rgba(0,0,0,0.06);
+	background: #fff;
+	padding: 6px;
+	display: block;
+	margin: 0 auto 8px;
+	border: 1px solid rgba(44,58,100,0.08) !important;
+}
+
+/* Ensure any textual caption inside the anchor fills the width and centers */
+.k_confirmed_als li a { font-size: 14px; line-height: 1.25; }
+.k_confirmed_als li a > * { width:100%; display:block; }
+
+/* Subcategory header styling: make it a pill spanning the grid */
+.k_confirmed_als h5 {
+	grid-column: 1 / -1;
+	background: rgba(44,58,100,0.06);
+	padding: 8px 12px;
+	border-radius: 8px;
+	font-size: 15px;
+}
+
+/* Reduce spacing on small screens */
+@media (max-width: 576px) {
+	.k_confirmed_als { grid-template-columns: repeat(2, 1fr); gap:10px; }
+	.k_confirmed_als li img { max-width:120px !important; max-height:80px !important; padding:4px; }
+	.k_confirmed_als h5 { font-size: 13px; padding:6px 8px; }
+}
+
+</style>
+
+<style>
+/* Section spacing: add breathing room between main headings and page sections */
+.k_cheading { margin: 36px 0 12px; padding-top: 6px; }
+.k_cheading h1 { margin: 0 0 10px; font-size: 30px; line-height: 1.08; }
+.k_container { padding-top: 28px; padding-bottom: 28px; }
+.k_at_glace .k_cheading { margin-top: 44px; margin-bottom: 18px; }
+
+/* Make the decorative border sit a little below the heading */
+.k_cheading img {margin-top:8px; }
+
+/* Ensure paragraphs following headings have clear spacing */
+.k_cheading + p.k_p { margin-top: 14px; }
+
+/* Small screens adjustments */
+@media (max-width: 768px) {
+	.k_cheading { margin: 24px 0 8px; }
+	.k_cheading h1 { font-size: 22px; }
+	.k_container { padding-top: 18px; padding-bottom: 18px; }
+}
+</style>
+				
+				<span><a href="http://dumindia.in/dumindia2025/confirmed-exhibitor.php" style="color: #ffffff;">Confirmed Exhibitors</a></span>&nbsp;&nbsp; | &nbsp;&nbsp;
+				<span><a href="http://dumindia.in/dumindia2025/confirmed_utility.php" style="color: #ffffff;">Confirmed Utilities</a></span>&nbsp;&nbsp; | &nbsp; &nbsp;
+               <span><a href="http://dumindia.in/dumindia2025/brochure.php" style="color: #ffffff;">Download Brochure</a></span>&nbsp;&nbsp; | &nbsp;&nbsp;
+				<span><a href="http://dumindia.in/dumindia2025/organiser.php" style="color: #ffffff;">Organiser</a></span>&nbsp;&nbsp; | &nbsp;&nbsp;
+				<span><a href="http://dumindia.in/dumindia2025/speaker.php" style="color: #ffffff;">Speakers</a></span>&nbsp;&nbsp; | &nbsp;&nbsp;
+				
+			</div>	
 
 			<div class="col-sm-12 buckyroberts_dum_contactus_icons_div">
 				<h1 style="color: #8cc63e; text-align: center;">DUM 2024</h1>
@@ -1148,7 +1076,7 @@ Please contact : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid.
 					</div>
 					<div class="col-sm-4 col-xs-4 buckyroberts_dum_contactus_icons">
 						<h4><i class="fa fa-map-marker" aria-hidden="true"></i></h4>
-						<p>06 - 07 November 2025 <br>Mumbai, Maharashtra, India </p>
+						<p>04 - 05  November 2025 <br>Hotel Sahara Star, Mumbai, Maharashtra, India</p>
 					</div>
 					<div class="col-sm-4 col-xs-4 buckyroberts_dum_contactus_icons">
 						<h4><i class="fa fa-phone" aria-hidden="true"></i></h4>

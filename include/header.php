@@ -41,7 +41,7 @@
 
   <!-- <link rel='stylesheet' href='unitegallery/css/unite-gallery.css' type='text/css' /> -->
 
-  <link rel="stylesheet" type="text/css" href="css/style.css?v2">
+  <link rel="stylesheet" type="text/css" href="css/style.css?v3">
  
 
   <base href="http://dumindia.in/">

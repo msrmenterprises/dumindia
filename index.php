@@ -127,8 +127,8 @@ font-size: 12px;
 
 	</div>
 
-	<p class="k_p" style="text-align:justify;"><strong>ISGF has the pleasure of inviting key stakeholders in the DISCOM domains to the 9th Edition of Distribution Utility Meet <a href="http://www.dumindia.in/">(DISTRIBUTION UTILITY MEET )</a> in Mumbai, Maharashtra, India on 04 - 05  November 2025 in partnership with Maharashtra State Electricity Distribution Company Limited and the Tata Power Company Limited. DUM 2025 will be supported by All India Discoms Association (AIDA). DUM 2025 will provide a unique platform for all the DISCOM community to share each other's experiences in dealing with efforts towards energy transition, grid modernization and digitalization on a fast track as we leapfrog towards a Net Zero power sector in India. In the post pandemic world, it is imperative that utilities do not make the same mistakes but learn from each other, and from global expertise/experiences. Experts from leading utilities from the USA, Europe, Japan, South Korea and Japan will be invited to participate in DUM 2025 and share their valuable experiences.
-
+	<p class="k_p" style="text-align:justify;">
+	<strong>ISGF has the pleasure of inviting key stakeholders in the DISCOM domains to the 10th Edition of Distribution Utility Meet <a href="http://www.dumindia.in/">(DISTRIBUTION UTILITY MEET )</a> in Jaipur, Rajasthan, India on 27 - 28 October 2026. DUM 2026 will provide a unique platform for all the DISCOM community to share each other's experiences in dealing with efforts towards energy transition, grid modernization and digitalization on a fast track as we leapfrog towards a Net Zero power sector in India. In the post pandemic world, it is imperative that utilities do not make the same mistakes but learn from each other, and from global expertise/experiences. Experts from leading utilities from the USA, Europe, Japan, South Korea and Japan will be invited to participate in DUM 2026 and share their valuable experiences.</strong>
 		</strong></p>
 
 		<div class="k_cheading">

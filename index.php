@@ -221,7 +221,7 @@ font-size: 12px;
 
 	<div class="k_cheading">
 
-		<h1>EXHIBITION BOOTH <span class="k_greencolor">AT DUM 2025</span> </h1>
+		<h1>EXHIBITION BOOTH <span class="k_greencolor">AT DUM 2026</span> </h1>
 
 		<img src="images/kborder_bottom.png" alt="">
 

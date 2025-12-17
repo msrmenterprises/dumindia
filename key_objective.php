@@ -25,16 +25,15 @@
 <div class="row dum_container key_div">
 	
 	<h1 class="key_head">
-		ABOUT DISTRIBUTION UTILITY MEET 2025
+		ABOUT DISTRIBUTION UTILITY MEET 2026
 	</h1>
 	<p>India's power sector stands at a transformative crossroads—where legacy systems converge with cutting-edge technologies, and visionary policies meet urgent climate goals. As the world's third-largest energy consumer, India is not merely adapting to the global energy transition—it is leading it with purpose and resolve. With a bold national target of installing 500 GW of non-fossil fuel capacity by 2030, the government has launched a series of impactful programs aimed at reimagining energy generation, transmission, and consumption.</p>
 	<p>Initiatives such as the PM Surya Ghar Muft Bijli Yojana, PM-KUSUM, National Green Hydrogen Mission and the Nuclear Mission are democratizing access to clean energy, empowering rural and urban consumers alike. Strategic schemes like the Green Energy Corridor and the Production-Linked Incentive (PLI) Scheme for solar modules and advanced chemistry cells are supporting domestic manufacturing. Energy storage systems have also gained infrastructure status, paving the
 way for large-scale deployment of battery and pumped hydro storage solutions.</p>
 <p>Maharashtra, one of India's most economically advanced states, exemplifies this transition. With electricity demand projected to rise at a CAGR of over 4% till 2033-34, the state is enhancing its power mix through renewables, flexible grid infrastructure, and distributed generation. Recent reforms by the Maharashtra Electricity Regulatory Commission (MERC)—including landmark tariff reductions across consumer categories, promotion of Time-of-Day billing, and incentives for EV charging and Solar-powered agricultural feeders—are setting new benchmarks for affordable and
 sustainable electricity.</p>
-<p>In this context, the 9th Edition of the Distribution Utility Meet (DUM 2025) will take place in Mumbai, Maharashtra on 04 - 05  November 2025, in collaboration with Maharashtra State Electricity Distribution Company Limited (MSEDCL) and Tata Power Company Limited and with the support of Energy Department of the Government of Maharashtra. DUM 2025 will provide a unique platform for all the DISCOM community to share each other's experiences in dealing with efforts towards energy transition, grid modernization and digitalization on a fast track as we leapfrog towards a Net
-Zero power sector in India. In the post pandemic world, it is imperative that utilities do not make the same mistakes but learn from each other, and from global expertise/experiences. Experts from leading utilities from USA, Europe, South Korea and Japan will be invited to participate in DUM 2025 and share their valuable experiences.</p>
-<p>All India Discoms Association (AIDA), the newly launched collaboration platform of Discoms is the Supporting Partner for DUM 2025.</p>
+<p>In this context, 10th Edition of Distribution Utility Meet will take place in Jaipur, Rajasthan, India on 27 - 28 October 2026. DUM 2026 will provide a unique platform for all the DISCOM community to share each other's experiences in dealing with efforts towards energy transition, grid modernization and digitalization on a fast track as we leapfrog towards a Net Zero power sector in India. In the post pandemic world, it is imperative that utilities do not make the same mistakes but learn from each other, and from global expertise/experiences. Experts from leading utilities from the USA, Europe, Japan, South Korea and Japan will be invited to participate in DUM 2026 and share their valuable experiences.</p>
+<p>All India Discoms Association (AIDA), the newly launched collaboration platform of Discoms is the Supporting Partner for DUM 2026.</p>
 		
 		<!--<h1 class="key_head">
 		DUM 2023 PROGRAM
@@ -51,7 +50,7 @@ Zero power sector in India. In the post pandemic world, it is imperative that ut
 <br/>
 Today, Lucknow is a vibrant city that is.</p> -->
 	<h1 class="key_head">
-		KEY OBJECTIVE OF DUM 2025
+		KEY OBJECTIVE OF DUM 2026
 	</h1>
 	<ul>
     <li><strong>Experience Sharing and Hand Holding Each Other</strong></li>
@@ -60,13 +59,14 @@ Today, Lucknow is a vibrant city that is.</p> -->
     <li><strong>Propose New Regulatory, Policies to Address the Financial and Business Challenges of DISCOMs and Share Successful Interventions to Improve the Health of DISCOMs</strong></li>
 </ul>
 	<h1 class="key_head">
-		KEY HIGHLIGHTS OF DUM 2024
+		KEY HIGHLIGHTS OF DUM 2025
 	</h1>
 	<ul>
-		<li> <strong> 362+ Utility Officials Participated</strong></li>
-		<li><strong> 39 Utilities Participated</strong></li>
-		<li><strong> 73 Experts Participated from Government, Utilities, Regulatory Commissions, Academia and Industry as Speakers</strong></li>
-		<li><strong> 38 Partners and Exhibitors from Utility & Technology Companies showcased the products</strong></li>
+		<li> <strong> 377+ Utility Officials Participated</strong></li>
+		<li><strong> 45 Utilities Participated</strong></li>
+		<li><strong> 65 Experts Participated from Government, Utilities, Regulatory Commissions, Academia and Industry as Speakers</strong></li>
+		<li><strong> 56 Partners and Exhibitors from Utility & Technology Companies showcased the products</strong></li>
+		<li><strong> 688 Delegates Participated</strong></li>
 	</ul>
 	</p>
 </div>

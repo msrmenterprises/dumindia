@@ -33,7 +33,7 @@ way for large-scale deployment of battery and pumped hydro storage solutions.</p
 <p>Maharashtra, one of India's most economically advanced states, exemplifies this transition. With electricity demand projected to rise at a CAGR of over 4% till 2033-34, the state is enhancing its power mix through renewables, flexible grid infrastructure, and distributed generation. Recent reforms by the Maharashtra Electricity Regulatory Commission (MERC)—including landmark tariff reductions across consumer categories, promotion of Time-of-Day billing, and incentives for EV charging and Solar-powered agricultural feeders—are setting new benchmarks for affordable and
 sustainable electricity.</p>
 <p>In this context, 10th Edition of Distribution Utility Meet will take place in Jaipur, Rajasthan, India on 27 - 28 October 2026. DUM 2026 will provide a unique platform for all the DISCOM community to share each other's experiences in dealing with efforts towards energy transition, grid modernization and digitalization on a fast track as we leapfrog towards a Net Zero power sector in India. In the post pandemic world, it is imperative that utilities do not make the same mistakes but learn from each other, and from global expertise/experiences. Experts from leading utilities from the USA, Europe, Japan, South Korea and Japan will be invited to participate in DUM 2026 and share their valuable experiences.</p>
-<p>All India Discoms Association (AIDA), the newly launched collaboration platform of Discoms is the Supporting Partner for DUM 2026.</p>
+<!-- <p>All India Discoms Association (AIDA), the newly launched collaboration platform of Discoms is the Supporting Partner for DUM 2026.</p> -->
 		
 		<!--<h1 class="key_head">
 		DUM 2023 PROGRAM

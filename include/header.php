@@ -410,7 +410,7 @@ display: none;
             <li><a href="key_themes.php">Key Themes</a></li>
 
             <li><a href="knowledge-partners.php">Knowledge Partner</a></li> 
-            <li><a href="media-and-marketing-partner-2023.php">Media Partners</a></li>
+            <li><a href="media-and-marketing-partner.php">Media Partners</a></li>
             <li><a href="organiser.php">Organisers</a></li>
             <li><a href="post-event-outcome-report.php">Post Event Outcome Report</a></li>
             <li><a href="supporting-by.php">Supported by</a></li>

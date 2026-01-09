@@ -11,8 +11,8 @@
 		<img src="images/kborder_bottomg.png" alt="">
 	</div>
 	<ul class="k_confirmed_als">
-			<li><a href="https://www.eprmagazine.com/" target="_blank"><img src="images/EPR Logo.jpg" style="width: 180px; height: 180px;">EPR </a></li>
-			<li><a href="https://www.oemupdate.com/" target="_blank"><img src="images/2026/oem-update.png" style="width: 180px; height: 180px;">OEM UPDATE</a></li>
+			<li><a href="https://www.eprmagazine.com/" target="_blank"><img src="images/EPR Logo.jpg" style="width: 180px; height: 180px;"></a></li>
+			<li><a href="https://www.oemupdate.com/" target="_blank"><img src="images/2026/oem-update.png" style=""></a></li>
 		   
 		</ul>
 
@@ -21,7 +21,7 @@
 		<img src="images/kborder_bottomg.png" alt="">
 	</div>
 	<ul class="k_confirmed_als">
-			<li><a href="https://www.eprmagazine.com/" target="_blank"><img src="images/EPR Logo.jpg" style="width: 180px; height: 180px;">EPR </a></li>
+			<li><a href="https://www.eprmagazine.com/" target="_blank"><img src="images/EPR Logo.jpg" style="width: 180px; height: 180px;"></a></li>
 		   
 		</ul>
 <div class="k_cheading">
@@ -29,7 +29,7 @@
 		<img src="images/kborder_bottomg.png" alt="">
 	</div>
 	<ul class="k_confirmed_als">
-			<li><a href="https://www.eprmagazine.com/" target="_blank"><img src="images/EPR Logo.jpg" style="width: 180px; height: 180px;">EPR </a></li>
+			<li><a href="https://www.eprmagazine.com/" target="_blank"><img src="images/EPR Logo.jpg" style="width: 180px; height: 180px;"></a></li>
 		   
 		</ul>
 	</p>

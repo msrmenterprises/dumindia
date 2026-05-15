@@ -619,13 +619,17 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 			<li><a href="" target="_blank"><img src="images/utilities2019/bescom.png">BESCOM</a></li>
 			<li><a href="" target="_blank"><img src="images/utilities2019/bsess.png">BSES Rajdhani</a></li>
 			<li><a href="" target="_blank"><img src="images/utilities2019/bsess_yahh.png">BSES Yamuna</a></li>
+			<li><a href="https://www.bestundertaking.com/iis6954.asp" target="_blank"><img src="images/2026/BEST.jpg" style="height:155px;">Brihanmumbai Electricity Supply and Transport Undertaking (BEST)</a></li>
 			<li><a href="" target="_blank"><img src="images/utilities2019/cesc.png">CESC Limited</a></li>
+			<li><a href="https://cescrajasthan.co.in/open.php" target="_blank"><img src="images/2024/cesc_rajasthan.png" style="height:155px;">CESC Rajasthan</a></li>
 			<li><a href="https://cescmysore.karnataka.gov.in/english" target="_blank"><img src="images/C.E.S.C Mysore logo.jpg" style="height:110px;">C.E.S.C Mysore</a></li>
+			<li><a href="https://chandigarhpower.com/" target="_blank"><img src="images/2026/ChandigarhPower.png" style="height:155px;">Chandigarh Power Distribution Limited</a></li>
+			<li><a href="https://www.cspdcl.co.in/cseb/" target="_blank" rel="noopener"><img src="images/2026/Chhattisgarh.png" style="height:155px;" alt="CSPDCL">Chhattisgarh State Power Distribution Company Limited</a></li>
 			<li><a href="https://dgvcl.in/" target="_blank"><img src="images/utilities2019/9. DGVCL logo.jpeg" style="border: 2px solid #aeb4b2; height: 100px;">Dakshin Gujarat Vij Co Ltd</a></li>
 			<li><a href="https://www.apeasternpower.com/" target="_blank"><img src="images/Eastern Power Distribution Company of Andhra Pradesh Limited.jpg" style="height:102px;">Eastern Power Distribution Company Of Andhra Pradesh Limited</a></li>
 			<li><a href="https://www.enel.com/" target="_blank"><img src="images/ENEL logo.png" >ENEL </a></li>
 			<li><a href="https://www.goaelectricity.gov.in/" target="_blank"><img src="images/Goa Electricity Department Logo.png">Goa Electricity Department</a></li>
-			<li><a href="" target="_blank"><img src="images/utilities2019/gujrat.jpg">Gujrat Urja Vikas Nigam Ltd.</a></li>
+			<li><a href="https://www.guvnl.com/" target="_blank"><img src="images/utilities2019/gujrat.jpg">Gujarat Urja Vikas Nigam Limited</a></li>
 			<li><a href="" target="_blank"><img src="images/utilities2019/hescom.png">HESCOM</a></li>
 			<li><a href="" target="_blank"><img src="images/utilities2019/himachal.png">Himachal Pradesh Electricity Board</a></li>
 			<li><a href="https://www.iglonline.net/english/Default.aspx" target="_blank"><img src="images/utilities2019/download (5).png" style="height:102px;">Indraprastha Gas Limited</a></li>
@@ -634,6 +638,7 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 			<li><a href="https://kseb.in/" target="_blank"><img src="images/kseb.jpg" style="height:100px;">Kerala State Electricity Board Ltd </a></li>
 			<li><a href="https://cescrajasthan.co.in/open.php" target="_blank"><img src="images/utilities2019/cescraja.png" style="height:100px;">Kota Distribution Company Ltd.</a></li>
 			<li><a href="https://www.mgvcl.com/" target="_blank"><img src="images/utilities2019/10. MGVCL logo.png" style="height:120px;">Madhya Gujarat Vij. Co. Ltd</a></li>
+			<li><a href="https://portal.mpcz.in/web/" target="_blank" rel="noopener"><img src="images/utilities2019/12. MPMKVVCL logo.jpeg" style="height:155px;">MP Madhya Kshetra Vidyut Vitran Co. Ltd.</a></li>
 			<li><a href="" target="_blank"><img src="images/utilities2019/mahavitaran.png">MSEDCL</a></li>
 			<li><a href="https://www.mppmcl.com/" target="_blank"><img src="images/M.P. Power Management Company Limited.png" style="height:102px;">M.P. Power Management Company Limited</a></li>
 			<li><a href="https://www.mngl.in/" target="_blank"><img src="images/Maharashtra Natural Gas Limited.jpg" style="height:102px;">Maharashtra Natural Gas Limited</a></li>
@@ -642,6 +647,7 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 			<li><a href="" target="_blank"><img src="images/utilities2019/ndmc.png">New Delhi Municipal Council</a></li>
 			<li><a href="" target="_blank"><img src="images/utilities2019/npcl.png" style="height: 100px;">Noida Power Company Ltd.</a></li>
 			<li><a href="http://www.nbpdcl.in/" target="_blank"><img src="images/logo14.jpg" style="border: 2px solid #aeb4b2; height: 120px;">North Bihar Power Distribution Company Ltd.</a></li>
+			<li><a href="https://sbpdcl.co.in/(S(e2ypwk2i3yl3gtx4jdexfjny))/frmHome.aspx" target="_blank"><img src="images/2026/SBPDCL.png" style="height:155px;">South Bihar Power Distribution Company Limited</a></li>
 			
 			<li><a href="" target="_blank"><img src="images/utilities2019/paschimstate.png">Paschimanchal Vidyut Vitran Nigam Ltd</a></li>
 			<li><a href="" target="_blank"><img src="images/utilities2019/2. PGVCL.png">Paschim Gujarat Vij Company Ltd.</a></li>

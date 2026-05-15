@@ -16,11 +16,11 @@
 
 	</div>
 
-	<p class="k_p">As DUM 2025 is a closed-door, invite-only event, participation is available through Company Exhibition or Sponsorship.</p>
+	<p class="k_p">As Distribution Utility Meet (DUM) is a closed-door, invite-only event, participation is available through Company Exhibition or Sponsorship.</p>
 
 	<p class="k_p">At this stage, individual delegate entry is not open.
 
-    <br/>Please let us know if you would be interested in exhibiting or sponsoring at DUM 2025, and we will be happy to share further details with you. For details, write to us at <a href="mailto:dum@indiasmartgrid.org">dum@indiasmartgrid.org</a></p>
+	<br/>Please let us know if you would be interested in exhibiting or sponsoring at Distribution Utility Meet (DUM), and we will be happy to share further details with you. For details, write to us at <a href="mailto:dum@indiasmartgrid.org">dum@indiasmartgrid.org</a></p>
 
     <div class="k_cheading"><a href="https://register.indiasmartgrid.org/">
 

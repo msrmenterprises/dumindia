@@ -297,7 +297,7 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 
 	<div class="k_cheading">
 
-			<h1>DUM 2025<span class="k_greencolor"> Knowledge Partner </span> </h1>
+			<h1>DUM 2026<span class="k_greencolor"> Knowledge Partner </span> </h1>
 
 			<img src="images/kborder_bottom.png" alt="">
 
@@ -363,7 +363,7 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 
 		<div class="k_cheading">
 
-				<h1>DUM 2025<span class="k_greencolor"> KEY PARTNER </span> </h1>
+				<h1>DUM 2025<span class="k_greencolor"> KEY PARTNERS </span> </h1>
 
 				<img src="images/kborder_bottom.png" alt="">
 
@@ -408,7 +408,7 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 
 		<div class="k_cheading">
 
-				<h1>DUM 2025<span class="k_greencolor"> Confirmed Exhibitor </span> </h1>
+				<h1>DUM 2025<span class="k_greencolor"> Confirmed Exhibitors </span> </h1>
 
 				<img src="images/kborder_bottom.png" alt="">
 
@@ -608,7 +608,7 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 	</ul> -->
 
 	<div class="k_cheading k_white_haeding">
-		<h1>PREVIOUS EDITIONS UTILITY AND<span class="k_greencolor"> GOVERNMENT PARTICIPANTS OF DUM</span> </h1>
+		<h1>PREVIOUS EDITIONS UTILITIES AND<span class="k_greencolor"> GOVERNMENT PARTICIPANTS OF DUM</span> </h1>
 		<img src="images/kborder_bottomg.png" alt="">
 	</div>
        <ul class="k_confirmed_als">

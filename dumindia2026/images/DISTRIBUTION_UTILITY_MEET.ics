@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 12.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:PUBLISH
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:As India embarks on its smart grid journey, it is imperative that we do not make the same mistakes but learn from each other's experiences. Given the nebulous nature of Smart Grids, which have been described as a journey more than a destination, as well as the fact there is no single architecture, standard, etc., there is immense value to utilities in sharing best practices, lessons learned, challenges faced, etc., in addition to collectively stating needs which will be relevant for solution providers as well as policymakers
+DTEND:20171130T190000Z
+DTSTART:20171129T100000Z
+LOCATION:The Sheraton Grand, Bengaluru
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:DISTRIBUTION  UTILITY MEET
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E008000000008062306C6261CA01000000000000000
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MS-OLK-CONFTYPE:0
+BEGIN:VALARM
+TRIGGER:-PT1440M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR

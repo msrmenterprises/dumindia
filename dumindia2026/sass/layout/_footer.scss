@@ -1,0 +1,105 @@
+#buckyroberts_dum_contactus{
+	background-image: url(../images/footer/bukcyroberts_dum_banner.jpg);
+	background-size: cover;
+	background-position: center center;
+	padding-top: 2%;
+	padding-bottom: 2%;
+	h1{
+		font-family: 'Roboto Condensed';
+		color: $dum-green;
+		font-size: 24px;
+		text-transform: uppercase;
+		font-weight: 700;
+		text-align: center;
+	}
+	.buckyroberts_dum_contactus_icons_div{
+	    padding: -1% 8%;
+	    @media(max-width:930px){
+    	    // padding: 0% 0%;
+	    }
+		.buckyroberts_dum_contactus_icons{
+	    text-align: center;
+	    @media(max-width:580px){
+			width: 100%;
+		    padding: 0% 10%;
+	    }
+		    h4{
+		    	.fa{
+				    color: $dum-green;
+					padding: 8px 7px;
+					font-size: 16px;
+					border-radius: 50%;
+					width: 35px;
+					height: 35px;
+				    border: 1px solid $dum-green;
+				    
+				}
+		    }
+		    p{
+		    	color: #fff;	
+		    	a{
+					text-decoration: none;
+					color: #fff;			
+		    	}
+		    }
+		    &:nth-child(2){
+		   	 h4{
+		    	.fa{
+					padding: 5px 7px;
+					font-size: 23px;
+					}
+			    }
+		    }
+		    &:nth-child(3){
+		   	 h4{
+		    	.fa{
+					font-size: 18px;
+					}
+			    }
+		    }		   
+		}
+	 	
+	}	
+}
+
+#buckyroberts_dum_copyright{
+	background-color: $dum-black;
+	text-align: center;
+    padding: 12px 0px;
+	ul{
+	    padding: 12px 0px;
+		li{
+			list-style-type: none;
+			display: inline-block;
+			position: relative;
+			top: 4px;
+			padding: 0 4px;
+			text-align: center;
+			a{
+				.fa{
+				    color: $dum-gray;
+					padding: 7px 7px;
+					font-size: 10px;
+					border-radius: 50%;
+					width: 27px;
+					height: 27px;
+				    border: 1px solid $dum-gray;
+				}
+			}
+		}
+	}
+	.buckyroberts_dum_copyright_text{
+		h4{
+		font-family: 'Roboto Condensed';
+		color: $dum-white;		
+		font-size: 12px;
+	    letter-spacing: 0.5px;
+		}
+		h5{
+			font-family: 'Roboto Condensed';
+			color: $dum-gray;
+			font-size: 11px;
+		}
+	}
+	
+}

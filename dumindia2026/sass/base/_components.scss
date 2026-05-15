@@ -1,0 +1,79 @@
+.dum_container
+{
+	padding:2% 10%;
+	@media(max-width:800px)
+	{
+		padding:2% 3%;
+	}
+}
+
+.k_cheading
+{
+	text-align:center;
+	margin-bottom:30px;
+	h1
+	{
+		font-family: 'Roboto Condensed';
+	    color: #000000;
+	    font-weight: 600;
+	    font-size: 35px;
+	    margin-bottom: 10px;
+	    letter-spacing: 0.5px;
+	    text-transform: uppercase;
+	    @media(max-width:768px)
+	    {
+	    	font-size: 25px;
+	    }
+	    .k_greencolor
+	    {
+	    	color: $dum-green;
+	    }
+	}
+}
+
+.k_container
+{
+	padding: 0% 8%;
+	@media(max-width:768px)
+	{
+		padding: 0 2%;
+	}
+}
+
+.k_greencolor
+{
+	color:$dum-green;
+}
+
+.k_read_more
+{
+	background:$dum-green;
+	color:#fff;
+	padding:10px 10px;
+	text-decoration:none;
+	text-transform:uppercase;
+	font-size:17px;
+	font-weight:bold;
+	font-family: 'Roboto Condensed';
+	position: relative;
+	z-index:1;
+	@media(max-width:768px)
+	{
+		font-size:15px;
+		letter-spacing: 0.5px;
+	}
+	&:hover
+	{
+		text-decoration: none;
+		color: #fff;
+	}
+}
+
+.k_white_haeding
+{
+	h1
+	{
+	color:#fff !important;
+		
+	}
+}

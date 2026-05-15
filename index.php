@@ -794,6 +794,24 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 			<li><a href="https://www.rti.org/" target="_blank"><img src="/images/2026/RTIInternation.jpeg" style="height:120px;">RTI International</a></li>
 			<li><a href="https://www.kseb.in/" target="_blank"><img src="/images/2026/KeralaState.jpg" style="height:100px;">Kerala State Electricity Board Limited</a></li>
 			<li><a href="https://www.se.com/in/en/" target="_blank"><img src="/images/2026/Schneider.jpeg" style="border: 1px solid #aeb4b2; height:120px;">Schneider Electric</a></li>
+			<li><a href="https://brodersen.com/" target="_blank"><img src="/images/2025/Brodersen.jpeg" style="border: 1px solid #aeb4b2; height:120px;">Brodersen Systems Pvt. Ltd.</a></li>
+			<li><a href="https://www.crigroups.com/" target="_blank"><img src="/images/2026/CRI.png" style="border: 1px solid #aeb4b2; height:120px;">CRI Pumps Pvt Ltd</a></li>
+			<li><a href="https://www.edxwireless.com/" target="_blank"><img src="/images/2026/EDXWireless.jpeg" style="border: 1px solid #aeb4b2; height:120px;">EDX Wireless</a></li>
+			<li><a href="https://enspar.com/" target="_blank"><img src="/images/2026/Enspar.jpeg" style="border: 1px solid #aeb4b2; height:120px;">Enspar Energy Solutions Pvt. Ltd.</a></li>
+			<li><a href="https://www.eppeltone.com/" target="_blank"><img src="/images/2026/Eppeltone.jpg" style="border: 1px solid #aeb4b2; height:120px;">Eppeltone Engineers Limited</a></li>
+			<li><a href="https://madhavengineers.com/" target="_blank"><img src="/images/2026/MADHAVLOGO_002.jpg" style="border: 1px solid #aeb4b2; height:120px;">Madhav Engineers Pvt. Ltd.</a></li>
+			<li><a href="https://www.mahaurja.com/" target="_blank"><img src="/images/images_2018/Energy_GovernmentofMaharashtra_logo.png" style="border: 1px solid #aeb4b2; height:120px;">Maharashtra Energy Development Agency</a></li>
+			<li><a href="https://www.mahadiscom.in/en/home/" target="_blank"><img src="/images/utilities2019/mahavitaran.png" style="border: 1px solid #aeb4b2; height:120px;">Maharashtra State Electricity Distribution Company Limited</a></li>
+			<li><a href="https://www.ncc.co.in/" target="_blank"><img src="/images/2026/ncc.png" style="border: 1px solid #aeb4b2; height:120px;">NCC Ltd</a></li>
+			<li><a href="https://www.plutomen.com/" target="_blank"><img src="/images/2026/Plutomen.png" style="border: 1px solid #aeb4b2; height:120px;">Plutomen</a></li>
+			<li><a href="https://powerfoundationofindia.org/" target="_blank"><img src="/images/2026/PowerFoundationofIndia.jpeg" style="border: 1px solid #aeb4b2; height:120px;">Power Foundation of India</a></li>
+			<li><a href="http://www.probus.io/" target="_blank"><img src="/images/probus.png" style="border: 1px solid #aeb4b2; height:120px;">Probus</a></li>
+			<li><a href="https://www.rmcindia.in/" target="_blank"><img src="/images/2026/rmc.png" style="border: 1px solid #aeb4b2; height:120px;">RMC India</a></li>
+			<li><a href="https://www.successengineers.in/" target="_blank"><img src="/images/2026/SuccessEngineer.jpeg" style="border: 1px solid #aeb4b2; height:120px;">Success Engineers</a></li>
+			<li><a href="https://www.tauruspowertronics.com/" target="_blank"><img src="/images/Exhibitors/TAURUS LOGO.jpg" style="border: 1px solid #aeb4b2; height:120px;">Taurus Powertronics Pvt Ltd</a></li>
+			<li><a href="https://teslatransformers.com/" target="_blank"><img src="/images/2026/tesla-transformers.png" style="border: 1px solid #aeb4b2; height:120px;">Tesla Transformers</a></li>
+			<li><a href="https://trustgroup.in/" target="_blank"><img src="/images/2026/Trustgroup.png" style="border: 1px solid #aeb4b2; height:120px;">Trust Group</a></li>
+			<li><a href="https://www.younity.in/" target="_blank"><img src="/images/2026/Younity.png" style="border: 1px solid #aeb4b2; height:120px;">Younity Energy Pvt Ltd</a></li>
 		</ul>	
 
 	<!-- <p style="margin-bottom: 50px; margin-top: 20px;">

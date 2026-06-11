@@ -337,6 +337,22 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 
 	<div class="k_cheading">
 
+		<h1>DUM 2026<span class="k_greencolor"> SUPPORTED BY </span> </h1>
+
+		<img src="images/kborder_bottom.png" alt="">
+
+		</div>
+
+		<br>
+		<ul class="k_confirmed_als">
+		<li><a href="https://aida-india.org/" target="_blank"><img src="/images/2026/AIDANew.png" alt="All India Discoms Association (AIDA)" style="height: 135px;">All India Discoms Association (AIDA) | Power Distribution Body</a></li>
+		</ul>
+	</div>
+
+	<div class="row k_container k_key_themes" style="background: #fff;">
+
+	<div class="k_cheading">
+
 		<h1>DUM 2025<span class="k_greencolor"> SUPPORTED By  </span> </h1>
 
 		<img src="images/kborder_bottom.png" alt="">

@@ -59,6 +59,26 @@ box-shadow: 0 1px 6px rgba(0, 0, 0, 0.06);
 
 <div class="row dum_container key_div">
 	<div class="k_cheading">
+		<h1><span class="k_greencolor">DUM 2026 </span> PARTNERS </h1>
+		<img src="images/kborder_bottom.png" alt="">
+	</div>
+
+	<BR/>
+		<ul class="k_confirmed_als">
+		<h5><STRONG>KNOWLEDGE PARTNER</STRONG></h5>
+		<li><a href="https://www.powerfoundation.org.in/" target="_blank"><img src="images/2026/PowerFoundationofIndia.jpeg">Power Foundation of India</a></li>
+		</ul>
+
+	<BR/>
+		<ul class="k_confirmed_als">
+		<h5><STRONG>SUPPORTED BY</STRONG></h5>
+		<li><a href="https://aida-india.org/" target="_blank"><img src="images/2026/AIDANew.png">All India Discoms Association (AIDA) | Power Distribution Body</a></li>
+		</ul>
+
+</div>
+
+<div class="row dum_container key_div">
+	<div class="k_cheading">
 		<h1><span class="k_greencolor">DUM 2025 </span> PARTNERS </h1>
 		<img src="images/kborder_bottom.png" alt="">
 	</div>

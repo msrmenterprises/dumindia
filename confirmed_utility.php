@@ -18,6 +18,15 @@
 <div class="row dum_container key_div">
 
 <div class="k_cheading">
+		<h1><span class="k_greencolor">DUM 2026 </span>CONFIRMED UTILITIES</h1>
+		<img src="images/kborder_bottomg.png" alt="">
+</div>
+<ul class="k_confirmed_als">
+	<li><a href="https://www.bsesdelhi.com/web/brpl" target="_blank"><img src="images/bsesllt.png" style="height: 120px;">BSES Rajdhani Power Limited</a></li>
+	<li><a href="https://www.bsesdelhi.com/web/bypl" target="_blank"><img src="/images/bses.png" style="border: 2px solid #aeb4b2; height: 120px;">BSES Yamuna Power Limited</a></li>
+</ul>
+
+<div class="k_cheading">
 		<h1><span class="k_greencolor">DUM 2025 </span>CONFIRMED UTILITIES</h1>
 		<img src="images/kborder_bottomg.png" alt="">
 </div>

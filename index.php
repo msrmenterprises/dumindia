@@ -485,6 +485,17 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 <!-- participants starts here -->
 <div class="row k_parti">
 <div class="k_cheading k_white_haeding">
+		<h1>CONFIRMED UTILITIES  <span class="k_greencolor">OF DUM 2026</span> </h1>
+		<img src="images/kborder_bottomg.png" alt="">
+	</div>
+	<ul class="k_confirmed_als">
+		<li><a href="https://www.bsesdelhi.com/web/brpl" target="_blank"><img src="images/bsesllt.png" style="height: 120px;">BSES Rajdhani Power Limited</a></li>
+		<li><a href="https://www.bsesdelhi.com/web/bypl" target="_blank"><img src="/images/bses.png" style="border: 2px solid #aeb4b2; height: 120px;">BSES Yamuna Power Limited</a></li>
+	</ul>
+</div> 
+
+<div class="row k_parti">
+<div class="k_cheading k_white_haeding">
 		<h1>CONFIRMED UTILITIES  <span class="k_greencolor">OF DUM 2025</span> </h1>
 		<img src="images/kborder_bottomg.png" alt="">
 	</div>

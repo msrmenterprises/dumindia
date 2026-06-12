@@ -8,6 +8,27 @@
 <div class="row dum_container key_div">
 	
 	<div class="k_cheading">
+		<h1><span class="k_greencolor">DUM 2026 </span>SUPPORTED BY </h1>
+		<img src="images/kborder_bottom.png" alt="">
+	</div>
+	<p>
+
+		<br>
+		<ul class="k_confirmed_als">
+			<li>
+				<a href="https://aida-india.org/" target="_blank">
+				<img src="images/2026/AIDANew.png" alt="All India Discoms Association (AIDA)" style="width: 150px; height: 80px; object-fit: contain; border: 1px solid #aeb4b2;">
+				<span>All India Discoms Association (AIDA) | Power Distribution Body</span>
+				</a>
+			</li>
+		</ul>	
+	</p>
+	 
+</div>
+
+<div class="row dum_container key_div">
+	
+	<div class="k_cheading">
 		<h1><span class="k_greencolor">Dum 2025 </span>Supported By </h1>
 		<img src="images/kborder_bottom.png" alt="">
 	</div>

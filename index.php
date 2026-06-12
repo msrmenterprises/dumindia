@@ -316,6 +316,25 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 
 <div class="k_cheading">
 
+		<h1>DUM 2026<span class="k_greencolor"> CO-HOST UTILITIES </span> </h1>
+
+		<img src="images/kborder_bottom.png" alt="">
+
+</div>
+
+<br>
+
+	    <ul class="k_confirmed_als">
+		<li><a href="https://www.bsesdelhi.com/web/brpl" target="_blank"><img src="images/bsesllt.png" style="height: 120px;">BSES Rajdhani Power Limited</a></li>
+		<li><a href="https://www.bsesdelhi.com/web/bypl" target="_blank"><img src="/images/bses.png" style="border: 2px solid #aeb4b2; height: 120px;">BSES Yamuna Power Limited</a></li>
+		</ul>
+
+</div>
+
+<div class="row k_container" style="background: #fff;">
+
+<div class="k_cheading">
+
 		<h1>DUM 2025<span class="k_greencolor"> Co-Host Utilities </span> </h1>
 
 		<img src="images/kborder_bottom.png" alt="">
@@ -489,7 +508,7 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 		<img src="images/kborder_bottomg.png" alt="">
 	</div>
 	<ul class="k_confirmed_als">
-		<li><a href="https://www.bsesdelhi.com/web/brpl" target="_blank"><img src="images/bsesllt.png" style="height: 120px;">BSES Rajdhani Power Limited</a></li>
+		<li><a href="https://www.bsesdelhi.com/web/brpl" target="_blank"><img src="imageNext Tasls/bsesllt.png" style="height: 120px;">BSES Rajdhani Power Limited</a></li>
 		<li><a href="https://www.bsesdelhi.com/web/bypl" target="_blank"><img src="/images/bses.png" style="border: 2px solid #aeb4b2; height: 120px;">BSES Yamuna Power Limited</a></li>
 	</ul>
 </div> 

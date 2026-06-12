@@ -57,7 +57,7 @@
 		<br>
 		<ul class="k_confirmed_als">
 			<li><a href="https://upneda.org.in/" target="_blank"><img src="images/UP Department of Energy.png" style="border: 1px solid #aeb4b2;height: 135px;">Energy Department of Uttar Pradesh</a></li>
-			<li><a href="https://cea.nic.in/?lang=en" target="_blank"><img src="images/cea .jpg" style="border: 1px solid #aeb4b2;height: 135px;">Central Electricity Authority</a></li>
+			<li><a href="https://cea.nic.in/?lang=en" target="_blank"><img src="images/cea .jpg" style="border: 1px solid #aeb4b2;">Central Electricity Authority</a></li>
 			<li><a href="https://powermin.gov.in/" target="_blank"><img src="/images/MOP.png" style="border: 1px solid #aeb4b2;height: 135px;">Ministry of Power</a></li>
 
 			<!--<li><a href="https://www.niti.gov.in/" target="_blank"><img src="/images/NITI Aayog.png" style="border: 1px solid #aeb4b2;height: 135px;">NITI Aayog</a></li>

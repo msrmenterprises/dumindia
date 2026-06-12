@@ -71,6 +71,13 @@ box-shadow: 0 1px 6px rgba(0, 0, 0, 0.06);
 
 	<BR/>
 		<ul class="k_confirmed_als">
+		<h5><STRONG>CO-HOST UTILITIES</STRONG></h5>
+		<li><a href="https://www.bsesdelhi.com/web/brpl" target="_blank"><img src="images/bsesllt.png" style="height: 120px;">BSES Rajdhani Power Limited</a></li>
+		<li><a href="https://www.bsesdelhi.com/web/bypl" target="_blank"><img src="/images/bses.png" style="border: 2px solid #aeb4b2; height: 120px;">BSES Yamuna Power Limited</a></li>
+		</ul>
+
+	<BR/>
+		<ul class="k_confirmed_als">
 		<h5><STRONG>SUPPORTED BY</STRONG></h5>
 		<li><a href="https://aida-india.org/" target="_blank"><img src="images/2026/AIDANew.png">All India Discoms Association (AIDA) | Power Distribution Body</a></li>
 		</ul>

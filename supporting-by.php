@@ -15,7 +15,7 @@
 
 		<br>
 		<ul class="k_confirmed_als">
-			<li><a href="https://aida-india.org/" target="_blank"><img src="images/2026/AIDANew.png" alt="All India Discoms Association (AIDA)" style="border: 1px solid #aeb4b2;height: 135px;">All India Discoms Association (AIDA) | Power Distribution Body</a></li>
+			<li><a href="https://aida-india.org/" target="_blank"><img src="images/2026/AIDANew.png" alt="All India Discoms Association (AIDA)" style="border: 1px solid #aeb4b2;height: 135px;">All India Discoms Association (AIDA)</a></li>
 		</ul>	
 	</p>
 	 

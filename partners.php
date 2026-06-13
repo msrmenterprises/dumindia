@@ -79,7 +79,7 @@ box-shadow: 0 1px 6px rgba(0, 0, 0, 0.06);
 	<BR/>
 		<ul class="k_confirmed_als">
 		<h5><STRONG>SUPPORTED BY</STRONG></h5>
-		<li><a href="https://aida-india.org/" target="_blank"><img src="images/2026/AIDANew.png">All India Discoms Association (AIDA) | Power Distribution Body</a></li>
+		<li><a href="https://aida-india.org/" target="_blank"><img src="images/2026/AIDANew.png">All India Discoms Association (AIDA)</a></li>
 		</ul>
 
 </div>

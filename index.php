@@ -364,7 +364,7 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 
 		<br>
 		<ul class="k_confirmed_als">
-		<li><a href="https://aida-india.org/" target="_blank"><img src="/images/2026/AIDANew.png" alt="All India Discoms Association (AIDA)" style="height: 135px;">All India Discoms Association (AIDA) | Power Distribution Body</a></li>
+		<li><a href="https://aida-india.org/" target="_blank"><img src="/images/2026/AIDANew.png" alt="All India Discoms Association (AIDA)" style="height: 135px;">All India Discoms Association (AIDA)</a></li>
 		</ul>
 	</div>
 

@@ -7,12 +7,16 @@
 <div class="row dum_container key_div">
 
 <div class="k_cheading">
+		<h2>DUM 2026 SUPPORTING MEDIA PARTNER</h2>
+	</div>
+
+	<div class="k_cheading">
 		<h1><span class="k_greencolor">DUM 2026 </span>Supporting Media Partner </h1>
 		<img src="images/kborder_bottomg.png" alt="">
 	</div>
 	<ul class="k_confirmed_als">
-			<li><a href="https://www.eprmagazine.com/" target="_blank"><img src="images/EPR Logo.jpg" style="width: 180px; height: 180px;"></a></li>
-			<li><a href="https://www.oemupdate.com/" target="_blank"><img src="images/2026/oem-update.png" style=""></a></li>
+			<li><a href="https://www.eprmagazine.com/" target="_blank" rel="noopener noreferrer" title="EPR Magazine - Electrical & Power Review | electrical & power news | EPR"><img src="images/EPR Logo.jpg" alt="EPR Magazine - Electrical & Power Review" style="width: 180px; height: 180px;"></a></li>
+			<li><a href="https://www.oemupdate.com/" target="_blank" rel="noopener noreferrer" title="OEM Update"><img src="images/2026/oem-update.png" alt="OEM Update"></a></li>
 		</ul>
 
 	<div class="k_cheading">

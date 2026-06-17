@@ -6,9 +6,7 @@
 </div>
 <div class="row dum_container key_div">
 
-<div class="k_cheading">
-		<h2>DUM 2026 SUPPORTING MEDIA PARTNER</h2>
-	</div>
+
 
 	<div class="k_cheading">
 		<h1><span class="k_greencolor">DUM 2026 </span>Supporting Media Partner </h1>

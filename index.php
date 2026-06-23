@@ -365,6 +365,7 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 		<br>
 		<ul class="k_confirmed_als">
 		<li><a href="https://aida-india.org/" target="_blank"><img src="/images/2026/AIDANew.png" alt="All India Discoms Association (AIDA)" style="height: 135px;">All India Discoms Association (AIDA)</a></li>
+		<li><a href="https://cea.nic.in/?lang=en" target="_blank"><img src="/images/2026/CEA.png" alt="Central Electricity Authority (CEA)" style="width: 183px;">Central Electricity Authority (CEA)</a></li>
 		</ul>
 	</div>
 

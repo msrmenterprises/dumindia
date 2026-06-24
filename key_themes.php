@@ -13,22 +13,22 @@
 <!--<div class="row dum_container keythemes_div">-->
 <div class="row dum_container key_div">
     <div class="k_cheading">
-        <h1><span class="k_greencolor">KEY THEMES OF 2025</span> </h1>
+        <h1><span class="k_greencolor">KEY THEMES OF 2026</span> </h1>
         <img src="images/kborder_bottom.png" alt="">
     </div>
 
     <p>DUM will include Plenaries and Presentations. Invited international utilities and Knowledge Partners will present on select topics. Case studies and project experiences will be discussed in the sessions. Presentations and discussions will be around below mentioned themes during DUM Conference:</b></p>
     <br/><br/>
     <ul>
-        <li><b>AIDA Vision and Roadmap</b></li>
-        <li><b>Policy and Regulatory Interventions for DISCOMs Sustainability</b></li>
-        <li><b>Smart Metering and Digitalization of DISCOMs</b></li>
-        <li><b>AI Data Centers - Opportunities and Challenges</b></li>
-        <li><b>Grid Integration of RE and EV</b></li>
-        <li><b>Artificial Intelligence Applications for Utilities</b></li>
-        <li><b>Revision of Equipment Specifications to Address Rising Ambient Temperature</b></li>
-        <li><b>PPP Models for DISCOMs Sustainability</b></li>
-        <li><b>Digital Energy Grids and the Emerging Era of P2P Energy Trading</b></li>
+        <li><b>Turn Around of DISCOM's Finances</b></li>
+        <li><b>Advanced Analytics on Smart Meter Data</b></li>
+        <li><b>New Loads - AI Data Centers and EVs</b></li>
+        <li><b>Flexibility Solutions for Distribution Grid</b></li>
+        <li><b>AI - ML Use Cases for DISCOMs</b></li>
+        <li><b>Climate Resilience Measures for DISCOMs</b></li>
+        <li><b>Listing of DISCOMs on Capital Markets</b></li>
+        <li><b>DISCOMs Role in India Energy Stack (IES)</b></li>
+        <li><b>Cyber Security for Digital Grids</b></li>
     </ul>
     <br>
 </div>

@@ -273,7 +273,7 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 
 <div class="k_cheading">
 
-		<h1>DUM 2025<span class="k_greencolor"> Host Utilities </span> </h1>
+		<h1>DUM 2026<span class="k_greencolor"> Host Utilities </span> </h1>
 
 		<img src="images/kborder_bottom.png" alt="">
 
@@ -282,8 +282,7 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 <br>
 
 	    <ul class="k_confirmed_als">
-		<li><a href="https://www.mahadiscom.in/en/home/" target="_blank"><img src="images/MSEDCL_logo.jpg" style="height:120px;">MSEDCL</a></li>
-		<li><a href="https://www.tatapower.com/" target="_blank"><img src="images/2024/tatapower.png" style="height: 135px;">Tata Power </a></li>
+		<li><a href="https://energy.rajasthan.gov.in/content/raj/energy-department/jaipur-vidyut-vitran-nigam-ltd-/en/home.html" target="_blank"><img src="images/utilities2019/jvvnl.png" style="height:120px;">JVVNL - Jaipur Vidyut Vitran Nigam Limited</a></li>
 
         <!--<li><a href="https://uppcl.org/uppcl/hi/" target="_blank"><img src="images/2024/uppcl.png" style="height:155px;"> UPPCL</a></li> 
 

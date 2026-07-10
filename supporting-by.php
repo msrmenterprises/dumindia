@@ -15,6 +15,7 @@
 
 		<br>
 		<ul class="k_confirmed_als">
+			<li><a href="https://www.powermin.gov.in/" target="_blank"><img src="/images/2026/MOP.png" alt="Ministry of Power" style="border: 1px solid #aeb4b2;height: 135px;">Ministry of Power</a></li>
 			<li><a href="https://aida-india.org/" target="_blank"><img src="images/2026/AIDANew.png" alt="All India Discoms Association (AIDA)" style="border: 1px solid #aeb4b2;height: 135px;">All India Discoms Association (AIDA)</a></li>
 			<li><a href="https://cea.nic.in/?lang=en" target="_blank"><img src="images/2026/CEA.png" alt="Central Electricity Authority (CEA)" style="border: 1px solid #aeb4b2;">Central Electricity Authority (CEA)</a></li>
 		</ul>	

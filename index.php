@@ -273,7 +273,7 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 
 <div class="k_cheading">
 
-		<h1>DUM 2026<span class="k_greencolor"> Host Utilities </span> </h1>
+		<h1>DUM 2026<span class="k_greencolor"> Host Utility </span> </h1>
 
 		<img src="images/kborder_bottom.png" alt="">
 
@@ -363,6 +363,7 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 
 		<br>
 		<ul class="k_confirmed_als">
+		<li><a href="https://www.powermin.gov.in/" target="_blank"><img src="/images/2026/MOP.png" alt="Ministry of Power">Ministry of Power</a></li>
 		<li><a href="https://aida-india.org/" target="_blank"><img src="/images/2026/AIDANew.png" alt="All India Discoms Association (AIDA)" style="height: 135px;">All India Discoms Association (AIDA)</a></li>
 		<li><a href="https://cea.nic.in/?lang=en" target="_blank"><img src="/images/2026/CEA.png" alt="Central Electricity Authority (CEA)" >Central Electricity Authority (CEA)</a></li>
 		</ul>

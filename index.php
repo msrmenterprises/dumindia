@@ -511,7 +511,7 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 		<img src="images/kborder_bottomg.png" alt="">
 	</div>
 	<ul class="k_confirmed_als">
-		<li><a href="https://www.bsesdelhi.com/web/brpl" target="_blank"><img src="imageNext Tasls/bsesllt.png" style="height: 120px;">BSES Rajdhani Power Limited</a></li>
+		<li><a href="https://www.bsesdelhi.com/web/brpl" target="_blank"><img src="images/bsesllt.png" style="height: 120px;">BSES Rajdhani Power Limited</a></li>
 		<li><a href="https://www.bsesdelhi.com/web/bypl" target="_blank"><img src="/images/bses.png" style="border: 2px solid #aeb4b2; height: 120px;">BSES Yamuna Power Limited</a></li>
 		<li><a href="https://www.tatapower.com/" target="_blank"><img src="/images/tatapower.png" style="height: 120px;">Tata Power Company Limited</a></li>
 		<li><a href="https://www.tatapower-ddl.com/" target="_blank"><img src="images/utilities2019/tatapowerdlll.png" style="height: 120px;">Tata Power Delhi Distribution Limited</a></li>

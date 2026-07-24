@@ -92,6 +92,12 @@ box-shadow: 0 1px 6px rgba(0, 0, 0, 0.06);
 		<li><a href="https://cea.nic.in/?lang=en" target="_blank"><img src="images/2026/CEA.png">Central Electricity Authority (CEA)</a></li>
 		</ul>
 
+	<BR/>
+		<ul class="k_confirmed_als">
+		<h5><STRONG>THEMATIC SESSION PARTNER</STRONG></h5>
+		<li><a href="https://www.oracle.com/in/utilities/" target="_blank"><img src="images/2026/OracleUtilities.png" style="height: 100px;">Oracle</a></li>
+		</ul>
+
 </div>
 
 <div class="row dum_container key_div">

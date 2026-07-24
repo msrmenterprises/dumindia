@@ -371,6 +371,51 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 		</ul>
 	</div>
 
+	<div class="row k_container" style="background: #fff;">
+
+	<div class="k_cheading">
+
+		<h1>DUM 2026<span class="k_greencolor"> KEY PARTNER </span> </h1>
+
+		<img src="images/kborder_bottom.png" alt="">
+
+	</div>
+
+	<br>
+
+	<ul class="k_confirmed_als">
+		<h5><b>THEMATIC SESSION PARTNER</b></h5>
+		<li><a href="https://www.oracle.com/in/utilities/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" style="border: 1px solid #aeb4b2; height: 100px;" alt="Oracle">Oracle</a></li>
+	</ul>
+
+	<br>
+
+	<div class="k_cheading">
+
+		<h1>DUM 2026<span class="k_greencolor"> CONFIRMED EXHIBITORS </span> </h1>
+
+		<img src="images/kborder_bottom.png" alt="">
+
+	</div>
+
+	<br>
+
+	<ul class="k_confirmed_als">
+		<h5><b>PLATINUM EXHIBITORS</b></h5>
+		<li><a href="https://www.powerfoundation.org.in/" target="_blank"><img src="images/2026/PowerFoundationofIndia.jpeg" style="height:120px;" alt="Power Foundation of India">Power Foundation of India</a></li>
+		<li><a href="https://brodersen.com/" target="_blank"><img src="/images/2025/Brodersen.jpeg" style="height:100px;" alt="Brodersen Systems Pvt. Ltd">Brodersen Systems Pvt. Ltd.</a></li>
+	</ul>
+
+	<br>
+
+	<ul class="k_confirmed_als">
+		<h5><b>GOLD EXHIBITORS</b></h5>
+		<li><a href="https://www.oracle.com/in/utilities/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" style="border: 1px solid #aeb4b2; height: 100px;" alt="Oracle">Oracle</a></li>
+		<li><a href="https://www.indiasmartgrid.org/" target="_blank"><img src="images/2026/ISGF.png" style="height:120px;" alt="ISGF">ISGF</a></li>
+	</ul>
+
+	</div>
+
 	<div class="row k_container k_key_themes" style="background: #fff;">
 
 	<div class="k_cheading">

@@ -59,7 +59,7 @@ box-shadow: 0 1px 6px rgba(0, 0, 0, 0.06);
 		</ul>
 		<ul class="k_confirmed_als">
 			<h5><strong>GOLD EXHIBITORS </strong></h5>
-			<li><a href="https://www.oracle.com/in/utilities/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" style="height:80px;">Oracle</a></li>
+			<li><a href="https://www.oracle.com/in/utilities/" target="_blank"><img src="/images/2026/OracleUtilities.png" style="height:80px;">Oracle</a></li>
 			<li><a href="https://www.indiasmartgrid.org/" target="_blank"><img src="images/2026/ISGF.png" style="height:120px;">ISGF</a></li>
 		</ul>
 	</div>

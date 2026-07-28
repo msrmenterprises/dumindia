@@ -65,6 +65,14 @@ box-shadow: 0 1px 6px rgba(0, 0, 0, 0.06);
 
 	<BR/>
 		<ul class="k_confirmed_als">
+		<h5><STRONG>SUPPORTED BY</STRONG></h5>
+		<li><a href="https://www.powermin.gov.in/" target="_blank"><img src="images/2026/MOP.png">Ministry of Power</a></li>
+		<li><a href="https://aida-india.org/" target="_blank"><img src="images/2026/AIDANew.png">All India Discoms Association (AIDA)</a></li>
+		<li><a href="https://cea.nic.in/?lang=en" target="_blank"><img src="images/2026/CEA.png">Central Electricity Authority (CEA)</a></li>
+		</ul>
+
+	<BR/>
+		<ul class="k_confirmed_als">
 		<h5><STRONG>HOST UTILITIES</STRONG></h5>
 		<li><a href="https://energy.rajasthan.gov.in/jvvnl/#/home/dptHome" target="_blank"><img src="images/2026/HostUtilityJVVNL.jpg" style="height: 100px;">Jaipur Vidyut Vitran Nigam Limited - पोर्टल, राजस्थान सरकार</a></li>
 		<li><a href="https://www.tatapower.com/" target="_blank"><img src="/images/tatapower.png" style="height: 120px;">Tata Power Company Limited</a></li>
@@ -86,16 +94,20 @@ box-shadow: 0 1px 6px rgba(0, 0, 0, 0.06);
 
 	<BR/>
 		<ul class="k_confirmed_als">
-		<h5><STRONG>SUPPORTED BY</STRONG></h5>
-		<li><a href="https://www.powermin.gov.in/" target="_blank"><img src="images/2026/MOP.png">Ministry of Power</a></li>
-		<li><a href="https://aida-india.org/" target="_blank"><img src="images/2026/AIDANew.png">All India Discoms Association (AIDA)</a></li>
-		<li><a href="https://cea.nic.in/?lang=en" target="_blank"><img src="images/2026/CEA.png">Central Electricity Authority (CEA)</a></li>
+		<h5><STRONG>THEMATIC SESSION PARTNER</STRONG></h5>
+		<li><a href="https://www.oracle.com/in/utilities/" target="_blank"><img src="images/2026/OracleUtilities.png" style="height: 100px;">Oracle</a></li>
 		</ul>
 
 	<BR/>
 		<ul class="k_confirmed_als">
-		<h5><STRONG>THEMATIC SESSION PARTNER</STRONG></h5>
-		<li><a href="https://www.oracle.com/in/utilities/" target="_blank"><img src="images/2026/OracleUtilities.png" style="height: 100px;">Oracle</a></li>
+		<h5><STRONG>TECHNOLOGY INNOVATION PARTNER</STRONG></h5>
+		<li><a href="https://www.workongrid.com/" target="_blank"><img src="images/2026/Gridlogo.png" style="height: 95px;">GRID</a></li>
+		</ul>
+
+	<BR/>
+		<ul class="k_confirmed_als">
+		<h5><STRONG>SESSION PARTNER</STRONG></h5>
+		<li><a href="https://www.intellismartinfra.in/" target="_blank"><img src="images/2026/Intellismartlogo.jpg" style="height: 95px;">IntelliSmart</a></li>
 		</ul>
 
 </div>

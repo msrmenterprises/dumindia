@@ -21,7 +21,7 @@
 <div class="row dum_container knowledge_div organiser_divnopadding k_organiser">
 <div class="col-md-4 col-sm-12">
 	<div class="k_cheading">
-		<h1><span class="k_greencolor">Host Utilities</span> </h1>
+		<h1><span class="k_greencolor">Host Utility</span> </h1>
 		<img src="images/kborder_bottom.png" alt="">
 	</div>
 

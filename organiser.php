@@ -27,7 +27,7 @@
 
 	<ul class="">
 	<li><a href="https://energy.rajasthan.gov.in/content/raj/energy-department/jaipur-vidyut-vitran-nigam-ltd-/en/home.html" target="_blank"><img src="/images/2026/HostUtilityJVVNL.jpg" alt="Jaipur Vidyut Vitran Nigam Limited" style="height: 120px;"></a></li>
-	<li><a href="https://www.tatapower-ddl.com/" target="_blank"><img src="/images/2026/tatapowerDDL.png" alt="Tata Power Delhi Distribution Limited" style="height:120px;"></a></li>
+	<!-- <li><a href="https://www.tatapower-ddl.com/" target="_blank"><img src="/images/2026/tatapowerDDL.png" alt="Tata Power Delhi Distribution Limited" style="height:120px;"></a></li> -->
 	        <!-- <li><a href="https://uppcl.org/uppcl/hi/" target="_blank"><img src="/images/UPPCL (2).jpg" alt="" style="width:150px; height: 140px;"></a></li>  
 	        <li><a href="https://uppcl.org/uppcl/hi/" target="_blank"><img src="/images/UPREV_Logo D.png" alt="" style="width:150px; height: 135px;"></a></li>   -->
 		<!--<li><a href="https://www.kseb.in/index.php?lang=en"" target="_blank"><img src="/images/KSEB_Logo_2022.png" alt="" style="width:200px; height: 140px;"></a></li>  

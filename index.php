@@ -885,14 +885,14 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 
 /* Responsive grid ensures logos line up neatly */
 .k_confirmed_als {
-	display: grid;
-	grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
 	gap: 14px; /* uniform spacing for cleaner alignment */
 	list-style: none;
 	padding: 0;
 	margin: 0 auto;
 	align-items: stretch;
-	justify-items: stretch;
 }
 
 /* Each item stretches so every logo card keeps the same visual footprint */
@@ -901,6 +901,8 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 	text-align: center;
 	margin: 0;
 	padding: 0;
+	flex: 0 0 190px;
+	max-width: 190px;
 	width: auto !important;
 }
 
@@ -949,7 +951,8 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 
 /* Reduce spacing on small screens */
 @media (max-width: 576px) {
-	.k_confirmed_als { grid-template-columns: repeat(2, 1fr); gap:10px; }
+	.k_confirmed_als { gap:10px; }
+	.k_confirmed_als li { flex: 0 0 calc(50% - 10px); max-width: calc(50% - 10px); }
 	.k_confirmed_als li a { min-height: 170px; padding: 10px 8px; }
 	.k_confirmed_als li img {
 		width: 120px !important;

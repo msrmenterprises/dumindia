@@ -26,8 +26,8 @@
 	</div>
 
 	<ul class="">
-	<li><a href="https://www.tatapower.com/" target="_blank"><img src="/images/tatapower.png" alt="" style="height: 120px;"></a></li> 
-	<li><a href="https://www.mahadiscom.in/en/home/" target="_blank"><img src="images/MSEDCL_logo.jpg" style="height:120px;"></a></li>
+	<li><a href="https://energy.rajasthan.gov.in/content/raj/energy-department/jaipur-vidyut-vitran-nigam-ltd-/en/home.html" target="_blank"><img src="/images/2026/HostUtilityJVVNL.jpg" alt="Jaipur Vidyut Vitran Nigam Limited" style="height: 120px;"></a></li>
+	<li><a href="https://www.tatapower-ddl.com/" target="_blank"><img src="/images/2026/tatapowerDDL.png" alt="Tata Power Delhi Distribution Limited" style="height:120px;"></a></li>
 	        <!-- <li><a href="https://uppcl.org/uppcl/hi/" target="_blank"><img src="/images/UPPCL (2).jpg" alt="" style="width:150px; height: 140px;"></a></li>  
 	        <li><a href="https://uppcl.org/uppcl/hi/" target="_blank"><img src="/images/UPREV_Logo D.png" alt="" style="width:150px; height: 135px;"></a></li>   -->
 		<!--<li><a href="https://www.kseb.in/index.php?lang=en"" target="_blank"><img src="/images/KSEB_Logo_2022.png" alt="" style="width:200px; height: 140px;"></a></li>  
@@ -89,9 +89,9 @@
 		<img src="images/kborder_bottom.png" alt="">
 	</div>
      <ul class="">		
-	 <li><a href="" target="_blank"><img src="/images/2026/AIDANew.png" alt="" style="width:200px; height: 140px;"></a></li>
-	 <li><a href="#" target="_blank"><img src="images/2026/energydepartment.png" style="width:75%"></a></li>
-	<li><a href="https://cea.nic.in/?lang=en" target="_blank"><img src="/images/2026/CEA.png" style="width: 183px;margin-top:55px"></a></li>
+	 <li><a href="https://www.powermin.gov.in/" target="_blank"><img src="/images/2026/MOP.png" alt="Ministry of Power" style="width:200px; height: 140px;"></a></li>
+	 <li><a href="https://cea.nic.in/?lang=en" target="_blank"><img src="/images/2026/CEA.png" alt="Central Electricity Authority" style="width: 183px;margin-top:55px"></a></li>
+	 <li><a href="https://aida-india.org/" target="_blank"><img src="/images/2026/AIDANew.png" alt="All India Discoms Association" style="width:200px; height: 140px;"></a></li>
 		<!-- <li><a href="https://upneda.org.in/" target="_blank"><img src="images/UP Department of Energy.png" style="width:200px; height: 140px;"></a></li> -->
 		</ul>
 </div>

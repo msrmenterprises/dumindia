@@ -364,7 +364,14 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 
 	<ul class="k_confirmed_als">
 		<h5><b>THEMATIC SESSION PARTNER</b></h5>
-		<li><a href="https://www.oracle.com/in/utilities/" target="_blank"><img src="images/2026/OracleUtilities.png" style="border: 1px solid #aeb4b2; height: 100px;" alt="Oracle">Oracle</a></li>
+		<li><a href="https://www.oracle.com/in/utilities/" target="_blank"><img src="images/2026/OracleUtilities1.png" style="border: 1px solid #aeb4b2; height: 100px;" alt="Oracle">Oracle</a></li>
+	</ul>
+
+	<br>
+
+	<ul class="k_confirmed_als">
+		<h5><b>DELEGATE KIT PARTNER</b></h5>
+		<li><a href="https://wirepas.com/" target="_blank"><img src="images/2026/Wirepas.jpeg" style="border: 1px solid #aeb4b2; height: 100px;" alt="Wirepas">Wirepas</a></li>
 	</ul>
 
 	<br>

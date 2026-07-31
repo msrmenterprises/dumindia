@@ -885,49 +885,53 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 
 /* Responsive grid ensures logos line up neatly */
 .k_confirmed_als {
-	display: block;
-	grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
-	gap: 12px 18px; /* row gap, column gap */
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+	gap: 14px; /* uniform spacing for cleaner alignment */
 	list-style: none;
 	padding: 0;
 	margin: 0 auto;
-	align-items: start;
-	justify-items: center;
-	grid-auto-rows: minmax(120px, auto); /* helps normalize row heights */
+	align-items: stretch;
+	justify-items: stretch;
 }
 
-/* Each item becomes a centered column; captions are full-width below the logo */
+/* Each item stretches so every logo card keeps the same visual footprint */
 .k_confirmed_als li {
 	list-style: none;
 	text-align: center;
 	margin: 0;
-	padding: 6px 4px;
+	padding: 0;
+	width: auto !important;
 }
 
 .k_confirmed_als li a {
 	display: flex;
 	flex-direction: column;
 	align-items: center;
-	justify-content: center;
+	justify-content: flex-start;
 	text-decoration: none;
 	color: inherit;
 	width: 100%;
+	min-height: 200px;
+	padding: 12px 10px;
+	background: #ffffff;
+	border: 1px solid rgba(44,58,100,0.12);
+	border-radius: 8px;
+	box-shadow: 0 1px 6px rgba(0,0,0,0.05);
 }
 
-/* Force consistent logo sizing and neutral background. Use !important to override inline height attributes. */
+/* Fixed logo zone creates consistency even when original logo ratios are different */
 .k_confirmed_als li img {
-	max-width: 160px !important;
-	max-height: 110px !important;
-	width: auto !important;
-	height: auto !important;
+	width: 150px !important;
+	height: 92px !important;
+	max-width: 150px !important;
+	max-height: 92px !important;
 	object-fit: contain;
-	border-radius: 6px;
-	box-shadow: 0 1px 6px rgba(0,0,0,0.06);
-	background: #fff;
-	padding: 6px;
+	background: #ffffff;
+	padding: 4px;
 	display: block;
-	margin: 0 auto 8px;
-	border: 1px solid rgba(44,58,100,0.08) !important;
+	margin: 0 auto 10px;
+	border: 0 !important;
 }
 
 /* Ensure any textual caption inside the anchor fills the width and centers */
@@ -946,7 +950,14 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 /* Reduce spacing on small screens */
 @media (max-width: 576px) {
 	.k_confirmed_als { grid-template-columns: repeat(2, 1fr); gap:10px; }
-	.k_confirmed_als li img { max-width:120px !important; max-height:80px !important; padding:4px; }
+	.k_confirmed_als li a { min-height: 170px; padding: 10px 8px; }
+	.k_confirmed_als li img {
+		width: 120px !important;
+		height: 74px !important;
+		max-width: 120px !important;
+		max-height: 74px !important;
+		padding: 2px;
+	}
 	.k_confirmed_als h5 { font-size: 13px; padding:6px 8px; }
 }
 

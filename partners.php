@@ -100,6 +100,12 @@ box-shadow: 0 1px 6px rgba(0, 0, 0, 0.06);
 
 	<BR/>
 		<ul class="k_confirmed_als">
+		<h5><STRONG>DELEGATE KIT PARTNER</STRONG></h5>
+		<li><a href="https://wirepas.com/" target="_blank"><img src="images/2026/Wirepas.jpeg" style="height: 100px;">Wirepas</a></li>
+		</ul>
+
+	<BR/>
+		<ul class="k_confirmed_als">
 		<h5><STRONG>TECHNOLOGY INNOVATION PARTNER</STRONG></h5>
 		<li><a href="https://www.workongrid.com/" target="_blank"><img src="images/2026/Gridlogo.png" style="height: 95px;">GRID</a></li>
 		</ul>

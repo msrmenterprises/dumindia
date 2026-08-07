@@ -58,12 +58,16 @@ box-shadow: 0 1px 6px rgba(0, 0, 0, 0.06);
 			<li><a href="https://brodersen.com/" target="_blank"><img src="/images/2025/Brodersen.jpeg" style="height:100px;">Brodersen Systems Pvt. Ltd.</a></li>
 			<li><a href="https://www.tatapower.com/" target="_blank"><img src="images/2026/tatapower.png" style="height:110px;">Tata Power Company Limited</a></li>
 			<li><a href="https://www.tatapower-ddl.com/" target="_blank"><img src="images/2026/tatapowerDDL.png" style="height:100px;">Tata Power Delhi Distribution Limited</a></li>
+			<li><a href="https://www.tauruspowertronics.com/" target="_blank"><img src="images/2026/TaurusPowertronics.jpg" style="height:100px;">Taurus Powertronics</a></li>
 		</ul>
 		<ul class="k_confirmed_als">
 			<h5><strong>GOLD EXHIBITORS </strong></h5>
-			<li><a href="https://www.oracle.com/in/utilities/" target="_blank"><img src="/images/2026/OracleUtilities.png" style="height:80px;">Oracle</a></li>
+			<li><a href="https://www.oracle.com/in/utilities/" target="_blank"><img src="/images/2026/OracleUtilities1.png" style="height:80px;">Oracle</a></li>
 			<li><a href="https://www.indiasmartgrid.org/" target="_blank"><img src="images/2026/ISGF.png" style="height:120px;">ISGF</a></li>
 			<li><a href="https://www.workongrid.com/" target="_blank"><img src="images/2026/Gridlogo.png" style="height:95px;">GRID</a></li>
+			<li><a href="https://yitran.com/" target="_blank"><img src="images/2026/yitran-lo.png" style="height:100px;">Yitran Technologies</a></li>
+			<li><a href="https://www.eaton.com/in/en-us.html" target="_blank"><img src="images/2026/eaton.png" style="height:100px;">Eaton</a></li>
+			<li><a href="https://rmcindia.in/" target="_blank"><img src="images/2026/rmc.png" style="height:100px;">RMC India</a></li>
 		</ul>
 	</div>
 	<div class="row dum_container key_div">

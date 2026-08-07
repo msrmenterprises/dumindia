@@ -282,6 +282,7 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 		<br>
 		<ul class="k_confirmed_als">
 		<li><a href="https://www.powermin.gov.in/" target="_blank"><img src="/images/2026/MOP.png" alt="Ministry of Power" style="height: 100px;">Ministry of Power</a></li>
+		<li><a href="https://www.niti.gov.in/" target="_blank"><img src="/images/2026/NITIAayog.jpg" alt="NITI Aayog" style="height: 100px;">NITI Aayog</a></li>
 		<li><a href="https://aida-india.org/" target="_blank"><img src="/images/2026/AIDANew.png" alt="All India Discoms Association (AIDA)" style="height: 100px;">All India Discoms Association (AIDA)</a></li>
 		<li><a href="https://cea.nic.in/?lang=en" target="_blank"><img src="/images/2026/CEA.png" alt="Central Electricity Authority (CEA)" style="height: 100px;">Central Electricity Authority (CEA)</a></li>
 		</ul>
@@ -291,7 +292,7 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 
 <div class="k_cheading">
 
-		<h1>DUM 2026<span class="k_greencolor"> Host Utilities </span> </h1>
+		<h1>DUM 2026<span class="k_greencolor"> Host Utility </span> </h1>
 
 		<img src="images/kborder_bottom.png" alt="">
 
@@ -301,8 +302,6 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 
 	    <ul class="k_confirmed_als">
 		<li><a href="https://energy.rajasthan.gov.in/content/raj/energy-department/jaipur-vidyut-vitran-nigam-ltd-/en/home.html" target="_blank"><img src="images/utilities2019/jvvnl.png" style="height:100px;">JVVNL - Jaipur Vidyut Vitran Nigam Limited</a></li>
-		<li><a href="https://www.tatapower.com/" target="_blank"><img src="/images/tatapower.png" style="height:100px;">Tata Power Company Limited</a></li>
-		<li><a href="https://www.tatapower-ddl.com/" target="_blank"><img src="images/utilities2019/tatapowerdlll.png" style="height:100px;">Tata Power Delhi Distribution Limited</a></li>
 
         <!--<li><a href="https://uppcl.org/uppcl/hi/" target="_blank"><img src="images/2024/uppcl.png" style="height:155px;"> UPPCL</a></li> 
 
@@ -345,7 +344,9 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 
 	    <ul class="k_confirmed_als">
 		<li><a href="https://www.bsesdelhi.com/web/brpl" target="_blank"><img src="images/bsesllt.png" style="height:100px;">BSES Rajdhani Power Limited</a></li>
+		<li><a href="https://www.tatapower-ddl.com/" target="_blank"><img src="images/utilities2019/tatapowerdlll.png" style="height:100px;">Tata Power Delhi Distribution Limited</a></li>
 		<li><a href="https://www.bsesdelhi.com/web/bypl" target="_blank"><img src="/images/bses.png" style="border: 2px solid #aeb4b2; height:100px;">BSES Yamuna Power Limited</a></li>
+		<li><a href="https://www.tatapower.com/" target="_blank"><img src="/images/tatapower.png" style="height:100px;">Tata Power Company Limited</a></li>
 		</ul>
 
 </div>
@@ -379,6 +380,7 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 	<ul class="k_confirmed_als">
 		<h5><b>TECHNOLOGY INNOVATION PARTNER</b></h5>
 		<li><a href="https://www.workongrid.com/" target="_blank"><img src="images/2026/Gridlogo.png" style="height: 100px;" alt="GRID">GRID</a></li>
+		<li><a href="https://www.eaton.com/us/en-us.html" target="_blank"><img src="images/2026/eaton.png" style="height: 100px;" alt="Eaton">Eaton</a></li>
 	</ul>
 
 	<br>
@@ -406,15 +408,19 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 		<li><a href="https://brodersen.com/" target="_blank"><img src="/images/2025/Brodersen.jpeg" style="height:100px;" alt="Brodersen Systems Pvt. Ltd">Brodersen Systems Pvt. Ltd.</a></li>
 		<li><a href="https://www.tatapower.com/" target="_blank"><img src="images/2026/tatapower.png" style="height:100px;" alt="Tata Power Company Limited">Tata Power Company Limited</a></li>
 		<li><a href="https://www.tatapower-ddl.com/" target="_blank"><img src="images/2026/tatapowerDDL.png" style="height:100px;" alt="Tata Power Delhi Distribution Limited">Tata Power Delhi Distribution Limited</a></li>
+		<li><a href="https://www.tauruspowertronics.com/" target="_blank"><img src="images/2026/TaurusPowertronics.jpg" style="height:100px;" alt="Taurus Powertronics">Taurus Powertronics</a></li>
 	</ul>
 
 	<br>
 
 	<ul class="k_confirmed_als">
 		<h5><b>GOLD EXHIBITORS</b></h5>
-		<li><a href="https://www.oracle.com/in/utilities/" target="_blank"><img src="images/2026/OracleUtilities.png" style="border: 1px solid #aeb4b2; height: 100px;" alt="Oracle">Oracle</a></li>
+		<li><a href="https://www.oracle.com/in/utilities/" target="_blank"><img src="images/2026/OracleUtilities1.png" style="border: 1px solid #aeb4b2; height: 100px;" alt="Oracle">Oracle</a></li>
 		<li><a href="https://www.indiasmartgrid.org/" target="_blank"><img src="images/2026/ISGF.png" style="height:100px;" alt="ISGF">ISGF</a></li>
 		<li><a href="https://www.workongrid.com/" target="_blank"><img src="images/2026/Gridlogo.png" style="height:100px;" alt="GRID">GRID</a></li>
+		<li><a href="https://yitran.com/" target="_blank"><img src="images/2026/yitran-lo.png" style="height:100px;" alt="Yitran Technologies">Yitran Technologies</a></li>
+		<li><a href="https://www.eaton.com/in/en-us.html" target="_blank"><img src="images/2026/eaton.png" style="height:100px;" alt="Eaton">Eaton</a></li>
+		<li><a href="https://rmcindia.in/index.php" target="_blank"><img src="images/2026/rmc.png" style="height:100px;" alt="RMC India">RMC India</a></li>
 	</ul>
 
 	</div>

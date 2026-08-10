@@ -67,7 +67,7 @@ box-shadow: 0 1px 6px rgba(0, 0, 0, 0.06);
 		<ul class="k_confirmed_als">
 		<h5><STRONG>SUPPORTED BY</STRONG></h5>
 		<li><a href="https://www.powermin.gov.in/" target="_blank"><img src="images/2026/MOP.png">Ministry of Power</a></li>
-		<li><a href="https://www.niti.gov.in/" target="_blank"><img src="images/2026/NITIAayog.jpg">NITI Aayog</a></li>
+		<li><a href="https://www.niti.gov.in/" target="_blank"><img src="images/2026/NITIAayog1.png">NITI Aayog</a></li>
 		<li><a href="https://aida-india.org/" target="_blank"><img src="images/2026/AIDANew.png">All India Discoms Association (AIDA)</a></li>
 		<li><a href="https://cea.nic.in/?lang=en" target="_blank"><img src="images/2026/CEA.png">Central Electricity Authority (CEA)</a></li>
 		</ul>

@@ -916,7 +916,7 @@
     </div>
 
     <!-- Dhananjay R Aundhekar -->
-    <div class="row speaker_row">
+    <!-- <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker">
                 <div class="speaker_img">
@@ -937,7 +937,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
     <!-- Dilip Jagdale -->
     <div class="row speaker_row">

@@ -1154,28 +1154,68 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 				<span><a href="organiser-2017.php" style="color: #ffffff;">Organiser</a></span>&nbsp;&nbsp; | &nbsp;&nbsp;
 				<span><a href="gallery.php" style="color: #ffffff;">Gallery</a></span>
 			</div>
-			<div class="col-sm-12 buckyroberts_dum_contactus_icons_div" style="margin-top: 20px; text-align: center;">
-				<h1><a href="refund.php">REFUND AND CANCELLATION</a></h1>
-			</div>
-			<div class="col-sm-12 buckyroberts_dum_contactus_icons_div" style="margin-top: 20px; text-align: center;">
-				<h1>Contact us</h1>
-			</div>
-			<div class="col-sm-12 buckyroberts_dum_contactus_icons_div">
-				<div class="row">
-					<div class="col-sm-4 col-xs-4 buckyroberts_dum_contactus_icons">
-						<h4><i class="fa fa-envelope" aria-hidden="true"></i></h4>
-						<p><a href="mailto:dum@indiasmartgrid.org"><i class="fa fa-envelope" aria-hidden="true" style="font-size:14px; border:none; padding:0; width:auto; height:auto;"></i> dum@indiasmartgrid.org</a></p>
-					</div>
-					<div class="col-sm-4 col-xs-4 buckyroberts_dum_contactus_icons">
-						<h4><i class="fa fa-map-marker" aria-hidden="true"></i></h4>
-						<p>27-28 October 2026 <br>The Lalit Hotel, Jaipur, Rajasthan, India<br>
-						<a href="https://www.google.com/maps/search/?api=1&query=The+Lalit+Jaipur" target="_blank"><i class="fa fa-map-marker" aria-hidden="true" style="font-size:14px; border:none; padding:0; width:auto; height:auto;"></i> VIEW MAP</a></p>
-					</div>
-					<div class="col-sm-4 col-xs-4 buckyroberts_dum_contactus_icons">
-						<h4><i class="fa fa-phone" aria-hidden="true"></i></h4>
-						<!-- <p>011-41030398</p> -->
-						<p>+91-11- 41057658</p>
-					</div>
+
+			<style>
+			#k_contact_us_section {
+				background-color: #141414;
+				padding: 30px 8%;
+				margin-top: 20px;
+				text-align: center;
+			}
+			#k_contact_us_section h1,
+			#k_contact_us_section h1 a {
+				color: #8cc63e;
+				text-align: center;
+			}
+			#k_contact_us_section .buckyroberts_dum_contactus_icons {
+				text-align: center;
+				color: #ffffff;
+				margin-bottom: 20px;
+			}
+			#k_contact_us_section .buckyroberts_dum_contactus_icons h4 .fa {
+				color: #8cc63e;
+				padding: 8px 7px;
+				font-size: 16px;
+				border-radius: 50%;
+				width: 35px;
+				height: 35px;
+				border: 1px solid #8cc63e;
+			}
+			#k_contact_us_section .buckyroberts_dum_contactus_icons p,
+			#k_contact_us_section .buckyroberts_dum_contactus_icons p a {
+				color: #ffffff;
+				text-decoration: none;
+			}
+			#k_contact_us_section .buckyroberts_dum_contactus_icons p a:hover {
+				color: #8cc63e;
+			}
+			@media (max-width: 580px) {
+				#k_contact_us_section .buckyroberts_dum_contactus_icons {
+					width: 100%;
+					padding: 0 10%;
+				}
+			}
+			</style>
+			<div id="k_contact_us_section" class="row">
+				<div class="col-sm-12" style="margin-bottom: 10px;">
+					<h1><a href="refund.php">REFUND AND CANCELLATION</a></h1>
+				</div>
+				<div class="col-sm-12" style="margin-bottom: 20px;">
+					<h1>Contact us</h1>
+				</div>
+				<div class="col-sm-4 col-xs-4 buckyroberts_dum_contactus_icons">
+					<h4><i class="fa fa-envelope" aria-hidden="true"></i></h4>
+					<p><a href="mailto:dum@indiasmartgrid.org">dum@indiasmartgrid.org</a></p>
+				</div>
+				<div class="col-sm-4 col-xs-4 buckyroberts_dum_contactus_icons">
+					<h4><i class="fa fa-map-marker" aria-hidden="true"></i></h4>
+					<p>27-28 October 2026 <br>The Lalit Hotel, Jaipur, Rajasthan, India<br>
+					<a href="https://www.google.com/maps/search/?api=1&query=The+Lalit+Jaipur" target="_blank">VIEW MAP</a></p>
+				</div>
+				<div class="col-sm-4 col-xs-4 buckyroberts_dum_contactus_icons">
+					<h4><i class="fa fa-phone" aria-hidden="true"></i></h4>
+					<!-- <p>011-41030398</p> -->
+					<p>+91-11- 41057658</p>
 				</div>
 			</div>
 		</div>

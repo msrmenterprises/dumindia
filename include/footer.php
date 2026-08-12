@@ -15,7 +15,7 @@
 				<li><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li> -->
 			</ul>
 			<div class="buckyroberts_dum_copyright_text">
-				<h4>Copyright © 2018. All Rights Reserved</h4>
+				<h4>Copyright © 2026. All Rights Reserved</h4>
 				<h5>Terms and Conditions</h5>
 			</div>
 			

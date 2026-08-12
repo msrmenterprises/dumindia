@@ -20,9 +20,9 @@
 			</p>
 		</div>
 
-		<div class="col-sm-12" style="text-align: center;">
+		<!-- <div class="col-sm-12" style="text-align: center;">
 			<a href="http://dumindia.in/images/2026/DUM25_agenda.pdf" target="_blank" style="font-size: 28px; font-weight: 800; text-decoration: none; color: #aaaaaa; pointer-events: none; cursor: not-allowed;">Download Agenda</a>
-		</div>
+		</div> -->
 		<br>
 		<br>
 	</div>

@@ -1208,9 +1208,8 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 					<p><a href="mailto:dum@indiasmartgrid.org">dum@indiasmartgrid.org</a></p>
 				</div>
 				<div class="col-sm-4 col-xs-4 buckyroberts_dum_contactus_icons">
-					<h4><i class="fa fa-map-marker" aria-hidden="true"></i></h4>
-					<p>27-28 October 2026 <br>The Lalit Hotel, Jaipur, Rajasthan, India<br>
-					<a href="https://www.google.com/maps/search/?api=1&query=The+Lalit+Jaipur" target="_blank">VIEW MAP</a></p>
+					<h4><i class="fa fa-map-marker" aria-hidden="true"></i> <a href="https://www.google.com/maps/search/?api=1&query=The+Lalit+Jaipur" target="_blank" class="btn btn-primary btn-xs" style="vertical-align: middle;">VIEW MAP</a></h4>
+					<p>27-28 October 2026 <br>The Lalit Hotel, Jaipur, Rajasthan, India</p>
 				</div>
 				<div class="col-sm-4 col-xs-4 buckyroberts_dum_contactus_icons">
 					<h4><i class="fa fa-phone" aria-hidden="true"></i></h4>

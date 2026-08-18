@@ -20,15 +20,13 @@
     <p>DUM will include Plenaries and Presentations. Invited international utilities and Knowledge Partners will present on select topics. Case studies and project experiences will be discussed in the sessions. Presentations and discussions will be around below mentioned themes during DUM Conference:</b></p>
     <br/><br/>
     <ul>
-        <li><b>Turn Around of DISCOM's Finances</b></li>
-        <li><b>Advanced Analytics on Smart Meter Data</b></li>
-        <li><b>New Loads - AI Data Centers and EVs</b></li>
-        <li><b>Flexibility Solutions for Distribution Grid</b></li>
-        <li><b>AI - ML Use Cases for DISCOMs</b></li>
-        <li><b>Climate Resilience Measures for DISCOMs</b></li>
-        <li><b>Listing of DISCOMs on Capital Markets</b></li>
-        <li><b>DISCOMs Role in India Energy Stack (IES)</b></li>
-        <li><b>Cyber Security for Digital Grids</b></li>
+        <li><b>DISCOMs Financial Transformation and Capital Market Readiness</b></li>
+        <li><b>AI, ML, and Advanced Smart Meter Analytics for DISCOMs</b></li>
+        <li><b>New and Emerging Loads: AI Data Centers, EVs and the Future Demand - Supply Dynamics</b></li>
+        <li><b>Flexibility Solutions for Distribution Networks</b></li>
+        <li><b>Climate Resilience and Sustainability for DISCOMs</b></li>
+        <li><b>DISCOMs' Role in the India Energy Stack (IES)</b></li>
+        <li><b>Cybersecurity and Data Privacy for Digital and Smart Grids</b></li>
     </ul>
     <br>
 </div>

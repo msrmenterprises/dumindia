@@ -285,6 +285,7 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 		<li><a href="https://www.niti.gov.in/" target="_blank"><img src="/images/2026/NITIAayog1.png" alt="NITI Aayog" style="height: 100px;">NITI Aayog</a></li>
 		<li><a href="https://cea.nic.in/?lang=en" target="_blank"><img src="/images/2026/CEAv1.png" alt="Central Electricity Authority (CEA)" style="height: 100px;">Central Electricity Authority (CEA)</a></li>
 		<li><a href="https://aida-india.org/" target="_blank"><img src="/images/2026/AIDANew.png" alt="All India Discoms Association (AIDA)" style="height: 100px;">All India Discoms Association (AIDA)</a></li>
+		<li><a href="https://energy.rajasthan.gov.in/energy/#/home/dptHome" target="_blank"><img src="/images/2026/energydepartment.png" alt="Department of Energy, Govt. of Rajasthan" style="height: 100px;">Department of Energy, Govt. of Rajasthan</a></li>
 		</ul>
 	</div>
 
@@ -302,6 +303,8 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 
 	    <ul class="k_confirmed_als">
 		<li><a href="https://energy.rajasthan.gov.in/content/raj/energy-department/jaipur-vidyut-vitran-nigam-ltd-/en/home.html" target="_blank"><img src="images/utilities2019/jvvnl.png" style="height:100px;">JVVNL - Jaipur Vidyut Vitran Nigam Limited</a></li>
+		<li><a href="https://energy.rajasthan.gov.in/jdvvnl/#/home/dptHome/185" target="_blank"><img src="/images/2026/HostUtilityJVVNL.jpg" alt="Jodhpur Vidyut Vitran Nigam Limited" style="height:100px;">Jodhpur Vidyut Vitran Nigam Limited</a></li>
+		<li><a href="https://energy.rajasthan.gov.in/avvnl/#/home/dptHome/9" target="_blank"><img src="/images/2026/Ajmer Vidyut Vitran Nigam Limited.jpg" alt="Ajmer Vidyut Vitran Nigam Limited" style="height:100px;">Ajmer Vidyut Vitran Nigam Limited</a></li>
 
         <!--<li><a href="https://uppcl.org/uppcl/hi/" target="_blank"><img src="images/2024/uppcl.png" style="height:155px;"> UPPCL</a></li> 
 
@@ -381,6 +384,7 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 		<h5><b>TECHNOLOGY INNOVATION PARTNER</b></h5>
 		<li><a href="https://www.workongrid.com/" target="_blank"><img src="images/2026/Gridlogo.png" style="height: 100px;" alt="GRID">GRID</a></li>
 		<li><a href="https://www.eaton.com/us/en-us.html" target="_blank"><img src="images/2026/eaton.png" style="height: 100px;" alt="Eaton">Eaton</a></li>
+		<li><a href="https://reconnectenergy.com/" target="_blank"><img src="/images/2026/reconnect.jpg" alt="REConnect Energy" style="height: 100px;">REConnect Energy</a></li>
 	</ul>
 
 	<br>
@@ -409,6 +413,7 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 		<li><a href="https://www.tatapower.com/" target="_blank"><img src="images/2026/tatapower.png" style="height:100px;" alt="Tata Power Company Limited">Tata Power Company Limited</a></li>
 		<li><a href="https://www.tatapower-ddl.com/" target="_blank"><img src="images/2026/tatapowerDDL.png" style="height:100px;" alt="Tata Power Delhi Distribution Limited">Tata Power Delhi Distribution Limited</a></li>
 		<li><a href="https://www.tauruspowertronics.com/" target="_blank"><img src="images/2026/TaurusPowertronics.jpg" style="height:100px;" alt="Taurus Powertronics">Taurus Powertronics</a></li>
+		<li><a href="https://reconnectenergy.com/" target="_blank"><img src="/images/2026/reconnect.jpg" alt="REConnect Energy" style="height:100px;">REConnect Energy</a></li>
 	</ul>
 
 	<br>

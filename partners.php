@@ -66,16 +66,20 @@ box-shadow: 0 1px 6px rgba(0, 0, 0, 0.06);
 	<BR/>
 		<ul class="k_confirmed_als">
 		<h5><STRONG>SUPPORTED BY</STRONG></h5>
+		
 		<li><a href="https://www.powermin.gov.in/" target="_blank"><img src="images/2026/MOP.png">Ministry of Power</a></li>
 		<li><a href="https://www.niti.gov.in/" target="_blank"><img src="images/2026/NITIAayog1.png">NITI Aayog</a></li>
+		<li><a href="https://energy.rajasthan.gov.in/energy/#/home/dptHome" target="_blank"><img src="images/2026/energydepartment.png" style="height: 100px;">Department of Energy, Govt. of Rajasthan</a></li>
 		<li><a href="https://cea.nic.in/?lang=en" target="_blank"><img src="images/2026/CEAv1.png">Central Electricity Authority (CEA)</a></li>
 		<li><a href="https://aida-india.org/" target="_blank"><img src="images/2026/AIDANew.png">All India Discoms Association (AIDA)</a></li>
 		</ul>
 
 	<BR/>
 		<ul class="k_confirmed_als">
-		<h5><STRONG>HOST UTILITY</STRONG></h5>
+		<h5><STRONG>HOST UTILITIES</STRONG></h5>
 		<li><a href="https://energy.rajasthan.gov.in/jvvnl/#/home/dptHome" target="_blank"><img src="images/2026/HostUtilityJVVNL.jpg" style="height: 100px;">Jaipur Vidyut Vitran Nigam Limited - पोर्टल, राजस्थान सरकार</a></li>
+		<li><a href="https://energy.rajasthan.gov.in/jdvvnl/#/home/dptHome/185" target="_blank"><img src="images/utilities2019/Jodhpur Vidyut Vitran Nigam Limited.jpg" style="height: 100px;">Jodhpur Vidyut Vitran Nigam Limited - पोर्टल, राजस्थान सरकार</a></li>
+		<li><a href="https://energy.rajasthan.gov.in/avvnl/#/home/dptHome/9" target="_blank"><img src="images/2026/AjmerLimited.jpg" style="height: 100px;">Ajmer Vidyut Vitran Nigam Limited - पोर्टल, राजस्थान सरकार</a></li>
 		</ul>
 
 	<BR/>
@@ -108,9 +112,10 @@ box-shadow: 0 1px 6px rgba(0, 0, 0, 0.06);
 
 	<BR/>
 		<ul class="k_confirmed_als">
-		<h5><STRONG>TECHNOLOGY INNOVATION PARTNER</STRONG></h5>
+		<h5><STRONG>TECHNOLOGY INNOVATION PARTNERS</STRONG></h5>
 		<li><a href="https://www.workongrid.com/" target="_blank"><img src="images/2026/Gridlogo.png" style="height: 95px;">GRID</a></li>
 		<li><a href="https://www.eaton.com/in/en-us.html" target="_blank"><img src="images/2026/eaton.png" style="height: 95px;">Eaton</a></li>
+		<li><a href="https://reconnectenergy.com/" target="_blank"><img src="/images/2026/reconnect.jpg" style="height: 95px;">REConnect Energy</a></li>
 		</ul>
 
 	<BR/>

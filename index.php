@@ -294,7 +294,7 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 
 <div class="k_cheading">
 
-		<h1>DUM 2026<span class="k_greencolor"> Host Utility </span> </h1>
+		<h1>DUM 2026<span class="k_greencolor"> Host Utilities </span> </h1>
 
 		<img src="images/kborder_bottom.png" alt="">
 

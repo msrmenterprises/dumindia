@@ -93,7 +93,7 @@
      <ul class="">		
 	 <li><a href="https://www.powermin.gov.in/" target="_blank"><img src="/images/2026/MOP.png" alt="Ministry of Power" style="width:200px; height: 140px;"></a></li>
 	 <li><a href="https://www.niti.gov.in/" target="_blank"><img src="/images/2026/NITIAayog1.png" alt="NITI Aayog" style="width:200px; height: 140px;"></a></li>
-	 <li><a href="https://energy.rajasthan.gov.in/energy/#/home/dptHome" target="_blank"><img src="/images/2026/energydepartment.png" alt="Department of Energy, Govt. of Rajasthan" style="width:200px; height: 140px;"></a></li>
+	 <li><a href="https://energy.rajasthan.gov.in/energy/#/home/dptHome" target="_blank"><img src="/images/2026/energydepartment.png" alt="Department of Energy, Govt. of Rajasthan" style="height: 140px;"></a></li>
 	 <li><a href="https://cea.nic.in/?lang=en" target="_blank"><img src="/images/2026/CEAv1.png" alt="Central Electricity Authority" style="width: 183px;margin-top:55px"></a></li>
 	 <li><a href="https://aida-india.org/" target="_blank"><img src="/images/2026/AIDANew.png" alt="All India Discoms Association" style="width:200px; height: 140px;"></a></li>
 		<!-- <li><a href="https://upneda.org.in/" target="_blank"><img src="images/UP Department of Energy.png" style="width:200px; height: 140px;"></a></li> -->

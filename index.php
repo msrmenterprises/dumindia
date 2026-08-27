@@ -304,7 +304,7 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 
 	    <ul class="k_confirmed_als">
 		<li><a href="https://energy.rajasthan.gov.in/content/raj/energy-department/jaipur-vidyut-vitran-nigam-ltd-/en/home.html" target="_blank"><img src="images/utilities2019/jvvnl.png" style="height:100px;">JVVNL - Jaipur Vidyut Vitran Nigam Limited</a></li>
-		<li><a href="https://energy.rajasthan.gov.in/jdvvnl/#/home/dptHome/185" target="_blank"><img src="/images/2026/HostUtilityJVVNL.jpg" alt="Jodhpur Vidyut Vitran Nigam Limited" style="height:100px;">Jodhpur Vidyut Vitran Nigam Limited</a></li>
+		<li><a href="https://energy.rajasthan.gov.in/jdvvnl/#/home/dptHome/185" target="_blank"><img src="/images/2026/HostUtilityJVVNL.jpg?i=1" alt="Jodhpur Vidyut Vitran Nigam Limited" style="height:100px;">Jodhpur Vidyut Vitran Nigam Limited</a></li>
 		<li><a href="https://energy.rajasthan.gov.in/avvnl/#/home/dptHome/9" target="_blank"><img src="/images/2026/AjmerLimited.jpg" alt="Ajmer Vidyut Vitran Nigam Limited" style="height:100px;">Ajmer Vidyut Vitran Nigam Limited</a></li>
 
         <!--<li><a href="https://uppcl.org/uppcl/hi/" target="_blank"><img src="images/2024/uppcl.png" style="height:155px;"> UPPCL</a></li> 

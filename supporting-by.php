@@ -43,7 +43,7 @@
 		<ul class="k_confirmed_als">
 			<li><a href="https://aida-india.org/" target="_blank"><img src="images/2026/AIDANew.png" alt="AIDA" style="border: 1px solid #aeb4b2;height: 135px;">AIDA</a></li>
 			<li><a href="#" target="_blank"><img src="images/2026/energydepartment.png" alt="Energy Department of Maharashtra" style="border: 1px solid #aeb4b2;height: 135px;">Energy Department of Maharashtra</a></li>
-			<li><a href="https://cea.nic.in/?lang=en" target="_blank"><img src="/images/2026/CEA.png" alt="Central Electricity Authority" style="border: 1px solid #aeb4b2;">Central Electricity Authority</a></li>
+			<li><a href="https://cea.nic.in/?lang=en" target="_blank"><img src="images/2026/CEAv1.png" alt="Central Electricity Authority (CEA)" style="border: 1px solid #aeb4b2;">Central Electricity Authority (CEA)</a></li>
 		</ul>	
 	</p>
 	 

@@ -368,8 +368,9 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 	<br>
 
 	<ul class="k_confirmed_als">
-		<h5><b>THEMATIC SESSION PARTNER</b></h5>
+		<h5><b>THEMATIC SESSION PARTNERS</b></h5>
 		<li><a href="https://www.oracle.com/in/utilities/" target="_blank"><img src="images/2026/OracleUtilities1.png" style="border: 1px solid #aeb4b2; height: 100px;" alt="Oracle">Oracle</a></li>
+		<li><a href="https://www.enspar.com/" target="_blank"><img src="images/2026/Enspar.jpeg" style="height: 135px;" alt="Enspar Sustainability Pvt. Ltd.">Enspar Sustainability Pvt. Ltd.</a></li>
 	</ul>
 
 	<br>
@@ -427,6 +428,8 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 		<li><a href="https://yitran.com/" target="_blank"><img src="images/2026/yitran-lo.png" style="height:100px;" alt="Yitran Technologies">Yitran Technologies</a></li>
 		<li><a href="https://www.eaton.com/in/en-us.html" target="_blank"><img src="images/2026/eaton.png" style="height:100px;" alt="Eaton">Eaton</a></li>
 		<li><a href="https://rmcindia.in/index.php" target="_blank"><img src="images/2026/rmc.png" style="height:100px;" alt="RMC India">RMC India</a></li>
+		<li><a href="https://kimbal.io/" target="_blank"><img src="/images/Kimbal.jpg" style="border: 1px solid #aeb4b2; height: 120px;" alt="Kimbal">Kimbal</a></li>
+		<li><a href="https://www.enspar.com/" target="_blank"><img src="images/2026/Enspar.jpeg" style="height: 135px;" alt="Enspar Sustainability Pvt. Ltd.">Enspar Sustainability Pvt. Ltd.</a></li>
 	</ul>
 
 	</div>
@@ -546,6 +549,8 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 	</div>
 	<ul class="k_confirmed_als">
 		<li><a href="https://energy.rajasthan.gov.in/jvvnl/#/home/dptHome" target="_blank"><img src="images/2026/HostUtilityJVVNL.jpg" style="height:100px;">Jaipur Vidyut Vitran Nigam Limited - पोर्टल, राजस्थान सरकार</a></li>
+		<li><a href="https://energy.rajasthan.gov.in/jdvvnl/#/home/dptHome/185" target="_blank"><img src="images/utilities2019/Jodhpur Vidyut Vitran Nigam Limited.jpg" style="height:100px;">Jodhpur Vidyut Vitran Nigam Limited - पोर्टल, राजस्थान सरकार</a></li>
+		<li><a href="https://energy.rajasthan.gov.in/avvnl/#/home/dptHome/9" target="_blank"><img src="images/2026/AjmerLimited.jpg" style="height:100px;">Ajmer Vidyut Vitran Nigam Limited - पोर्टल, राजस्थान सरकार</a></li>
 		<li><a href="https://www.bsesdelhi.com/web/brpl" target="_blank"><img src="images/bsesllt.png" style="height:100px;">BSES Rajdhani Power Limited</a></li>
 		<li><a href="https://www.bsesdelhi.com/web/bypl" target="_blank"><img src="/images/bses.png" style="border: 2px solid #aeb4b2; height:100px;">BSES Yamuna Power Limited</a></li>
 		<li><a href="https://www.tatapower.com/" target="_blank"><img src="/images/tatapower.png" style="height:100px;">Tata Power Company Limited</a></li>

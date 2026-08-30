@@ -548,7 +548,7 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 		<img src="images/kborder_bottomg.png" alt="">
 	</div>
 	<ul class="k_confirmed_als">
-		<li><a href="https://energy.rajasthan.gov.in/jvvnl/#/home/dptHome" target="_blank"><img src="images/2026/HostUtilityJVVNL.jpg" style="height:100px;">Jaipur Vidyut Vitran Nigam Limited - पोर्टल, राजस्थान सरकार</a></li>
+		<li><a href="https://energy.rajasthan.gov.in/jvvnl/#/home/dptHome" target="_blank"><img src="images/utilities2019/jvvnl.png" style="height:100px;">Jaipur Vidyut Vitran Nigam Limited - पोर्टल, राजस्थान सरकार</a></li>
 		<li><a href="https://energy.rajasthan.gov.in/jdvvnl/#/home/dptHome/185" target="_blank"><img src="/images/2026/HostUtilityJVVNL.jpg?i=1" style="height:100px;">Jodhpur Vidyut Vitran Nigam Limited - पोर्टल, राजस्थान सरकार</a></li>
 		<li><a href="https://energy.rajasthan.gov.in/avvnl/#/home/dptHome/9" target="_blank"><img src="images/2026/AjmerLimited.jpg" style="height:100px;">Ajmer Vidyut Vitran Nigam Limited - पोर्टल, राजस्थान सरकार</a></li>
 		<li><a href="https://www.bsesdelhi.com/web/brpl" target="_blank"><img src="images/bsesllt.png" style="height:100px;">BSES Rajdhani Power Limited</a></li>

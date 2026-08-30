@@ -26,8 +26,8 @@
 	</div>
 
 	<ul class="">
-	<li><a href="https://energy.rajasthan.gov.in/content/raj/energy-department/jaipur-vidyut-vitran-nigam-ltd-/en/home.html" target="_blank"><img src="/images/2026/HostUtilityJVVNL.jpg" alt="Jaipur Vidyut Vitran Nigam Limited" style="height: 120px;"></a></li>
-	<li><a href="https://energy.rajasthan.gov.in/jdvvnl/#/home/dptHome/185" target="_blank"><img src="images/utilities2019/Jodhpur Vidyut Vitran Nigam Limited.jpg" alt="Jodhpur Vidyut Vitran Nigam Limited" style="height: 120px;"></a></li>
+	<li><a href="https://energy.rajasthan.gov.in/content/raj/energy-department/jaipur-vidyut-vitran-nigam-ltd-/en/home.html" target="_blank"><img src="images/utilities2019/jvvnl.png" alt="Jaipur Vidyut Vitran Nigam Limited" style="height: 120px;"></a></li>
+	<li><a href="https://energy.rajasthan.gov.in/jdvvnl/#/home/dptHome/185" target="_blank"><img src="/images/2026/HostUtilityJVVNL.jpg?i=1" alt="Jodhpur Vidyut Vitran Nigam Limited" style="height: 120px;"></a></li>
 	<li><a href="https://energy.rajasthan.gov.in/avvnl/#/home/dptHome/9" target="_blank"><img src="/images/2026/AjmerLimited.jpg" alt="Ajmer Vidyut Vitran Nigam Limited" style="height: 120px;"></a></li>
 	<!-- <li><a href="https://www.tatapower-ddl.com/" target="_blank"><img src="/images/2026/tatapowerDDL.png" alt="Tata Power Delhi Distribution Limited" style="height:120px;"></a></li> -->
 	        <!-- <li><a href="https://uppcl.org/uppcl/hi/" target="_blank"><img src="/images/UPPCL (2).jpg" alt="" style="width:150px; height: 140px;"></a></li>  

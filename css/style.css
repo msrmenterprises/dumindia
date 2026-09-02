@@ -734,7 +734,7 @@ body {
           width: 45%;
           margin-right: 7px; } }
       .k_parti ul li a {
-        color: #000;
+        color: #000 !important;
         text-decoration: none; }
         .k_parti ul li a img {
           width: 100%; }

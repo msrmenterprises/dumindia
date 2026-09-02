@@ -69,7 +69,7 @@ box-shadow: 0 1px 6px rgba(0, 0, 0, 0.06);
 		
 		<li><a href="https://www.powermin.gov.in/" target="_blank"><img src="images/2026/MOP.png">Ministry of Power</a></li>
 		<li><a href="https://www.niti.gov.in/" target="_blank"><img src="images/2026/NITIAayog1.png">NITI Aayog</a></li>
-		<li><a href="https://energy.rajasthan.gov.in/energy/#/home/dptHome" target="_blank"><img src="images/2026/energydepartment.png" style="height: 100px;">Department of Energy, Govt. of Rajasthan</a></li>
+		<li><a href="https://energy.rajasthan.gov.in/energy/#/home/dptHome" target="_blank" style="position:relative;top:-14px"><img src="images/2026/energydepartment.png" style="height: 100px;">Department of Energy, Govt. of Rajasthan</a></li>
 		<li><a href="https://cea.nic.in/?lang=en" target="_blank"><img src="images/2026/CEAv1.png">Central Electricity Authority (CEA)</a></li>
 		<li><a href="https://aida-india.org/" target="_blank"><img src="images/2026/AIDANew.png">All India Discoms Association (AIDA)</a></li>
 		</ul>
@@ -77,9 +77,9 @@ box-shadow: 0 1px 6px rgba(0, 0, 0, 0.06);
 	<BR/>
 		<ul class="k_confirmed_als">
 		<h5><STRONG>HOST UTILITIES</STRONG></h5>
-		<li><a href="https://energy.rajasthan.gov.in/jvvnl/#/home/dptHome" target="_blank"><img src="images/utilities2019/jvvnl.png" style="height: 100px;">Jaipur Vidyut Vitran Nigam Limited - पोर्टल, राजस्थान सरकार</a></li>
-		<li><a href="https://energy.rajasthan.gov.in/jdvvnl/#/home/dptHome/185" target="_blank"><img src="/images/2026/HostUtilityJVVNL.jpg?i=1" style="height: 100px;">Jodhpur Vidyut Vitran Nigam Limited - पोर्टल, राजस्थान सरकार</a></li>
-		<li><a href="https://energy.rajasthan.gov.in/avvnl/#/home/dptHome/9" target="_blank"><img src="images/2026/AjmerLimited.jpg" style="height: 100px;">Ajmer Vidyut Vitran Nigam Limited - पोर्टल, राजस्थान सरकार</a></li>
+		<li><a href="https://energy.rajasthan.gov.in/jvvnl/#/home/dptHome" target="_blank"><img src="images/utilities2019/jvvnl.png" style="height: 100px;">Jaipur Vidyut Vitran Nigam Limited</a></li>
+		<li><a href="https://energy.rajasthan.gov.in/jdvvnl/#/home/dptHome/185" target="_blank"><img src="/images/2026/HostUtilityJVVNL.jpg?i=1" style="height: 100px;">Jodhpur Vidyut Vitran Nigam Limited</a></li>
+		<li><a href="https://energy.rajasthan.gov.in/avvnl/#/home/dptHome/9" target="_blank"><img src="images/2026/AjmerLimited.jpg" style="height: 100px;">Ajmer Vidyut Vitran Nigam Limited</a></li>
 		</ul>
 
 	<BR/>

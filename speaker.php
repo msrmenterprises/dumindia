@@ -97,13 +97,112 @@
 
 	
 	<div class="k_cheading">
-		<h1><span class="k_greencolor">SPEAKERS OF</span> DUM 2025 </h1>
+		<h1><span class="k_greencolor">SPEAKERS OF</span> DUM 2026 </h1>
 		<img src="images/kborder_bottom.png" alt="">
 	</div>
 
+    <!-- Reji Kumar Pillai -->
+    <div class="row speaker_row">
+        <div class="k_list_part">
+            <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start; ">
+                <!-- Speaker Image -->
+                <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
+                    <img src="images/2026/speakers/RejiKumarPillai.jpg" alt="Reji Kumar Pillai" class="speaker-photo">
+                </div>
+
+                <!-- Speaker Content -->
+                <div class="speaker_content" style="flex: 1;">
+                    <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
+                        Reji Kumar Pillai<br/>
+                        President, India Smart Grid Forum (ISGF)<br/>
+                        Chairman, Global Smart Energy Federation (GSEF)
+                    </h1>
+                    <p style="text-align: justify; line-height: 1.6;">
+            Reji is the President of India Smart Grid Forum (<a href="https://www.indiasmartgrid.org" target="_blank">www.indiasmartgrid.org</a>) since its inception in 2011 and is also the current Chairman of the Global Smart Energy Federation (GSEF). He is an internationally renowned expert with over four decades of experience in the electricity sector in diverse functions covering the entire value chain and across continents. He is spearheading a mission to leverage technology to transform the electric grids and provide clean and reliable electricity to every citizen 24x7 at affordable cost. For decades he has been actively advocating for the "Right to Electricity" that would ensure lifeline supply of electricity to all which is now becoming a reality in India and several other developing countries; and also advocating for the "Right to Sleep" to provide climate-controlled sleeping pods in low-income communities. Reji has played pivotal role in several groundbreaking initiatives related to renewable energy, electric grid modernization, electric mobility, energy storage and digitalization of utilities across continents during the past two decades.
+        </p>
+        <p style="text-align: justify; line-height: 1.6;">
+            His current areas of research and work spans: Grid Integrated Vehicles, District Cooling Systems, Electric Cooking, Integration of Utilities - electricity + water + city gas distribution; Grid Interactive Buildings and Campuses; Artificial Intelligence, Robotics, Blockchain, Web 3.0 and Metaverse Applications for Utilities; Urban Air Mobility (UAM) Systems and the Future of Transportation; and Interconnection of Regional Grids in Asia - ASEAN, SAARC and GCC grids.
+        </p>
+        <p style="text-align: justify; line-height: 1.6;">
+            In November 2016, Reji was unanimously elected as Chairman of Global Smart Grid Federation, now renamed as Global Smart Energy Federation (GSEF), a global umbrella organization of smart energy associations and utilities from around the globe headquartered in Washington DC, USA that was established by the US Department of Energy in 2010. Reji is also an advisor to Arab Renewable Energy Commission (AREC) since 2017; and works closely with the Association of Power Utilities in Africa (APUA), International Smart Grid Action Network (ISGAN) and LATAM Smart Grid Forum.
+        </p>
+        <p style="text-align: justify; line-height: 1.6;">
+            As an entrepreneur, Reji has built successful enterprises in India and overseas and exited them. Presently he mentors several technology startups around the globe. He has studied Engineering, Finance, Management and Law; worked with NTPC and IBM and has been a senior consultant with ADB, World Bank and USAID. A recognized thought leader in renewable energy, smart grid technologies, smart cities and electric mobility, Reji is a popular key-note speaker at international symposiums and conferences. He has also contributed to several articles, books, research reports and white papers on a variety of topics.
+        </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Reena Suri -->
+    <div class="row speaker_row">
+        <div class="k_list_part">
+            <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
+                <!-- Speaker Image -->
+                <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
+                    <img src="images/2026/speakers/ReenaSuri.JPG" alt="Reena Suri" class="speaker-photo">
+                </div>
+
+                <!-- Speaker Content -->
+                <div class="speaker_content" style="flex: 1;">
+                    <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
+                        Reena Suri<br/>
+                        Chief Executive Officer<br/>
+                        India Smart Grid Forum
+                    </h1>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Reena Suri, Chief Executive Officer of the India Smart Grid Forum (ISGF) since 2013, brings over 23 years of rich experience in the energy sector. She has played a key role in various ISGF projects, including the Electrification Plan for Public Transportation, Blockchain for Electric Utilities, Energy Storage Roadmap for India, Smart Grid Roadmap, and developing smart grid and EV infrastructure plans for the SAARC Region. Reena also led the World Bank EV Project in Kolkata. As the founder-editor of the Smart Grid Bulletin, Reena has been a voice for smart grid advancements since 2013. She is passionate about increasing gender diversity in the energy sector, leading initiatives to improve networking and mentoring programs for women, raise awareness and technology skills among women, and attract women to technical education by showcasing inspiring role models.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Teppo Hemiä -->
+    <div class="row speaker_row">
+        <div class="k_list_part ">
+            <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
+                <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
+                        <img src="images/2026/speakers/TeppoHemia.jpg" style="width:60%">
+                    </div>
+                    <div class="speaker_content">
+                        <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
+                            Teppo Hemiä<br/>CEO<br/>Wirepas
+                        </h1>
+                        <p>Teppo Hemiä is the founder and CEO of Wirepas. He has 30 years of experience building and scaling global wireless technology businesses, including new ventures and major turnarounds. Before founding Wirepas in 2014, he held senior positions at Nokia, STMicroelectronics and ST-Ericsson.</p>
+                    </div>
+                
+            </div>
+        </div>
+    </div>
+
+    <!-- Santhosh Nair -->
+    <div class="row speaker_row">
+        <div class="k_list_part">
+            <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
+                <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
+                    <img src="images/2026/speakers/SanthoshNair.jpg" alt="Santhosh Nair" class="speaker-photo">
+                </div>
+                <div class="speaker_content" style="flex: 1;">
+                    <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
+                        Santhosh Nair<br/>
+                        Director<br/>
+                        Oracle Utilities
+                    </h1>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Santhosh Nair is Director for the Energy & Water Industry segment at Oracle India, where he focuses on digital transformation for utilities. With nearly 40 years of experience, he has held leadership roles at NHPC India, Power Grid India, IBM India and ASEAN, Nokia Solutions & Networks, and Oracle Malaysia. He holds degrees in Electrical Engineering from the College of Engineering Trivandrum, and master's degrees from IIT Chennai and the London School of Economics. Santhosh is a member of AESIEAP, a Fellow of IETE, and a frequent industry speaker.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- ============================================ -->
+    <!-- COMMENTED OUT: Speakers not in the DOCX file  -->
+    <!-- ============================================ -->
 
     <!-- A Shrinivas Rao -->
-    <div class="row speaker_row">
+    <!-- <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker">
                 <div class="speaker_img">
@@ -127,10 +226,10 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
     <!-- Aakash Saxena -->
-    <div class="row speaker_row">
+    <!-- <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
                 <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
@@ -148,7 +247,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
     <!-- Abha Shukla -->
     <!-- <div class="row speaker_row">
@@ -181,15 +280,12 @@
     </div> -->
 
     <!-- Abhishek Ranjan -->
-    <div class="row speaker_row">
+    <!-- <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
-                <!-- Speaker Image -->
                 <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
                     <img src="images/2026/speakers/AbhishekRanjan.jpeg" alt="AbhishekRanjan" class="speaker-photo">
                 </div>
-
-                <!-- Speaker Content -->
                 <div class="speaker_content" style="flex: 1;">
                     <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
                         Abhishek Ranjan,<br/>
@@ -197,40 +293,25 @@
                         BSES Rajdhani Power Limited
                     </h1>
                     <p style="text-align: justify; line-height: 1.6;">
-                        Abhishek Ranjan has joined BSES Rajdhani Power Limited (BRPL) as Chief   
-    Executive Officer (CEO). With a track record of exemplary leadership and over two   
-    decades of diverse industry experience, Mr. Ranjan is spearheading BRPL's   
-    journey toward innovation and sustainable growth.  
+                        Abhishek Ranjan has joined BSES Rajdhani Power Limited (BRPL) as Chief CEO. With a track record of exemplary leadership and over two decades of diverse industry experience, Mr. Ranjan is spearheading BRPL's journey toward innovation and sustainable growth.  
                     </p>
                     <p style="text-align: justify; line-height: 1.6;">
-                        Mr. Ranjan's academic credentials set a strong foundation for his professional   
-    success. He holds a PGDM from XLRI (2008) and an Engineering degree from NIT   
-    Bhopal (1998). Further enriching his profile, he completed a Business Excellence   
-    certification from the Haas School of Business, UC Berkeley, and earned   
-    specialized certifications in Data and Decision Science Consulting from IIT Delhi   
-    and as a Certified Energy Manager by the Bureau of Energy Efficiency (BEE).  
+                        Mr. Ranjan's academic credentials set a strong foundation for his professional success. He holds a PGDM from XLRI (2008) and an Engineering degree from NIT Bhopal (1998). Further enriching his profile, he completed a Business Excellence certification from the Haas School of Business, UC Berkeley, and earned specialized certifications in Data and Decision Science Consulting from IIT Delhi and as a Certified Energy Manager by the Bureau of Energy Efficiency (BEE).  
                     </p>
                     <p style="text-align: justify; line-height: 1.6;">
-                        In his earlier stint with BRPL, Mr. Ranjan played a pivotal role in driving initiatives   
-    in renewables, demand-side management, power management and   
-    sustainability, which significantly enhanced service delivery and stakeholder   
-    engagement.  
+                        In his earlier stint with BRPL, Mr. Ranjan played a pivotal role in driving initiatives in renewables, demand-side management, power management and sustainability, which significantly enhanced service delivery and stakeholder engagement.  
                     </p>
                     <p style="text-align: justify; line-height: 1.6;">
-                        Throughout his career, he has held leadership positions with prominent   
-    organizations, including Renew Power, Reliance Power, NHPC, and Infosys. Most   
-    recently, he served as a Partner at Ernst & Young - Parthenon, where he   
-    specialized in Energy Transition and Decarbonization, focusing on sectors such as   
-    Renewable Electricity, Energy Storage, and Power Markets.
+                        Throughout his career, he has held leadership positions with prominent organizations, including Renew Power, Reliance Power, NHPC, and Infosys. Most recently, he served as a Partner at Ernst & Young - Parthenon, where he specialized in Energy Transition and Decarbonization, focusing on sectors such as Renewable Electricity, Energy Storage, and Power Markets.
                     </p>
                     
                 </div>
             </div>
         </div>
-    </div>    
+    </div>     -->
 
     <!-- Adarsh Nagarajan -->
-    <div class="row speaker_row">
+    <!-- <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
                 <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
@@ -248,18 +329,15 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
     <!-- Alok Kumar -->
-    <div class="row speaker_row">
+    <!-- <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
-                <!-- Speaker Image -->
                 <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
                     <img src="images/2026/speakers/Alokkumar.png" alt="AshutoshGoel" class="speaker-photo">
                 </div>
-
-                <!-- Speaker Content -->
                 <div class="speaker_content" style="flex: 1;">
                     <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
                         Alok Kumar,<br/>
@@ -267,54 +345,32 @@
                         All India Discoms Association (AIDA)
                     </h1>
                     <p style="text-align: justify; line-height: 1.6;">
-                        He has completed 35 years long career in public policy and economic   
-    development in India's premier federal civil service (IAS) reaching up to   
-    distinguished position of Secretary in federal government with extensive   
-    experience in electricity, renewable energy, energy transition, infrastructure   
-    development and skill development domains. He has led several large commercial   
-    organisations as CEO and played a key role in formulation and implementation of   
-    several national/state level policies, programmes and regulatory interventions.   
-    During 2021 - 2023, he Successfully managed the operations of India's power   
-    system, one of the largest in the world, along with steering wide-ranging sectoral   
-    reforms. He has deep understanding of global energy transition aspects as chair   
-    of G20 Energy Transitions Working Group in 2022- 2023.   
+                        He has completed 35 years long career in public policy and economic development in India's premier federal civil service (IAS) reaching up to distinguished position of Secretary in federal government with extensive experience in electricity, renewable energy, energy transition, infrastructure development and skill development domains. He has led several large commercial organisations as CEO and played a key role in formulation and implementation of several national/state level policies, programmes and regulatory interventions. During 2021 - 2023, he Successfully managed the operations of India's power system, one of the largest in the world, along with steering wide-ranging sectoral reforms. He has deep understanding of global energy transition aspects as chair of G20 Energy Transitions Working Group in 2022- 2023.   
                     </p>
                     <p style="text-align: justify; line-height: 1.6;">
-                        Presently he is Professor of Practice in Department of Hydro and Renewable   
-    Energy at IIT Roorkee, and chairs the Inter- Ministerial Working Group set up by   
-    NITI Aayog to develop power sector pathway to achieve Net Zero commitment by   
-    India. In 2025, he has been appointed as Independent Director on the Board of 
-    Power Exchange India Limited. He is also Partner with The Lantau Group   
-    (Singapore) Pte Ltd.  
+                        Presently he is Professor of Practice in Department of Hydro and Renewable Energy at IIT Roorkee, and chairs the Inter- Ministerial Working Group set up by NITI Aayog to develop power sector pathway to achieve Net Zero commitment by India. In 2025, he has been appointed as Independent Director on the Board of Power Exchange India Limited. He is also Partner with The Lantau Group (Singapore) Pte Ltd.  
                     </p>
 
                     <p style="text-align: justify; line-height: 1.6;">
-                        He obtained bachelor's degree in civil engineering from IIT Roorkee in 1983, and   
-    Master of Business Administration (Finance) from National Open University in   
-    2009.  
+                        He obtained bachelor's degree in civil engineering from IIT Roorkee in 1983, and Master of Business Administration (Finance) from National Open University in 2009.  
                     </p>
 
                     <p style="text-align: justify; line-height: 1.6;">
-                    Authored the book 'Electricity Sector in India- Policy and Regulation' published by   
-    Oxford University Press in 2012, and has been writing regularly on energy related   
-    topics for business publications in India.      
+                    Authored the book 'Electricity Sector in India- Policy and Regulation' published by Oxford University Press in 2012, and has been writing regularly on energy related topics for business publications in India.      
                 </p>
                     
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
     <!-- Alok Mishra -->
-    <div class="row speaker_row">
+    <!-- <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
-                <!-- Speaker Image -->
                 <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
                     <img src="images/2026/speakers/AlokKumar_DNV.jpg" alt="AlokKumar" class="speaker-photo">
                 </div>
-
-                <!-- Speaker Content -->
                 <div class="speaker_content" style="flex: 1;">
                     <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
                         Alok Mishra,<br/>
@@ -322,29 +378,16 @@
                         DNV
                     </h1>
                     <p style="text-align: justify; line-height: 1.6;">
-                        Alok is an experienced professional with more than 13 years of work   
-    experience in the energy sector, currently serving as the Market Area   
-    Manager-Power Grid at DNV. With a background in engineering and an   
-    MBA, Alok has worked on various projects related to electric vehicles (EVs)   
-    and decarbonization in India and other countries, focusing on EV   
-    integration with transmission and distribution, EV market study, Technical   
-    Due Diligence of EV sector, Technology review of EV sector. He has   
-    received recognition for his work in the form of the Clean Mobility   
-    Leadership: Young Achiever Award in India. Alok has also been involved in   
-    the first offshore wind with hydrogen study, the first grid connection   
-    report for offshore wind under the FOWIND project, and many other   
-    initiatives. In this ever-evolving energy landscape, Alok's experience and   
-    expertise provide valuable insights into the challenges and opportunities   
-    that lie ahead.  
+                        Alok is an experienced professional with more than 13 years of work experience in the energy sector, currently serving as the Market Area Manager-Power Grid at DNV. With a background in engineering and an MBA, Alok has worked on various projects related to electric vehicles (EVs) and decarbonization in India and other countries, focusing on EV integration with transmission and distribution, EV market study, Technical Due Diligence of EV sector, Technology review of EV sector. He has received recognition for his work in the form of the Clean Mobility Leadership: Young Achiever Award in India. Alok has also been involved in the first offshore wind with hydrogen study, the first grid connection report for offshore wind under the FOWIND project, and many other initiatives. In this ever-evolving energy landscape, Alok's experience and expertise provide valuable insights into the challenges and opportunities that lie ahead.  
                     </p>
                     
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
     <!-- Amit Tripathi -->
-    <div class="row speaker_row">
+    <!-- <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
                 <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
@@ -362,7 +405,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
     <!-- Amit Singh Parihar -->
     <!-- <div class="row speaker_row">
@@ -386,7 +429,7 @@
     </div> -->
 
     <!-- Anand Budholia -->
-    <div class="row speaker_row">
+    <!-- <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
                 <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
@@ -404,10 +447,10 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
     <!-- Anand Singh -->
-    <div class="row speaker_row">
+    <!-- <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker">
                 <div class="speaker_img">
@@ -431,18 +474,15 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
     <!-- Aneesh Thomas -->
-    <div class="row speaker_row">
+    <!-- <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
-                <!-- Speaker Image -->
                 <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
                     <img src="images/2026/speakers/AneeshThomas.jpg" alt="Aneesh Thomas" class="speaker-photo">
                 </div>
-
-                <!-- Speaker Content -->
                 <div class="speaker_content" style="flex: 1;">
                     <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
                         Aneesh Thomas,<br/>
@@ -450,22 +490,15 @@
                         Eaton Power Quality India
                     </h1>
                     <p style="text-align: justify; line-height: 1.6;">
-                        Aneesh Thomas leads Power Distribution Assembly Medium Voltage Switchgear   
-                        at Eaton Power Quality India, bringing 24 years of rich expertise from global   
-                        industry leaders ABB, Siemens, and Larsen & Toubro. A pioneer in sustainable   
-                        power technologies, he champions the development of SF6-free switching   
-                        technologies and environmentally responsible alternatives for medium voltage   
-                        power distribution. Through his work at Eaton, he actively contributes to India's   
-                        vision of energy self-reliance, focusing on innovative solutions that align with the   
-                        nation's commitment to sustainable power infrastructure.
+                        Aneesh Thomas leads Power Distribution Assembly Medium Voltage Switchgear at Eaton Power Quality India, bringing 24 years of rich expertise from global industry leaders ABB, Siemens, and Larsen & Toubro. A pioneer in sustainable power technologies, he champions the development of SF6-free switching technologies and environmentally responsible alternatives for medium voltage power distribution. Through his work at Eaton, he actively contributes to India's vision of energy self-reliance, focusing on innovative solutions that align with the nation's commitment to sustainable power infrastructure.
                     </p>
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
     <!-- Anil Kumar Prasanna -->
-    <div class="row speaker_row">
+    <!-- <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker">
                 <div class="speaker_img">
@@ -486,10 +519,10 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
     <!-- Anil Rawal -->
-    <div class="row speaker_row">
+    <!-- <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
                 <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
@@ -507,10 +540,10 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
     <!-- Anish Kalucha -->
-    <div class="row speaker_row">
+    <!-- <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
                 <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
@@ -528,10 +561,10 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
     <!-- Anoop Kaur Bowdery -->
-    <div class="row speaker_row">
+    <!-- <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
                 <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
@@ -549,10 +582,10 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
     <!-- Anshuman Srivastava -->
-    <div class="row speaker_row">
+    <!-- <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker">
                 <div class="speaker_img">
@@ -576,18 +609,15 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
     <!-- Ashish Kumar Goel -->
-    <div class="row speaker_row">
+    <!-- <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
-                <!-- Speaker Image -->
                 <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
                     <img src="images/2026/speakers/AshishKumarGoel.jpg" alt="Ashish Kumar Goel" class="speaker-photo">
                 </div>
-
-                <!-- Speaker Content -->
                 <div class="speaker_content" style="flex: 1;">
                     <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
                         Ashish Kumar Goel,<br/>
@@ -595,22 +625,15 @@
                         Uttar Pradesh Power Corporation Limited
                     </h1>
                     <p style="text-align: justify; line-height: 1.6;">
-                        Dr. Ashish Kumar Goel is a highly accomplished individual with an impressive
-                        educational background. He holds a B.Tech in Electrical Engineering from IIT
-                        Delhi, an MA in Economics, and a Ph.D. in Economics. Throughout his career, Dr.
-                        Goel has held several pivotal roles in public service and administration, including
-                        leadership roles in UP Power Corporation and the Ministry of Rural Development.
-                        His work includes overseeing flagship schemes for rural roads and housing and
-                        organizing large public events with outstanding execution. He has received
-                        multiple awards and recognitions for his public service and leadership.
+                        Dr. Ashish Kumar Goel is a highly accomplished individual with an impressive educational background. He holds a B.Tech in Electrical Engineering from IIT Delhi, an MA in Economics, and a Ph.D. in Economics. Throughout his career, Dr. Goel has held several pivotal roles in public service and administration, including leadership roles in UP Power Corporation and the Ministry of Rural Development. His work includes overseeing flagship schemes for rural roads and housing and organizing large public events with outstanding execution. He has received multiple awards and recognitions for his public service and leadership.
                     </p>
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
     <!-- Ashok Kumar Thanikonda -->
-    <div class="row speaker_row">
+    <!-- <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker">
                 <div class="speaker_img">
@@ -637,18 +660,15 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
     <!-- Ashutosh Goel -->
-    <div class="row speaker_row">
+    <!-- <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
-                <!-- Speaker Image -->
                 <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
                     <img src="images/2026/speakers/AshutoshGoel.JPG" alt="AshutoshGoel" class="speaker-photo">
                 </div>
-
-                <!-- Speaker Content -->
                 <div class="speaker_content" style="flex: 1;">
                     <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
                         Ashutosh Goel,<br/>
@@ -656,34 +676,21 @@
                         Allied Engineering Works Limited
                     </h1>
                     <p style="text-align: justify; line-height: 1.6;">
-                        Ashutosh Goel, an IIT Delhi alumnus, is the Chairman and   
-    Managing Director of Allied Engineering Works Limited (AEWL).   
-    He has over 23 years of expertise in the Electrical and Electronics   
-    industry. Renowned for his technical acumen and strategic   
-    leadership, Mr. Goel has played a pivotal role in establishing AEWL   
-    as a market leader and forging many tie-ups and associations. His   
-    commitment to innovation and quality is evident in his continuous   
-    involvement in R&D projects, which drive AEW's advancements in   
-    the smart metering domain and other hi-tech sectors. He has   
-    been involved in many Industrial forums and mentored a few   
-    start-ups in the tech space. 
+                        Ashutosh Goel, an IIT Delhi alumnus, is the Chairman and Managing Director of Allied Engineering Works Limited (AEWL). He has over 23 years of expertise in the Electrical and Electronics industry. Renowned for his technical acumen and strategic leadership, Mr. Goel has played a pivotal role in establishing AEWL as a market leader and forging many tie-ups and associations. His commitment to innovation and quality is evident in his continuous involvement in R&D projects, which drive AEW's advancements in the smart metering domain and other hi-tech sectors. He has been involved in many Industrial forums and mentored a few start-ups in the tech space. 
                     </p>
                     
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
     <!-- Atul Bali -->
-    <div class="row speaker_row">
+    <!-- <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
-                <!-- Speaker Image -->
                 <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
                     <img src="images/2026/speakers/AtulBali.png" alt="AtulBali" class="speaker-photo">
                 </div>
-
-                <!-- Speaker Content -->
                 <div class="speaker_content" style="flex: 1;">
                     <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
                         Atul Bali,<br/>
@@ -691,28 +698,16 @@
                         NSGM
                     </h1>
                     <p style="text-align: justify; line-height: 1.6;">
-                        Atul Bali is the Director of the National Smart Grid Mission, established by   
-    the Government of India to plan and monitor the implementation of   
-    policies and programmes related to smart grid activities in India, and   
-    Executive Director at Power Grid Corporation of India. He has nearly three   
-    decades of rich experience in the power sector. His experience spans   
-    design, engineering, monitoring, and successful implementation of   
-    SCADA/EMS/DMS projects. He has worked in NHPC, POWERGRID, PFC, and   
-    the Navratna Public Sector Undertakings of the Ministry of Power,   
-    Government of India. He has been associated with the concept to   
-    commissioning of the Unified Load Despatch and Communication Scheme   
-    and has supervised the implementation of IT-based distribution reform   
-    projects under the prestigious Restructured Accelerated Power   
-    Development and Reforms Programme (RAPDRP) in India.  
+                        Atul Bali is the Director of the National Smart Grid Mission, established by the Government of India to plan and monitor the implementation of policies and programmes related to smart grid activities in India, and Executive Director at Power Grid Corporation of India. He has nearly three decades of rich experience in the power sector. His experience spans design, engineering, monitoring, and successful implementation of SCADA/EMS/DMS projects. He has worked in NHPC, POWERGRID, PFC, and the Navratna Public Sector Undertakings of the Ministry of Power, Government of India. He has been associated with the concept to commissioning of the Unified Load Despatch and Communication Scheme and has supervised the implementation of IT-based distribution reform projects under the prestigious Restructured Accelerated Power Development and Reforms Programme (RAPDRP) in India.  
                     </p>
                     
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
     <!-- Atul Save -->
-    <div class="row speaker_row">
+    <!-- <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker">
                 <div class="speaker_img">
@@ -733,7 +728,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
     <!-- Brajesh Kumar -->
     <!-- <div class="row speaker_row">
@@ -757,7 +752,7 @@
     </div> -->
 
     <!-- Chetan Pathak -->
-    <div class="row speaker_row">
+    <!-- <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker">
                 <div class="speaker_img">
@@ -781,10 +776,10 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
     <!-- Chintamani Chitnis -->
-    <div class="row speaker_row">
+    <!-- <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker">
                 <div class="speaker_img">
@@ -820,10 +815,10 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
     <!-- D Radhakrishna -->
-    <div class="row speaker_row">
+    <!-- <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker">
                 <div class="speaker_img">
@@ -847,10 +842,10 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
     <!-- Deepti Sharma -->
-    <div class="row speaker_row">
+    <!-- <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
                 <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
@@ -868,10 +863,10 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
     <!-- Devanand Pallikuth -->
-    <div class="row speaker_row">
+    <!-- <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
                 <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
@@ -889,10 +884,10 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
     <!-- Dhananjay Aundhekar -->
-    <div class="row speaker_row">
+    <!-- <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker">
                 <div class="speaker_img">
@@ -913,7 +908,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
     <!-- Dhananjay R Aundhekar -->
     <!-- <div class="row speaker_row">
@@ -940,7 +935,7 @@
     </div> -->
 
     <!-- Dilip Jagdale -->
-    <div class="row speaker_row">
+    <!-- <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker">
                 <div class="speaker_img">
@@ -961,10 +956,10 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
     <!-- Dnyanesh Kulkarni -->
-    <div class="row speaker_row">
+    <!-- <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker">
                 <div class="speaker_img">
@@ -988,10 +983,10 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
     <!-- Dwijadas Basak -->
-    <div class="row speaker_row">
+    <!-- <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
                 <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
@@ -1009,18 +1004,15 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
     <!-- Gajanan S Kale -->
-    <div class="row speaker_row">
+    <!-- <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
-                <!-- Speaker Image -->
                 <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
                     <img src="images/2026/speakers/GajananSKale.png" alt="AtulBali" class="speaker-photo">
                 </div>
-
-                <!-- Speaker Content -->
                 <div class="speaker_content" style="flex: 1;">
                     <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
                         Gajanan S Kale,<br/>
@@ -1028,40 +1020,20 @@
                         TP Northern Odisha Distribution Limited
                     </h1>
                     <p style="text-align: justify; line-height: 1.6;">
-                        Gajanan S. Kale serves as the Chief Executive Officer of TP Northern Odisha   
-    Distribution Limited (TPNODL), a joint venture between Tata Power and   
-    the Odisha Government, and concurrently holds the position of Chief of   
-    Odisha Distribution Business. With over three decades of expertise in the   
-    power and energy sector, Mr. Kale has held various strategic positions   
-    across several organizations, driving transformation, excellence, digital   
-    advancement, and stakeholder management. 
+                        Gajanan S. Kale serves as the Chief Executive Officer of TP Northern Odisha Distribution Limited (TPNODL), a joint venture between Tata Power and the Odisha Government, and concurrently holds the position of Chief of Odisha Distribution Business. With over three decades of expertise in the power and energy sector, Mr. Kale has held various strategic positions across several organizations, driving transformation, excellence, digital advancement, and stakeholder management. 
                     </p>
-                    <p style="text-align: justify; line-height: 1.6;">Prior to joining TPNODL, Mr. Kale held CEO positions at Tata Power-DDL,   
-    TP Western Odisha Distribution Limited (TPWODL), and TP Ajmer   
-    Distribution Ltd (TPADL). He began his career at BHEL in Bhopal and   
-    subsequently held key positions at the Central Railway Nagpur Division,   
-    Tata Power Mumbai Distribution, and Tata Power-DDL.</p>
-                    <p style="text-align: justify; line-height: 1.6;">Mr. Kale is a seasoned professional with over 32 years of experience and   
-    extensive expertise in enhancing customer experience, resource planning   
-    and management, operational excellence, project management, digital   
-    transformations, and stakeholder management. He has received notable   
-    recognitions for his leadership, including the "Best CEO of the Year with   
-    HR Orientation" and the "Best CEO of the Year" award for FY 2023-24.  
-    Mr. Kale holds an MBA in Finance and an M.Tech in Integrated Power   
-    Systems from the National Institute of Technology, Nagpur, a B.E. in   
-    Electrical Power Systems from Amravati University, and is also an alumnus   
-    of the prestigious IIM Ahmedabad.  </p>
-                    <p style="text-align: justify; line-height: 1.6;">With his visionary leadership and expertise, Mr. Kale is poised to shape   
-    TPNODL's success story, driving the company's growth and development   
-    through his commitment to excellence.  </p>
+                    <p style="text-align: justify; line-height: 1.6;">Prior to joining TPNODL, Mr. Kale held CEO positions at Tata Power-DDL, TP Western Odisha Distribution Limited (TPWODL), and TP Ajmer Distribution Ltd (TPADL). He began his career at BHEL in Bhopal and subsequently held key positions at the Central Railway Nagpur Division, Tata Power Mumbai Distribution, and Tata Power-DDL.</p>
+                    <p style="text-align: justify; line-height: 1.6;">Mr. Kale is a seasoned professional with over 32 years of experience and extensive expertise in enhancing customer experience, resource planning and management, operational excellence, project management, digital transformations, and stakeholder management. He has received notable recognitions for his leadership, including the "Best CEO of the Year with HR Orientation" and the "Best CEO of the Year" award for FY 2023-24.  
+    Mr. Kale holds an MBA in Finance and an M.Tech in Integrated Power Systems from the National Institute of Technology, Nagpur, a B.E. in Electrical Power Systems from Amravati University, and is also an alumnus of the prestigious IIM Ahmedabad.  </p>
+                    <p style="text-align: justify; line-height: 1.6;">With his visionary leadership and expertise, Mr. Kale is poised to shape TPNODL's success story, driving the company's growth and development through his commitment to excellence.  </p>
                     
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
     <!-- Gajendra Tiwari -->
-    <div class="row speaker_row">
+    <!-- <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker">
                 <div class="speaker_img">
@@ -1082,10 +1054,10 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
     <!-- Ganesh Das -->
-    <div class="row speaker_row">
+    <!-- <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker">
                 <div class="speaker_img">
@@ -1106,10 +1078,10 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
     <!-- Gaurav Sharma -->
-    <div class="row speaker_row">
+    <!-- <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker">
                 <div class="speaker_img">
@@ -1130,10 +1102,10 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
     <!-- Gurpreet Oberoi -->
-    <div class="row speaker_row">
+    <!-- <div class="row speaker_row">
         <div class="k_list_part ">
             <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
                 <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
@@ -1143,28 +1115,17 @@
                         <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
                             Gurpreet Oberoi<br/>Chief Business Officer<br/>Kimbal Private Limited
                         </h1>
-                        <p>Gurpreet Singh Oberoi is the Chief Business Officer at Kimbal with over 30 years of   
-    experience in sales and marketing across India's utility and consumer markets. He has   
-    deep expertise in the electricity value chain, from retail supply to distribution and   
-    transmission. At Kimbal, he leads sales, marketing, cash flow management, and   
-    strategic partnerships, working closely with senior leadership to drive growth and   
-    optimize revenue streams.  </p>
-                        <p>Before joining Kimbal, Gurpreet held leadership roles at Landis+Gyr and Larsen &   
-    Toubro, successfully building business verticals and expanding market presence. He   
-    has a strong track record in identifying opportunities, addressing regulatory   
-    challenges, and ensuring seamless project execution.  </p>
-    <p>Gurpreet holds an Executive MBA in Marketing from SP Jain Institute of Management   
-    & Research and a Bachelor's degree in Electrical and Electronics Engineering from   
-    MIET. A strong believer in collaboration and analytical thinking, he is passionate about   
-    driving impactful change and has a keen interest in luxury automobiles.  </p>
+                        <p>Gurpreet Singh Oberoi is the Chief Business Officer at Kimbal with over 30 years of experience in sales and marketing across India's utility and consumer markets. He has deep expertise in the electricity value chain, from retail supply to distribution and transmission. At Kimbal, he leads sales, marketing, cash flow management, and strategic partnerships, working closely with senior leadership to drive growth and optimize revenue streams.  </p>
+                        <p>Before joining Kimbal, Gurpreet held leadership roles at Landis+Gyr and Larsen & Toubro, successfully building business verticals and expanding market presence. He has a strong track record in identifying opportunities, addressing regulatory challenges, and ensuring seamless project execution.  </p>
+    <p>Gurpreet holds an Executive MBA in Marketing from SP Jain Institute of Management & Research and a Bachelor's degree in Electrical and Electronics Engineering from MIET. A strong believer in collaboration and analytical thinking, he is passionate about driving impactful change and has a keen interest in luxury automobiles.  </p>
                     </div>
                 
             </div>
         </div>
-    </div>
+    </div> -->
 
     <!-- Himanshu Chawla -->
-    <div class="row speaker_row">
+    <!-- <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
                 <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
@@ -1182,7 +1143,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
     <!-- Isha Duhan -->
     <!-- <div class="row speaker_row">
@@ -1206,7 +1167,7 @@
     </div> -->
 
     <!-- Jaideep Singh -->
-    <div class="row speaker_row">
+    <!-- <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker">
                 <div class="speaker_img">
@@ -1227,10 +1188,10 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
     <!-- Kartikey Haryani -->
-    <div class="row speaker_row">
+    <!-- <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker">
                 <div class="speaker_img">
@@ -1254,7 +1215,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
     <!-- Kaustuv Mohapatra -->
     <!-- <div class="row speaker_row">
@@ -1286,7 +1247,7 @@
     </div> -->
 
     <!-- Ketan P Joshi -->
-    <div class="row speaker_row">
+    <!-- <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker">
                 <div class="speaker_img">
@@ -1310,10 +1271,10 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
     <!-- Kishor Narang -->
-    <div class="row speaker_row">
+    <!-- <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
                 <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
@@ -1331,55 +1292,34 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
     <!-- Manish Patel -->
-    <div class="row speaker_row">
+    <!-- <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
-                <!-- Speaker Image -->
                 <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
                     <img src="images/2026/speakers/ManishPatel.jpg" alt="Manish Patel" class="speaker-photo">
                 </div>
-
-                <!-- Speaker Content -->
                 <div class="speaker_content" style="flex: 1;">
                     <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
                         Manish Patel<br/>
-                        Business Development (International &Domestic) & Product Head for Covered   
-    Conductors,<br/>
+                        Business Development (International &Domestic) & Product Head for Covered Conductors,<br/>
                         APAR Industries Limited
                     </h1>
                     <p style="text-align: justify; line-height: 1.6;">
-                        Manish Patel is currently leading Business Development (International & Domestic) at   
-    Apar Industries Limited, with 25+ years of experience in EHV Power Cable & EHV Cable   
-    accessories (upto 220KV), LT/HT Cables, Covered Conductors upto 132KV, MV   
-    Switchgears (Reclosers & RMU) and Underground Distribution Substations in India   
-    and worldwide. He has extensively travelled across the globe and handled various   
-    positions in Global Sales, International Market, Business Development, P&L Head and   
-    Strategic roles. He also has experience in SCM and Operations. Throughout his career, 
-    he has various achievements and recognitions in developing the company's home   
-    market and the global market by signing strategic global contracts, significant   
-    improvement in bottom-line, forming joint ventures, policy, industry initiatives etc. He   
-    has successfully handled EHV Cable and Accessories turnkey projects in home and   
-    international markets. His expertise lies in dealing with private/corporate,   
-    government (central and state) and consultants in India/Global for both Power Cables   
-    and Switchgears.  
+                        Manish Patel is currently leading Business Development (International & Domestic) at Apar Industries Limited, with 25+ years of experience in EHV Power Cable & EHV Cable accessories (upto 220KV), LT/HT Cables, Covered Conductors upto 132KV, MV Switchgears (Reclosers & RMU) and Underground Distribution Substations in India and worldwide. He has extensively travelled across the globe and handled various positions in Global Sales, International Market, Business Development, P&L Head and Strategic roles. He also has experience in SCM and Operations. Throughout his career, he has various achievements and recognitions in developing the company's home market and the global market by signing strategic global contracts, significant improvement in bottom-line, forming joint ventures, policy, industry initiatives etc. He has successfully handled EHV Cable and Accessories turnkey projects in home and international markets. His expertise lies in dealing with private/corporate, government (central and state) and consultants in India/Global for both Power Cables and Switchgears.  
                     </p>
                     <p style="text-align: justify; line-height: 1.6;">
-                        He has had a rich experience in establishing G&W as a brand in India and APAC from   
-    scratch and has now taken up the role of Business Development for Apar Industries   
-    Ltd (Unit - Cable) for SAARC, Middle East, Latin America, North America and hopes to   
-    create an exciting story of growth, new business ventures and excellent sales figures   
-    for the company.
+                        He has had a rich experience in establishing G&W as a brand in India and APAC from scratch and has now taken up the role of Business Development for Apar Industries Ltd (Unit - Cable) for SAARC, Middle East, Latin America, North America and hopes to create an exciting story of growth, new business ventures and excellent sales figures for the company.
                     </p>
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
     <!-- Manish Wath -->
-    <div class="row speaker_row">
+    <!-- <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker">
                 <div class="speaker_img">
@@ -1403,10 +1343,10 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
     <!-- Manoj Muthyala -->
-    <div class="row speaker_row">
+    <!-- <div class="row speaker_row">
         <div class="k_list_part ">
             <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
                 <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
@@ -1422,7 +1362,7 @@
                 
             </div>
         </div>
-    </div>
+    </div> -->
 
     <!-- Matt Gleeson -->
     <!-- <div class="row speaker_row">
@@ -1446,7 +1386,7 @@
     </div>     -->
 
     <!-- Mohit Bhargava -->
-    <div class="row speaker_row">
+    <!-- <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker">
                 <div class="speaker_img">
@@ -1467,7 +1407,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
     <!-- Moëz Cherif -->
     <!-- <div class="row speaker_row">
@@ -1491,7 +1431,7 @@
     </div> -->
 
     <!-- Nidhi Kumar Narang -->
-    <div class="row speaker_row">
+    <!-- <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
                 <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
@@ -1509,10 +1449,10 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
     <!-- Nilesh Kane -->
-    <div class="row speaker_row">
+    <!-- <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
                 <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
@@ -1525,20 +1465,15 @@
                         Tata Power
                     </h1>
                     <p style="text-align: justify; line-height: 1.6;">
-                        Dr. Nilesh Kane is currently working as Chief (Transmission & Mumbai -
-                        Distribution) at Tata Power. He carries an experience of over 30 years in
-                        Electrical Operations and Technology across Generation, Transmission,
-                        Distribution and Renewable sectors, including battery energy storage,
-                        electric vehicle solutions and smart grid projects. He holds advanced
-                        qualifications and has represented Tata Power at multiple industry platforms.
+                        Dr. Nilesh Kane is currently working as Chief (Transmission & Mumbai - Distribution) at Tata Power. He carries an experience of over 30 years in Electrical Operations and Technology across Generation, Transmission, Distribution and Renewable sectors, including battery energy storage, electric vehicle solutions and smart grid projects. He holds advanced qualifications and has represented Tata Power at multiple industry platforms.
                     </p>
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
     <!-- Omkar Shaligram -->
-    <div class="row speaker_row">
+    <!-- <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker">
                 <div class="speaker_img">
@@ -1562,10 +1497,10 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
     <!-- P Ravi Kumar -->
-    <div class="row speaker_row">
+    <!-- <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker">
                 <div class="speaker_img">
@@ -1589,10 +1524,10 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
     <!-- Pankaj Agarwal -->
-    <div class="row speaker_row">
+    <!-- <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker">
                 <div class="speaker_img">
@@ -1616,10 +1551,10 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
     <!-- Pankaj Kumar -->
-    <div class="row speaker_row">
+    <!-- <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker">
                 <div class="speaker_img">
@@ -1643,10 +1578,10 @@
                 </div>
             </div>
         </div>
-    </div>       
+    </div>        -->
 
     <!-- Pareekshit Bharadwaj -->
-    <div class="row speaker_row">
+    <!-- <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker">
                 <div class="speaker_img">
@@ -1673,10 +1608,10 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
     <!-- Pradeep Aggarwal -->
-    <div class="row speaker_row">
+    <!-- <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker">
                 <div class="speaker_img">
@@ -1700,7 +1635,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
     <!-- Pradeep Kumar Jena -->
     <!-- <div class="row speaker_row">
@@ -1733,7 +1668,7 @@
     </div> -->
 
     <!-- Praveer Sinha -->
-    <div class="row speaker_row">
+    <!-- <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
                 <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
@@ -1746,19 +1681,15 @@
                         The Tata Power Company Limited
                     </h1>
                     <p style="text-align: justify; line-height: 1.6;">
-                        Dr. Praveer Sinha is a seasoned power professional with nearly four decades
-                        of leadership across the power sector. Under his leadership, Tata Power is
-                        transforming into a sustainable, technology-oriented green energy company
-                        with a growing renewable portfolio and several new-age businesses such as
-                        solar rooftop, EV charging, microgrids and smart energy management.
+                        Dr. Praveer Sinha is a seasoned power professional with nearly four decades of leadership across the power sector. Under his leadership, Tata Power is transforming into a sustainable, technology-oriented green energy company with a growing renewable portfolio and several new-age businesses such as solar rooftop, EV charging, microgrids and smart energy management.
                     </p>
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
     <!-- Pramod Mishra -->
-    <div class="row speaker_row">
+    <!-- <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker">
                 <div class="speaker_img">
@@ -1779,7 +1710,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
     <!-- Prudhvitej Immadi -->
     <!-- <div class="row speaker_row">
@@ -1803,7 +1734,7 @@
     </div> -->
 
     <!-- Rahul Kumar -->
-    <div class="row speaker_row">
+    <!-- <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
                 <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
@@ -1821,10 +1752,10 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
     <!-- Rahul Tongia -->
-    <div class="row speaker_row">
+    <!-- <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker">
                 <div class="speaker_img">
@@ -1854,10 +1785,10 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
     <!-- Rajendra G Ambekar -->
-    <div class="row speaker_row">
+    <!-- <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker">
                 <div class="speaker_img">
@@ -1881,10 +1812,10 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
     <!-- Ramkrishna Singh -->
-    <div class="row speaker_row">
+    <!-- <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker">
                 <div class="speaker_img">
@@ -1911,18 +1842,15 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
     <!-- Ravi Jagannathan -->
-    <div class="row speaker_row">
+    <!-- <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
-                <!-- Speaker Image -->
                 <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
                     <img src="images/2026/speakers/RaviJagannathan.jpg" alt="Ravi Jagannathan" class="speaker-photo">
                 </div>
-
-                <!-- Speaker Content -->
                 <div class="speaker_content" style="flex: 1;">
                     <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
                         Ravi Jagannathan<br/>
@@ -1930,36 +1858,20 @@
                         KrypC Technologies
                     </h1>
                     <p style="text-align: justify; line-height: 1.6;">
-                        Ravi Jagannathan is the Founder and Managing Director of KrypC Technologies,
-                        a global deep-tech company delivering enterprise blockchain and Web3 solutions
-                        with operations across the USA, India, the Netherlands, and the UAE. A Fellow
-                        Member of the Institute of Chartered Accountants of India, he has over three
-                        decades of entrepreneurial experience in building trusted digital ventures,
-                        including eMudhra, India's pioneering Certifying Authority, and KrypC, which has
-                        implemented blockchain platforms for leading banks, utilities, and governments.
-                        Ravi is also the Founder of Xygle, an enterprise-focused Layer-1 blockchain
-                        protocol, and serves as a Blockchain Technology Member at the Universal
-                        Energy Interface (UEI) and Partner in the ISGF–FIDE–UPPCL P2P Energy
-                        Trading Pilot. Recognized as a Blockchain Champion at UN/CEFACT, he actively
-                        contributes to global initiatives on trade facilitation and digital trust. Ravi
-                        continues to drive innovation in digital identity, sustainability, and the emerging
-                        device economy through scalable, real-world blockchain solutions.
+                        Ravi Jagannathan is the Founder and Managing Director of KrypC Technologies, a global deep-tech company delivering enterprise blockchain and Web3 solutions with operations across the USA, India, the Netherlands, and the UAE. A Fellow Member of the Institute of Chartered Accountants of India, he has over three decades of entrepreneurial experience in building trusted digital ventures, including eMudhra, India's pioneering Certifying Authority, and KrypC, which has implemented blockchain platforms for leading banks, utilities, and governments. Ravi is also the Founder of Xygle, an enterprise-focused Layer-1 blockchain protocol, and serves as a Blockchain Technology Member at the Universal Energy Interface (UEI) and Partner in the ISGF–FIDE–UPPCL P2P Energy Trading Pilot. Recognized as a Blockchain Champion at UN/CEFACT, he actively contributes to global initiatives on trade facilitation and digital trust. Ravi continues to drive innovation in digital identity, sustainability, and the emerging device economy through scalable, real-world blockchain solutions.
                     </p>
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
     <!-- Ravi Seethapathy -->
-    <div class="row speaker_row">
+    <!-- <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
-                <!-- Speaker Image -->
                 <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
                     <img src="images/2026/speakers/RaviSeethapathy.jpg" alt="Ravi Seethapathy" class="speaker-photo">
                 </div>
-
-                <!-- Speaker Content -->
                 <div class="speaker_content" style="flex: 1;">
                     <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
                         Ravi Seethapathy<br/>
@@ -1967,108 +1879,18 @@
     Biosirus Inc.  
                     </h1>
                     <p style="text-align: justify; line-height: 1.6;">
-                        Ravi Seethapathy, is Executive Chairman of Biosirus Inc., Canada. He serves as the   
-                        "Ambassador for the Americas", for the Global Smart Energy Federation, USA, and as   
-                        an Advisor to the India Smart Grid Forum. He is an empanelled expert at the Coalition   
-                        for Disaster Resilient Infrastructure (CDRI), a 51-country member organization.   
+                        Ravi Seethapathy, is Executive Chairman of Biosirus Inc., Canada. He serves as the "Ambassador for the Americas", for the Global Smart Energy Federation, USA, and as an Advisor to the India Smart Grid Forum. He is an empanelled expert at the Coalition for Disaster Resilient Infrastructure (CDRI), a 51-country member organization.   
                     </p>
                     <p style="text-align: justify; line-height: 1.6;">
-                        With over 42+ years of experience in the Energy and Power Systems area in Canada,   
-                        he mentors several utilities and companies in their technology development. His is   
-                        active in several IEC, CSA, GSEF, ISGF, CDRI technical committees, in the areas of   
-                        sustainable energy, transportation, energy storage, microgrid and e-mobility. He is an   
-                        invited speaker internationally and has co-authored over 50 technical papers and   
-                        published 75 articles. His former Corporate Directorships include Larsen & Toubro's -   
-                        Power Transmission & Distribution (IC), India, Toronto Atmospheric Fund, Smart Grid   
-                        Canada, Ryerson University, TV Ontario, Scarborough Hospital, and as Chairs of   
-                        Engineers Without Borders Canada, Canadian Club of Toronto, and Indo-Canada   
-                        Chamber of Commerce.  
+                        With over 42+ years of experience in the Energy and Power Systems area in Canada, he mentors several utilities and companies in their technology development. His is active in several IEC, CSA, GSEF, ISGF, CDRI technical committees, in the areas of sustainable energy, transportation, energy storage, microgrid and e-mobility. He is an invited speaker internationally and has co-authored over 50 technical papers and published 75 articles. His former Corporate Directorships include Larsen & Toubro's - Power Transmission & Distribution (IC), India, Toronto Atmospheric Fund, Smart Grid Canada, Ryerson University, TV Ontario, Scarborough Hospital, and as Chairs of Engineers Without Borders Canada, Canadian Club of Toronto, and Indo-Canada Chamber of Commerce.  
                     </p>
                     <p style="text-align: justify; line-height: 1.6;">
-                        He is a Life Fellow of the Canadian Academy of Engineering; a Life Senior Member of   
-                        the IEEE; and a registered Professional Engineer in Ontario. He has been honoured   
-                        with several awards/citations including the Distinguished Alumnus Award, IIT   
-                        Kharagpur (2025); ISGF President's Award (2023); Life Member Service Award; IEEE   
-                        Toronto (2021); and Queen Elizabeth II Diamond Jubilee Medal (2012). He/ his family   
-                        has endowed an IEEE PES/IAS Award in "Rural Electrification Excellence". He holds a B.   
-                        Tech (Hons) in Electrical Power from IIT Kharagpur, India, an M. Eng. in Electrical   
-                        Power from University of Toronto and an MBA from the Schulich School of Business,   
-                        York University, Toronto, Canada.  
+                        He is a Life Fellow of the Canadian Academy of Engineering; a Life Senior Member of the IEEE; and a registered Professional Engineer in Ontario. He has been honoured with several awards/citations including the Distinguished Alumnus Award, IIT Kharagpur (2025); ISGF President's Award (2023); Life Member Service Award; IEEE Toronto (2021); and Queen Elizabeth II Diamond Jubilee Medal (2012). He/ his family has endowed an IEEE PES/IAS Award in "Rural Electrification Excellence". He holds a B. Tech (Hons) in Electrical Power from IIT Kharagpur, India, an M. Eng. in Electrical Power from University of Toronto and an MBA from the Schulich School of Business, York University, Toronto, Canada.  
                     </p>
                 </div>
             </div>
         </div>
-    </div>
-
-    <!-- Reena Suri -->
-    <div class="row speaker_row">
-        <div class="k_list_part">
-            <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
-                <!-- Speaker Image -->
-                <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
-                    <img src="images/2026/speakers/ReenaSuri.JPG" alt="Reena Suri" class="speaker-photo">
-                </div>
-
-                <!-- Speaker Content -->
-                <div class="speaker_content" style="flex: 1;">
-                    <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
-                        Reena Suri<br/>
-                        Executive Director<br/>
-                        India Smart Grid Forum
-                    </h1>
-                    <p style="text-align: justify; line-height: 1.6;">
-                        Reena Suri, Executive Director of the India Smart Grid Forum (ISGF) since 2013, brings
-                        over 22 years of rich experience in the energy sector. She has played a key role in
-                        various ISGF projects, including the Electrification Plan for Public Transportation,
-                        Blockchain for Electric Utilities, Energy Storage Roadmap for India, Smart Grid
-                        Roadmap, and developing smart grid and EV infrastructure plans for the SAARC
-                        Region.
-                    </p>
-                    <p style="text-align: justify; line-height: 1.6;">
-                        Reena also led the World Bank EV Project in Kolkata. As the founder-editor of
-                        the Smart Grid Bulletin, Reena has been a voice for smart grid advancements since
-                        2013. She is passionate about increasing gender diversity in the energy sector, leading
-                        initiatives to improve networking and mentoring programs for women, raise
-                        awareness and technology skills among women, and attract women to technical
-                        education by showcasing inspiring role models.
-                    </p>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <!-- Reji Kumar Pillai -->
-    <div class="row speaker_row">
-        <div class="k_list_part">
-            <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start; ">
-                <!-- Speaker Image -->
-                <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
-                    <img src="images/2026/speakers/RejiKumarPillai.jpg" alt="Reji Kumar Pillai" class="speaker-photo">
-                </div>
-
-                <!-- Speaker Content -->
-                <div class="speaker_content" style="flex: 1;">
-                    <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
-                        Reji Kumar Pillai<br/>
-                        President, India Smart Grid Forum (ISGF)<br/>
-                        Chairman, Global Smart Energy Federation (GSEF)
-                    </h1>
-                    <p style="text-align: justify; line-height: 1.6;">
-            Reji is the President of India Smart Grid Forum (<a href="https://www.indiasmartgrid.org" target="_blank">www.indiasmartgrid.org</a>) since its inception in 2011 and is also the current Chairman of the Global Smart Energy Federation (GSEF). He is an internationally renowned expert with over four decades of experience in the electricity sector in diverse functions covering the entire value chain and across continents. He is spearheading a mission to leverage technology to transform the electric grids and provide clean and reliable electricity to every citizen 24x7 at affordable cost. For decades he has been actively advocating for the "Right to Electricity" that would ensure lifeline supply of electricity to all which is now becoming a reality in India and several other developing countries; and also advocating for the "Right to Sleep" to provide climate-controlled sleeping pods in low-income communities. Reji has played pivotal role in several groundbreaking initiatives related to renewable energy, electric grid modernization, electric mobility, energy storage and digitalization of utilities across continents during the past two decades.
-        </p>
-        <p style="text-align: justify; line-height: 1.6;">
-            His current areas of research and work spans: Grid Integrated Vehicles, District Cooling Systems, Electric Cooking, Integration of Utilities - electricity + water + city gas distribution; Grid Interactive Buildings and Campuses; Artificial Intelligence, Robotics, Blockchain, Web 3.0 and Metaverse Applications for Utilities; Urban Air Mobility (UAM) Systems and the Future of Transportation; and Interconnection of Regional Grids in Asia - ASEAN, SAARC and GCC grids.
-        </p>
-        <p style="text-align: justify; line-height: 1.6;">
-            In November 2016, Reji was unanimously elected as Chairman of Global Smart Grid Federation, now renamed as Global Smart Energy Federation (GSEF), a global umbrella organization of smart energy associations and utilities from around the globe headquartered in Washington DC, USA that was established by the US Department of Energy in 2010. Reji is also an advisor to Arab Renewable Energy Commission (AREC) since 2017; and works closely with the Association of Power Utilities in Africa (APUA), International Smart Grid Action Network (ISGAN) and LATAM Smart Grid Forum.
-        </p>
-        <p style="text-align: justify; line-height: 1.6;">
-            As an entrepreneur, Reji has built successful enterprises in India and overseas and exited them. Presently he mentors several technology startups around the globe. He has studied Engineering, Finance, Management and Law; worked with NTPC and IBM and has been a senior consultant with ADB, World Bank and USAID. A recognized thought leader in renewable energy, smart grid technologies, smart cities and electric mobility, Reji is a popular key-note speaker at international symposiums and conferences. He has also contributed to several articles, books, research reports and white papers on a variety of topics.
-        </p>
-                </div>
-            </div>
-        </div>
-    </div>
+    </div> -->
 
     <!-- Ritwik Anand -->
     <!-- <div class="row speaker_row">
@@ -2084,22 +1906,13 @@
                     <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
                         Ritwik Anand,<br/>
                         Scientist E & Director (Electrotechnical Department),<br/>
-                        Bureau of Indian Standards, Ministry of Consumer Affairs, Food &   
-    Public Distribution
+                        Bureau of Indian Standards, Ministry of Consumer Affairs, Food & Public Distribution
                     </h1>
                     <p style="text-align: justify; line-height: 1.6;">
-                        Mr Ritwik Anand is presently working as Scientist-E & Director in the   
-    Electrotechnical Department of the Bureau of Indian Standards (BIS). He   
-    joined Bureau of Indian Standards in the year 2012.He has worked on and   
-    is associated with a lot of important assignments related standardization   
-    in varied fields like Safety of Electrical Installations, LVDC Distribution   
-    Systems and Marine Energy Conversion Systems technical committees. 
+                        Mr Ritwik Anand is presently working as Scientist-E & Director in the Electrotechnical Department of the Bureau of Indian Standards (BIS). He joined Bureau of Indian Standards in the year 2012.He has worked on and is associated with a lot of important assignments related standardization in varied fields like Safety of Electrical Installations, LVDC Distribution Systems and Marine Energy Conversion Systems technical committees. 
                     </p>
-                    <p style="text-align: justify; line-height: 1.6;">He is also the Member Secretary of the technical committee of Revision of   
-    National Electrical Code of India, SP 30 and Assistant Secretary of the IEC   
-    Systems Committee on Low Voltage Direct Current (IEC SyC LVDC).  
-    Notably, Mr. Anand was honored with the prestigious IEC 1906 Award by   
-    the International Electrotechnical Commission (IEC).</p>
+                    <p style="text-align: justify; line-height: 1.6;">He is also the Member Secretary of the technical committee of Revision of National Electrical Code of India, SP 30 and Assistant Secretary of the IEC Systems Committee on Low Voltage Direct Current (IEC SyC LVDC).  
+    Notably, Mr. Anand was honored with the prestigious IEC 1906 Award by the International Electrotechnical Commission (IEC).</p>
                     
                     
                 </div>
@@ -2108,7 +1921,7 @@
     </div> -->
 
     <!-- Rohit Pareek -->
-    <div class="row speaker_row">
+    <!-- <div class="row speaker_row">
         <div class="k_list_part ">
             <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
                 <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
@@ -2124,10 +1937,10 @@
                 
             </div>
         </div>
-    </div>
+    </div> -->
 
     <!-- RS Selvam -->
-    <div class="row speaker_row">
+    <!-- <div class="row speaker_row">
         <div class="k_list_part ">
             <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
                 <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
@@ -2137,27 +1950,17 @@
                         <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
                             RS Selvam  <br/>Vice President of Research & Development<br/>Stelmec  
                         </h1>
-                        <p>With over 40 years of extensive experience in the switchgear industry, RS Selvam   
-    is a seasoned expert in the design and development of medium-voltage (MV)   
-    switchgear products. His career began with a BE in Electrical & Electronics from   
-    Anna University, Chennai, followed by an MBA in Operations from Manipal   
-    University through distance education.  </p>
-                        <p>Throughout his career, RS Selvam has contributed to leading firms, including   
-    Southern Switchgear in Chennai, Eswaran & Sons Engineer Ltd., Chennai, Andrew   
-    Yule & Co. Ltd., and ECE Industries Ltd. in both Kolkata and Delhi. For the past 20   
-    years, he has served as the Vice President of Research & Development at Stelmec   
-    Limited, where he leads innovative projects in MV switchgear design, transitioning   
-    from oil-based to vacuum circuit breaker technology.  </p>
-                        <p>His expertise in the switchgear industry is deeply rooted in in-house design and   
-    development, making him a valuable asset and a respected figure in his field.</p>
+                        <p>With over 40 years of extensive experience in the switchgear industry, RS Selvam is a seasoned expert in the design and development of medium-voltage (MV) switchgear products. His career began with a BE in Electrical & Electronics from Anna University, Chennai, followed by an MBA in Operations from Manipal University through distance education.  </p>
+                        <p>Throughout his career, RS Selvam has contributed to leading firms, including Southern Switchgear in Chennai, Eswaran & Sons Engineer Ltd., Chennai, Andrew Yule & Co. Ltd., and ECE Industries Ltd. in both Kolkata and Delhi. For the past 20 years, he has served as the Vice President of Research & Development at Stelmec Limited, where he leads innovative projects in MV switchgear design, transitioning from oil-based to vacuum circuit breaker technology.  </p>
+                        <p>His expertise in the switchgear industry is deeply rooted in in-house design and development, making him a valuable asset and a respected figure in his field.</p>
                     </div>
                 
             </div>
         </div>
-    </div>
+    </div> -->
 
     <!-- Samanta Santadyuti -->
-    <div class="row speaker_row">
+    <!-- <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker">
                 <div class="speaker_img">
@@ -2178,18 +1981,15 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
     <!-- Sandip Sinha -->
-    <div class="row speaker_row">
+    <!-- <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
-                <!-- Speaker Image -->
                 <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
                     <img src="images/2026/speakers/SandipSinha.png" alt="AtulBali" class="speaker-photo">
                 </div>
-
-                <!-- Speaker Content -->
                 <div class="speaker_content" style="flex: 1;">
                     <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
                         Sandip Sinha,<br/>
@@ -2197,31 +1997,18 @@
                         Trilliant Networks
                     </h1>
                     <p style="text-align: justify; line-height: 1.6;">
-                        Sandip Sinha is a senior executive with over 20 years of experience in the   
-    energy sector, specializing in sales strategy, business development, and   
-    program delivery across Advanced Metering Infrastructure, renewable   
-    energy, smart grid, and battery energy storage domains. As Vice President   
-    of Sales at Trilliant Networks, he leads strategic engagements with power   
-    utilities, government agencies and AMISP, driving the adoption of   
-    advanced smart energy solutions. 
+                        Sandip Sinha is a senior executive with over 20 years of experience in the energy sector, specializing in sales strategy, business development, and program delivery across Advanced Metering Infrastructure, renewable energy, smart grid, and battery energy storage domains. As Vice President of Sales at Trilliant Networks, he leads strategic engagements with power utilities, government agencies and AMISP, driving the adoption of advanced smart energy solutions. 
                     </p>
-                    <p style="text-align: justify; line-height: 1.6;">Prior to Trilliant, Sandip held key leadership roles at Hitachi Energy, ABB,   
-    and Itron, where he played a pivotal role in expanding market presence   
-    and delivering large-scale technology programs. He brings a deep   
-    understanding of the evolving energy landscape and has been   
-    instrumental in promoting digital transformation within the sector.   
-    Sandip holds an MBA in Finance from the Indian Institute of Technology,   
-    Delhi, and a Bachelor's degree in Electrical Engineering from Bangalore   
-    University.   </p>
+                    <p style="text-align: justify; line-height: 1.6;">Prior to Trilliant, Sandip held key leadership roles at Hitachi Energy, ABB, and Itron, where he played a pivotal role in expanding market presence and delivering large-scale technology programs. He brings a deep understanding of the evolving energy landscape and has been instrumental in promoting digital transformation within the sector. Sandip holds an MBA in Finance from the Indian Institute of Technology, Delhi, and a Bachelor's degree in Electrical Engineering from Bangalore University.   </p>
                     
                     
                 </div>
             </div>
         </div>
-    </div>    
+    </div>     -->
 
     <!-- Santosh Kumar Singh -->
-    <div class="row speaker_row">
+    <!-- <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker">
                 <div class="speaker_img">
@@ -2242,7 +2029,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
     <!-- Satyendra R. Pandey -->
     <!-- <div class="row speaker_row">
@@ -2266,7 +2053,7 @@
     </div> -->
 
     <!-- Saurav Shah -->
-    <div class="row speaker_row">
+    <!-- <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker">
                 <div class="speaker_img">
@@ -2287,10 +2074,10 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
     <!-- Shashi Bala -->
-    <div class="row speaker_row">
+    <!-- <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker">
                 <div class="speaker_img">
@@ -2314,18 +2101,15 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
     <!-- Shashank Mishra -->
-    <div class="row speaker_row">
+    <!-- <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
-                <!-- Speaker Image -->
                 <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
                     <img src="images/2026/speakers/ShashankMishra.png" alt="AtulBali" class="speaker-photo">
                 </div>
-
-                <!-- Speaker Content -->
                 <div class="speaker_content" style="flex: 1;">
                     <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
                         Shashank Mishra,<br/>
@@ -2333,32 +2117,18 @@
                         Ministry of Power, Govt. of India
                     </h1>
                     <p style="text-align: justify; line-height: 1.6;">
-                        Shri Shashank Misra is Government Nominee Director on the Board   
-    of REC Limited since August 21, 2023. He is an IAS Officer (Madhya   
-    Pradesh: 2007) and holds B. Tech in Electrical Engineering from IIT Delhi.   
-    Presently, he is posted as Joint Secretary in the Ministry of Power,   
-    Government of India. Prior to joining in Ministry of Power, he has served   
-    in Department of Revenue, Ministry of Finance, Government of India.   
+                        Shri Shashank Misra is Government Nominee Director on the Board of REC Limited since August 21, 2023. He is an IAS Officer (Madhya Pradesh: 2007) and holds B. Tech in Electrical Engineering from IIT Delhi. Presently, he is posted as Joint Secretary in the Ministry of Power, Government of India. Prior to joining in Ministry of Power, he has served in Department of Revenue, Ministry of Finance, Government of India.   
                     </p>
-                    <p style="text-align: justify; line-height: 1.6;">He has also worked in various capacities in Government of Madhya   
-    Pradesh which includes Managing Director of Madhya Pradesh Road   
-    Development Corporation Limited, Madhya Pradesh Building   
-    Development Corporation Limited & Madhya Pradesh State Asset   
-    Management Company Limited, Chairman of Ujjain Smart City Limited and   
-    as CEO of Madhya Pradesh Rural Road Development Authority. Further, he   
-    is also Government Nominee Director on the Board of Power Finance   
-    Corporation Limited.</p>
-                    <p style="text-align: justify; line-height: 1.6;">Shri Shashank Misra holds Nil equity shares in the Company. Further, he   
-    has no inter-se relation with any other Director or Key Managerial   
-    Personnel of the Company.</p>
+                    <p style="text-align: justify; line-height: 1.6;">He has also worked in various capacities in Government of Madhya Pradesh which includes Managing Director of Madhya Pradesh Road Development Corporation Limited, Madhya Pradesh Building Development Corporation Limited & Madhya Pradesh State Asset Management Company Limited, Chairman of Ujjain Smart City Limited and as CEO of Madhya Pradesh Rural Road Development Authority. Further, he is also Government Nominee Director on the Board of Power Finance Corporation Limited.</p>
+                    <p style="text-align: justify; line-height: 1.6;">Shri Shashank Misra holds Nil equity shares in the Company. Further, he has no inter-se relation with any other Director or Key Managerial Personnel of the Company.</p>
                     
                 </div>
             </div>
         </div>
-    </div> 
+    </div>  -->
 
     <!-- Smt Meghana Sakore -- Bordikar -->
-    <div class="row speaker_row">
+    <!-- <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker">
                 <div class="speaker_img">
@@ -2382,7 +2152,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
     <!-- Sonia Sethi -->
     <!-- <div class="row speaker_row">
@@ -2406,7 +2176,7 @@
     </div>     -->
 
     <!-- Srikant Nagulapalli -->
-    <div class="row speaker_row">
+    <!-- <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
                 <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
@@ -2424,7 +2194,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
     <!-- Subrahmanyam Pulipaka -->
     <!-- <div class="row speaker_row">
@@ -2448,7 +2218,7 @@
     </div> -->
 
     <!-- Sujit Pathak -->
-    <div class="row speaker_row">
+    <!-- <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker">
                 <div class="speaker_img">
@@ -2472,10 +2242,10 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
     <!-- Sujith Nair -->
-    <div class="row speaker_row">
+    <!-- <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker">
                 <div class="speaker_img">
@@ -2508,10 +2278,10 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
     <!-- Suresh Makwana -->
-    <div class="row speaker_row">
+    <!-- <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker">
                 <div class="speaker_img">
@@ -2532,10 +2302,10 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
     <!-- Swapnadeep Banerjee -->
-    <div class="row speaker_row">
+    <!-- <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
                 <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
@@ -2548,38 +2318,12 @@
                         Trilliant
                     </h1>
                     <p style="text-align: justify; line-height: 1.6;">
-                        Swapnadeep Banerjee is a Customer Solutions Manager in Trilliant Networks India
-                        Private Limited and is responsible for pre-sales and solution architecture for
-                        product solutions for growth of business in India and Asia Pacific. He has been
-                        an integral part of the System Integration team which started the 4 million
-                        smart meter rollout for the states of UP and Haryana under the EESL Phase 1
-                        project. Swapnadeep has over 17 years of industry experience with expertise
-                        across Telecom OSS/BSS, Smart IoT solutions and AMI Solutions.
+                        Swapnadeep Banerjee is a Customer Solutions Manager in Trilliant Networks India Private Limited and is responsible for pre-sales and solution architecture for product solutions for growth of business in India and Asia Pacific. He has been an integral part of the System Integration team which started the 4 million smart meter rollout for the states of UP and Haryana under the EESL Phase 1 project. Swapnadeep has over 17 years of industry experience with expertise across Telecom OSS/BSS, Smart IoT solutions and AMI Solutions.
                     </p>
                 </div>
             </div>
         </div>
-    </div>
-
-    <!-- Teppo Hemiä -->
-    <div class="row speaker_row">
-        <div class="k_list_part ">
-            <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
-                <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
-                        <img src="images/2026/speakers/TeppoHemia.jpg" style="width:60%">
-                    </div>
-                    <div class="speaker_content">
-                        <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
-                            Teppo Hemiä<br/>CEO<br/>Wirepas
-                        </h1>
-                        <p>Teppo is a technology and business executive with 30 years of experience from creating, developing and delivering innovative global wireless technology products and solutions. He has experience from several successful business creations and turnarounds, from a startup to an established business with half a billion top line.</p>
-                        <p>Teppo Hemiä has been the founder and CEO of Wirepas since 2014. Wirepas offers a singular connectivity technology with unique licensing business model. The completely de-centralized device connectivity, also part of 5G standards, helps customers to lower the cost of data acquisition while keeping the reliability levels very high at any scale and networks private.</p>
-                        <p>Before joining Wirepas he has held several demanding positions at Nokia, STMicroelectronics and ST-Ericsson.</p>
-                    </div>
-                
-            </div>
-        </div>
-    </div>
+    </div> -->
 
     <!-- Tripta Thakur -->
     <!-- <div class="row speaker_row">
@@ -2606,7 +2350,7 @@
     </div> -->
 
     <!-- Vishakha Chavan -->
-    <div class="row speaker_row">
+    <!-- <div class="row speaker_row">
         <div class="k_list_part ">
             <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
                 <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
@@ -2622,10 +2366,10 @@
                 
             </div>
         </div>
-    </div>
+    </div> -->
 
     <!-- Vivek Chandra -->
-    <div class="row speaker_row">
+    <!-- <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker">
                 <div class="speaker_img">
@@ -2649,10 +2393,10 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
     <!-- Yogesh Gadkari -->
-    <div class="row speaker_row">
+    <!-- <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker">
                 <div class="speaker_img">
@@ -2676,7 +2420,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 	
 	
 	

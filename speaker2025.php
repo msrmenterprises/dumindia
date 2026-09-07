@@ -2689,8 +2689,7 @@
 	
 			<br/>
 			<div style="text-align:center">
-			<p>For More information: <a href="http://dumindia.in/speaker2025.php">http://dumindia.in/speaker2025.php</a></p>	
-            <p>For More information: <a href="http://dumindia.in/speaker2024.php">http://dumindia.in/speaker2024.php</a></p>
+				<p>For More information: <a href="http://dumindia.in/speaker2024.php">http://dumindia.in/speaker2024.php</a></p>
 				<p>For More information: <a href="http://dumindia.in/speaker2023.php">http://dumindia.in/speaker2023.php</a></p>
 
 				<p>For More information: <a href="http://dumindia.in/speaker2022.php">http://dumindia.in/speaker2022.php</a></p>

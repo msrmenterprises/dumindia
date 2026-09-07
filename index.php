@@ -414,6 +414,7 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 		<li><a href="https://brodersen.com/" target="_blank"><img src="/images/2025/Brodersen.jpeg" style="height:100px;" alt="Brodersen Systems Pvt. Ltd">Brodersen Systems Pvt. Ltd.</a></li>
 		<li><a href="https://www.tatapower.com/" target="_blank"><img src="images/2026/tatapower.png" style="height:100px;" alt="Tata Power Company Limited">Tata Power Company Limited</a></li>
 		<li><a href="https://www.tatapower-ddl.com/" target="_blank"><img src="images/2026/tatapowerDDL.png" style="height:100px;" alt="Tata Power Delhi Distribution Limited">Tata Power Delhi Distribution Limited</a></li>
+		<li><a href="https://bentecindia.com/" target="_blank"><img src="images/2026/Bentecv1.png" style="border: 1px solid #aeb4b2; height: 120px;" alt="Bentec India Ltd">Bentec</a></li>
 		<li><a href="https://www.tauruspowertronics.com/" target="_blank"><img src="images/2026/TaurusPowertronics.jpg" style="height:100px;" alt="Taurus Powertronics">Taurus Powertronics</a></li>
 		<li><a href="https://reconnectenergy.com/" target="_blank"><img src="/images/2026/reconnect.jpg" alt="REConnect Energy" style="height:100px;">REConnect Energy</a></li>
 	</ul>

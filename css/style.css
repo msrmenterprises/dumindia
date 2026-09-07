@@ -435,7 +435,10 @@ textarea {
   color: #fff !important; }
 
 .k_logo_here {
-  margin-top: 3px; }
+  /* margin-top: 3px;  */
+    position: relative;
+    top: 51px;
+}
 
 .k_logo_main {
   text-align: center;

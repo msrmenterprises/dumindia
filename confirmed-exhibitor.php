@@ -58,6 +58,8 @@ box-shadow: 0 1px 6px rgba(0, 0, 0, 0.06);
 			<li><a href="https://brodersen.com/" target="_blank"><img src="/images/2025/Brodersen.jpeg" style="height:100px;">Brodersen Systems Pvt. Ltd.</a></li>
 			<li><a href="https://www.tatapower.com/" target="_blank"><img src="images/2026/tatapower.png" style="height:110px;">Tata Power Company Limited</a></li>
 			<li><a href="https://www.tatapower-ddl.com/" target="_blank"><img src="images/2026/tatapowerDDL.png" style="height:100px;">Tata Power Delhi Distribution Limited</a></li>
+			<li><a href="https://bentecindia.com/" target="_blank"><img src="images/2026/Bentecv1.png" style="border: 1px solid #aeb4b2; height: 120px;">Bentec</a></li>
+			<li><a href="https://reconnectenergy.com/" target="_blank"><img src="images/2026/reconnect.jpg" style="height:100px;">REConnect Energy</a></li>
 			<li><a href="https://www.tauruspowertronics.com/" target="_blank"><img src="images/2026/TaurusPowertronics.jpg" style="height:100px;">Taurus Powertronics</a></li>
 		</ul>
 		<ul class="k_confirmed_als">

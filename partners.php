@@ -95,6 +95,7 @@ box-shadow: 0 1px 6px rgba(0, 0, 0, 0.06);
 		<li><a href="https://www.tatapower-ddl.com/" target="_blank"><img src="images/utilities2019/tatapowerdlll.png" style="height: 120px;">Tata Power Delhi Distribution Limited</a></li>
 		<li><a href="https://www.bsesdelhi.com/web/bypl" target="_blank"><img src="/images/bses.png" style="border: 2px solid #aeb4b2; height: 120px;">BSES Yamuna Power Limited</a></li>
 		<li><a href="https://www.tatapower.com/" target="_blank"><img src="/images/tatapower.png" style="height: 120px;">Tata Power Company Limited</a></li>
+		<li><a href="https://www.noidapower.com/" target="_blank"><img src="images/utilities2019/npcl.png" style="height: 120px;">NPCL</a></li>
 		</ul>
 
 	<BR/>

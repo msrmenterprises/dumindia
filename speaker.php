@@ -101,6 +101,99 @@
 		<img src="images/kborder_bottom.png" alt="">
 	</div>
 
+    <!-- Aayush Agarwal -->
+    <div class="row speaker_row">
+        <div class="k_list_part">
+            <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
+                <!-- Speaker Image -->
+                <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
+                    <img src="images/2026/speakers/AayushAgarwal.jpg" alt="Aayush Agarwal" class="speaker-photo">
+                </div>
+
+                <!-- Speaker Content -->
+                <div class="speaker_content" style="flex: 1;">
+                    <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
+                        Aayush Agarwal<br/>
+                        Co-founder and CTO<br/>
+                        WorkOnGrid
+                    </h1>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Aayush Agarwal is the co-founder and CTO of WorkOnGrid, the AI-native operations intelligence platform for utilities. He leads product, engineering and the technology architecture of Grid. Aayush brings over a decade of experience from LogMeIn and Citrix, where he worked on data infrastructure and systems built to operate reliably at massive scale.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Aneesh Thomas -->
+    <div class="row speaker_row">
+        <div class="k_list_part">
+            <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
+                <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
+                    <img src="images/2026/speakers/AneeshThomas.jpg" alt="Aneesh Thomas" class="speaker-photo">
+                </div>
+                <div class="speaker_content" style="flex: 1;">
+                    <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
+                        Aneesh Thomas<br/>
+                        Associate Director MV<br/>
+                        Eaton Power Quality India
+                    </h1>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Aneesh Thomas leads Power Distribution Assembly Medium Voltage Switchgear at Eaton Power Quality India, bringing 25 years of rich expertise from global industry leaders ABB, Siemens, and Larsen & Toubro.
+                    </p>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        A pioneer in sustainable power technologies, he champions the development of SF6-free switching technologies and environmentally responsible alternatives for medium voltage power distribution. Through his work at Eaton, he actively contributes to India's vision of energy self-reliance, focusing on innovative solutions that align with the nation's commitment to sustainable power infrastructure.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Anil Kumar -->
+    <div class="row speaker_row">
+        <div class="k_list_part">
+            <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
+                <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
+                    <img src="images/2026/speakers/AnilKumar.jpg" alt="Anil Kumar" class="speaker-photo">
+                </div>
+                <div class="speaker_content" style="flex: 1;">
+                    <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
+                        Anil Kumar<br/>
+                        Director<br/>
+                        Enspar Sustainability Pvt Ltd
+                    </h1>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Anil Kumar P is the Director of Enspar Sustainability Pvt Ltd, bringing over four decades of expertise in power engineering. He holds a BSc (Engineering) degree in Electrical Engineering with First Class Honors from the Regional Engineering College (now NIT), Calicut, earned in 1980. He began his career with specialized training in Nuclear Science and Engineering at the Training School of the Bhabha Atomic Research Centre (BARC), Mumbai. He went on to hold key middle and senior management positions at Nuclear Power Corporation, Tata Electric, ASEA (ABB), Voltas (a Tata company), and Rockwell Automation, working across power generation (nuclear, thermal, and hydro), power quality, substation SCADA, and automation systems.
+                    </p>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        For the past 35 years, Anil has been a leading entrepreneur and technocrat in the field of Power Quality, both in India and internationally. He has completed more than 2,500 power quality studies and power system analyses, delivering solutions across industries such as semiconductors, cement, metals, pharmaceuticals, and petrochemicals, as well as infrastructure sectors including airports, power utilities, metro rail, and renewable energy. His work spans India, ASEAN nations, South Korea, Taiwan, the Middle East, and South America. He is a member of the Power Quality Committees of the IEC and BIS, and serves as an advisor on grid compliance, power system modeling, and renewable energy integration.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- C. Nallasivan -->
+    <div class="row speaker_row">
+        <div class="k_list_part">
+            <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
+                <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
+                    <img src="images/2026/speakers/CNallasivan.jpg" alt="C. Nallasivan" class="speaker-photo">
+                </div>
+                <div class="speaker_content" style="flex: 1;">
+                    <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
+                        C. Nallasivan<br/>
+                        Assistant Executive Engineer<br/>
+                        Tamil Nadu Power Distribution Corporation Limited
+                    </h1>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Er. C. Nallasivan, M.E., M.I.E., (Ph.D.) is a Power System Engineer with over 20 years of experience in the Indian power sector, currently with the Tamil Nadu Power Distribution Corporation Limited (TNP DCL), where he works on Open Access Automated Meter Reading, renewable energy monitoring, and utility digitalization. He is a Ph.D. Research Scholar at Anna University, Chennai, researching Grid-Forming Inverters, Battery Energy Storage Systems, and grid stability in renewable-dominant power systems. He is a member of award-winning teams recognized with the SKOCH Silver Award 2022, ISGF Diamond Award 2023, and India Wind Energy Forum Leadership Award 2023 for renewable energy AMR implementation, and has presented his research internationally, including at the 24th Wind & Solar Integration Workshop (WISO 2025) in Berlin. He is a member of IEEE, the Institution of Engineers (India), IET (UK), and CIGRE.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
     <!-- Reji Kumar Pillai -->
     <div class="row speaker_row">
         <div class="k_list_part">
@@ -470,27 +563,6 @@
                     </p>
                     <p>
                         His current areas of work spans: Grid Integrated Vehicles, District Cooling Systems, Electric Cooking, Smart Grids, Freight corridors for Electric Trucks, Future Mobility Parks, Time of Use Tariff for Indian Utilities, Renewable Energy Trading Using Blockchain Technology; AI, VR and AR Applications for Utilities.
-                    </p>
-                </div>
-            </div>
-        </div>
-    </div> -->
-
-    <!-- Aneesh Thomas -->
-    <!-- <div class="row speaker_row">
-        <div class="k_list_part">
-            <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
-                <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
-                    <img src="images/2026/speakers/AneeshThomas.jpg" alt="Aneesh Thomas" class="speaker-photo">
-                </div>
-                <div class="speaker_content" style="flex: 1;">
-                    <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
-                        Aneesh Thomas,<br/>
-                        Associate Director National Sales MV<br/>
-                        Eaton Power Quality India
-                    </h1>
-                    <p style="text-align: justify; line-height: 1.6;">
-                        Aneesh Thomas leads Power Distribution Assembly Medium Voltage Switchgear at Eaton Power Quality India, bringing 24 years of rich expertise from global industry leaders ABB, Siemens, and Larsen & Toubro. A pioneer in sustainable power technologies, he champions the development of SF6-free switching technologies and environmentally responsible alternatives for medium voltage power distribution. Through his work at Eaton, he actively contributes to India's vision of energy self-reliance, focusing on innovative solutions that align with the nation's commitment to sustainable power infrastructure.
                     </p>
                 </div>
             </div>
@@ -2421,7 +2493,6 @@
             </div>
         </div>
     </div> -->
-	
 	
 	
 	

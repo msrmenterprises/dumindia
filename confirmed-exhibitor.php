@@ -2,21 +2,23 @@
 <style>
 /* Responsive grid and consistent logo sizing (matches home page layout) */
 .k_confirmed_als {
-	display: block;
-	grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+	display: grid;
+	grid-auto-flow: column;
+	grid-template-rows: repeat(2, minmax(120px, auto));
 	gap: 12px 18px;
 	list-style: none;
-	padding: 0;
+	padding: 0 0 12px;
 	margin: 0 auto;
 	align-items: start;
 	justify-items: center;
-	grid-auto-rows: minmax(120px, auto);
-	overflow:auto
+	grid-auto-columns: minmax(160px, 1fr);
+	overflow-x: auto;
+	overflow-y: hidden;
 }
-.k_confirmed_als li { text-align:center; margin:0; padding:6px 4px; display:table-cell !important ;
+.k_confirmed_als li { text-align:center; margin:0; padding:6px 4px; display:flex !important; flex-direction:column;
 box-shadow: 0 1px 6px rgba(0, 0, 0, 0.06);
     border: 1px solid rgba(44, 58, 100, 0.08) !important;
-	width:0% !important
+	width:160px !important
 }
 .k_confirmed_als li a { display:flex; flex-direction:column; align-items:center; justify-content:center; text-decoration:none; color:inherit; width:100%; }
 .k_confirmed_als li img {
@@ -34,9 +36,10 @@ box-shadow: 0 1px 6px rgba(0, 0, 0, 0.06);
 	border:0px !important
 	/* border: 1px solid rgba(44,58,100,0.08) !important; */
 }
-.k_confirmed_als h5 { text-transform: uppercase; grid-column: 1 / -1; background: rgba(44,58,100,0.06); padding:8px 12px; border-radius:8px; font-size:15px; text-align:center; }
+.k_confirmed_als h5 { text-transform: uppercase; grid-row: 1 / -1; grid-column: 1; background: rgba(44,58,100,0.06); padding:8px 12px; border-radius:8px; font-size:15px; text-align:center; display:flex; align-items:center; justify-content:center; writing-mode: horizontal-tb; }
 @media (max-width: 576px) {
-	.k_confirmed_als { grid-template-columns: repeat(2,1fr); gap:10px; }
+	.k_confirmed_als { grid-template-rows: repeat(2,1fr); gap:10px; }
+	.k_confirmed_als li { width:120px !important; }
 	.k_confirmed_als li img { max-width:120px !important; max-height:80px !important; padding:4px; }
 	.k_confirmed_als h5 { font-size:13px; padding:6px 8px; }
 }

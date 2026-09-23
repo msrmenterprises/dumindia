@@ -58,6 +58,9 @@ box-shadow: 0 1px 6px rgba(0, 0, 0, 0.06);
 			<li><a href="https://brodersen.com/" target="_blank"><img src="/images/2025/Brodersen.jpeg" style="height:100px;">Brodersen Systems Pvt. Ltd.</a></li>
 			<li><a href="https://www.tatapower.com/" target="_blank"><img src="images/2026/tatapower.png" style="height:110px;">Tata Power Company Limited</a></li>
 			<li><a href="https://www.tatapower-ddl.com/" target="_blank"><img src="images/2026/tatapowerDDL.png" style="height:100px;">Tata Power Delhi Distribution Limited</a></li>
+		</ul><br/>
+		<ul class="k_confirmed_als">
+			<h5><strong>PLATINUM EXHIBITORS </strong></h5>
 			<li><a href="https://bentecindia.com/" target="_blank"><img src="images/2026/Bentecv1.png" style="border: 1px solid #aeb4b2; height: 120px;">Bentec</a></li>
 			<li><a href="https://reconnectenergy.com/" target="_blank"><img src="images/2026/reconnect.jpg" style="height:100px;">REConnect Energy</a></li>
 			<li><a href="https://www.tauruspowertronics.com/" target="_blank"><img src="images/2026/TaurusPowertronics.jpg" style="height:100px;">Taurus Powertronics</a></li>
@@ -69,6 +72,9 @@ box-shadow: 0 1px 6px rgba(0, 0, 0, 0.06);
 			<li><a href="https://www.workongrid.com/" target="_blank"><img src="images/2026/Gridlogo.png" style="height:95px;">GRID</a></li>
 			<li><a href="https://yitran.com/" target="_blank"><img src="images/2026/yitran-lo.png" style="height:100px;">Yitran Technologies</a></li>
 			<li><a href="https://www.eaton.com/in/en-us.html" target="_blank"><img src="images/2026/eaton.png" style="height:100px;">Eaton</a></li>
+			
+		</ul><br/>
+		<ul class="k_confirmed_als">
 			<li><a href="https://rmcindia.in/" target="_blank"><img src="images/2026/rmc.png" style="height:100px;">RMC India</a></li>
 			<li><a href="https://madhavengineers.com/" target="_blank"><img src="images/2026/MadhavEngineers.png" style="height:120px;" alt="Madhav Engineers Pvt. Ltd.">Madhav Engineers Pvt. Ltd.</a></li>
 			<li><a href="https://elektrolites.com/" target="_blank"><img src="images/2026/Elektrolites.png" style="height:120px;" alt="Elektrolites">Elektrolites</a></li>

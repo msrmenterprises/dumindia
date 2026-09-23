@@ -60,7 +60,6 @@ box-shadow: 0 1px 6px rgba(0, 0, 0, 0.06);
 			<li><a href="https://www.tatapower-ddl.com/" target="_blank"><img src="images/2026/tatapowerDDL.png" style="height:100px;">Tata Power Delhi Distribution Limited</a></li>
 		</ul><br/>
 		<ul class="k_confirmed_als">
-			<h5><strong>PLATINUM EXHIBITORS </strong></h5>
 			<li><a href="https://bentecindia.com/" target="_blank"><img src="images/2026/Bentecv1.png" style="border: 1px solid #aeb4b2; height: 120px;">Bentec</a></li>
 			<li><a href="https://reconnectenergy.com/" target="_blank"><img src="images/2026/reconnect.jpg" style="height:100px;">REConnect Energy</a></li>
 			<li><a href="https://www.tauruspowertronics.com/" target="_blank"><img src="images/2026/TaurusPowertronics.jpg" style="height:100px;">Taurus Powertronics</a></li>

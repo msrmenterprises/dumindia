@@ -351,6 +351,7 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 		<li><a href="https://www.tatapower-ddl.com/" target="_blank"><img src="images/utilities2019/tatapowerdlll.png" style="height:100px;">Tata Power Delhi Distribution Limited</a></li>
 		<li><a href="https://www.bsesdelhi.com/web/bypl" target="_blank"><img src="/images/bses.png" style="border: 2px solid #aeb4b2; height:100px;">BSES Yamuna Power Limited</a></li>
 		<li><a href="https://www.tatapower.com/" target="_blank"><img src="/images/tatapower.png" style="height:100px;">Tata Power Company Limited</a></li>
+		<li><a href="https://www.noidapower.com/" target="_blank"><img src="images/utilities2019/npcl.png" style="height:120px;" alt="NPCL - Noida Power Company Limited">NPCL</a></li>
 		</ul>
 
 </div>
@@ -431,6 +432,8 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 		<li><a href="https://rmcindia.in/index.php" target="_blank"><img src="images/2026/rmc.png" style="height:100px;" alt="RMC India">RMC India</a></li>
 		<li><a href="https://kimbal.io/" target="_blank"><img src="/images/Kimbal.jpg" style="border: 1px solid #aeb4b2; height: 120px;" alt="Kimbal">Kimbal</a></li>
 		<li><a href="https://www.enspar.com/" target="_blank"><img src="images/2026/Enspar.jpeg" style="height: 135px;" alt="Enspar Sustainability Pvt. Ltd.">Enspar Sustainability Pvt. Ltd.</a></li>
+		<li><a href="https://madhavengineers.com/" target="_blank"><img src="images/2026/MadhavEngineers.png" style="height:120px;" alt="Madhav Engineers Pvt. Ltd.">Madhav Engineers Pvt. Ltd.</a></li>
+		<li><a href="https://elektrolites.com/" target="_blank"><img src="images/2026/Elektrolites.png" style="height:120px;" alt="Elektrolites">Elektrolites</a></li>
 	</ul>
 
 	</div>

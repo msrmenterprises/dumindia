@@ -70,6 +70,9 @@ box-shadow: 0 1px 6px rgba(0, 0, 0, 0.06);
 			<li><a href="https://yitran.com/" target="_blank"><img src="images/2026/yitran-lo.png" style="height:100px;">Yitran Technologies</a></li>
 			<li><a href="https://www.eaton.com/in/en-us.html" target="_blank"><img src="images/2026/eaton.png" style="height:100px;">Eaton</a></li>
 			<li><a href="https://rmcindia.in/" target="_blank"><img src="images/2026/rmc.png" style="height:100px;">RMC India</a></li>
+			<li><a href="https://madhavengineers.com/" target="_blank"><img src="images/2026/MadhavEngineers.png" style="height:120px;" alt="Madhav Engineers Pvt. Ltd.">Madhav Engineers Pvt. Ltd.</a></li>
+			<li><a href="https://elektrolites.com/" target="_blank"><img src="images/2026/Elektrolites.png" style="height:120px;" alt="Elektrolites">Elektrolites</a></li>
+			<li><a href="https://kimbal.io/" target="_blank"><img src="images/2026/Kimbal.png" style="height:120px;" alt="Kimbal">Kimbal</a></li>
 		</ul>
 	</div>
 	<div class="row dum_container key_div">

@@ -388,6 +388,7 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 		<li><a href="https://www.workongrid.com/" target="_blank"><img src="images/2026/Gridlogo.png" style="height: 100px;" alt="GRID">GRID</a></li>
 		<li><a href="https://www.eaton.com/us/en-us.html" target="_blank"><img src="images/2026/eaton.png" style="height: 100px;" alt="Eaton">Eaton</a></li>
 		<li><a href="https://reconnectenergy.com/" target="_blank"><img src="/images/2026/reconnect.jpg" alt="REConnect Energy" style="height: 100px;">REConnect Energy</a></li>
+		<li><a href="https://www.reformtech.co.kr/en/" target="_blank"><img src="images/2026/image-20260923-094759.png" style="height: 100px;" alt="Reformtech Co., Ltd">Reformtech Co., Ltd - (주)리폼테크</a></li>
 	</ul>
 
 	<br>
@@ -434,6 +435,7 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 		<li><a href="https://www.enspar.com/" target="_blank"><img src="images/2026/Enspar.jpeg" style="height: 135px;" alt="Enspar Sustainability Pvt. Ltd.">Enspar Sustainability Pvt. Ltd.</a></li>
 		<li><a href="https://madhavengineers.com/" target="_blank"><img src="images/2026/MadhavEngineers.png" style="height:120px;" alt="Madhav Engineers Pvt. Ltd.">Madhav Engineers Pvt. Ltd.</a></li>
 		<li><a href="https://elektrolites.com/" target="_blank"><img src="images/2026/Elektrolites.png" style="height:120px;" alt="Elektrolites">Elektrolites</a></li>
+		<li><a href="https://www.reformtech.co.kr/en/" target="_blank"><img src="images/2026/image-20260923-094759.png" style="height:100px;" alt="Reformtech Co., Ltd">Reformtech Co., Ltd - (주)리폼테크</a></li>
 	</ul>
 
 	</div>

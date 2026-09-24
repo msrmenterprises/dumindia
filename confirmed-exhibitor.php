@@ -71,6 +71,7 @@ box-shadow: 0 1px 6px rgba(0, 0, 0, 0.06);
 			<li><a href="https://www.workongrid.com/" target="_blank"><img src="images/2026/Gridlogo.png" style="height:95px;">GRID</a></li>
 			<li><a href="https://yitran.com/" target="_blank"><img src="images/2026/yitran-lo.png" style="height:100px;">Yitran Technologies</a></li>
 			<li><a href="https://www.eaton.com/in/en-us.html" target="_blank"><img src="images/2026/eaton.png" style="height:100px;">Eaton</a></li>
+			<li><a href="https://www.reformtech.co.kr/en/" target="_blank"><img src="images/2026/image-20260923-094759.png" style="height:100px;" alt="Reformtech Co., Ltd">Reformtech Co., Ltd - (주)리폼테크</a></li>
 			
 		</ul><br/>
 		<ul class="k_confirmed_als">

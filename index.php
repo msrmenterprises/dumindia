@@ -384,11 +384,18 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 	<br>
 
 	<ul class="k_confirmed_als">
-		<h5><b>TECHNOLOGY INNOVATION PARTNER</b></h5>
+		<h5><b>TECHNOLOGY INNOVATION PARTNERS</b></h5>
 		<li><a href="https://www.workongrid.com/" target="_blank"><img src="images/2026/Gridlogo.png" style="height: 100px;" alt="GRID">GRID</a></li>
 		<li><a href="https://www.eaton.com/us/en-us.html" target="_blank"><img src="images/2026/eaton.png" style="height: 100px;" alt="Eaton">Eaton</a></li>
 		<li><a href="https://reconnectenergy.com/" target="_blank"><img src="/images/2026/reconnect.jpg" alt="REConnect Energy" style="height: 100px;">REConnect Energy</a></li>
 		<li><a href="https://www.reformtech.co.kr/en/" target="_blank"><img src="images/2026/image-20260923-094759.png" style="height: 100px;" alt="Reformtech Co., Ltd">Reformtech Co., Ltd - (주)리폼테크</a></li>
+	</ul>
+
+	<br>
+
+	<ul class="k_confirmed_als">
+		<h5><b>EXCHANGE PARTNER</b></h5>
+		<li><a href="https://www.iexindia.com/" target="_blank"><img src="images/2026/PowerExchange.jpeg" style="height: 100px;" alt="IEX | Indian Energy Exchange">IEX</a></li>
 	</ul>
 
 	<br>
@@ -561,6 +568,7 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 		<li><a href="https://www.bsesdelhi.com/web/bypl" target="_blank"><img src="/images/bses.png" style="border: 2px solid #aeb4b2; height:100px;">BSES Yamuna Power Limited</a></li>
 		<li><a href="https://www.tatapower.com/" target="_blank"><img src="/images/tatapower.png" style="height:100px;">Tata Power Company Limited</a></li>
 		<li><a href="https://www.tatapower-ddl.com/" target="_blank"><img src="images/utilities2019/tatapowerdlll.png" style="height:100px;">Tata Power Delhi Distribution Limited</a></li>
+		<li><a href="https://www.noidapower.com/" target="_blank"><img src="images/utilities2019/npcl.png" style="height:120px;" alt="NPCL - Noida Power Company Limited">NPCL</a></li>
 	</ul>
 </div> 
 

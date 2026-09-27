@@ -395,7 +395,7 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 
 	<ul class="k_confirmed_als">
 		<h5><b>EXCHANGE PARTNER</b></h5>
-		<li><a href="https://www.iexindia.com/" target="_blank"><img src="images/2026/PowerExchange.jpeg" style="height: 100px;" alt="IEX | Indian Energy Exchange">IEX</a></li>
+		<li><a href="https://www.iexindia.com/" target="_blank"><img src="images/2026/IEX.png" style="height: 100px;" alt="IEX | Indian Energy Exchange">IEX</a></li>
 	</ul>
 
 	<br>
@@ -438,6 +438,7 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 		<li><a href="https://yitran.com/" target="_blank"><img src="images/2026/yitran-lo.png" style="height:100px;" alt="Yitran Technologies">Yitran Technologies</a></li>
 		<li><a href="https://www.eaton.com/in/en-us.html" target="_blank"><img src="images/2026/eaton.png" style="height:100px;" alt="Eaton">Eaton</a></li>
 		<li><a href="https://rmcindia.in/index.php" target="_blank"><img src="images/2026/rmc.png" style="height:100px;" alt="RMC India">RMC India</a></li>
+		<li><a href="https://www.phoenixcontact.com/en-in/" target="_blank"><img src="/images/Logo - Phoenix Contact.jpg" style="height:100px;" alt="Phoenix Contact">Phoenix Contact</a></li>
 		<li><a href="https://kimbal.io/" target="_blank"><img src="/images/Kimbal.jpg" style="border: 1px solid #aeb4b2; height: 120px;" alt="Kimbal">Kimbal</a></li>
 		<li><a href="https://www.enspar.com/" target="_blank"><img src="images/2026/Enspar.jpeg" style="height: 135px;" alt="Enspar Sustainability Pvt. Ltd.">Enspar Sustainability Pvt. Ltd.</a></li>
 		<li><a href="https://madhavengineers.com/" target="_blank"><img src="images/2026/MadhavEngineers.png" style="height:120px;" alt="Madhav Engineers Pvt. Ltd.">Madhav Engineers Pvt. Ltd.</a></li>

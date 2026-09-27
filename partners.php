@@ -123,7 +123,7 @@ box-shadow: 0 1px 6px rgba(0, 0, 0, 0.06);
 	<BR/>
 		<ul class="k_confirmed_als">
 		<h5><STRONG>EXCHANGE PARTNER</STRONG></h5>
-		<li><a href="https://www.iexindia.com/" target="_blank"><img src="images/2026/PowerExchange.jpeg" style="height: 95px;" alt="IEX | Indian Energy Exchange">IEX</a></li>
+		<li><a href="https://www.iexindia.com/" target="_blank"><img src="images/2026/IEX.png" style="height: 95px;" alt="IEX | Indian Energy Exchange">IEX</a></li>
 		</ul>
 
 	<BR/>

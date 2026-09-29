@@ -400,13 +400,6 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 
 	<br>
 
-	<ul class="k_confirmed_als">
-		<h5><b>SESSION PARTNER</b></h5>
-		<li><a href="https://www.intellismartinfra.in/" target="_blank"><img src="images/2026/Intellismartlogo.jpg" style="height: 100px;" alt="IntelliSmart">IntelliSmart</a></li>
-	</ul>
-
-	<br>
-
 	<div class="k_cheading">
 
 		<h1>DUM 2026<span class="k_greencolor"> CONFIRMED EXHIBITORS </span> </h1>

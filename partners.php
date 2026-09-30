@@ -126,11 +126,11 @@ box-shadow: 0 1px 6px rgba(0, 0, 0, 0.06);
 		<li><a href="https://www.iexindia.com/" target="_blank"><img src="images/2026/IEX.png" style="height: 95px;" alt="IEX | Indian Energy Exchange">IEX</a></li>
 		</ul>
 
-	<BR/>
+	<!-- <BR/>
 		<ul class="k_confirmed_als">
 		<h5><STRONG>SESSION PARTNER</STRONG></h5>
 		<li><a href="https://www.intellismartinfra.in/" target="_blank"><img src="images/2026/Intellismartlogo.jpg" style="height: 95px;">IntelliSmart</a></li>
-		</ul>
+		</ul> -->
 
 </div>
 

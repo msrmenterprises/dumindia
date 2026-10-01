@@ -41,7 +41,6 @@
 .dum_speaker .speaker_img img,
 .dum_speaker .speaker_img .speaker-photo {
     width: 100% !important;
-    
     max-width: 200px !important;
     object-fit: cover !important;     /* crop while keeping center */
     display: block;
@@ -125,6 +124,30 @@
         </div>
     </div>
 
+    <!-- Alok Kumar -->
+    <div class="row speaker_row">
+        <div class="k_list_part">
+            <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
+                <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
+                    <img src="images/2026/speakers/Alokkumar.png" alt="Alok Kumar" class="speaker-photo">
+                </div>
+                <div class="speaker_content" style="flex: 1;">
+                    <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
+                        Alok Kumar<br/>
+                        Director General<br/>
+                        All India Discoms Association (AIDA)
+                    </h1>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        He had 35 years long career in public policy and economic development in India's premier federal civil service (IAS) reaching up to distinguished position of Secretary in federal government with extensive experience in electricity, renewable energy, energy transition, infrastructure development and skill development domains. He has played a key role in formulation and implementation of several national/state level policies, programmes and regulatory interventions. During 2021 - 2023, he successfully managed the operations of India's power system, one of the largest in the world, along with steering wide-ranging sectoral reforms. As an expert, he chaired the Inter-Ministerial Working Group set up by NITI Aayog in 2024 to develop power sector pathway to achieve Net Zero commitment by India.
+                    </p>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        He obtained bachelor's degree in civil engineering from IIT Roorkee in 1983, and Master of Business Administration (Finance Business Administration) from National Open University in 2009. Authored the book "Electricity Sector in India- Policy and Regulation" published by Oxford University Press in 2012, and has been writing regularly on energy related topics for business publications in India.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
     <!-- Aneesh Thomas -->
     <div class="row speaker_row">
         <div class="k_list_part">
@@ -173,6 +196,57 @@
         </div>
     </div>
 
+    <!-- Anil Narayan Raghav -->
+    <div class="row speaker_row">
+        <div class="k_list_part">
+            <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
+                <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
+                    <img src="images/2026/speakers/AnilNarayanRaghav.jpg" alt="Anil Narayan Raghav" class="speaker-photo">
+                </div>
+                <div class="speaker_content" style="flex: 1;">
+                    <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
+                        Anil Narayan Raghav<br/>
+                        Professor, Department of Physics<br/>
+                        University of Mumbai
+                    </h1>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Prof. (Dr.) Anil Narayan Raghav is a Professor in the Department of Physics at the University of Mumbai, I/c Deputy Director of the Centre for Excellence in Theoretical and Computational Science (CETACS), and Founder & Director of SpaceProbe Pvt. Ltd., a DPIT-recognised deep-tech venture incubated at the University of Mumbai. With over 17 years of experience in Space Physics and Space Weather research, he has authored more than 60 international peer-reviewed publications on solar wind dynamics, interplanetary magnetic structures, geomagnetic storms, and solar-terrestrial coupling. His research combines in-situ plasma observations with applied space-weather science to improve understanding of the Sun-Earth system and its impact on satellites, navigation, communication, aviation, and critical infrastructure. He has contributed to national and international scientific initiatives, including SCOSTEP activities and ISRO-formed space-science roadmap and solar-terrestrial physics committees. Through SpaceProbe, he is advancing indigenous technologies for satellite drag and Space Domain Awareness (SDA), aviation radiation assessment, power-grid GIC resilience, and GNSS-based positioning and timing analytics, driven by the vision of creating a platform where curiosity meets learning, ideas meet innovation, and creativity meets technology.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Anil Rawal -->
+    <div class="row speaker_row">
+        <div class="k_list_part">
+            <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
+                <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
+                    <img src="images/2026/speakers/AnilRawal.jpg" alt="Anil Rawal" class="speaker-photo">
+                </div>
+                <div class="speaker_content" style="flex: 1;">
+                    <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
+                        Anil Rawal<br/>
+                        MD & CEO<br/>
+                        IntelliSmart Infrastructure
+                    </h1>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Mr Anil Rawal is the MD and CEO of IntelliSmart Infrastructure Private Limited. He is an ex-civil services officer of 1996 Batch and has more than 27 years of leadership experience, across both Corporate and Government organisations. He is an IIM, Ahmadabad alumnus of the 2007 batch and since then has been working with corporates, particularly in the power sector.
+                    </p>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        In Government stint, Mr Rawal has held various capacities in Financial, Contractual and Commercial domains. He has been actively involved in the evolution of the Public Private Partnership (PPP) framework for power infrastructure projects in India.
+                    </p>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        IntelliSmart, under his leadership, was honoured with the 'Energy Company of the Year - Power (Small Cap)' award in 2025 at the Economic Times Energy Leadership Awards.
+                    </p>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        In 2024, Mr Rawal was honoured with the ET Energy Leadership Award for 'Significant Contribution in the Energy Sector,' and in 2025, he was recognised as the 'Trailblazer CEO' by ET Edge.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
     <!-- C. Nallasivan -->
     <div class="row speaker_row">
         <div class="k_list_part">
@@ -188,6 +262,135 @@
                     </h1>
                     <p style="text-align: justify; line-height: 1.6;">
                         Er. C. Nallasivan, M.E., M.I.E., (Ph.D.) is a Power System Engineer with over 20 years of experience in the Indian power sector, currently with the Tamil Nadu Power Distribution Corporation Limited (TNP DCL), where he works on Open Access Automated Meter Reading, renewable energy monitoring, and utility digitalization. He is a Ph.D. Research Scholar at Anna University, Chennai, researching Grid-Forming Inverters, Battery Energy Storage Systems, and grid stability in renewable-dominant power systems. He is a member of award-winning teams recognized with the SKOCH Silver Award 2022, ISGF Diamond Award 2023, and India Wind Energy Forum Leadership Award 2023 for renewable energy AMR implementation, and has presented his research internationally, including at the 24th Wind & Solar Integration Workshop (WISO 2025) in Berlin. He is a member of IEEE, the Institution of Engineers (India), IET (UK), and CIGRE.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Chetan Singh Adhikari -->
+    <div class="row speaker_row">
+        <div class="k_list_part">
+            <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
+                <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
+                    <img src="images/2026/speakers/ChetanSinghAdhikari.jpg" alt="Chetan Singh Adhikari" class="speaker-photo">
+                </div>
+                <div class="speaker_content" style="flex: 1;">
+                    <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
+                        Chetan Singh Adhikari<br/>
+                        Director - BD (Utilities)<br/>
+                        REConnect Energy Solutions Ltd.
+                    </h1>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Mr. Chetan Adhikari, the answer lies at the intersection of energy expertise, digital intelligence, and strong partnerships. With over 15 years in the power and energy sector, he has worked across renewable energy forecasting, power markets, grid operations, and utility digital transformation.
+                    </p>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        From REMC and SAMAST solutions to predictive analytics and smart grid initiatives, Mr. Chetan focuses on helping utilities and energy businesses solve practical challenges and advance India's clean energy transition.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Gajanan S. Kale -->
+    <div class="row speaker_row">
+        <div class="k_list_part">
+            <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
+                <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
+                    <img src="images/2026/speakers/GajananSKale.png" alt="Gajanan S. Kale" class="speaker-photo">
+                </div>
+                <div class="speaker_content" style="flex: 1;">
+                    <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
+                        Gajanan S. Kale<br/>
+                        Chief Executive Officer<br/>
+                        TP Central Odisha Distribution Limited
+                    </h1>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Mr. Gajanan S. Kale is the Chief Executive Officer of TP Central Odisha Distribution Limited (TPCODL), a joint venture between Tata Power and the Government of Odisha. He also leads the Odisha Distribution Business, overseeing the strategic direction and performance of Tata Power's four distribution companies in the state.
+                    </p>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        With over 35 years of experience in the power and energy sector, Mr. Kale has held several senior leadership positions across Tata Power and other leading organisations. Prior to his current role, he served as CEO of TP Northern Odisha Distribution Limited (TPNODL), Tata Power-DDL, TP Ajmer Distribution Ltd. (TPADL) and TP Western Odisha Distribution Limited (TPWODL). He began his career with BHEL, Bhopal, and subsequently held key positions with Central Railway, Nagpur Division and Tata Power Mumbai Distribution.
+                    </p>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Over the course of his career, Mr. Kale has led large-scale transformation and business improvement initiatives, with extensive expertise in operational excellence, customer experience, resource planning and management, project management, digital transformation and stakeholder management. In his current role, he is driving the transformation of power distribution in Odisha with a strong focus on customer-centricity, technology adoption, operational excellence and sustainable growth.
+                    </p>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        His leadership has been recognised through several accolades, including the "Best CEO of the Year with HR Orientation" and "Best CEO of the Year" award for FY 2023-24.
+                    </p>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        An alumnus of IIM Ahmedabad, Mr. Kale holds an M.Tech in Integrated Power Systems and brings a strong combination of technical expertise, business leadership and extensive experience in the power distribution sector.
+                    </p>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        With his experience across the power distribution value chain and his current leadership of Odisha's distribution business, Mr. Kale brings a practical and strategic perspective on power sector transformation, customer-centric distribution, technology-led operations and building future-ready utilities.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- R.K. Tyagi -->
+    <div class="row speaker_row">
+        <div class="k_list_part">
+            <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
+                <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
+                    <img src="images/2026/speakers/RKTyagi.jpg" alt="R.K. Tyagi" class="speaker-photo">
+                </div>
+                <div class="speaker_content" style="flex: 1;">
+                    <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
+                        Dr. R.K. Tyagi<br/>
+                        Director General<br/>
+                        Power Foundation of India
+                    </h1>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Dr. R.K. Tyagi is Director General, Power Foundation of India (PFI), and a distinguished power sector leader with over 35 years of experience in transmission systems, grid modernization, renewable energy integration, regulatory affairs, and strategic sector development.
+                    </p>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        A Fulbright Scholar and former Chairman & Managing Director of POWERGRID, Dr. Tyagi has played a pivotal role in shaping India's power infrastructure and strengthening regional energy cooperation. Throughout his career, he has led several landmark initiatives, including the development of India's 1200 kV transmission system, expansion of the country's inter-regional transmission network, integration of large-scale renewable energy corridors, and enhancement of cross-border electricity interconnections with neighbouring countries.
+                    </p>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        As CMD of POWERGRID, he led one of the world's largest transmission utilities, overseeing significant infrastructure expansion, operational excellence, and regulatory engagement. His contributions have been instrumental in advancing grid reliability, transmission technology, asset management practices, and policy frameworks supporting India's energy transition.
+                    </p>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Dr. Tyagi has actively contributed to national and international standardisation efforts through leadership roles in CIGRE and the International Electrotechnical Commission (IEC). He has been associated with the development of key transmission tariff regulations, technical standards, and grid performance frameworks that continue to guide the sector.
+                    </p>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        At the Power Foundation of India, he is focused on promoting evidence-based research, policy support, capacity building, innovation, consumer awareness, and stakeholder collaboration to support India's vision of a reliable, resilient, inclusive, and sustainable power sector.
+                    </p>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Dr. Tyagi has received numerous national and international recognitions, including the IEC 1906 Award, BIS National Award, CBIP Individual Award, and the CIGRE Distinguished Member Award. He has also authored and presented over 50 technical papers in leading national and international forums.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Ravi Seethapathy -->
+    <div class="row speaker_row">
+        <div class="k_list_part">
+            <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
+                <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
+                    <img src="images/2026/speakers/RaviSeethapathy.jpg" alt="Ravi Seethapathy" class="speaker-photo">
+                </div>
+                <div class="speaker_content" style="flex: 1;">
+                    <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
+                        Ravi Seethapathy<br/>
+                        Executive Chairman<br/>
+                        Biosirus Inc.
+                    </h1>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Ravi Seethapathy, is Executive Chairman of Biosirus Inc., Canada. He serves as the "Ambassador for the Americas", for the Global Smart Energy Federation, USA, and as an Advisor to the India Smart Grid Forum. He is an empanelled expert at the Coalition for Disaster Resilient Infrastructure (CDRI), a 51-country member organization.
+                    </p>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        With over 42+ years of experience in the Energy and Power Systems area in Canada, he mentors several utilities and companies in their technology development. His is active in several IEC, CSA, GSEF, ISGF, CDRI technical committees, in the areas of sustainable energy, transportation, energy storage, microgrid and e-mobility.
+                    </p>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        He is an invited speaker internationally and has co-authored over 50 technical papers and published 75 articles. His former Corporate Directorships include Larsen & Toubro's - Power Transmission & Distribution (IC), India, Toronto Atmospheric Fund, Smart Grid Canada, Ryerson University, TV Ontario, Scarborough Hospital, and as Chairs of Engineers Without Borders Canada, Canadian Club of Toronto, and Indo-Canada Chamber of Commerce.
+                    </p>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        He is a Life Fellow of the Canadian Academy of Engineering; a Life Senior Member of the IEEE; and a registered Professional Engineer in Ontario. He has been honoured with several awards/citations including the Distinguished Alumnus Award, IIT Kharagpur (2025); ISGF President's Award (2023); Life Member Service Award; IEEE Toronto (2021); and Queen Elizabeth II Diamond Jubilee Medal (2012).
+                    </p>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        He/his family has endowed an IEEE PES/IAS Award in "Rural Electrification Excellence". He holds a B. Tech (Hons) in Electrical Power from IIT Kharagpur, India, an M. Eng. in Electrical Power from University of Toronto and an MBA from the Schulich School of Business, York University, Toronto, Canada.
                     </p>
                 </div>
             </div>
@@ -251,6 +454,30 @@
         </div>
     </div>
 
+    <!-- Rohit Bajaj -->
+    <div class="row speaker_row">
+        <div class="k_list_part">
+            <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
+                <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
+                    <img src="images/2026/speakers/RohitBajaj.jpg" alt="Rohit Bajaj" class="speaker-photo">
+                </div>
+                <div class="speaker_content" style="flex: 1;">
+                    <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
+                        Rohit Bajaj<br/>
+                        Joint Managing Director<br/>
+                        Indian Energy Exchange (IEX)
+                    </h1>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Rohit Bajaj is a management and business development professional, Rohit has over 30 years of rich and diverse experience garnered in the energy domain, encompassing generation and power market, as well as the hydrocarbon industry. Working at the Indian Energy Exchange since the year 2014 with a dedicated focus on building India's power markets, Mr. Bajaj has been instrumental in conceptualizing and implementing several market segments. Before joining IEX, Mr. Bajaj held the position of Head of Business and Whole-time Director at National Energy Trading and Services Limited. Earlier in his career, he held leadership position at conglomerates like Reliance Industries, Lanco Amarkantak Power, Jindal Stainless etc. where he oversaw various aspects of energy infrastructure projects like power plants, gas pipelines and electricity trading.
+                    </p>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        He holds a Bachelor's degree in Mechanical Engineering from the Regional Engineering College, Rourkela, Sambalpur University, and Post Graduate Diploma Programme in Executive Management from the Management Development Institute, Gurgaon.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
     <!-- Teppo Hemiä -->
     <div class="row speaker_row">
         <div class="k_list_part ">
@@ -284,6 +511,33 @@
                     </h1>
                     <p style="text-align: justify; line-height: 1.6;">
                         Santhosh Nair is Director for the Energy & Water Industry segment at Oracle India, where he focuses on digital transformation for utilities. With nearly 40 years of experience, he has held leadership roles at NHPC India, Power Grid India, IBM India and ASEAN, Nokia Solutions & Networks, and Oracle Malaysia. He holds degrees in Electrical Engineering from the College of Engineering Trivandrum, and master's degrees from IIT Chennai and the London School of Economics. Santhosh is a member of AESIEAP, a Fellow of IETE, and a frequent industry speaker.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Song Youngsub -->
+    <div class="row speaker_row">
+        <div class="k_list_part">
+            <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
+                <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
+                    <img src="images/2026/speakers/SongYoungsub.jpg" alt="Song Youngsub" class="speaker-photo">
+                </div>
+                <div class="speaker_content" style="flex: 1;">
+                    <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
+                        Song Youngsub<br/>
+                        Principal Engineer/R&D<br/>
+                        Reformtech Co., Ltd.
+                    </h1>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Mr. Song Youngsub is a Principal Engineer in R&D at Reformtech Co., Ltd., with a B.S. in Mechanical Systems Engineering from Chonnam National University and 15 years of experience at Reformtech's R&D Institute, where he has led product development since 2011.
+                    </p>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        He specializes in power distribution protection and switching equipment, including current-limiting fuses, DC fuses for solar and ESS applications, and medium-voltage switchgear. He has served as Development PM for programs delivered to Korea Electric Power Corporation (KEPCO), including current-limiting fuses for cut-out switches and a no-fuse-breaker-type service line breaker.
+                    </p>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        He holds a patent application for arc protection technology for 7.2 kV switchgear and has led national R&D projects funded by Korea's Ministry of Trade, Industry and Energy and Ministry of Land, Infrastructure and Transport.
                     </p>
                 </div>
             </div>
@@ -424,39 +678,6 @@
         </div>
     </div> -->
 
-    <!-- Alok Kumar -->
-    <!-- <div class="row speaker_row">
-        <div class="k_list_part">
-            <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
-                <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
-                    <img src="images/2026/speakers/Alokkumar.png" alt="AshutoshGoel" class="speaker-photo">
-                </div>
-                <div class="speaker_content" style="flex: 1;">
-                    <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
-                        Alok Kumar,<br/>
-                        Director General, <br/>
-                        All India Discoms Association (AIDA)
-                    </h1>
-                    <p style="text-align: justify; line-height: 1.6;">
-                        He has completed 35 years long career in public policy and economic development in India's premier federal civil service (IAS) reaching up to distinguished position of Secretary in federal government with extensive experience in electricity, renewable energy, energy transition, infrastructure development and skill development domains. He has led several large commercial organisations as CEO and played a key role in formulation and implementation of several national/state level policies, programmes and regulatory interventions. During 2021 - 2023, he Successfully managed the operations of India's power system, one of the largest in the world, along with steering wide-ranging sectoral reforms. He has deep understanding of global energy transition aspects as chair of G20 Energy Transitions Working Group in 2022- 2023.   
-                    </p>
-                    <p style="text-align: justify; line-height: 1.6;">
-                        Presently he is Professor of Practice in Department of Hydro and Renewable Energy at IIT Roorkee, and chairs the Inter- Ministerial Working Group set up by NITI Aayog to develop power sector pathway to achieve Net Zero commitment by India. In 2025, he has been appointed as Independent Director on the Board of Power Exchange India Limited. He is also Partner with The Lantau Group (Singapore) Pte Ltd.  
-                    </p>
-
-                    <p style="text-align: justify; line-height: 1.6;">
-                        He obtained bachelor's degree in civil engineering from IIT Roorkee in 1983, and Master of Business Administration (Finance) from National Open University in 2009.  
-                    </p>
-
-                    <p style="text-align: justify; line-height: 1.6;">
-                    Authored the book 'Electricity Sector in India- Policy and Regulation' published by Oxford University Press in 2012, and has been writing regularly on energy related topics for business publications in India.      
-                </p>
-                    
-                </div>
-            </div>
-        </div>
-    </div> -->
-
     <!-- Alok Mishra -->
     <!-- <div class="row speaker_row">
         <div class="k_list_part">
@@ -587,27 +808,6 @@
                     </p>
                     <p>
                         Later worked for NUCLEAR POWER CORPORATION TATA ELECTRIC, ASEA (ABB), VOLTAS (TATA COMPANY) and ROCKWELL AUTOMATION in various middle and senior level positions in the field of Power Generation (Nuclear, Thermal, Hydro), Relay Coordination and Protection, Substation SCADA and Automation.
-                    </p>
-                </div>
-            </div>
-        </div>
-    </div> -->
-
-    <!-- Anil Rawal -->
-    <!-- <div class="row speaker_row">
-        <div class="k_list_part">
-            <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
-                <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
-                    <img src="images/2026/speakers/AnilRawal.jpg" alt="Anil Rawal" class="speaker-photo">
-                </div>
-                <div class="speaker_content" style="flex: 1;">
-                    <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
-                        Anil Rawal,<br/>
-                        MD & CEO, IntelliSmart and<br/>
-                        Chair of ISGF Working Group on AMISPs
-                    </h1>
-                    <p style="text-align: justify; line-height: 1.6;">
-                        Mr Anil Rawal is the MD & CEO of IntelliSmart Infrastructure Private Limited. He is an ex-civil services officer of the 1996 batch and has more than 27 years of leadership experience across both corporate and government organisations. He is an IIM, Ahmadabad alumnus of the 2007 batch and since then has been working with corporates, particularly in the power sector. In government stint, Mr Rawal has held leadership positions in various capacities in financial, contractual, and commercial domains. He has also been actively involved in the evolution of the Public Private Partnership (PPP) framework for power infrastructure projects and the digitalisation drive in the country.
                     </p>
                 </div>
             </div>
@@ -1078,7 +1278,7 @@
         </div>
     </div> -->
 
-    <!-- Gajanan S Kale -->
+    <!-- Gajanan S Kale (old duplicate) -->
     <!-- <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
@@ -1931,33 +2131,6 @@
                     </h1>
                     <p style="text-align: justify; line-height: 1.6;">
                         Ravi Jagannathan is the Founder and Managing Director of KrypC Technologies, a global deep-tech company delivering enterprise blockchain and Web3 solutions with operations across the USA, India, the Netherlands, and the UAE. A Fellow Member of the Institute of Chartered Accountants of India, he has over three decades of entrepreneurial experience in building trusted digital ventures, including eMudhra, India's pioneering Certifying Authority, and KrypC, which has implemented blockchain platforms for leading banks, utilities, and governments. Ravi is also the Founder of Xygle, an enterprise-focused Layer-1 blockchain protocol, and serves as a Blockchain Technology Member at the Universal Energy Interface (UEI) and Partner in the ISGF–FIDE–UPPCL P2P Energy Trading Pilot. Recognized as a Blockchain Champion at UN/CEFACT, he actively contributes to global initiatives on trade facilitation and digital trust. Ravi continues to drive innovation in digital identity, sustainability, and the emerging device economy through scalable, real-world blockchain solutions.
-                    </p>
-                </div>
-            </div>
-        </div>
-    </div> -->
-
-    <!-- Ravi Seethapathy -->
-    <!-- <div class="row speaker_row">
-        <div class="k_list_part">
-            <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
-                <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
-                    <img src="images/2026/speakers/RaviSeethapathy.jpg" alt="Ravi Seethapathy" class="speaker-photo">
-                </div>
-                <div class="speaker_content" style="flex: 1;">
-                    <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
-                        Ravi Seethapathy<br/>
-                        Executive Chairman<br/>
-    Biosirus Inc.  
-                    </h1>
-                    <p style="text-align: justify; line-height: 1.6;">
-                        Ravi Seethapathy, is Executive Chairman of Biosirus Inc., Canada. He serves as the "Ambassador for the Americas", for the Global Smart Energy Federation, USA, and as an Advisor to the India Smart Grid Forum. He is an empanelled expert at the Coalition for Disaster Resilient Infrastructure (CDRI), a 51-country member organization.   
-                    </p>
-                    <p style="text-align: justify; line-height: 1.6;">
-                        With over 42+ years of experience in the Energy and Power Systems area in Canada, he mentors several utilities and companies in their technology development. His is active in several IEC, CSA, GSEF, ISGF, CDRI technical committees, in the areas of sustainable energy, transportation, energy storage, microgrid and e-mobility. He is an invited speaker internationally and has co-authored over 50 technical papers and published 75 articles. His former Corporate Directorships include Larsen & Toubro's - Power Transmission & Distribution (IC), India, Toronto Atmospheric Fund, Smart Grid Canada, Ryerson University, TV Ontario, Scarborough Hospital, and as Chairs of Engineers Without Borders Canada, Canadian Club of Toronto, and Indo-Canada Chamber of Commerce.  
-                    </p>
-                    <p style="text-align: justify; line-height: 1.6;">
-                        He is a Life Fellow of the Canadian Academy of Engineering; a Life Senior Member of the IEEE; and a registered Professional Engineer in Ontario. He has been honoured with several awards/citations including the Distinguished Alumnus Award, IIT Kharagpur (2025); ISGF President's Award (2023); Life Member Service Award; IEEE Toronto (2021); and Queen Elizabeth II Diamond Jubilee Medal (2012). He/ his family has endowed an IEEE PES/IAS Award in "Rural Electrification Excellence". He holds a B. Tech (Hons) in Electrical Power from IIT Kharagpur, India, an M. Eng. in Electrical Power from University of Toronto and an MBA from the Schulich School of Business, York University, Toronto, Canada.  
                     </p>
                 </div>
             </div>

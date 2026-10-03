@@ -40,7 +40,8 @@
 /* enforce same image size, preserve aspect, crop center */
 .dum_speaker .speaker_img img,
 .dum_speaker .speaker_img .speaker-photo {
-    width: 100% !important;
+    width: 200px !important;
+    height: 180px !important;
     max-width: 200px !important;
     object-fit: cover !important;     /* crop while keeping center */
     display: block;
@@ -79,7 +80,7 @@
     }
     .dum_speaker .speaker_img img,
     .dum_speaker .speaker_img .speaker-photo {
-        height: 180px;
+        width: 200px !important;
         max-width: 360px;
         margin: 0 auto;
     }
@@ -181,7 +182,7 @@
                 </div>
                 <div class="speaker_content" style="flex: 1;">
                     <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
-                        Anil Kumar<br/>
+                        Anil Kumar P<br/>
                         Director<br/>
                         Enspar Sustainability Pvt Ltd
                     </h1>

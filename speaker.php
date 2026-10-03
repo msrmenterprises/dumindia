@@ -64,8 +64,8 @@
             margin-top: 0 !important;
         }
 
-.dum_speaker .key_head {
-    margin-left: 20px !important;
+.dum_speaker .speaker_content .key_head {
+    margin-left: 220px !important;
 }
 
 /* smaller screens: stack */

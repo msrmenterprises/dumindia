@@ -416,7 +416,7 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 		<li><a href="https://www.powerfoundation.org.in/" target="_blank"><img src="images/2026/PowerFoundationofIndia.jpeg" style="height:100px;" alt="Power Foundation of India">Power Foundation of India</a></li>
 		<li><a href="https://brodersen.com/" target="_blank"><img src="/images/2025/Brodersen.jpeg" style="height:100px;" alt="Brodersen Systems Pvt. Ltd">Brodersen Systems Pvt. Ltd.</a></li>
 		<li><a href="https://www.tatapower.com/" target="_blank"><img src="images/2026/tatapower.png" style="height:100px;" alt="Tata Power Company Limited">Tata Power Company Limited</a></li>
-		<li><a href="https://www.tatapower-ddl.com/" target="_blank"><img src="images/2026/tatapowerDDL.png" style="height:100px;" alt="Tata Power Delhi Distribution Limited">Tata Power Delhi Distribution Limited</a></li>
+		<li><a href="https://www.tatapower-ddl.com/" target="_blank"><img src="images/2026/TPDDLLogo.jpeg" style="height:100px;" alt="Tata Power Delhi Distribution Limited">Tata Power Delhi Distribution Limited</a></li>
 		<li><a href="https://bentecindia.com/" target="_blank"><img src="images/2026/Bentecv1.png" style="border: 1px solid #aeb4b2; height: 120px;" alt="Bentec India Ltd">Bentec</a></li>
 		<li><a href="https://www.tauruspowertronics.com/" target="_blank"><img src="images/2026/TaurusPowertronics.jpg" style="height:100px;" alt="Taurus Powertronics">Taurus Powertronics</a></li>
 		<li><a href="https://reconnectenergy.com/" target="_blank"><img src="/images/2026/reconnect.jpg" alt="REConnect Energy" style="height:100px;">REConnect Energy</a></li>
@@ -564,7 +564,7 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 		<li><a href="https://www.bsesdelhi.com/web/brpl" target="_blank"><img src="images/bsesllt.png" style="height:100px;">BSES Rajdhani Power Limited</a></li>
 		<li><a href="https://www.bsesdelhi.com/web/bypl" target="_blank"><img src="/images/bses.png" style="border: 2px solid #aeb4b2; height:100px;">BSES Yamuna Power Limited</a></li>
 		<li><a href="https://www.tatapower.com/" target="_blank"><img src="/images/tatapower.png" style="height:100px;">Tata Power Company Limited</a></li>
-		<li><a href="https://www.tatapower-ddl.com/" target="_blank"><img src="images/utilities2019/tatapowerdlll.png" style="height:100px;">Tata Power Delhi Distribution Limited</a></li>
+		<li><a href="https://www.tatapower-ddl.com/" target="_blank"><img src="images/2026/TPDDLLogo.jpeg" style="height:100px;">Tata Power Delhi Distribution Limited</a></li>
 		<li><a href="https://www.noidapower.com/" target="_blank"><img src="images/utilities2019/npcl.png" style="height:120px;" alt="NPCL - Noida Power Company Limited">NPCL</a></li>
 		<li><a href="https://www.tpcentralodisha.com/" target="_blank"><img src="images/2026/TPCODL.png" alt="TP Central Odisha Distribution Limited" style="height:100px;">TP Central Odisha Distribution Limited</a></li>
 		<li><a href="https://www.mgvcl.com/" target="_blank"><img src="images/2024/mgvcl.png" alt="Madhya Gujarat Vij Company Limited" style="height:100px;">Madhya Gujarat Vij Company Limited</a></li>
@@ -617,7 +617,7 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 		<!-- Additional Confirmed Utilities (DUM 2025) -->
 		<li><a href="https://www.hpseb.in/irj/go/km/docs/internet/New_Website/Pages/Home.html" target="_blank" rel="noopener"><img src="images/utilities2019/himachal.png" style="height:155px;">Himachal Pradesh State Electricity Board Limited</a></li>
 		<li><a href="https://portal.mpcz.in/web/" target="_blank" rel="noopener"><img src="images/utilities2019/12. MPMKVVCL logo.jpeg" style="height:155px;">MP Madhya Kshetra Vidyut Vitran Co. Ltd.</a></li>
-		<li><a href="https://www.tatapower-ddl.com/" target="_blank" rel="noopener"><img src="images/utilities2019/tatapowerdlll.png" style="height:155px;">Tata Power Delhi Distribution Limited</a></li>
+		<li><a href="https://www.tatapower-ddl.com/" target="_blank" rel="noopener"><img src="images/2026/TPDDLLogo.jpeg" style="height:155px;">Tata Power Delhi Distribution Limited</a></li>
 		<li><a href="https://www.apdcl.org/website/" target="_blank" rel="noopener"><img src="images/utilities2019/assampower.png" style="height:155px;">Assam Power Distribution Company Ltd.</a></li>
 		<li><a href="https://kseb.in/" target="_blank" rel="noopener"><img src="images/KSEB_Logo_2022-new.jpg" style="height:155px;">Kerala State Electricity Board Limited</a></li>
 		<li><a href="https://www.cspdcl.co.in/cseb/" target="_blank" rel="noopener"><img src="images/2026/Chhattisgarh.png" style="height:155px;" alt="CSPDCL">Chhattisgarh State Power Distribution Company Limited</a></li>
@@ -645,7 +645,7 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 			<li><a href="https://www.bsesdelhi.com/web/bypl" target="_blank"><img src="/images/bses.png" style="border: 2px solid #aeb4b2; height: 120px;">BSES Yamuna Power Limited</a></li>
 		    <li><a href="http://www.nbpdcl.in/" target="_blank"><img src="images/logo14.jpg" style="border: 2px solid #aeb4b2; height: 120px;">North Bihar Power Distribution Company Ltd.</a></li>
 			<li><a href="https://www.mgvcl.com/" target="_blank"><img src="images/utilities2019/10. MGVCL logo.png" style="height:120px;">Madhya Gujarat Vij. Co. Ltd</a></li>
-			 <li><a href="https://www.tatapower-ddl.com/" target="_blank"><img src="images/utilities2019/tatapowerdlll.png" style="height: 120px;">Tata Power - DDL</a></li>
+			 <li><a href="https://www.tatapower-ddl.com/" target="_blank"><img src="images/2026/TPDDLLogo.jpeg" style="height: 120px;">Tata Power - DDL</a></li>
 			
 			<li><a href="https://www.tatapower.com/" target="_blank"><img src="/images/tatapower.png" alt="" style="width:180px; height: 120px;">Tata Power</a></li>
 	       <li><a href="https://www.tpnodl.com/" target="_blank"><img src="images/TPNODL.jpg" style="height: 155px;">Tata Power Northern Odisha Distribution Limited</a></li>

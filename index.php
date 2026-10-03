@@ -563,6 +563,9 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 		<li><a href="https://www.tatapower.com/" target="_blank"><img src="/images/tatapower.png" style="height:100px;">Tata Power Company Limited</a></li>
 		<li><a href="https://www.tatapower-ddl.com/" target="_blank"><img src="images/utilities2019/tatapowerdlll.png" style="height:100px;">Tata Power Delhi Distribution Limited</a></li>
 		<li><a href="https://www.noidapower.com/" target="_blank"><img src="images/utilities2019/npcl.png" style="height:120px;" alt="NPCL - Noida Power Company Limited">NPCL</a></li>
+		<li><a href="https://www.tpcentralodisha.com/" target="_blank"><img src="images/2026/TPCODL.png" alt="TP Central Odisha Distribution Limited" style="height:100px;">TP Central Odisha Distribution Limited</a></li>
+		<li><a href="https://www.mgvcl.com/" target="_blank"><img src="images/2024/mgvcl.png" alt="Madhya Gujarat Vij Company Limited" style="height:100px;">Madhya Gujarat Vij Company Limited</a></li>
+		<li><a href="https://www.ugvcl.com/" target="_blank"><img src="images/2024/UGVCL.png" alt="Uttar Gujarat Vij Company Limited" style="height:100px;">Uttar Gujarat Vij Company Limited</a></li>
 	</ul>
 </div> 
 
@@ -618,6 +621,7 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 		<li><a href="http://www.jkpdd.gov.in/" target="_blank" rel="noopener"><img src="images/2026/Jammukashmir.jpg" style="height:155px;" alt="JKPDD">Jammu & Kashmir Power Development Department</a></li>
 		<li><a href="https://energy.rajasthan.gov.in/jdvvnl/#/home/dptHome" target="_blank" rel="noopener"><img src="images/utilities2019/Jodhpur Vidyut Vitran Nigam Limited.jpg" style="height:155px;">Jodhpur Vidyut Vitran Nigam Ltd.</a></li>
 		<li><a href="https://bescom.karnataka.gov.in/en" target="_blank" rel="noopener"><img src="images/utilities2019/bescom.png" style="height:155px;">Bangalore Electricity Supply Co. Ltd. (BESCOM)</a></li>
+		<li><a href="https://www.tnpdcl.org/en/tnpdcl/" target="_blank" rel="noopener"><img src="images/2026/TNPDCL.png" alt="Tamil Nadu Power Distribution Corporation Limited" style="height:155px;">Tamil Nadu Power Distribution Corporation Limited</a></li>
 		
 		
 		</ul>

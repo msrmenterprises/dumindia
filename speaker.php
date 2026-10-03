@@ -22,19 +22,17 @@
 
 /* NEW: make all speaker images a consistent size and crop nicely */
 .dum_speaker {
-    display: flex;
-    align-items: flex-start;
-    gap: 20px;
-    flex-wrap: wrap;
+    display: block !important;
     margin-bottom: 30px;
 }
 
-/* container for the image - fixed column width */
+/* Float the portrait so longer descriptions can use the space below it. */
 .dum_speaker .speaker_img {
-    flex: 0 0 23%;
-    max-width: 200px;
+    float: left;
+    width: 200px;
     box-sizing: border-box;
     text-align: center;
+    margin: 0 20px 12px 0;
 }
 
 /* enforce same image size, preserve aspect, crop center */
@@ -50,14 +48,13 @@
 
 /* content should take remaining space */
 .dum_speaker .speaker_content {
-    flex: 1 1 70%;
     box-sizing: border-box;
 }
 
-/* fallback for older markup where .dum_speaker isn't flex-wrapped */
-.speaker_row .k_list_part .col-sm-12.dum_speaker {
-    display: flex;
-    align-items: flex-start;
+.dum_speaker::after {
+    content: "";
+    display: block;
+    clear: both;
 }
 .key_head {
             font-size: 25px !important;
@@ -69,20 +66,10 @@
 
 /* smaller screens: stack */
 @media (max-width: 768px) {
-    .dum_speaker {
-        flex-direction: column;
-    }
-    .dum_speaker .speaker_img,
-    .dum_speaker .speaker_content {
-        flex: 0 0 auto;
-        width: 100%;
-        max-width: 100%;
-    }
     .dum_speaker .speaker_img img,
     .dum_speaker .speaker_img .speaker-photo {
         width: 200px !important;
-        max-width: 360px;
-        margin: 0 auto;
+        max-width: 100% !important;
     }
 }
 </style>

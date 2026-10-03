@@ -64,6 +64,10 @@
             margin-top: 0 !important;
         }
 
+.dum_speaker .key_head {
+    margin-left: 20px !important;
+}
+
 /* smaller screens: stack */
 @media (max-width: 768px) {
     .dum_speaker .speaker_img img,

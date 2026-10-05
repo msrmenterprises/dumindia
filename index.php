@@ -352,6 +352,7 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 		<li><a href="https://www.bsesdelhi.com/web/bypl" target="_blank"><img src="/images/bses.png" style="border: 2px solid #aeb4b2; height:100px;">BSES Yamuna Power Limited</a></li>
 		<li><a href="https://www.tatapower.com/" target="_blank"><img src="/images/tatapower.png" style="height:100px;">Tata Power Company Limited</a></li>
 		<li><a href="https://www.noidapower.com/" target="_blank"><img src="images/utilities2019/npcl.png" style="height:120px;" alt="NPCL - Noida Power Company Limited">NPCL</a></li>
+		<li><a href="https://chandigarhpower.com/" target="_blank"><img src="images/2026/ChandigarhPower.png" style="height:100px;" alt="Chandigarh Power Distribution Limited">Chandigarh Power Distribution Limited</a></li>
 		</ul>
 
 </div>

@@ -24,11 +24,12 @@
 <ul class="k_confirmed_als">
 	<li><a href="https://www.bsesdelhi.com/web/brpl" target="_blank"><img src="images/bsesllt.png" style="height: 120px;">BSES Rajdhani Power Limited</a></li>
 	<li><a href="https://www.bsesdelhi.com/web/bypl" target="_blank"><img src="/images/bses.png" style="border: 2px solid #aeb4b2; height: 120px;">BSES Yamuna Power Limited</a></li>
+	<li><a href="https://chandigarhpower.com/" target="_blank"><img src="images/2026/ChandigarhPower.png" alt="Chandigarh Power Distribution Limited" style="height: 100px;">Chandigarh Power Distribution Limited</a></li>
 	<li><a href="https://energy.rajasthan.gov.in/jvvnl/#/home/dptHome" target="_blank"><img src="images/utilities2019/jvvnl.png" style="height: 100px;">Jaipur Vidyut Vitran Nigam Limited</a></li>
 	<li><a href="https://energy.rajasthan.gov.in/jdvvnl/#/home/dptHome/185" target="_blank"><img src="/images/2026/HostUtilityJVVNL.jpg?i=1" style="height: 100px;">Jodhpur Vidyut Vitran Nigam Limited - पोर्टल, राजस्थान सरकार</a></li>
 	<li><a href="https://energy.rajasthan.gov.in/avvnl/#/home/dptHome/9" target="_blank"><img src="images/2026/AjmerLimited.jpg" style="height: 100px;">Ajmer Vidyut Vitran Nigam Limited - पोर्टल, राजस्थान सरकार</a></li>
 	<li><a href="https://www.tatapower.com/" target="_blank"><img src="/images/tatapower.png" style="height: 120px;">Tata Power Company Limited</a></li>
-	<li><a href="https://www.tatapower-ddl.com/" target="_blank"><img src="images/utilities2019/tatapowerdlll.png" style="height: 120px;">Tata Power Delhi Distribution Limited</a></li>
+	<li><a href="https://www.tatapower-ddl.com/" target="_blank"><img src="images/2026/tatapowerdlll.png" style="height: 120px;">Tata Power Delhi Distribution Limited</a></li>
 	<li><a href="https://www.noidapower.com/" target="_blank"><img src="images/utilities2019/npcl.png" style="height: 120px;" alt="NPCL - Noida Power Company Limited">NPCL</a></li>
 	<li><a href="https://www.tpcentralodisha.com/" target="_blank"><img src="images/2026/TPCODL.png" alt="TP Central Odisha Distribution Limited" style="height:100px;">TP Central Odisha Distribution Limited</a></li>
 		<li><a href="https://www.mgvcl.com/" target="_blank"><img src="images/2024/mgvcl.png" alt="Madhya Gujarat Vij Company Limited" style="height:100px;">Madhya Gujarat Vij Company Limited</a></li>

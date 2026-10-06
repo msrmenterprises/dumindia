@@ -223,16 +223,13 @@
                         IntelliSmart Infrastructure
                     </h1>
                     <p style="text-align: justify; line-height: 1.6;">
-                        Mr Anil Rawal is the MD and CEO of IntelliSmart Infrastructure Private Limited. He is an ex-civil services officer of 1996 Batch and has more than 27 years of leadership experience, across both Corporate and Government organisations. He is an IIM, Ahmadabad alumnus of the 2007 batch and since then has been working with corporates, particularly in the power sector.
+                        Mr Anil Rawal is the MD and CEO of IntelliSmart Infrastructure Private Limited. He is an ex-civil services officer of 1996 Batch and has more than 27 years of leadership experience across both Corporate and Government organisations. He is an IIM, Ahmadabad alumnus of the 2007 batch and has since been working with corporates, particularly in the Power sector.
                     </p>
                     <p style="text-align: justify; line-height: 1.6;">
-                        In Government stint, Mr Rawal has held various capacities in Financial, Contractual and Commercial domains. He has been actively involved in the evolution of the Public Private Partnership (PPP) framework for power infrastructure projects in India.
+                        In 2025, Economic Times conferred him with the ET Impactful Trailblazer CEO award. IntelliSmart, under his leadership, has pioneered the smart metering program in the country, triggering large scale private investments in digitalization of the power distribution sector.
                     </p>
                     <p style="text-align: justify; line-height: 1.6;">
-                        IntelliSmart, under his leadership, was honoured with the 'Energy Company of the Year - Power (Small Cap)' award in 2025 at the Economic Times Energy Leadership Awards.
-                    </p>
-                    <p style="text-align: justify; line-height: 1.6;">
-                        In 2024, Mr Rawal was honoured with the ET Energy Leadership Award for 'Significant Contribution in the Energy Sector,' and in 2025, he was recognised as the 'Trailblazer CEO' by ET Edge.
+                        IntelliSmart was honoured with the 'Energy Company of the Year - Power (Small Cap)' in 2025 at the Economic Times Energy Leadership Awards.
                     </p>
                 </div>
             </div>

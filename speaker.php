@@ -20,42 +20,38 @@
     float: left !important;
 }
 
-/* NEW: make all speaker images a consistent size and crop nicely */
+/* Keep each speaker's portrait and full bio in separate columns. */
 .dum_speaker {
-    display: block !important;
+    display: flex !important;
+    align-items: flex-start;
+    gap: 20px;
     margin-bottom: 30px;
 }
 
-/* Float the portrait so longer descriptions can use the space below it. */
 .dum_speaker .speaker_img {
-    float: left;
+    flex: 0 0 200px !important;
     width: 200px;
     box-sizing: border-box;
     text-align: center;
-    margin: 0 20px 12px 0;
+    margin: 0;
 }
 
-/* enforce same image size, preserve aspect, crop center */
 .dum_speaker .speaker_img img,
 .dum_speaker .speaker_img .speaker-photo {
     width: 200px !important;
     height: 240px !important;
     max-width: 200px !important;
-    object-fit: cover !important;     /* crop while keeping center */
+    object-fit: cover !important;
     display: block;
     border-radius: 10px;
 }
 
-/* content should take remaining space */
 .dum_speaker .speaker_content {
+    flex: 1 1 0;
     box-sizing: border-box;
+    min-width: 0;
 }
 
-.dum_speaker::after {
-    content: "";
-    display: block;
-    clear: both;
-}
 .key_head {
             font-size: 25px !important;
             text-align: left !important;
@@ -65,11 +61,24 @@
         }
 
 .dum_speaker .speaker_content .key_head {
-    margin-left: 220px !important;
+    margin-left: 0 !important;
 }
 
-/* smaller screens: stack */
 @media (max-width: 768px) {
+    .dum_speaker {
+        flex-direction: column;
+    }
+
+    .dum_speaker .speaker_img {
+        flex-basis: auto !important;
+        max-width: 100%;
+        margin: 0 auto 16px;
+    }
+
+    .dum_speaker .speaker_content {
+        width: 100%;
+    }
+
     .dum_speaker .speaker_img img,
     .dum_speaker .speaker_img .speaker-photo {
         width: 200px !important;

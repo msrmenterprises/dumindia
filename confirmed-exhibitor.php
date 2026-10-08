@@ -72,7 +72,7 @@ box-shadow: 0 1px 6px rgba(0, 0, 0, 0.06);
 			<li><a href="https://yitran.com/" target="_blank"><img src="images/2026/yitran-lo.png" style="height:100px;">Yitran Technologies</a></li>
 			<li><a href="https://www.eaton.com/in/en-us.html" target="_blank"><img src="images/2026/eaton.png" style="height:100px;">Eaton</a></li>
 			<li><a href="https://www.reformtech.co.kr/en/" target="_blank"><img src="images/2026/Reformtech1.png" style="height:100px;" alt="Reformtech Co., Ltd">Reformtech Co., Ltd - (주)리폼테크</a></li>
-			<li><a href="https://stelmec.com/" target="_blank"><img src="/images/2026/Stelmac.png" style="border: 1px solid #aeb4b2; height: 120px;" alt="Stelmec Limited">Stelmec Limited</a></li>
+			
 			
 			
 		</ul><br/>
@@ -88,6 +88,7 @@ box-shadow: 0 1px 6px rgba(0, 0, 0, 0.06);
 		<ul class="k_confirmed_als">
 		<li><a href="https://radius.co.in/" target="_blank"><img src="images/2026/image-20261001-112039.png" style="height:100px;" alt="Radius Synergies Pvt. Ltd.">Radius Synergies Pvt. Ltd.</a></li>
 			<li><a href="https://deliverain.com/" target="_blank"><img src="images/2026/Deliverain.png" style="height:100px;" alt="Deliverain Research &amp; Solutions Pvt. Ltd.">Deliverain Research &amp; Solutions Pvt. Ltd.</a></li>
+		<li><a href="https://stelmec.com/" target="_blank"><img src="/images/2026/Stelmac.png" style="border: 1px solid #aeb4b2; height: 120px;" alt="Stelmec Limited">Stelmec Limited</a></li>
 		</ul>
 	</div>
 	<div class="row dum_container key_div">

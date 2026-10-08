@@ -120,7 +120,8 @@ box-shadow: 0 1px 6px rgba(0, 0, 0, 0.06);
 		<li><a href="https://reconnectenergy.com/" target="_blank"><img src="/images/2026/reconnect.jpg" style="height: 95px;">REConnect Energy</a></li>
 		<li><a href="https://www.reformtech.co.kr/en/" target="_blank"><img src="images/2026/Reformtech1.png" style="height: 95px;" alt="Reformtech Co., Ltd">Reformtech Co., Ltd - (주)리폼테크</a></li>
 		<li><a href="https://radius.co.in/" target="_blank"><img src="images/2026/image-20261001-112039.png" style="height: 95px;" alt="Radius Synergies Pvt. Ltd.">Radius Synergies Pvt. Ltd.</a></li>
-		</ul>
+		<li><a href="https://stelmec.com/" target="_blank"><img src="/images/2026/Stelmac.png" style="border: 1px solid #aeb4b2; height: 120px;" alt="Stelmec Limited">Stelmec Limited</a></li>
+	</ul>
 
 	<BR/>
 		<ul class="k_confirmed_als">

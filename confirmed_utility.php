@@ -35,7 +35,7 @@
 		<li><a href="https://www.mgvcl.com/" target="_blank"><img src="images/2024/mgvcl.png" alt="Madhya Gujarat Vij Company Limited" style="height:100px;">Madhya Gujarat Vij Company Limited</a></li>
 		<li><a href="https://www.ugvcl.com/" target="_blank"><img src="images/2024/UGVCL.png" alt="Uttar Gujarat Vij Company Limited" style="height:100px;">Uttar Gujarat Vij Company Limited</a></li>
 		<li><a href="https://www.tnpdcl.org/en/tnpdcl/" target="_blank" rel="noopener"><img src="images/2026/TNPDCL.png" alt="Tamil Nadu Power Distribution Corporation Limited" style="height:100px;">Tamil Nadu Power Distribution Corporation Limited</a></li>
-		<li><a href="https://www.torrentpower.com/index.php" target="_blank"><img src="images/images_2018/Torrent.png" alt="Torrent Power" style="height:120px;">Torrent Power</a></li>
+		<li><a href="https://www.torrentpower.com/index.php" target="_blank"><img src="images/2026/Torrent.png" alt="Torrent Power" style="height:120px;">Torrent Power</a></li>
 		<li><a href="https://www.tpadl.com/" target="_blank"><img src="images/TP-Ajmer Distibution Limited.jpg" alt="TP Ajmer Distribution Limited" style="height:120px;">TP Ajmer Distribution Limited</a></li>
 		<li><a href="https://www.mpwz.co.in/#/home" target="_blank"><img src="images/utilities2019/4. MPPKVVCL.png" alt="MPPKVVCL" style="height:120px;">MPPKVVCL</a></li>
 		<li><a href="https://uppcl.org/uppcl/en" target="_blank"><img src="images/2024/uppcl1.png" alt="UPPCL" style="height:120px;">UPPCL</a></li>

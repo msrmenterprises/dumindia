@@ -391,6 +391,7 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 		<li><a href="https://reconnectenergy.com/" target="_blank"><img src="/images/2026/reconnect.jpg" alt="REConnect Energy" style="height: 100px;">REConnect Energy</a></li>
 		<li><a href="https://www.reformtech.co.kr/en/" target="_blank"><img src="images/2026/Reformtech1.png" style="height: 100px;" alt="Reformtech Co., Ltd">Reformtech Co., Ltd - (주)리폼테크</a></li>
 		<li><a href="https://radius.co.in/" target="_blank"><img src="images/2026/image-20261001-112039.png" style="height: 100px;" alt="Radius Synergies Pvt. Ltd.">Radius Synergies Pvt. Ltd.</a></li>
+		<li><a href="https://stelmec.com/" target="_blank"><img src="/images/2026/Stelmac.png" style="border: 1px solid #aeb4b2; height: 120px;" alt="Stelmec Limited">Stelmec Limited</a></li>
 	</ul>
 
 	<br>
@@ -441,6 +442,7 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 		<li><a href="https://www.reformtech.co.kr/en/" target="_blank"><img src="images/2026/Reformtech1.png" style="height:100px;" alt="Reformtech Co., Ltd">Reformtech Co., Ltd - (주)리폼테크</a></li>
 		<li><a href="https://radius.co.in/" target="_blank"><img src="images/2026/image-20261001-112039.png" style="height:100px;" alt="Radius Synergies Pvt. Ltd.">Radius Synergies Pvt. Ltd.</a></li>
 		<li><a href="https://deliverain.com/" target="_blank"><img src="images/2026/Deliverain.png" style="height:100px;" alt="Deliverain Research &amp; Solutions Pvt. Ltd.">Deliverain Research &amp; Solutions Pvt. Ltd.</a></li>
+		<li><a href="https://stelmec.com/" target="_blank"><img src="/images/2026/Stelmac.png" style="border: 1px solid #aeb4b2; height: 120px;" alt="Stelmec Limited">Stelmec Limited</a></li>
 	</ul>
 
 	</div>
@@ -571,6 +573,11 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 		<li><a href="https://www.mgvcl.com/" target="_blank"><img src="images/2024/mgvcl.png" alt="Madhya Gujarat Vij Company Limited" style="height:100px;">Madhya Gujarat Vij Company Limited</a></li>
 		<li><a href="https://www.ugvcl.com/" target="_blank"><img src="images/2024/UGVCL.png" alt="Uttar Gujarat Vij Company Limited" style="height:100px;">Uttar Gujarat Vij Company Limited</a></li>
 		<li><a href="https://www.tnpdcl.org/en/tnpdcl/" target="_blank" rel="noopener"><img src="images/2026/TNPDCL.png" alt="Tamil Nadu Power Distribution Corporation Limited" style="height:100px;">Tamil Nadu Power Distribution Corporation Limited</a></li>
+		<li><a href="https://www.torrentpower.com/index.php" target="_blank"><img src="images/2026/Torrent.png" alt="Torrent Power" style="height:120px;">Torrent Power</a></li>
+		<li><a href="https://www.tpadl.com/" target="_blank"><img src="images/TP-Ajmer Distibution Limited.jpg" alt="TP Ajmer Distribution Limited" style="height:120px;">TP Ajmer Distribution Limited</a></li>
+		<li><a href="https://www.mpwz.co.in/#/home" target="_blank"><img src="images/utilities2019/4. MPPKVVCL.png" alt="MPPKVVCL" style="height:120px;">MPPKVVCL</a></li>
+		<li><a href="https://uppcl.org/uppcl/en" target="_blank"><img src="images/2024/uppcl1.png" alt="UPPCL" style="height:120px;">UPPCL</a></li>
+		<li><a href="https://tgnpdcl.com/" target="_blank"><img src="images/utilities2019/download (1).png" alt="Northern Power Distribution Company of Telangana Ltd" style="height:120px;">Northern Power Distribution Company of Telangana Ltd</a></li>
 	</ul>
 </div> 
 

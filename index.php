@@ -692,7 +692,7 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 	</ul> -->
 
 	<div class="k_cheading k_white_haeding">
-		<h1>PREVIOUS EDITIONS UTILITIES AND<span class="k_greencolor"> GOVERNMENT PARTICIPANTS OF DUM</span> </h1>
+		<h1 style="color:black !important">PREVIOUS EDITIONS UTILITIES AND<span class="k_greencolor"> GOVERNMENT PARTICIPANTS OF DUM</span> </h1>
 		<img src="images/kborder_bottomg.png" alt="">
 	</div>
        <ul class="k_confirmed_als">

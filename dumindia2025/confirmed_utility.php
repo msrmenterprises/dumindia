@@ -47,7 +47,7 @@
 
 	<li><a href="https://puvvnl.in/en" target="_blank"><img src="images/utilities2019/5. PUVVNL Logo.jpeg" style="height:155px;">Purvanchal Vidyut Vitaran Nigam Limited</a></li>
 	<li><a href="https://www.dvvnl.org/" target="_blank"><img src="images/utilities2019/2. DVVNL logo.png" style="height:155px;">Dakshinanchal Vidyut Vitran Nigam Limited</a></li>
-	<li><a href="https://tgnpdcl.com/" target="_blank"><img src="images/utilities2019/download (1).png" style="height:155px;">Northern Power Distribution Company of Telangana Limited</a></li>
+	<li><a href="https://tgnpdcl.com/" target="_blank"><img src="images/2026/TGNPDCL2024LOGO.png" style="height:155px;">Northern Power Distribution Company of Telangana Limited</a></li>
 	<li><a href="https://chandigarhpower.com/" target="_blank"><img src="images/2026/ChandigarhPower.png" style="height:155px;">Chandigarh Power Distribution Limited</a></li>
 	<li><a href="https://www.guvnl.com/" target="_blank"><img src="images/utilities2019/gujrat.jpg" style="height:155px;">Gujarat Urja Vikas Nigam Limited</a></li>
 	<li><a href="https://www.goaelectricity.gov.in/" target="_blank"><img src="images/Goa Electricity Department Logo.png" style="height:155px;">Government of Goa, Electricity Department</a></li>
@@ -173,7 +173,7 @@
 			<li><a href="https://www.pgvcl.com/" target="_blank"><img src="images/utilities2019/Paschim Gujarat Vij. Co. Ltd.jpg" style="height: 155px;">Paschim Gujarat Vij Company Ltd.</a></li>
 			<li><a href="https://www.mahadiscom.in/en/home/" target="_blank"><img src="images/MSEDCL_logo.jpg" style="height: 155px;">Maharashtra State Electricity Distribution Company Limited</a></li>
 			<li><a href="https://www.wbsedcl.in/" target="_blank"><img src="images/wbsedcl.png" style="height: 155px;">West Bengal State Electricity Distribution Company Limited</a></li>
-			<li><a href="http://www.tsnpdcl.in/Home" target="_blank"><img src="images/utilities2019/download (1).png" style="height:155px;">Northern Power Distribution Company of Telangana Limited</a></li>
+			<li><a href="http://www.tsnpdcl.in/Home" target="_blank"><img src="images/2026/TGNPDCL2024LOGO.png" style="height:155px;">Northern Power Distribution Company of Telangana Limited</a></li>
 			<li><a href="https://energy.rajasthan.gov.in/content/raj/energy-department/jaipur-vidyut-vitran-nigam-ltd-/en/home.html" target="_blank"><img src="images/Jaipur Vidut Vitran Nigam Limited logo.png" style="height:155px;">Jaipur Vidyut Vitran Nigam Ltd </a></li>
 			<li><a href="https://jbvnl.co.in/" target="_blank"><img src="images/Jharkhand Bijli Vitran Nigam Limited.jpg" style="height:155px;">Jharkhand Bijli Vitran Nigam Limited </a></li>
 			<li><a href="https://kseb.in/" target="_blank"><img src="images/kseb.jpg" style="height:155px;">Kerala State Electricity Board Ltd </a></li>
@@ -209,7 +209,7 @@
 			<li><a href="https://www.mahadiscom.in/" target="_blank"><img src="images/images_2018/MSEDCL_logo.png" style="border: 2px solid #aeb4b2;">Maharashtra State Electricity Distribution Company Limited</a></li>
 			<li><a href="https://tpcentralodisha.com/" target="_blank"><img src="images/utilities2019/Tata Power Central Odisha Distribution Ltd.jpg" style="height:102px;">Tata Power Central Odisha Distribution Ltd </a></li>
 			<li><a href="https://www.tangedco.gov.in/" target="_blank"><img src="images/utilities2019/Tamil Nadu Generation and Distribution Corporation Limited.png" style="border: 2px solid #aeb4b2; height:107px;">TANGEDCO</a></li>
-			<li><a href="http://www.tsnpdcl.in/Home" target="_blank"><img src="images/utilities2019/download (1).png" style="height:102px;">Northern Power Distribution Company of Telangana Limited</a></li>
+			<li><a href="http://www.tsnpdcl.in/Home" target="_blank"><img src="images/2026/TGNPDCL2024LOGO.png" style="height:102px;">Northern Power Distribution Company of Telangana Limited</a></li>
 			<li><a href="https://www.noidapower.com/" target="_blank"><img src="images/utilities2019/npcl.png" style="height:102px;">Noida Power Company Ltd.</a></li>
 			<li><a href="https://www.kseb.in/index.php?lang=en" target="_blank"><img src="images/utilities2019/download.png" style="height:102px;">Kerala State Electricity Board Limited</a></li>
 			

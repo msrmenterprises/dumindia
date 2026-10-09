@@ -577,7 +577,7 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 		<li><a href="https://www.tpadl.com/" target="_blank"><img src="images/TP-Ajmer Distibution Limited.jpg" alt="TP Ajmer Distribution Limited" style="height:120px;">TP Ajmer Distribution Limited</a></li>
 		<li><a href="https://www.mpwz.co.in/#/home" target="_blank"><img src="images/utilities2019/4. MPPKVVCL.png" alt="MPPKVVCL" style="height:120px;">MPPKVVCL</a></li>
 		<li><a href="https://uppcl.org/uppcl/en" target="_blank"><img src="images/2024/uppcl1.png" alt="UPPCL" style="height:120px;">UPPCL</a></li>
-		<li><a href="https://tgnpdcl.com/" target="_blank"><img src="images/utilities2019/download (1).png" alt="Northern Power Distribution Company of Telangana Ltd" style="height:120px;">Northern Power Distribution Company of Telangana Ltd</a></li>
+		<li><a href="https://tgnpdcl.com/" target="_blank"><img src="images/2026/TGNPDCL2024LOGO.png" alt="Northern Power Distribution Company of Telangana Ltd" style="height:120px;">Northern Power Distribution Company of Telangana Ltd</a></li>
 	</ul>
 </div> 
 
@@ -612,7 +612,7 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 		
 		<li><a href="https://puvvnl.in/en" target="_blank"><img src="images/utilities2019/5. PUVVNL Logo.jpeg" style="height:155px;">Purvanchal Vidyut Vitaran Nigam Limited</a></li>
 		<li><a href="https://www.dvvnl.org/" target="_blank"><img src="images/utilities2019/2. DVVNL logo.png" style="height:155px;">Dakshinanchal Vidyut Vitran Nigam Limited</a></li>
-		<li><a href="https://tgnpdcl.com/" target="_blank"><img src="images/utilities2019/download (1).png" style="height:155px;">Northern Power Distribution Company of Telangana Limited</a></li>
+		<li><a href="https://tgnpdcl.com/" target="_blank"><img src="images/2026/TGNPDCL2024LOGO.png" style="height:155px;">Northern Power Distribution Company of Telangana Limited</a></li>
 		<li><a href="https://chandigarhpower.com/" target="_blank"><img src="images/2026/ChandigarhPower.png" style="height:155px;">Chandigarh Power Distribution Limited</a></li>
 		<li><a href="https://www.guvnl.com/" target="_blank"><img src="images/utilities2019/gujrat.jpg" style="height:155px;">Gujarat Urja Vikas Nigam Limited</a></li>
 		<li><a href="https://www.goaelectricity.gov.in/" target="_blank"><img src="images/Goa Electricity Department Logo.png" style="height:155px;">Government of Goa, Electricity Department</a></li>
@@ -715,7 +715,7 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 			<li><a href="" target="_blank"><img src="images/utilities2019/mahavitaran.png">MSEDCL</a></li>
 			<li><a href="https://www.mppmcl.com/" target="_blank"><img src="images/M.P. Power Management Company Limited.png" style="height:102px;">M.P. Power Management Company Limited</a></li>
 			<li><a href="https://www.mngl.in/" target="_blank"><img src="images/Maharashtra Natural Gas Limited.jpg" style="height:102px;">Maharashtra Natural Gas Limited</a></li>
-	        <li><a href="http://www.tsnpdcl.in/Home" target="_blank"><img src="images/utilities2019/download (1).png">Northern Power Distribution Company of Telangana Limited</a></li>
+	        <li><a href="http://www.tsnpdcl.in/Home" target="_blank"><img src="images/2026/TGNPDCL2024LOGO.png">Northern Power Distribution Company of Telangana Limited</a></li>
 			<li><a href="" target="_blank"><img src="images/utilities2019/ntpc.png">NTPC</a></li>
 			<li><a href="" target="_blank"><img src="images/utilities2019/ndmc.png">New Delhi Municipal Council</a></li>
 			<li><a href="" target="_blank"><img src="images/utilities2019/npcl.png" style="height: 100px;">Noida Power Company Ltd.</a></li>

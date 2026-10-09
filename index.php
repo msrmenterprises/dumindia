@@ -361,7 +361,7 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 
 	<div class="k_cheading">
 
-		<h1>DUM 2026<span class="k_greencolor"> KEY PARTNER </span> </h1>
+		<h1>DUM 2026<span class="k_greencolor"> KEY PARTNERS </span> </h1>
 
 		<img src="images/kborder_bottom.png" alt="">
 
@@ -378,7 +378,7 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 	<br>
 
 	<ul class="k_confirmed_als">
-		<h5><b>DELEGATE KIT PARTNER</b></h5>
+		<h5><b>DELEGATE BAG PARTNER</b></h5>
 		<li><a href="https://wirepas.com/" target="_blank"><img src="images/2026/Wirepas.jpeg" style="border: 1px solid #aeb4b2; height: 100px;" alt="Wirepas">Wirepas</a></li>
 	</ul>
 

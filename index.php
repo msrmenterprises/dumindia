@@ -569,6 +569,11 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 		<li><a href="https://www.tatapower.com/" target="_blank"><img src="/images/tatapower.png" style="height:100px;">Tata Power Company Limited</a></li>
 		<li><a href="https://www.tatapower-ddl.com/" target="_blank"><img src="images/2026/TPDDLLogo.jpeg" style="height:100px;">Tata Power Delhi Distribution Limited</a></li>
 		<li><a href="https://www.noidapower.com/" target="_blank"><img src="images/utilities2019/npcl.png" style="height:120px;" alt="NPCL - Noida Power Company Limited">NPCL</a></li>
+		<li><a href="https://chandigarhpower.com/" target="_blank" rel="noopener"><img src="images/2026/ChandigarhPower.png" alt="Chandigarh Power Distribution Limited" style="height:155px;">Chandigarh Power Distribution Limited</a></li>
+		<li><a href="https://www.mvvnl.in/en" target="_blank" rel="noopener"><img src="images/2026/MVVNL.png" alt="Madhyanchal Vidyut Vitran Nigam Ltd" style="height:155px;">Madhyanchal Vidyut Vitran Nigam Ltd</a></li>
+		<li><a href="https://puvvnl.in/en" target="_blank" rel="noopener"><img src="images/2024/PUVVNL.jpeg" alt="Purvanchal Vidyut Vitran Nigam Ltd" style="height:155px;">Purvanchal Vidyut Vitran Nigam Ltd</a></li>
+		<li><a href="https://www.tpnodl.com/" target="_blank" rel="noopener"><img src="images/2026/TPNODL.png" alt="TP Northern Odisha Distribution Limited" style="height:155px;">TP Northern Odisha Distribution Limited</a></li>
+		<li><a href="https://cescrajasthan.co.in/open.php" target="_blank" rel="noopener"><img src="images/2024/cesc_rajasthan.png" alt="CESC Rajasthan" style="height:155px;">CESC Rajasthan</a></li>
 		<li><a href="https://www.tpcentralodisha.com/" target="_blank"><img src="images/2026/TPCODL.png" alt="TP Central Odisha Distribution Limited" style="height:100px;">TP Central Odisha Distribution Limited</a></li>
 		<li><a href="https://www.mgvcl.com/" target="_blank"><img src="images/2024/mgvcl.png" alt="Madhya Gujarat Vij Company Limited" style="height:100px;">Madhya Gujarat Vij Company Limited</a></li>
 		<li><a href="https://www.ugvcl.com/" target="_blank"><img src="images/2024/UGVCL.png" alt="Uttar Gujarat Vij Company Limited" style="height:100px;">Uttar Gujarat Vij Company Limited</a></li>
@@ -613,7 +618,6 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 		<li><a href="https://puvvnl.in/en" target="_blank"><img src="images/utilities2019/5. PUVVNL Logo.jpeg" style="height:155px;">Purvanchal Vidyut Vitaran Nigam Limited</a></li>
 		<li><a href="https://www.dvvnl.org/" target="_blank"><img src="images/utilities2019/2. DVVNL logo.png" style="height:155px;">Dakshinanchal Vidyut Vitran Nigam Limited</a></li>
 		<li><a href="https://tgnpdcl.com/" target="_blank"><img src="images/2026/TGNPDCL2024LOGO.png" style="height:155px;">Northern Power Distribution Company of Telangana Limited</a></li>
-		<li><a href="https://chandigarhpower.com/" target="_blank"><img src="images/2026/ChandigarhPower.png" style="height:155px;">Chandigarh Power Distribution Limited</a></li>
 		<li><a href="https://www.guvnl.com/" target="_blank"><img src="images/utilities2019/gujrat.jpg" style="height:155px;">Gujarat Urja Vikas Nigam Limited</a></li>
 		<li><a href="https://www.goaelectricity.gov.in/" target="_blank"><img src="images/Goa Electricity Department Logo.png" style="height:155px;">Government of Goa, Electricity Department</a></li>
 		<li><a href="https://www.bestundertaking.com/" target="_blank"><img src="images/2026/BEST.jpg" style="height:155px;">Brihanmumbai Electricity Supply and Transport Undertaking (BEST)</a></li>

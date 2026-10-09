@@ -447,6 +447,7 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 
 	</div>
 
+	<!-- DUM 2025 KEY PARTNERS - retained for future use
 	<div class="row k_container" style="background: #fff;">
 
 		<div class="k_cheading">
@@ -481,7 +482,7 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 					<li><a href="https://www.wirepas.com/" target="_blank"><img src="/images/WIREPASS.png" style="border: 1px solid #aeb4b2; height:120px;">Wirepas</a></li>
 					<li><a href="https://aewinfra.com/" target="_blank"><img src="images/2024/allied.png" style="border: 1px solid #aeb4b2; height: 120px;">Allied Engineering Works Limited</a></li>
 					<li><a href="https://stelmec.com/" target="_blank"><img src="/images/2026/Stelmac.png" style="border: 1px solid #aeb4b2; height: 120px;">Stelmec</a></li>	
-					<!-- <li><a href="https://www.megger.com/en" target="_blank"><img src="/images/2025/Megger.jpeg" style="border: 1px solid #aeb4b2;">Megger India Pvt Ltd</a></li> -->
+					<?php /* <li><a href="https://www.megger.com/en" target="_blank"><img src="/images/2025/Megger.jpeg" style="border: 1px solid #aeb4b2;">Megger India Pvt Ltd</a></li> */ ?>
 					<li><a href="https://www.eaton.com/in/en-us.html" target="_blank"><img src="/images/2024/eaton.png" style="border: 1px solid #aeb4b2;">Eaton </a></li>
 					<li><a href="https://trilliant.com/" target="_blank"><img src="/images/2025/Trilliant.jpeg" style="border: 1px solid #aeb4b2;">Trilliant </a></li>
 					<li><a href="https://radius.co.in/" target="_blank"><img src="/images/2026/Radius.jpeg" style="border: 1px solid #aeb4b2; height:100px;">Radius Synergies International Private Limited</a></li>			
@@ -490,8 +491,10 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 
 		<br>
 
-	</div>	
+	</div>
+	--> <!-- End DUM 2025 KEY PARTNERS -->
 
+	<!-- DUM 2025 CONFIRMED EXHIBITORS - retained for future use
 	<div class="row k_container" style="background: #fff;">
 
 		<div class="k_cheading">
@@ -516,7 +519,7 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 
 				<h5><b>Gold Exhibitors</b></h5>
 				<li><a href="https://apar.com/" target="_blank"><img src="/images/apar.png" style="border: 1px solid #aeb4b2; height:100px;">APAR Industries </a></li>
-				<!-- Added Gold Exhibitors -->
+				<?php /* Added Gold Exhibitors */ ?>
 				<li><a href="https://www.securemeters.com/" target="_blank"><img src="images/2024/secure.png" style="border: 1px solid #aeb4b2; height:120px;">Secure Meters</a></li>
 				<li><a href="https://teslatransformersindia.com/" target="_blank"><img src="images/2026/tesla-transformers.png" style="border: 1px solid #aeb4b2; height:120px;">Tesla Transformers</a></li>
 				<li><a href="https://www.ncc.co.in/" target="_blank"><img src="images/2026/ncc.png" style="border: 1px solid #aeb4b2; height:120px;">NCC Ltd</a></li>
@@ -550,6 +553,7 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 				</ul>
 
 	</div>
+		--> <!-- End DUM 2025 CONFIRMED EXHIBITORS -->
 
 </div> 
 
@@ -586,6 +590,7 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 	</ul>
 </div> 
 
+<!-- DUM 2025 CONFIRMED UTILITIES - retained for future use
 <div class="row k_parti">
 <div class="k_cheading k_white_haeding">
 		<h1>CONFIRMED UTILITIES  <span class="k_greencolor">OF DUM 2025</span> </h1>
@@ -626,7 +631,7 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 		<li><a href="https://www.kesco.co.in/" target="_blank"><img src="images/2024/kanpur_electrict.png" style="height:155px;">Kanpur Electricity Supply Company Limited</a></li>
 		<li><a href="https://www.adanielectricity.com/" target="_blank"><img src="images/2024/AdaniElectricity.png" style="height:155px;">Adani Electricity Mumbai Limited</a></li>	
 		
-		<!-- Additional Confirmed Utilities (DUM 2025) -->
+		<?php /* Additional Confirmed Utilities (DUM 2025) */ ?>
 		<li><a href="https://www.hpseb.in/irj/go/km/docs/internet/New_Website/Pages/Home.html" target="_blank" rel="noopener"><img src="images/utilities2019/himachal.png" style="height:155px;">Himachal Pradesh State Electricity Board Limited</a></li>
 		<li><a href="https://portal.mpcz.in/web/" target="_blank" rel="noopener"><img src="images/utilities2019/12. MPMKVVCL logo.jpeg" style="height:155px;">MP Madhya Kshetra Vidyut Vitran Co. Ltd.</a></li>
 		<li><a href="https://www.tatapower-ddl.com/" target="_blank" rel="noopener"><img src="images/2026/TPDDLLogo.jpeg" style="height:155px;">Tata Power Delhi Distribution Limited</a></li>
@@ -640,6 +645,8 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 		
 		
 		</ul>
+
+--> <!-- End DUM 2025 CONFIRMED UTILITIES -->
 
 <!--<div class="k_cheading k_white_haeding">
 	<!--<div class="k_cheading k_white_haeding">

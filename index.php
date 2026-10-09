@@ -346,7 +346,7 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 
 <br>
 
-	    <ul class="k_confirmed_als">
+	    <ul class="k_confirmed_als k_three_per_row">
 		<li><a href="https://www.bsesdelhi.com/web/brpl" target="_blank"><img src="images/bsesllt.png" style="height:100px;">BSES Rajdhani Power Limited</a></li>
 		<li><a href="https://www.tatapower-ddl.com/" target="_blank"><img src="images/utilities2019/tatapowerdlll.png" style="height:100px;">Tata Power Delhi Distribution Limited</a></li>
 		<li><a href="https://www.bsesdelhi.com/web/bypl" target="_blank"><img src="/images/bses.png" style="border: 2px solid #aeb4b2; height:100px;">BSES Yamuna Power Limited</a></li>
@@ -384,7 +384,7 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 
 	<br>
 
-	<ul class="k_confirmed_als">
+	<ul class="k_confirmed_als k_three_per_row">
 		<h5><b>TECHNOLOGY INNOVATION PARTNERS</b></h5>
 		<li><a href="https://www.workongrid.com/" target="_blank"><img src="images/2026/Gridlogo.png" style="height: 100px;" alt="GRID">GRID</a></li>
 		<li><a href="https://www.eaton.com/us/en-us.html" target="_blank"><img src="images/2026/eaton.png" style="height: 100px;" alt="Eaton">Eaton</a></li>
@@ -1042,6 +1042,18 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 	.k_cheading { margin: 24px 0 8px; }
 	.k_cheading h1 { font-size: 22px; }
 	.k_container { padding-top: 18px; padding-bottom: 18px; }
+}
+
+.k_confirmed_als.k_three_per_row {
+	display: grid;
+	grid-template-columns: repeat(3, minmax(0, 1fr));
+	gap: 15px;
+}
+
+.k_confirmed_als.k_three_per_row li {
+	width: auto !important;
+	max-width: none;
+	margin: 0;
 }
 </style>
 				

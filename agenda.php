@@ -14,15 +14,15 @@
 
 		<!-- <iframe src="dumpdf/Dum24.pdf" style="width:90%;height:500px;"></iframe><br><br> -->
 
-		<div class="col-sm-12" style="text-align: center;">
+		<!-- <div class="col-sm-12" style="text-align: center;">
 			<p style="font-size:17px; text-align:center;">
 				Agenda will be uploaded closer to the event date. For details, please email us at <a href="mailto:dum@indiasmartgrid.org">dum@indiasmartgrid.org</a>.
 			</p>
-		</div>
-
-		<!-- <div class="col-sm-12" style="text-align: center;">
-			<a href="http://dumindia.in/images/2026/DUM25_agenda.pdf" target="_blank" style="font-size: 28px; font-weight: 800; text-decoration: none; color: #aaaaaa; pointer-events: none; cursor: not-allowed;">Download Agenda</a>
 		</div> -->
+
+		<div class="col-sm-12" style="text-align: center;">
+			<a href="http://dumindia.in/images/2026/DUM2026At aGlance09oct.pdf" target="_blank" style="font-size: 28px; font-weight: 800; text-decoration: none; color: #aaaaaa; pointer-events: none; cursor: not-allowed;">Download Agenda</a>
+		</div>
 		<br>
 		<br>
 	</div>

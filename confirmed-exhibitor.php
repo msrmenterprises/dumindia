@@ -75,6 +75,7 @@ box-shadow: 0 1px 6px rgba(0, 0, 0, 0.06);
 			
 			
 			
+			
 		</ul><br/>
 		<ul class="k_confirmed_als">
 			<li><a href="https://rmcindia.in/" target="_blank"><img src="images/2026/rmc.png" style="height:100px;">RMC India</a></li>
@@ -87,9 +88,11 @@ box-shadow: 0 1px 6px rgba(0, 0, 0, 0.06);
 		</ul>
 		<ul class="k_confirmed_als">
 		<li><a href="https://radius.co.in/" target="_blank"><img src="images/2026/image-20261001-112039.png" style="height:100px;" alt="Radius Synergies Pvt. Ltd.">Radius Synergies Pvt. Ltd.</a></li>
-			<li><a href="https://deliverain.com/" target="_blank"><img src="images/2026/Deliverain.png" style="height:100px;" alt="Deliverain Research &amp; Solutions Pvt. Ltd.">Deliverain Research &amp; Solutions Pvt. Ltd.</a></li>
+		<li><a href="https://deliverain.com/" target="_blank"><img src="images/2026/Deliverain.png" style="height:100px;" alt="Deliverain Research &amp; Solutions Pvt. Ltd.">Deliverain Research &amp; Solutions Pvt. Ltd.</a></li>
 		<li><a href="https://stelmec.com/" target="_blank"><img src="/images/2026/Stelmac.png" style="border: 1px solid #aeb4b2; height: 120px;" alt="Stelmec Limited">Stelmec Limited</a></li>
-		</ul>
+		<li><a href="https://www.future-grid.com/" target="_blank"><img src="images/2026/futuregridlogo.png" style="height:100px;" alt="Future Grid">Future Grid</a></li>
+			<li><a href="https://smsystems.co.in/" target="_blank"><img src="images/2026/SMSystems.jpeg" style="height:100px;" alt="SM Systems">SM Systems</a></li>	
+	</ul>
 	</div>
 	<div class="row dum_container key_div">
 		<div class="k_cheading">

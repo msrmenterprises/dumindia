@@ -2,16 +2,14 @@
 <style>
 /* Responsive grid and consistent logo sizing (matches home page layout) */
 .k_confirmed_als {
-	display: grid;
-	grid-template-columns: repeat(5, minmax(0, 1fr));
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
 	gap: 12px 18px;
 	list-style: none;
 	padding: 0;
 	margin: 0 auto;
-	align-items: start;
-	justify-items: stretch;
-	grid-auto-rows: minmax(120px, auto);
-	overflow: auto;
+	align-items: stretch;
 }
 .k_confirmed_als li {
 	box-sizing: border-box;
@@ -20,31 +18,67 @@
 	margin: 0;
 	padding: 6px 4px;
 	display: flex !important;
+	flex: 0 0 calc((100% - 72px) / 5);
+	width: auto !important;
+	min-height: 156px;
+	align-items: stretch;
+	background: #fff;
+	border-radius: 6px;
 	box-shadow: 0 1px 6px rgba(0, 0, 0, 0.06);
 	border: 1px solid rgba(44, 58, 100, 0.08) !important;
 }
-.k_confirmed_als li a { display:flex; flex-direction:column; align-items:center; justify-content:center; text-decoration:none; color:inherit; width:100%; }
+.k_confirmed_als li a {
+	box-sizing: border-box;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	gap: 8px;
+	width: 100%;
+	padding: 10px;
+	text-decoration: none;
+	color: inherit;
+	font-size: 14px;
+	line-height: 1.35;
+}
 .k_confirmed_als li img {
 	max-width: 100% !important;
-	max-height: 110px !important;
 	width: auto !important;
-	height: auto !important;
+	height: 96px !important;
+	max-height: 96px !important;
 	object-fit: contain;
-	/* border-radius: 6px; */
-	/* box-shadow: 0 1px 6px rgba(0,0,0,0.06); */
 	background: #fff;
-	padding: 6px;
+	padding: 4px;
 	display: block;
-	margin: 0 auto 8px;
-	border:0px !important
-	/* border: 1px solid rgba(44,58,100,0.08) !important; */
+	margin: 0 auto;
+	border: 0 !important;
 }
-.k_confirmed_als h5 { text-transform: uppercase; grid-column: 1 / -1; background: rgba(44,58,100,0.06); padding:8px 12px; border-radius:8px; font-size:15px; text-align:center; }
+.k_confirmed_als h5 {
+	box-sizing: border-box;
+	display: flex;
+	flex: 0 0 100%;
+	align-items: center;
+	justify-content: center;
+	min-height: 40px;
+	margin: 0;
+	padding: 8px 12px;
+	border-radius: 8px;
+	background: rgba(44, 58, 100, 0.06);
+	font-size: 15px;
+	line-height: 1.2;
+	text-align: center;
+	text-transform: uppercase;
+}
+.key_div > .k_cheading { margin-bottom: 12px; }
+.key_div > br,
+.key_div > p { display: none; }
+.key_div > ul.k_confirmed_als { margin-bottom: 12px; }
 @media (max-width: 991px) {
-	.k_confirmed_als { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+	.k_confirmed_als li { flex-basis: calc((100% - 36px) / 3); }
 }
 @media (max-width: 576px) {
-	.k_confirmed_als { grid-template-columns: repeat(2, minmax(0, 1fr)); gap:10px; }
+	.k_confirmed_als { gap:10px; }
+	.k_confirmed_als li { flex-basis: calc((100% - 10px) / 2); }
 	.k_confirmed_als li img { max-width:120px !important; max-height:80px !important; padding:4px; }
 	.k_confirmed_als h5 { font-size:13px; padding:6px 8px; }
 }
@@ -66,12 +100,10 @@
 			<li><a href="https://brodersen.com/" target="_blank"><img src="/images/2025/Brodersen.jpeg" style="height:100px;">Brodersen Systems Pvt. Ltd.</a></li>
 			<li><a href="https://www.tatapower.com/" target="_blank"><img src="images/2026/tatapower.png" style="height:110px;">Tata Power Company Limited</a></li>
 			<li><a href="https://www.tatapower-ddl.com/" target="_blank"><img src="images/2026/tatapowerDDL.png" style="height:100px;">Tata Power Delhi Distribution Limited</a></li>
-		</ul><br/>
-		<ul class="k_confirmed_als">
 			<li><a href="https://bentecindia.com/" target="_blank"><img src="images/2026/Bentecv1.png" style="border: 1px solid #aeb4b2; height: 120px;">Bentec</a></li>
 			<li><a href="https://reconnectenergy.com/" target="_blank"><img src="images/2026/reconnect.jpg" style="height:100px;">REConnect Energy</a></li>
 			<li><a href="https://www.tauruspowertronics.com/" target="_blank"><img src="images/2026/TaurusPowertronics.jpg" style="height:100px;">Taurus Powertronics</a></li>
-		</ul>
+		</ul><br/>
 		<ul class="k_confirmed_als">
 			<h5><strong>GOLD EXHIBITORS </strong></h5>
 			<li><a href="https://www.oracle.com/in/utilities/" target="_blank"><img src="/images/2026/OracleUtilities1.png" style="height:80px;">Oracle</a></li>
@@ -80,27 +112,18 @@
 			<li><a href="https://yitran.com/" target="_blank"><img src="images/2026/yitran-lo.png" style="height:100px;">Yitran Technologies</a></li>
 			<li><a href="https://www.eaton.com/in/en-us.html" target="_blank"><img src="images/2026/eaton.png" style="height:100px;">Eaton</a></li>
 			<li><a href="https://www.reformtech.co.kr/en/" target="_blank"><img src="images/2026/Reformtech1.png" style="height:100px;" alt="Reformtech Co., Ltd">Reformtech Co., Ltd - (주)리폼테크</a></li>
-			
-			
-			
-			
-		</ul><br/>
-		<ul class="k_confirmed_als">
 			<li><a href="https://rmcindia.in/" target="_blank"><img src="images/2026/rmc.png" style="height:100px;">RMC India</a></li>
 			<li><a href="https://madhavengineers.com/" target="_blank"><img src="images/2026/MadhavEngineers.png" style="height:120px;" alt="Madhav Engineers Pvt. Ltd.">Madhav Engineers Pvt. Ltd.</a></li>
 			<li><a href="https://elektrolites.com/" target="_blank"><img src="images/2026/Elektrolites.png" style="height:120px;" alt="Elektrolites">Elektrolites</a></li>
 			<li><a href="https://kimbal.io/" target="_blank"><img src="images/2026/Kimbal.png" style="height:120px;" alt="Kimbal">Kimbal</a></li>
 			<li><a href="https://www.enspar.com/" target="_blank"><img src="images/2026/Enspar.jpeg">Enspar Sustainability Pvt. Ltd</a></li>
 			<li><a href="https://www.phoenixcontact.com/en-in/" target="_blank"><img src="/images/Logo - Phoenix Contact.jpg" style="height:100px;">Phoenix Contact</a></li>
-			
-		</ul>
-		<ul class="k_confirmed_als">
-		<li><a href="https://radius.co.in/" target="_blank"><img src="images/2026/image-20261001-112039.png" style="height:100px;" alt="Radius Synergies Pvt. Ltd.">Radius Synergies Pvt. Ltd.</a></li>
-		<li><a href="https://deliverain.com/" target="_blank"><img src="images/2026/Deliverain.png" style="height:100px;" alt="Deliverain Research &amp; Solutions Pvt. Ltd.">Deliverain Research &amp; Solutions Pvt. Ltd.</a></li>
-		<li><a href="https://stelmec.com/" target="_blank"><img src="/images/2026/Stelmac.png" style="border: 1px solid #aeb4b2; height: 120px;" alt="Stelmec Limited">Stelmec Limited</a></li>
-		<li><a href="https://www.future-grid.com/" target="_blank"><img src="images/2026/futuregridlogo.png" style="height:100px;" alt="Future Grid">Future Grid</a></li>
+			<li><a href="https://radius.co.in/" target="_blank"><img src="images/2026/image-20261001-112039.png" style="height:100px;" alt="Radius Synergies Pvt. Ltd.">Radius Synergies Pvt. Ltd.</a></li>
+			<li><a href="https://deliverain.com/" target="_blank"><img src="images/2026/Deliverain.png" style="height:100px;" alt="Deliverain Research &amp; Solutions Pvt. Ltd.">Deliverain Research &amp; Solutions Pvt. Ltd.</a></li>
+			<li><a href="https://stelmec.com/" target="_blank"><img src="/images/2026/Stelmac.png" style="border: 1px solid #aeb4b2; height: 120px;" alt="Stelmec Limited">Stelmec Limited</a></li>
+			<li><a href="https://www.future-grid.com/" target="_blank"><img src="images/2026/futuregridlogo.png" style="height:100px;" alt="Future Grid">Future Grid</a></li>
 			<li><a href="https://smsystems.co.in/" target="_blank"><img src="images/2026/SMSystems.jpeg" style="height:100px;" alt="SM Systems">SM Systems</a></li>	
-	</ul>
+		</ul>
 	</div>
 	<div class="row dum_container key_div">
 		<div class="k_cheading">
@@ -132,9 +155,6 @@
 			<li><a href="https://elektrolites.com/" target="_blank"><img src="images/2026/Elektrolites.png" style="height:120px;" alt="Elektrolites">Elektrolites</a></li>
 			<li><a href="https://kimbal.io/" target="_blank"><img src="images/2026/Kimbal.png" style="height:120px;" alt="Kimbal">Kimbal</a></li>
 				<!-- <li><a href="https://www.megger.com/en" target="_blank"><img src="/images/2025/Megger.jpeg" style="border: 1px solid #aeb4b2;">Megger India Pvt Ltd</a></li> -->
-				
-			</ul>	
-			<ul class="k_confirmed_als">
 				<li><a href="https://aewinfra.com/" target="_blank"><img src="images/2024/allied.png" style="border: 1px solid #aeb4b2; height: 120px;">Allied Engineering Works Limited</a></li>
 				<li><a href="https://stelmec.com/" target="_blank"><img src="/images/stelmac.png" style="border: 1px solid #aeb4b2; height: 120px;">Stelmec</a></li>
 				<li><a href="https://www.eaton.com/in/en-us.html" target="_blank"><img src="/images/2024/eaton.png" style="border: 1px solid #aeb4b2;">Eaton </a></li>
@@ -143,8 +163,6 @@
 				<li><a href="https://brodersen.com/" target="_blank"><img src="/images/2025/Brodersen.jpeg" style="height:100px;">Brodersen Systems Pvt. Ltd.</a></li>
 				<li><a href="https://www.hplindia.com/" target="_blank"><img src="/images/HPL Electric & Power Limited Logo.png" style="border: 1px solid #aeb4b2; height:123px;">HPL Electric & Power Limited </a></li>
 				<li><a href="https://smsystems.co.in/" target="_blank"><img src="/images/2026/SMSystems.jpg" style="border: 1px solid #aeb4b2; height: 120px;">SM Systems</a></li>
-			</ul>
-			<ul class="k_confirmed_als">
 				<li><a href="http://www.probus.io/" target="_blank"><img src="/images/Exhibitors/2019/probus.png" style="border: 1px solid #aeb4b2;">Probus</a></li>
 				<li><a href="https://radius.co.in/" target="_blank"><img src="/images/2026/Radius.jpeg" style="border: 1px solid #aeb4b2; height:100px;">Radius Synergies International Private Limited</a></li>
 				<li><a href="https://www.tekuncorked.com/" target="_blank"><img src="/images/Exhibitors/teku.png" style="border: 1px solid #aeb4b2; height:120px;">Tekuncorked </a></li> 	
@@ -152,19 +170,12 @@
 				<li><a href="https://www.mahaurja.maharashtra.gov.in" target="_blank"><img src="/images/2026/MEDA.jpeg" style="border: 1px solid #aeb4b2;">Maharashtra Energy Development Agency</a></li>
 				<li><a href="https://www.trustgroup.in/" target="_blank"><img src="/images/2026/Trustgroup.png" style="border: 1px solid #aeb4b2;">Trust Group</a></li>
 				<li><a href="https://www.securemeters.com/" target="_blank"><img src="images/2024/secure.png" style="border: 1px solid #aeb4b2; height:120px;">Secure Meters</a></li>
-			</ul>
-			<ul class="k_confirmed_als">
-				
 				<li><a href="https://teslatransformersindia.com/" target="_blank"><img src="images/2026/tesla-transformers.png" style="border: 1px solid #aeb4b2; height:120px;">Tesla Transformers</a></li>
 				<li><a href="https://www.ncc.co.in/" target="_blank"><img src="images/2026/ncc.png" style="border: 1px solid #aeb4b2; height:120px;">NCC Ltd</a></li>
 				<li><a href="https://pluto-men.com/" target="_blank"><img src="images/2026/Plutomen.png" style="height:155px;">Plutomen</a></li>	
 				<li><a href="https://www.adanielectricity.com/" target="_blank"><img src="images/2024/AdaniElectricity.png" style="height:155px;">Adani Electricity Mumbai Limited</a></li>	
 				<li><a href="https://younityenergy.com/" target="_blank"><img src="images/2026/Younity.png" style="height:155px;">Younity Energy Pvt Ltd </a></li>
 				<li><a href="https://www.crigroups.com/" target="_blank"><img src="images/2026/CRI.png" style="height:155px;">CRI Pumps Pvt Ltd</a></li>	
-			</ul>
-			<ul class="k_confirmed_als">
-				
-					
 			</ul>
 				<!-- <li><a href="https://www.hplindia.com/" target="_blank"><img src="/images/HPL Electric & Power Limited Logo.png" style="border: 1px solid #aeb4b2; height:123px;">HPL Electric & Power Limited </a></li> -->
 			</div>		

@@ -12,6 +12,7 @@
 	align-items: stretch;
 }
 .k_confirmed_als li {
+	position: relative;
 	box-sizing: border-box;
 	min-width: 0;
 	text-align: center;
@@ -26,6 +27,14 @@
 	border-radius: 6px;
 	box-shadow: 0 1px 6px rgba(0, 0, 0, 0.06);
 	border: 1px solid rgba(44, 58, 100, 0.08) !important;
+}
+.k_confirmed_als li::after {
+	position: absolute;
+	inset: 5px;
+	border: 1px solid rgba(44, 58, 100, 0.12);
+	border-radius: 4px;
+	content: "";
+	pointer-events: none;
 }
 .k_confirmed_als li a {
 	box-sizing: border-box;

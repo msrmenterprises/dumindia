@@ -49,12 +49,12 @@
 	</div>
 
 	<div class="agenda-actions">
-		<a class="agenda-open-button" href="images/2026/DUM2026At%20aGlance09oct.pdf" target="_blank" rel="noopener noreferrer">
+		<a class="agenda-open-button" href="https://dumindia.in/images/2026/DUM2026At%20aGlance09oct.pdf" target="_blank" rel="noopener noreferrer">
 			Download Agenda
 		</a>
 	</div>
 
-	<iframe class="agenda-viewer" src="images/2026/DUM2026At%20aGlance09oct.pdf" title="DUM 2026 Conference Agenda">
+	<iframe class="agenda-viewer" src="https://dumindia.in/images/2026/DUM2026At%20aGlance09oct.pdf" title="DUM 2026 Conference Agenda">
 		Your browser cannot display the agenda PDF. Use the button above to open it in a new tab.
 	</iframe>
 </div>

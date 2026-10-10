@@ -1,52 +1,62 @@
 <?php include "include/header.php"; ?>
 
-<!-- key themes starts here -->
+<style>
+.agenda-actions {
+	display: flex;
+	justify-content: center;
+	margin: 0 0 16px;
+}
+.agenda-open-button {
+	display: inline-block;
+	padding: 12px 22px;
+	border-radius: 4px;
+	background: #8cc63e;
+	color: #fff !important;
+	font-size: 16px;
+	font-weight: 700;
+	text-decoration: none;
+}
+.agenda-open-button:hover,
+.agenda-open-button:focus {
+	background: #76ae32;
+	color: #fff !important;
+	text-decoration: none;
+}
+.agenda-viewer {
+	display: block;
+	width: 100%;
+	height: 1000px;
+	border: 1px solid #dfe3e8;
+	border-radius: 4px;
+	background: #f5f5f5;
+}
+@media (max-width: 767px) {
+	.agenda-viewer {
+		height: 80vh;
+		min-height: 650px;
+	}
+}
+</style>
+
 <div class="row k_inbanner">
 	<img src="images/baner1.jpg" alt="">
 </div>
 
-<div class="row dum_container">
+<div class="row dum_container key_div">
 	<div class="k_cheading">
-		<h1><span class="k_greencolor">DUM 2026 AGENDA</span> </h1>
+		<h1><span class="k_greencolor">DUM 2026 AGENDA</span></h1>
 		<img src="images/kborder_bottom.png" alt="">
-		
-		<br>
-
-		<!-- <iframe src="dumpdf/Dum24.pdf" style="width:90%;height:500px;"></iframe><br><br> -->
-
-		<!-- <div class="col-sm-12" style="text-align: center;">
-			<p style="font-size:17px; text-align:center;">
-				Agenda will be uploaded closer to the event date. For details, please email us at <a href="mailto:dum@indiasmartgrid.org">dum@indiasmartgrid.org</a>.
-			</p>
-		</div> -->
-
-		<div class="col-sm-12" style="text-align: center;">
-			<a href="http://dumindia.in/images/2026/DUM2026At aGlance09oct.pdf" target="_blank" style="font-size: 28px; font-weight: 800; text-decoration: none; color: #aaaaaa; pointer-events: none; cursor: not-allowed;">Download Agenda</a>
-		</div>
-		<br>
-		<br>
 	</div>
+
+	<div class="agenda-actions">
+		<a class="agenda-open-button" href="images/2026/DUM2026At%20aGlance09oct.pdf" target="_blank" rel="noopener noreferrer">
+			Download Agenda
+		</a>
 	</div>
-	
-	
-	
+
+	<iframe class="agenda-viewer" src="images/2026/DUM2026At%20aGlance09oct.pdf" title="DUM 2026 Conference Agenda">
+		Your browser cannot display the agenda PDF. Use the button above to open it in a new tab.
+	</iframe>
 </div>
-	
-
-
-
 
 <?php include "include/footer.php"; ?>
-
-<script>
-	$("#tab1").click(function()
-	{
-		$("#table1").css('display','block');
-		$("#table2").css('display','none');
-	});
-	$("#tab2").click(function()
-	{
-		$("#table2").css('display','block');
-		$("#table1").css('display','none');
-	});
-</script>

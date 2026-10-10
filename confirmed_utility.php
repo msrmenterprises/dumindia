@@ -62,8 +62,8 @@
 	border: 0 !important;
 }
 .key_div > .k_cheading { margin-bottom: 12px; }
-.key_div > br,
-.key_div > p { display: none; }
+.key_div > br { display: none; }
+.key_div > p { margin: 0; }
 .key_div > ul.k_confirmed_als { margin-bottom: 12px; }
 @media (max-width: 991px) {
 	.k_confirmed_als li { flex-basis: calc((100% - 36px) / 3); }

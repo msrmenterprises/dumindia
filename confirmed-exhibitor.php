@@ -106,6 +106,7 @@
 		<ul class="k_confirmed_als">
 			<h5><strong>PLATINUM EXHIBITORS </strong></h5>
 			<li><a href="https://www.powerfoundation.org.in/" target="_blank"><img src="images/2026/PowerFoundationofIndia.jpeg" style="height:120px;">Power Foundation of India</a></li>
+			<li><a href="https://energy.rajasthan.gov.in/jvvnl/home/dptHome/188" target="_blank" rel="noopener"><img src="images/2026/JVVNLv1.png" style="height:100px;" alt="JVVNL">JVVNL</a></li>
 			<li><a href="https://brodersen.com/" target="_blank"><img src="/images/2025/Brodersen.jpeg" style="height:100px;">Brodersen Systems Pvt. Ltd.</a></li>
 			<li><a href="https://www.tatapower.com/" target="_blank"><img src="images/2026/tatapower.png" style="height:110px;">Tata Power Company Limited</a></li>
 			<li><a href="https://www.tatapower-ddl.com/" target="_blank"><img src="images/2026/tatapowerDDL.png" style="height:100px;">Tata Power Delhi Distribution Limited</a></li>

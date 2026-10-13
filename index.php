@@ -415,8 +415,9 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 
 	<ul class="k_confirmed_als">
 		<h5><b>PLATINUM EXHIBITORS</b></h5>
-		<li><a href="https://energy.rajasthan.gov.in/jvvnl/home/dptHome/188" target="_blank" rel="noopener"><img src="images/Jaipur Vidut Vitran Nigam Limited logo.png" style="height:100px;" alt="JVVNL">JVVNL</a></li>
+		
 		<li><a href="https://www.powerfoundation.org.in/" target="_blank"><img src="images/2026/PowerFoundationofIndia.jpeg" style="height:100px;" alt="Power Foundation of India">Power Foundation of India</a></li>
+		<li><a href="https://energy.rajasthan.gov.in/jvvnl/home/dptHome/188" target="_blank" rel="noopener"><img src="images/2026/JVVNLv1.png" style="height:100px;" alt="JVVNL">JVVNL</a></li>
 		<li><a href="https://brodersen.com/" target="_blank"><img src="/images/2025/Brodersen.jpeg" style="height:100px;" alt="Brodersen Systems Pvt. Ltd">Brodersen Systems Pvt. Ltd.</a></li>
 		<li><a href="https://www.tatapower.com/" target="_blank"><img src="images/2026/tatapower.png" style="height:100px;" alt="Tata Power Company Limited">Tata Power Company Limited</a></li>
 		<li><a href="https://www.tatapower-ddl.com/" target="_blank"><img src="images/2026/TPDDLLogo.jpeg" style="height:100px;" alt="Tata Power Delhi Distribution Limited">Tata Power Delhi Distribution Limited</a></li>

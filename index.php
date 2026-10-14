@@ -336,6 +336,25 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 
 <div class="row k_container" style="background: #fff;">
 
+	<div class="k_cheading">
+
+			<h1>DUM 2026<span class="k_greencolor"> RE PARTNER </span> </h1>
+
+			<img src="images/kborder_bottom.png" alt="">
+
+	</div>
+
+	<br>
+
+			<ul class="k_confirmed_als">
+			<li><a href="https://energy.rajasthan.gov.in/rrecl/home/dptHome" target="_blank" rel="noopener"><img src="images/2026/RRECL.png" alt="Rajasthan Renewable Energy Corporation Limited" style="height:120px;">Rajasthan Renewable Energy Corporation Limited - पोर्टल, राजस्थान सरकार</a></li>
+
+			</ul>
+
+</div>
+
+<div class="row k_container" style="background: #fff;">
+
 <div class="k_cheading">
 
 		<h1>DUM 2026<span class="k_greencolor"> CO-HOST UTILITIES </span> </h1>
@@ -439,7 +458,7 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 		<li><a href="https://www.phoenixcontact.com/en-in/" target="_blank"><img src="/images/Logo - Phoenix Contact.jpg" style="height:100px;" alt="Phoenix Contact">Phoenix Contact</a></li>
 		<li><a href="https://kimbal.io/" target="_blank"><img src="/images/Kimbal.jpg" style="border: 1px solid #aeb4b2; height: 120px;" alt="Kimbal">Kimbal</a></li>
 		<li><a href="https://www.enspar.com/" target="_blank"><img src="images/2026/Enspar.jpeg" style="height: 135px;" alt="Enspar Sustainability Pvt. Ltd.">Enspar Sustainability Pvt. Ltd.</a></li>
-		<li><a href="https://madhavengineers.com/" target="_blank"><img src="images/2026/MadhavEngineers.png" style="height:120px;" alt="Madhav Engineers Pvt. Ltd.">Madhav Engineers Pvt. Ltd.</a></li>
+		<li><a href="https://madhavengineers.com/" target="_blank"><img src="images/2026/MadhavEngineersv1.png" style="height:120px;" alt="Madhav Engineers Pvt. Ltd.">Madhav Engineers Pvt. Ltd.</a></li>
 		<li><a href="https://elektrolites.com/" target="_blank"><img src="images/2026/Elektrolites.png" style="height:120px;" alt="Elektrolites">Elektrolites</a></li>
 		<li><a href="https://www.reformtech.co.kr/en/" target="_blank"><img src="images/2026/Reformtech1.png" style="height:100px;" alt="Reformtech Co., Ltd">Reformtech Co., Ltd - (주)리폼테크</a></li>
 		<li><a href="https://radius.co.in/" target="_blank"><img src="images/2026/image-20261001-112039.png" style="height:100px;" alt="Radius Synergies Pvt. Ltd.">Radius Synergies Pvt. Ltd.</a></li>

@@ -123,7 +123,7 @@
 			<li><a href="https://www.eaton.com/in/en-us.html" target="_blank"><img src="images/2026/eaton.png" style="height:100px;">Eaton</a></li>
 			<li><a href="https://www.reformtech.co.kr/en/" target="_blank"><img src="images/2026/Reformtech1.png" style="height:100px;" alt="Reformtech Co., Ltd">Reformtech Co., Ltd - (주)리폼테크</a></li>
 			<li><a href="https://rmcindia.in/" target="_blank"><img src="images/2026/rmc.png" style="height:100px;">RMC India</a></li>
-			<li><a href="https://madhavengineers.com/" target="_blank"><img src="images/2026/MadhavEngineers.png" style="height:120px;" alt="Madhav Engineers Pvt. Ltd.">Madhav Engineers Pvt. Ltd.</a></li>
+			<li><a href="https://madhavengineers.com/" target="_blank"><img src="images/2026/MadhavEngineersv1.png" style="height:120px;" alt="Madhav Engineers Pvt. Ltd.">Madhav Engineers Pvt. Ltd.</a></li>
 			<li><a href="https://elektrolites.com/" target="_blank"><img src="images/2026/Elektrolites.png" style="height:120px;" alt="Elektrolites">Elektrolites</a></li>
 			<li><a href="https://kimbal.io/" target="_blank"><img src="images/2026/Kimbal.png" style="height:120px;" alt="Kimbal">Kimbal</a></li>
 			<li><a href="https://www.enspar.com/" target="_blank"><img src="images/2026/Enspar.jpeg">Enspar Sustainability Pvt. Ltd</a></li>
@@ -161,7 +161,7 @@
 				<li><a href="https://www.enspar.com/" target="_blank"><img src="images/2026/Enspar.jpeg">Enspar Sustainability Pvt. Ltd</a></li>
 				<li><a href="https://madhavengineers.com/" target="_blank"><img src="/images/2026/MADHAVLOGO_002.jpg" style="border: 1px solid #aeb4b2; height: 120px;" alt="Madhav Engineers Pvt. Ltd.">Madhav Engineers Pvt. Ltd.</a></li>
 				<li><a href="https://www.successengineers.co.in/" target="_blank"><img src="/images/2026/SuccessEngineer.jpeg" style="border: 1px solid #aeb4b2; height: 120px;" alt="Success Engineers">Success Engineers</a></li>
-				<li><a href="https://madhavengineers.com/" target="_blank"><img src="images/2026/MadhavEngineers.png" style="height:120px;" alt="Madhav Engineers Pvt. Ltd.">Madhav Engineers Pvt. Ltd.</a></li>
+				<li><a href="https://madhavengineers.com/" target="_blank"><img src="images/2026/MadhavEngineersv1.png" style="height:120px;" alt="Madhav Engineers Pvt. Ltd.">Madhav Engineers Pvt. Ltd.</a></li>
 			<li><a href="https://elektrolites.com/" target="_blank"><img src="images/2026/Elektrolites.png" style="height:120px;" alt="Elektrolites">Elektrolites</a></li>
 			<li><a href="https://kimbal.io/" target="_blank"><img src="images/2026/Kimbal.png" style="height:120px;" alt="Kimbal">Kimbal</a></li>
 				<!-- <li><a href="https://www.megger.com/en" target="_blank"><img src="/images/2025/Megger.jpeg" style="border: 1px solid #aeb4b2;">Megger India Pvt Ltd</a></li> -->

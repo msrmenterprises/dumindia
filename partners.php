@@ -123,7 +123,7 @@ box-shadow: 0 1px 6px rgba(0, 0, 0, 0.06);
 		<h5><STRONG>TECHNOLOGY INNOVATION PARTNERS</STRONG></h5>
 		<li><a href="https://www.workongrid.com/" target="_blank"><img src="images/2026/Gridlogo.png" style="height: 95px;">GRID</a></li>
 		<li><a href="https://www.eaton.com/in/en-us.html" target="_blank"><img src="images/2026/eaton.png" style="height: 95px;">Eaton</a></li>
-		<li><a href="https://reconnectenergy.com/" target="_blank"><img src="/images/2026/reconnect.jpg" style="height: 95px;">REConnect Energy</a></li>
+		<li><a href="https://reconnectenergy.com/" target="_blank"><img src="/images/2026/reconnectv1.jpg" style="height: 95px;">REConnect Energy</a></li>
 		<li><a href="https://www.reformtech.co.kr/en/" target="_blank"><img src="images/2026/Reformtech1.png" style="height: 95px;" alt="Reformtech Co., Ltd">Reformtech Co., Ltd - (주)리폼테크</a></li>
 		<li><a href="https://radius.co.in/" target="_blank"><img src="images/2026/image-20261001-112039.png" style="height: 95px;" alt="Radius Synergies Pvt. Ltd.">Radius Synergies Pvt. Ltd.</a></li>
 		<li><a href="https://stelmec.com/" target="_blank"><img src="/images/2026/Stelmac.png" style="border: 1px solid #aeb4b2; height: 120px;" alt="Stelmec Limited">Stelmec Limited</a></li>

@@ -199,7 +199,7 @@
 	<br/><br/>
 	<p>
 		<ul class="k_confirmed_als">
-			<li><a href="https://www.reconnectenergy.com/" target="_blank"><img src="images/reconnect.jpg" style="border: 1px solid #aeb4b2;">RECONNECT</a></li>
+			<li><a href="https://www.reconnectenergy.com/" target="_blank"><img src="images/reconnectv1.jpg" style="border: 1px solid #aeb4b2;">RECONNECT</a></li>
 			</ul>
 			</p>
 	<div class="k_cheading">

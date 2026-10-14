@@ -90,6 +90,12 @@ box-shadow: 0 1px 6px rgba(0, 0, 0, 0.06);
 
 	<BR/>
 		<ul class="k_confirmed_als">
+		<h5><STRONG>RE PARTNER</STRONG></h5>
+		<li><a href="https://energy.rajasthan.gov.in/rrecl/home/dptHome" target="_blank" rel="noopener"><img src="images/2026/RRECL.png" alt="Rajasthan Renewable Energy Corporation Limited">Rajasthan Renewable Energy Corporation Limited - पोर्टल, राजस्थान सरकार</a></li>
+		</ul>
+
+	<BR/>
+		<ul class="k_confirmed_als">
 		<h5><STRONG>CO-HOST UTILITIES</STRONG></h5>
 		<li><a href="https://www.bsesdelhi.com/web/brpl" target="_blank"><img src="images/bsesllt.png" style="height: 120px;">BSES Rajdhani Power Limited</a></li>
 		<li><a href="https://www.tatapower-ddl.com/" target="_blank"><img src="images/utilities2019/tatapowerdlll.png" style="height: 120px;">Tata Power Delhi Distribution Limited</a></li>

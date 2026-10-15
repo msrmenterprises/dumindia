@@ -125,7 +125,7 @@
 			<li><a href="https://rmcindia.in/" target="_blank"><img src="images/2026/rmc.png" style="height:100px;">RMC India</a></li>
 			<li><a href="https://madhavengineers.com/" target="_blank"><img src="images/2026/MadhavEngineersv1.png" style="height:120px;" alt="Madhav Engineers Pvt. Ltd.">Madhav Engineers Pvt. Ltd.</a></li>
 			<li><a href="https://elektrolites.com/" target="_blank"><img src="images/2026/Elektrolites.png" style="height:120px;" alt="Elektrolites">Elektrolites</a></li>
-			<li><a href="https://kimbal.io/" target="_blank"><img src="images/2026/Kimbal.png" style="height:120px;" alt="Kimbal">Kimbal</a></li>
+			<li><a href="https://kimbal.io/" target="_blank"><img src="images/2026/Kimbalv1.png" style="height:120px;" alt="Kimbal">Kimbal</a></li>
 			<li><a href="https://www.enspar.com/" target="_blank"><img src="images/2026/Enspar.jpeg">Enspar Sustainability Pvt. Ltd</a></li>
 			<li><a href="https://www.phoenixcontact.com/en-in/" target="_blank"><img src="/images/Logo - Phoenix Contact.jpg" style="height:100px;">Phoenix Contact</a></li>
 			<li><a href="https://radius.co.in/" target="_blank"><img src="images/2026/image-20261001-112039.png" style="height:100px;" alt="Radius Synergies Pvt. Ltd.">Radius Synergies Pvt. Ltd.</a></li>
@@ -163,7 +163,7 @@
 				<li><a href="https://www.successengineers.co.in/" target="_blank"><img src="/images/2026/SuccessEngineer.jpeg" style="border: 1px solid #aeb4b2; height: 120px;" alt="Success Engineers">Success Engineers</a></li>
 				<li><a href="https://madhavengineers.com/" target="_blank"><img src="images/2026/MadhavEngineersv1.png" style="height:120px;" alt="Madhav Engineers Pvt. Ltd.">Madhav Engineers Pvt. Ltd.</a></li>
 			<li><a href="https://elektrolites.com/" target="_blank"><img src="images/2026/Elektrolites.png" style="height:120px;" alt="Elektrolites">Elektrolites</a></li>
-			<li><a href="https://kimbal.io/" target="_blank"><img src="images/2026/Kimbal.png" style="height:120px;" alt="Kimbal">Kimbal</a></li>
+			<li><a href="https://kimbal.io/" target="_blank"><img src="images/2026/Kimbalv1.png" style="height:120px;" alt="Kimbal">Kimbal</a></li>
 				<!-- <li><a href="https://www.megger.com/en" target="_blank"><img src="/images/2025/Megger.jpeg" style="border: 1px solid #aeb4b2;">Megger India Pvt Ltd</a></li> -->
 				<li><a href="https://aewinfra.com/" target="_blank"><img src="images/2024/allied.png" style="border: 1px solid #aeb4b2; height: 120px;">Allied Engineering Works Limited</a></li>
 				<li><a href="https://stelmec.com/" target="_blank"><img src="/images/stelmac.png" style="border: 1px solid #aeb4b2; height: 120px;">Stelmec</a></li>

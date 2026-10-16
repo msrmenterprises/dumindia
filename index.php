@@ -456,7 +456,7 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 		<li><a href="https://www.eaton.com/in/en-us.html" target="_blank"><img src="images/2026/eaton.png" style="height:100px;" alt="Eaton">Eaton</a></li>
 		<li><a href="https://rmcindia.in/index.php" target="_blank"><img src="images/2026/rmc.png" style="height:100px;" alt="RMC India">RMC India</a></li>
 		<li><a href="https://www.phoenixcontact.com/en-in/" target="_blank"><img src="/images/Logo - Phoenix Contact.jpg" style="height:100px;" alt="Phoenix Contact">Phoenix Contact</a></li>
-		<li><a href="https://kimbal.io/" target="_blank"><img src="/images/Kimbal.jpg" style="border: 1px solid #aeb4b2; height: 120px;" alt="Kimbal">Kimbal</a></li>
+		<li><a href="https://kimbal.io/" target="_blank"><img src="/images/2026/Kimbalv1.png" style="border: 1px solid #aeb4b2; height: 120px;" alt="Kimbal">Kimbal</a></li>
 		<li><a href="https://www.enspar.com/" target="_blank"><img src="images/2026/Enspar.jpeg" style="height: 135px;" alt="Enspar Sustainability Pvt. Ltd.">Enspar Sustainability Pvt. Ltd.</a></li>
 		<li><a href="https://madhavengineers.com/" target="_blank"><img src="images/2026/MadhavEngineersv1.png" style="height:120px;" alt="Madhav Engineers Pvt. Ltd.">Madhav Engineers Pvt. Ltd.</a></li>
 		<li><a href="https://elektrolites.com/" target="_blank"><img src="images/2026/Elektrolites.png" style="height:120px;" alt="Elektrolites">Elektrolites</a></li>
@@ -501,7 +501,7 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 					<li><a href="https://edx.com/" target="_blank"><img src="images/2026/EDXWireless.jpeg" style="height: 135px;">EDX Wireless </a></li>
 					<li><a href="https://apar.com/" target="_blank"><img src="/images/apar.png" style="border: 1px solid #aeb4b2; height:100px;">APAR Industries </a></li>
 					
-					<li><a href="https://kimbal.io/" target="_blank"><img src="/images/Kimbal.jpg" style="border: 1px solid #aeb4b2; height: 120px;">Kimbal </a></li>
+					<li><a href="https://kimbal.io/" target="_blank"><img src="/images/2026/Kimbalv1.png" style="border: 1px solid #aeb4b2; height: 120px;">Kimbal </a></li>
 					<li><a href="https://www.wirepas.com/" target="_blank"><img src="/images/WIREPASS.png" style="border: 1px solid #aeb4b2; height:120px;">Wirepas</a></li>
 					<li><a href="https://aewinfra.com/" target="_blank"><img src="images/2024/allied.png" style="border: 1px solid #aeb4b2; height: 120px;">Allied Engineering Works Limited</a></li>
 					<li><a href="https://stelmec.com/" target="_blank"><img src="/images/2026/Stelmac.png" style="border: 1px solid #aeb4b2; height: 120px;">Stelmec</a></li>	
@@ -547,7 +547,7 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 				<li><a href="https://teslatransformersindia.com/" target="_blank"><img src="images/2026/tesla-transformers.png" style="border: 1px solid #aeb4b2; height:120px;">Tesla Transformers</a></li>
 				<li><a href="https://www.ncc.co.in/" target="_blank"><img src="images/2026/ncc.png" style="border: 1px solid #aeb4b2; height:120px;">NCC Ltd</a></li>
 				<li><a href="https://edx.com/" target="_blank"><img src="images/2026/EDXWireless.jpeg" style="height:135px;">EDX Wireless </a></li>
-				<li><a href="https://kimbal.io/" target="_blank"><img src="/images/Kimbal.jpg" style="border: 1px solid #aeb4b2; height: 120px;">Kimbal </a></li>
+				<li><a href="https://kimbal.io/" target="_blank"><img src="/images/2026/Kimbalv1.png" style="border: 1px solid #aeb4b2; height: 120px;">Kimbal </a></li>
 				<li><a href="https://genuspower.com/" target="_blank"><img src="http://dumindia.in/images/Exhibitors/2019/genus.png">GENUS Power Infrastructures Limited</a></li>
 				<li><a href="https://www.enspar.com/" target="_blank"><img src="images/2026/Enspar.jpeg">Enspar Energy Solutions Pvt. Ltd.</a></li>
 				<li><a href="https://aewinfra.com/" target="_blank"><img src="images/2024/allied.png" style="border: 1px solid #aeb4b2; height: 120px;">Allied Engineering Works Limited</a></li>

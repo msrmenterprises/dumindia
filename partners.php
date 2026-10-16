@@ -110,6 +110,7 @@ box-shadow: 0 1px 6px rgba(0, 0, 0, 0.06);
 		<h5><STRONG>THEMATIC SESSION PARTNERS</STRONG></h5>
 		<li><a href="https://www.oracle.com/in/utilities/" target="_blank"><img src="images/2026/OracleUtilities1.png?id=1" style="height: 100px;">Oracle</a></li>
 		<li><a href="https://www.enspar.com/" target="_blank"><img src="images/2026/Enspar.jpeg" style="height: 100px;">Enspar Sustainability Pvt. Ltd.</a></li>
+		<li><a href="https://www.teriin.org/" target="_blank" rel="noopener"><img src="images/2026/TERI.png" style="height: 100px;" alt="TERI: Innovative Solutions for Sustainable Development - India">TERI: Innovative Solutions for Sustainable Development - India</a></li>
 		</ul>
 
 	<BR/>

@@ -392,6 +392,7 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 		<h5><b>THEMATIC SESSION PARTNERS</b></h5>
 		<li><a href="https://www.oracle.com/in/utilities/" target="_blank"><img src="images/2026/OracleUtilities1.png" style="border: 1px solid #aeb4b2; height: 100px;" alt="Oracle">Oracle</a></li>
 		<li><a href="https://www.enspar.com/" target="_blank"><img src="images/2026/Enspar.jpeg" style="height: 135px;" alt="Enspar Sustainability Pvt. Ltd.">Enspar Sustainability Pvt. Ltd.</a></li>
+		<li><a href="https://www.teriin.org/" target="_blank" rel="noopener"><img src="images/2026/TERI.png" style="height: 100px;" alt="TERI: Innovative Solutions for Sustainable Development - India">TERI: Innovative Solutions for Sustainable Development - India</a></li>
 	</ul>
 
 	<br>

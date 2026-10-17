@@ -611,6 +611,17 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 		<li><a href="https://www.mpwz.co.in/#/home" target="_blank"><img src="images/utilities2019/4. MPPKVVCL.png" alt="MPPKVVCL" style="height:120px;">MPPKVVCL</a></li>
 		<li><a href="https://uppcl.org/uppcl/en" target="_blank"><img src="images/2024/uppcl1.png" alt="UPPCL" style="height:120px;">UPPCL</a></li>
 		<li><a href="https://tgnpdcl.com/" target="_blank"><img src="images/2026/TGNPDCL2024LOGO.png" alt="Northern Power Distribution Company of Telangana Ltd" style="height:120px;">Northern Power Distribution Company of Telangana Ltd</a></li>
+		<li><a href="https://www.apeasternpower.com/" target="_blank"><img src="images/Eastern Power Distribution Company of Andhra Pradesh Limited.jpg" alt="EasternPower Distribution Company of Andhra Pradesh Limited" style="height:120px;">EasternPower Distribution Company of Andhra Pradesh Limited</a></li>
+		<li><a href="https://www.apdcl.org/website/" target="_blank"><img src="images/utilities2019/assampower.png" alt="Assam Power Distribution Company Limited" style="height:120px;">Assam Power Distribution Company Limited</a></li>
+		<li><a href="https://www.dvc.gov.in/" target="_blank"><img src="images/1. Damodar Valley.png" alt="Damodar Valley Corporation" style="height:120px;">Damodar Valley Corporation</a></li>
+		<li><a href="https://www.guvnl.com/" target="_blank"><img src="images/utilities2019/gujrat.jpg" alt="Gujarat Urja Vikas Nigam" style="height:120px;">Gujarat Urja Vikas Nigam</a></li>
+		<li><a href="https://hescom.karnataka.gov.in/en" target="_blank"><img src="images/utilities2019/hescom.png" alt="HESCOM" style="height:120px;">HESCOM</a></li>
+		<li><a href="https://kpdcl.jk.gov.in/" target="_blank"><img src="images/2026/KPDCL.png" alt="Kashmir Power Distribution Corporation Limited" style="height:120px;">Kashmir Power Distribution Corporation Limited</a></li>
+		<li><a href="https://www.mescom.org.in/mescom/main/home" target="_blank"><img src="images/images_2018/MESCOM.jpg" alt="MESCOM" style="height:120px;">MESCOM</a></li>
+		<li><a href="https://www.mpez.co.in/#" target="_blank"><img src="images/2026/MadhyaPradesh.png" alt="Madhya Pradesh Poorv Kshetra Vidyut Vitaran Company Ltd" style="height:120px;">Madhya Pradesh Poorv Kshetra Vidyut Vitaran Company Ltd</a></li>
+		<li><a href="https://nbpdcl.co.in/" target="_blank"><img src="images/utilities2019/nb.png" alt="North Bihar Power Distribution Company Limited" style="height:120px;">North Bihar Power Distribution Company Limited</a></li>
+		<li><a href="https://www.wbsedcl.in/irj/go/km/docs/internet/new_website/Home.html" target="_blank"><img src="images/2024/wbsedcl.png" alt="WBSEDCL" style="height:120px;">WBSEDCL</a></li>
+		<li><a href="https://www.tpsouthernodisha.com/" target="_blank"><img src="images/2026/TPSODL.png" alt="TP Southern Odisha Distribution Limited" style="height:120px;">TP Southern Odisha Distribution Limited</a></li>
 	</ul>
 </div> 
 

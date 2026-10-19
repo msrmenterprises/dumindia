@@ -19,7 +19,7 @@
 	margin: 0;
 	padding: 6px 4px;
 	display: flex !important;
-	flex: 0 0 calc((100% - 36px) / 3);
+	flex: 0 0 calc((100% - 72px) / 5);
 	width: auto !important;
 	min-height: 156px;
 	align-items: stretch;
@@ -27,6 +27,9 @@
 	border-radius: 6px;
 	box-shadow: 0 1px 6px rgba(0, 0, 0, 0.06);
 	border: 1px solid rgba(44, 58, 100, 0.08) !important;
+}
+.k_confirmed_als.k_three_per_row li {
+	flex-basis: calc((100% - 36px) / 3);
 }
 .k_confirmed_als li::after {
 	position: absolute;
@@ -84,6 +87,7 @@
 @media (max-width: 576px) {
 	.k_confirmed_als { gap:10px; }
 	.k_confirmed_als li { flex-basis: calc((100% - 10px) / 2); }
+	.k_confirmed_als.k_three_per_row li { flex-basis: calc((100% - 10px) / 2); }
 	.k_confirmed_als li img { max-width:120px !important; max-height:80px !important; padding:4px; }
 	.k_confirmed_als h5 { font-size:13px; padding:6px 8px; }
 }
@@ -142,7 +146,7 @@
 		</ul>
 
 	<BR/>
-		<ul class="k_confirmed_als">
+		<ul class="k_confirmed_als k_three_per_row">
 		<h5><STRONG>CO-HOST UTILITIES</STRONG></h5>
 		<li><a href="https://www.bsesdelhi.com/web/brpl" target="_blank"><img src="images/bsesllt.png" style="height: 120px;">BSES Rajdhani Power Limited</a></li>
 		<li><a href="https://www.tatapower-ddl.com/" target="_blank"><img src="images/utilities2019/tatapowerdlll.png" style="height: 120px;">Tata Power Delhi Distribution Limited</a></li>
@@ -167,7 +171,7 @@
 		</ul>
 
 	<BR/>
-		<ul class="k_confirmed_als">
+		<ul class="k_confirmed_als k_three_per_row">
 		<h5><STRONG>TECHNOLOGY INNOVATION PARTNERS</STRONG></h5>
 		<li><a href="https://www.workongrid.com/" target="_blank"><img src="images/2026/Gridlogo.png" style="height: 95px;">GRID</a></li>
 		<li><a href="https://www.eaton.com/in/en-us.html" target="_blank"><img src="images/2026/eaton.png" style="height: 95px;">Eaton</a></li>
@@ -213,7 +217,7 @@
 		</ul>
 
 	<BR/>
-		<ul class="k_confirmed_als">
+		<ul class="k_confirmed_als k_three_per_row">
 		<h5><STRONG>CO HOST UTILITIES</STRONG></h5>
 		<li><a href="https://www.bsesdelhi.com/web/brpl/home" target="_blank"><img src="images/utilities2019/bsess.png">BSES Rajdhani Power Limited</a></li>
 		<li><a href="https://www.bsesdelhi.com/web/bypl/home" target="_blank"><img src="images/utilities2019/bsess_yahh.png">BSES Yamuna Power Limited</a></li>
@@ -239,7 +243,7 @@
 	</ul>	
 
 		<BR/>
-		<ul class="k_confirmed_als">
+		<ul class="k_confirmed_als k_three_per_row">
 			<h5><STRONG>TECHNOLOGY INNOVATION PARTNERS</STRONG></h5>
 			<li><a href="https://edx.com/" target="_blank"><img src="images/2026/EDXWireless.jpeg">EDX Wireless</a></li>
 			<li><a href="https://apar.com/" target="_blank"><img src="/images/apar.png" style="border: 1px solid #aeb4b2; height:100px;">APAR Industries </a></li>
@@ -251,7 +255,7 @@
 			<!-- <li><a href="https://www.megger.com/en" target="_blank"><img src="/images/2025/Megger.jpeg" style="border: 1px solid #aeb4b2;">Megger India Pvt Ltd</a></li> -->
 			
 		</ul>	
-		<ul class="k_confirmed_als">
+		<ul class="k_confirmed_als k_three_per_row">
 			<li><a href="https://www.eaton.com/in/en-us.html" target="_blank"><img src="/images/2024/eaton.png" style="border: 1px solid #aeb4b2;">Eaton </a></li>
 			<li><a href="https://trilliant.com/" target="_blank"><img src="/images/2025/Trilliant.jpeg" style="border: 1px solid #aeb4b2;">Trilliant </a></li>
 			<li><a href="https://radius.co.in/" target="_blank"><img src="/images/2026/Radius.jpeg" style="border: 1px solid #aeb4b2; height:100px;">Radius Synergies International Private Limited</a></li>	
@@ -274,7 +278,7 @@
 		</ul>
 		
 		<br>
-		<ul class="k_confirmed_als">
+		<ul class="k_confirmed_als k_three_per_row">
 		<h5><STRONG>CO HOST UTILITIES</STRONG></h5>
 		<li><a href="https://www.bsesdelhi.com/web/brpl" target="_blank"><img src="images/bsesllt.png" style="width:180px; height: 140px;">BSES Rajdhani Power Limited </a></li>
 		<li><a href="https://www.tatapower.com/" target="_blank"><img src="images/2024/tatapower.png" style="height: 135px;">Tata Power </a></li>
@@ -329,7 +333,7 @@
 			<li><a href="https://ltptd-des.com/" target="_blank"><img src="/images/LT.png" style="border: 1px solid #aeb4b2; height:120px;">L&T Digital Energy Solutions - Power, Transmission and Distribution</a></li>
 		</ul> 
 		<br/>		
-		<ul class="k_confirmed_als">
+			<ul class="k_confirmed_als k_three_per_row">
 			<h5><b>Technology Innovation Partners</b></h5>
 			<li><a href="https://trilliant.com/" target="_blank"><img src="/images/Exhibitors/2019/Trilliant.png" style="border: 1px solid #aeb4b2;">Trilliant Networks, Inc. </a></li>
 			<li><a href="https://havells.com/" target="_blank"><img src="images/2024/havells.png" style="border: 1px solid #aeb4b2; height: 120px;">Havells India Pvt Ltd</a></li>

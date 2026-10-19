@@ -319,6 +319,24 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 
 	<div class="k_cheading">
 
+		<h1>DUM 2026<span class="k_greencolor"> Powered By </span> </h1>
+
+		<img src="images/kborder_bottom.png" alt="">
+
+	</div>
+
+	<br>
+
+		<ul class="k_confirmed_als">
+		<li><a href="https://pelocal.com/" target="_blank" rel="noopener noreferrer"><img src="images/2026/pelocal.png" alt="Pelocal logo" style="height:120px;">Pelocal: conversational payments</a></li>
+		</ul>
+
+</div>
+
+<div class="row k_container" style="background: #fff;">
+
+	<div class="k_cheading">
+
 			<h1>DUM 2026<span class="k_greencolor"> Knowledge Partner </span> </h1>
 
 			<img src="images/kborder_bottom.png" alt="">

@@ -11,6 +11,41 @@
 {
 	    padding: 2% 0%;
 }
+
+.k_organiser ul {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	gap: 12px;
+	margin: 0;
+	padding: 0;
+}
+.k_organiser ul li {
+	box-sizing: border-box;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 100%;
+	max-width: 240px;
+	min-height: 180px;
+	margin: 0;
+	padding: 12px;
+	list-style: none;
+}
+.k_organiser ul li a {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 100%;
+}
+.k_organiser ul li a img {
+	display: block;
+	width: 100%;
+	max-width: 200px;
+	height: 120px;
+	margin: 0;
+	object-fit: contain;
+}
 </style>
 <!-- vineet css end -->
 <!-- key themes starts here -->
@@ -26,9 +61,9 @@
 	</div>
 
 	<ul class="">
-	<li><a href="https://energy.rajasthan.gov.in/content/raj/energy-department/jaipur-vidyut-vitran-nigam-ltd-/en/home.html" target="_blank"><img src="images/utilities2019/jvvnl.png" alt="Jaipur Vidyut Vitran Nigam Limited" style="height: 120px;"></a></li>
-	<li><a href="https://energy.rajasthan.gov.in/jdvvnl/#/home/dptHome/185" target="_blank"><img src="/images/2026/HostUtilityJVVNL.jpg?i=1" alt="Jodhpur Vidyut Vitran Nigam Limited" style="height: 120px;"></a></li>
-	<li><a href="https://energy.rajasthan.gov.in/avvnl/#/home/dptHome/9" target="_blank"><img src="/images/2026/AjmerLimited.jpg" alt="Ajmer Vidyut Vitran Nigam Limited" style="height: 120px;"></a></li>
+	<li><a href="https://energy.rajasthan.gov.in/content/raj/energy-department/jaipur-vidyut-vitran-nigam-ltd-/en/home.html" target="_blank"><img src="images/utilities2019/jvvnl.png" alt="Jaipur Vidyut Vitran Nigam Limited"></a></li>
+	<li><a href="https://energy.rajasthan.gov.in/jdvvnl/#/home/dptHome/185" target="_blank"><img src="/images/2026/HostUtilityJVVNL.jpg?i=1" alt="Jodhpur Vidyut Vitran Nigam Limited"></a></li>
+	<li><a href="https://energy.rajasthan.gov.in/avvnl/#/home/dptHome/9" target="_blank"><img src="/images/2026/AjmerLimited.jpg" alt="Ajmer Vidyut Vitran Nigam Limited"></a></li>
 	<!-- <li><a href="https://www.tatapower-ddl.com/" target="_blank"><img src="/images/2026/tatapowerDDL.png" alt="Tata Power Delhi Distribution Limited" style="height:120px;"></a></li> -->
 	        <!-- <li><a href="https://uppcl.org/uppcl/hi/" target="_blank"><img src="/images/UPPCL (2).jpg" alt="" style="width:150px; height: 140px;"></a></li>  
 	        <li><a href="https://uppcl.org/uppcl/hi/" target="_blank"><img src="/images/UPREV_Logo D.png" alt="" style="width:150px; height: 135px;"></a></li>   -->
@@ -91,11 +126,11 @@
 		<img src="images/kborder_bottom.png" alt="">
 	</div>
      <ul class="">		
-	 <li><a href="https://www.powermin.gov.in/" target="_blank"><img src="/images/2026/MOP.png" alt="Ministry of Power" style="width:200px; height: 140px;"></a></li>
-	 <li><a href="https://www.niti.gov.in/" target="_blank"><img src="/images/2026/NITIAayog1.png" alt="NITI Aayog" style="width:200px; height: 140px;"></a></li>
-	 <li><a href="https://energy.rajasthan.gov.in/energy/#/home/dptHome" target="_blank"><img src="/images/2026/energydepartment.png" alt="Department of Energy, Govt. of Rajasthan" style="height: 140px;margin-left: -14px;"></a></li>
-	 <li><a href="https://cea.nic.in/?lang=en" target="_blank"><img src="/images/2026/CEAv1.png" alt="Central Electricity Authority" style="width: 183px;margin-top:55px"></a></li>
-	 <li><a href="https://aida-india.org/" target="_blank"><img src="/images/2026/AIDANew.png" alt="All India Discoms Association" style="width:200px; height: 140px;"></a></li>
+	 <li><a href="https://www.powermin.gov.in/" target="_blank"><img src="/images/2026/MOP.png" alt="Ministry of Power"></a></li>
+	 <li><a href="https://www.niti.gov.in/" target="_blank"><img src="/images/2026/NITIAayog1.png" alt="NITI Aayog"></a></li>
+	 <li><a href="https://energy.rajasthan.gov.in/energy/#/home/dptHome" target="_blank"><img src="/images/2026/energydepartment.png" alt="Department of Energy, Govt. of Rajasthan"></a></li>
+	 <li><a href="https://cea.nic.in/?lang=en" target="_blank"><img src="/images/2026/CEAv1.png" alt="Central Electricity Authority"></a></li>
+	 <li><a href="https://aida-india.org/" target="_blank"><img src="/images/2026/AIDANew.png" alt="All India Discoms Association"></a></li>
 		<!-- <li><a href="https://upneda.org.in/" target="_blank"><img src="images/UP Department of Energy.png" style="width:200px; height: 140px;"></a></li> -->
 		</ul>
 </div>
@@ -153,7 +188,7 @@
 
 	<ul class="">
 		<li>
-			<a href="http://www.indiasmartgrid.org" target="_blank"><img src="images/k2b.jpg" alt="" style="width:200px; height: 140px;"></a>
+			<a href="http://www.indiasmartgrid.org" target="_blank"><img src="images/k2b.jpg" alt="India Smart Grid Forum"></a>
 		</li>
 	</ul>
 </div>

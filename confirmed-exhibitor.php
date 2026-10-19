@@ -117,7 +117,8 @@
 		<ul class="k_confirmed_als">
 			<h5><strong>GOLD EXHIBITORS </strong></h5>
 			<li><a href="https://www.oracle.com/in/utilities/" target="_blank"><img src="/images/2026/OracleUtilities1.png" style="height:80px;">Oracle</a></li>
-			<li><a href="https://www.indiasmartgrid.org/" target="_blank"><img src="images/2026/ISGF.png" style="height:120px;">ISGF</a></li>
+			<li><a href="https://pelocal.com/" target="_blank" rel="noopener noreferrer"><img src="images/2026/pelocal.png" style="height:100px;" alt="Pelocal logo">Pelocal: conversational payments</a></li>
+			<li><a href="https://energy.rajasthan.gov.in/rrecl/home/dptHome" target="_blank" rel="noopener noreferrer"><img src="images/2026/RRECL.png" style="height:100px;" alt="RRECL logo">RRECL - पोर्टल, राजस्थान सरकार</a></li>
 			<li><a href="https://www.workongrid.com/" target="_blank"><img src="images/2026/Gridlogo.png" style="height:95px;">GRID</a></li>
 			<li><a href="https://yitran.com/" target="_blank"><img src="images/2026/yitran-lo.png" style="height:100px;">Yitran Technologies</a></li>
 			<li><a href="https://www.eaton.com/in/en-us.html" target="_blank"><img src="images/2026/eaton.png" style="height:100px;">Eaton</a></li>

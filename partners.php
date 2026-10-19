@@ -2,8 +2,9 @@
 <style>
 /* Responsive grid and logo card styling shared with confirmed exhibitors */
 .k_confirmed_als {
-	display: grid;
-	grid-template-columns: repeat(3, minmax(0, 1fr));
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
 	gap: 12px 18px;
 	list-style: none;
 	padding: 0;
@@ -18,6 +19,7 @@
 	margin: 0;
 	padding: 6px 4px;
 	display: flex !important;
+	flex: 0 0 calc((100% - 36px) / 3);
 	width: auto !important;
 	min-height: 156px;
 	align-items: stretch;
@@ -63,7 +65,7 @@
 .k_confirmed_als h5 {
 	box-sizing: border-box;
 	display: flex;
-	grid-column: 1 / -1;
+	flex: 0 0 100%;
 	align-items: center;
 	justify-content: center;
 	min-height: 40px;
@@ -76,8 +78,12 @@
 	text-align: center;
 	text-transform: uppercase;
 }
+@media (max-width: 991px) {
+	.k_confirmed_als li { flex-basis: calc((100% - 36px) / 3); }
+}
 @media (max-width: 576px) {
-	.k_confirmed_als { grid-template-columns: repeat(2, minmax(0, 1fr)); gap:10px; }
+	.k_confirmed_als { gap:10px; }
+	.k_confirmed_als li { flex-basis: calc((100% - 10px) / 2); }
 	.k_confirmed_als li img { max-width:120px !important; max-height:80px !important; padding:4px; }
 	.k_confirmed_als h5 { font-size:13px; padding:6px 8px; }
 }

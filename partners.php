@@ -141,7 +141,13 @@
 
 	<BR/>
 		<ul class="k_confirmed_als">
-		<h5><STRONG>RE PARTNER</STRONG></h5>
+			<h5><STRONG>POWERED BY</STRONG></h5>
+			<li><a href="https://pelocal.com/" target="_blank" rel="noopener noreferrer"><img src="images/2026/pelocal.png" alt="Pelocal logo">Pelocal: conversational payments</a></li>
+			</ul>
+
+		<BR/>
+			<ul class="k_confirmed_als">
+			<h5><STRONG>RE PARTNER</STRONG></h5>
 		<li><a href="https://energy.rajasthan.gov.in/rrecl/home/dptHome" target="_blank" rel="noopener"><img src="images/2026/RRECL.png" alt="Rajasthan Renewable Energy Corporation Limited">Rajasthan Renewable Energy Corporation Limited - पोर्टल, राजस्थान सरकार</a></li>
 		</ul>
 

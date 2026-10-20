@@ -142,7 +142,7 @@
 	<BR/>
 		<ul class="k_confirmed_als">
 			<h5><STRONG>POWERED BY</STRONG></h5>
-			<li><a href="https://pelocal.com/" target="_blank" rel="noopener noreferrer"><img src="images/2026/pelocal.png" alt="Pelocal logo">Pelocal: conversational payments</a></li>
+			<li><a href="https://pelocal.com/" target="_blank" rel="noopener noreferrer"><img src="images/2026/pelocal.png" alt="Pelocal logo">Pelocal</a></li>
 			</ul>
 
 		<BR/>
@@ -179,7 +179,7 @@
 	<BR/>
 		<ul class="k_confirmed_als k_three_per_row">
 		<h5><STRONG>TECHNOLOGY INNOVATION PARTNERS</STRONG></h5>
-		<li><a href="https://www.workongrid.com/" target="_blank"><img src="images/2026/Gridlogo.png" style="height: 95px;">GRID</a></li>
+		<li><a href="https://www.workongrid.com/" target="_blank"><img src="images/2026/Gridlogo.png" style="height: 95px;" alt="WorkOnGrid">WorkOnGrid</a></li>
 		<li><a href="https://www.eaton.com/in/en-us.html" target="_blank"><img src="images/2026/eaton.png" style="height: 95px;">Eaton</a></li>
 		<li><a href="https://reconnectenergy.com/" target="_blank"><img src="/images/2026/reconnectv1.jpg" style="height: 95px;">REConnect Energy</a></li>
 		<li><a href="https://www.reformtech.co.kr/en/" target="_blank"><img src="images/2026/Reformtech1.png" style="height: 95px;" alt="Reformtech Co., Ltd">Reformtech Co., Ltd - (주)리폼테크</a></li>

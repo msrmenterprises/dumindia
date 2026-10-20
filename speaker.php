@@ -149,6 +149,42 @@
         </div>
     </div>
 
+    <!-- Anand Budholia -->
+    <div class="row speaker_row">
+        <div class="k_list_part">
+            <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
+                <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
+                    <img src="images/2026/speakers/AnandBudholia.jpg" alt="Anand Budholia" class="speaker-photo">
+                </div>
+                <div class="speaker_content" style="flex: 1;">
+                    <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
+                        Anand Budholia<br/>
+                        President – IT &amp; Group CIO<br/>
+                        BRPL &amp; BYPL Delhi
+                    </h1>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Anand Budholia serves as the President – IT &amp; Group CIO at BRPL &amp; BYPL Delhi, a joint venture between Reliance Infrastructure Limited and the Government of NCT of Delhi. With over 35 years of techno-commercial experience in utilities, power, and manufacturing sectors, he brings unparalleled expertise to his role.
+                    </p>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        As President – IT &amp; Group CIO, Mr. Budholia drives Group BSES Delhi's digital transformation journey, strengthening IT systems for smarter and more resilient power distribution. His three decades of technology leadership experience have enabled him to successfully spearhead numerous enterprise-wide initiatives across various sectors.
+                    </p>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Before joining BSES Delhi, Mr. Budholia held key positions, including Joint President &amp; CIO at MP Birla Group, and Senior Vice President &amp; CIO at Reliance Group/Reliance Power.
+                    </p>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        During his tenure, he led critical projects such as SAP ERP implementations &amp; IS-U-CCS, large-scale IT infrastructure rollouts, business intelligence programs &amp; digital initiatives powered by AI/ML, and disaster recovery frameworks.
+                    </p>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        A distinguished alumnus of NIT Allahabad, Mr. Budholia holds a Master's degree in Software Engineering. He is widely recognized for his expertise in digital transformation, ERP, analytics, enterprise IT, and digital strategy.
+                    </p>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Mr. Budholia's contributions extend beyond his organizational roles, serving as a jury member for NEXT100 and actively participating in industry forums like the India Smart Grid Forum. Through his leadership and vision, he drives innovation and excellence in the IT domain, making significant contributions to the industry.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
     <!-- Aneesh Thomas -->
     <div class="row speaker_row">
         <div class="k_list_part">
@@ -239,6 +275,27 @@
                     </p>
                     <p style="text-align: justify; line-height: 1.6;">
                         IntelliSmart was honoured with the 'Energy Company of the Year - Power (Small Cap)' in 2025 at the Economic Times Energy Leadership Awards.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Anish Kalucha -->
+    <div class="row speaker_row">
+        <div class="k_list_part">
+            <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
+                <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
+                    <img src="images/2026/speakers/AnishKalucha.jpg" alt="Anish Kalucha" class="speaker-photo">
+                </div>
+                <div class="speaker_content" style="flex: 1;">
+                    <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
+                        Anish Kalucha<br/>
+                        CIO and Head of IT Automation<br/>
+                        Noida Power Company Limited
+                    </h1>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Anish Kalucha is the CIO and Head of IT &amp; Automation at Noida Power Co. Ltd., a subsidiary of the RPSG Group. With over 30 years of extensive experience in IT and technology in the power sector, including 7 years as the CIO &amp; Head of IT at BSES Yamuna Power Ltd. (BYPL), Anish brings a wealth of knowledge and expertise to his current role. At NPCL, Anish plays a pivotal role in shaping the company's IT and digital strategy, focusing on customer engagement, product transformation, employee empowerment, and operational optimization. He is also driving innovation in analytics, IoT, robotic process automation, AI, Gen AI, and smart grids.
                     </p>
                 </div>
             </div>
@@ -400,6 +457,30 @@
         </div>
     </div>
 
+    <!-- Gaurav Sharma -->
+    <div class="row speaker_row">
+        <div class="k_list_part">
+            <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
+                <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
+                    <img src="images/2026/speakers/GauravSharma.jpg" alt="Gaurav Sharma" class="speaker-photo">
+                </div>
+                <div class="speaker_content" style="flex: 1;">
+                    <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
+                        Gaurav Sharma<br/>
+                        General Manager<br/>
+                        Noida Power Company Limited
+                    </h1>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Gaurav leads the Planning and Engineering functions at Noida Power Company Limited. He drives network augmentation, grid modernization, and digital transformation initiatives to enhance network reliability, operational efficiency, safety, and customer experience.
+                    </p>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Previously, he led Planning and Engineering at BSES Delhi, delivering significant improvement in network performance. An Electrical Engineer with over 22 years of experience, he specializes in strategic planning, system design, project management, protection, metering, commissioning, and operations across power transmission and distribution networks.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
     <!-- Ghanshyam Prasad -->
     <div class="row speaker_row">
         <div class="k_list_part">
@@ -499,6 +580,27 @@
         </div>
     </div>
 
+    <!-- Kiran Gupta -->
+    <div class="row speaker_row">
+        <div class="k_list_part">
+            <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
+                <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
+                    <img src="images/2026/speakers/KiranGupta.jpg" alt="Kiran Gupta" class="speaker-photo">
+                </div>
+                <div class="speaker_content" style="flex: 1;">
+                    <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
+                        Kiran Gupta<br/>
+                        Chief-Customer Experience, Commercial &amp; Govt. Affairs<br/>
+                        Tata Power Delhi Distribution Limited
+                    </h1>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Ms. Kiran Gupta is presently Chief - Customer Experience, Commercial, Govt. Affairs, EAC &amp; Consumer Litigation at Tata Power-DDL. Ms. Gupta spearheads Customer Experience and Commercial functions including Customer Care, New Connection, Attribute Change, Metering, Billing, Revenue Collection, Recovery, Enforcement assessments, Smart Metering, Demand Side Management, and New Business Services. She works closely with the Delhi Government and Regulator to ensure organizational strategic alignment with all stakeholders. She has three decades of experience in the power sector, primarily in power distribution and transmission in India. Her experience spans design engineering and layouts, technical standards, inspections, quality control, supply chain management, operations and enforcement, project execution, commercial and customer services, business excellence, and strategy. She is the first woman executive to lead operations and successfully handle commercial issues, driving enforcement for theft reduction in the area.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
     <!-- MAKP Singh -->
     <div class="row speaker_row">
         <div class="k_list_part">
@@ -514,6 +616,75 @@
                     </h1>
                     <p style="text-align: justify; line-height: 1.6;">
                         M.A.K.P. Singh is a veteran power sector expert who served as Member (Hydro) at the Central Electricity Authority (CEA) until his retirement in June 2024. Throughout his tenure in CEA since 1992, he held pivotal roles including that of Chief Information Security Officer (CISO) for the Ministry of Power. He is widely recognized for his leadership in strengthening OT cyber security within India's power grid, formulating Cyber Security guidelines for Power Sector. He is presently engaged with IIT Kanpur as Visiting Professor of Practice.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- PR Kumar -->
+    <div class="row speaker_row">
+        <div class="k_list_part">
+            <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
+                <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
+                    <img src="images/2026/speakers/PRKumar.jpg" alt="PR Kumar" class="speaker-photo">
+                </div>
+                <div class="speaker_content" style="flex: 1;">
+                    <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
+                        PR Kumar<br/>
+                        MD &amp; CEO<br/>
+                        Noida Power Company Limited
+                    </h1>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Mr. P. R. Kumar has over 38 years of experience in the power sector, including around 15 years in coal- and gas-fired electricity generation and 23 years in electricity transmission and distribution.
+                    </p>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        An alumnus of VNIT, Nagpur (formerly VREC, Nagpur) and FMS, New Delhi, Mr. Kumar is an Electrical Engineer who subsequently pursued an MBA in Finance, reflecting a blend of engineering capability and corporate financial strategy.
+                    </p>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        He has served in both Government and private sectors, most recently as Chief Executive Officer of BSES Yamuna Power Limited (BYPL) for over seven years. He currently serves on the boards of multiple RP-Sanjiv Goenka (RPSG) Group companies, including Noida Power Company Limited (NPCL), Greater Noida; CESC Rajasthan at Kota (KEDL), Bharatpur (BESL), and Bikaner (BKESL); and Chandigarh Power Distribution Limited (CPDL), Chandigarh.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Prince Dhawan -->
+    <div class="row speaker_row">
+        <div class="k_list_part">
+            <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
+                <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
+                    <img src="images/2026/speakers/PrinceDhawan.jpg" alt="Prince Dhawan" class="speaker-photo">
+                </div>
+                <div class="speaker_content" style="flex: 1;">
+                    <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
+                        Prince Dhawan<br/>
+                        Executive Director<br/>
+                        REC Limited
+                    </h1>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Mr. Prince Dhawan, Executive Director, REC Limited and Chief Executive Officer (CEO), REC Power Development and Consultancy Limited (REC PDCL, a wholly owned subsidiary of REC Limited), is an IAS officer of the AGMUT Cadre (2012 batch). He holds dual degrees in Electrical Engineering and Information &amp; Communication Technology from IIT Delhi, a Master's degree in Public Administration in International Development from the Harvard Kennedy School, and a Bachelor's in Law. He has served across three State and Union Territory governments and received national and state-level awards for eGovernance and technology-driven public service, notably for his work in Arunachal Pradesh. Before joining REC, he held key assignments including Special Commissioner (GST) and Special Secretary (Finance) in the Government of Delhi.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- R J Vala -->
+    <div class="row speaker_row">
+        <div class="k_list_part">
+            <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
+                <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
+                    <img src="images/2026/speakers/RJVala.jpg" alt="R J Vala" class="speaker-photo">
+                </div>
+                <div class="speaker_content" style="flex: 1;">
+                    <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
+                        R J Vala<br/>
+                        CE (Tech)<br/>
+                        GUVNL
+                    </h1>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Mr. Vala is the Chief Engineer of Gujarat's largest DISCOM, PGVCL, with over 27 years of experience in the power sector. He is the key person behind Gujarat's success in installing over 4.3 GW of solar rooftops.
                     </p>
                 </div>
             </div>
@@ -571,6 +742,93 @@
                     </h1>
                     <p style="text-align: justify; line-height: 1.6;">
                         Rahul Kumar currently serves as Managing Director, North Bihar Power Distribution Company Ltd., with additional charge of Bihar State Power Transmission Company Ltd. and Bihar Renewable Energy Development Authority. Over his distinguished 14-year career, he has played a pivotal role in implementing various flagship schemes of both the State and Central Governments, with a focus on health, education, power sector, rural development, and public distribution systems. His exemplary leadership and contributions have earned him numerous accolades, including the National Water Award (2023) presented by the Hon'ble Vice President of India, the Champion of Change Award (2019) by NITI Aayog, and recognition by the Chief Minister for 100% district electrification (2018).
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Rahul Tongia -->
+    <div class="row speaker_row">
+        <div class="k_list_part">
+            <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
+                <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
+                    <img src="images/2026/speakers/RahulTongia.jpg" alt="Rahul Tongia" class="speaker-photo">
+                </div>
+                <div class="speaker_content" style="flex: 1;">
+                    <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
+                        Rahul Tongia<br/>
+                        Senior Fellow<br/>
+                        CSEP and Founding Advisor, ISGF
+                    </h1>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Dr. Rahul Tongia is a Senior Fellow with the Centre for Social and Economic Progress (CSEP), a leading not-for-profit think tank in New Delhi, where his work focuses on technology and policy, especially for sustainable development. He co-leads the Energy, Natural Resources, and Sustainability group at CSEP and is active in broader issues of technology.
+                    </p>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        His work spans energy and electricity, including renewable energy supply options and grid integration; smart grids; access and quality; and reforms and regulations, including electricity and energy pricing.
+                    </p>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Another thread of his work focuses on climate equity and the energy transition. His book, <em>Future of Coal in India: Smooth Transition or Bumpy Road Ahead</em> (2020), was awarded a Top Energy Policy Book to Read in 2021 by BookAuthority.
+                    </p>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        He pioneered the Smart Grid space in India and was Technical Advisor to the Government of India's Smart Grid Task Force. He remains Founding Advisor of the India Smart Grid Forum (ISGF) and was on the Technology Advisory Board (2005–2008) for Southern California Edison's award-winning smart grid rollout. He is a Fellow of the Indian National Academy of Engineering.
+                    </p>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Rahul Tongia is a non-resident Senior Fellow at the Brookings Institution and Adjunct Professor at Carnegie Mellon University, having originally joined the faculty at CMU in 1998. Previous roles include Vice-Chair of the UN ICT Task Force Working Group on Low-cost Connectivity-access/Enabling Environment and Member of the World Economic Forum's Global Futures Council on Advanced Energy Technology.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Rajesh Pandey -->
+    <div class="row speaker_row">
+        <div class="k_list_part">
+            <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
+                <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
+                    <img src="images/2026/speakers/RajeshPandey.jpg" alt="Rajesh Pandey" class="speaker-photo">
+                </div>
+                <div class="speaker_content" style="flex: 1;">
+                    <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
+                        Rajesh Pandey<br/>
+                        Chairman<br/>
+                        Rajasthan Electricity Regulatory Commission
+                    </h1>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        With over 40 years of distinguished experience in public administration and regulatory affairs, he is a senior civil servant currently serving as Chairman of the Rajasthan Electricity Regulatory Commission (RERC), having previously held roles as Member and Secretary.
+                    </p>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        During his career in the Indian Administrative Service, he held numerous senior leadership positions under the Government of Rajasthan, including Divisional Commissioner, District Collector, Chairman of the Jodhpur Development Authority, Managing Director of multiple public-sector corporations, and Resident Commissioner in New Delhi. His expertise spans policy formulation, financial administration, infrastructure development, and crisis management, notably leading COVID-19 pandemic mitigation across six districts.
+                    </p>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        In the energy sector, he has strengthened Rajasthan's regulatory framework through initiatives in Green Energy Open Access, rooftop solar programs, battery storage systems, tariff determination, and resource adequacy planning. His leadership extends to international platforms such as DistribuTECH in Dallas and the Global Regulatory Sustainability Roundtable in Cape Town.
+                    </p>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        He holds an M.Sc. in Biochemistry, an MBA, and multiple postgraduate diplomas, alongside advanced training from institutions including the Harvard Kennedy School. His public service has been recognized with the State Award for Meritorious and Outstanding Services, the India Pride Award, and the Udyog Rattan &amp; Excellence Award.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Ranvir Prasad -->
+    <div class="row speaker_row">
+        <div class="k_list_part">
+            <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
+                <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
+                    <img src="images/2026/speakers/RanvirPrasad.jpg" alt="Ranvir Prasad" class="speaker-photo">
+                </div>
+                <div class="speaker_content" style="flex: 1;">
+                    <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
+                        Ranvir Prasad<br/>
+                        Chairman<br/>
+                        Uttar Pradesh Power Corporation Limited
+                    </h1>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Shri Ranvir Prasad, IAS (2000: Uttar Pradesh Cadre), is a senior Indian Administrative Service officer with a B.Tech. in Electrical Engineering and over 26 years of administrative experience in district administration, infrastructure, urban development, and the power sector. He has served as District Magistrate in six districts of Uttar Pradesh and held key positions in Tamil Nadu, including District Collector, Tiruvallur, and CEO, Chennai Metropolitan Development Authority. He also contributed to disaster relief following the 2004 tsunami in Nagapattinam and represented India at the 17th New Generation Seminar at the East-West Center, Hawaii.
+                    </p>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Shri Prasad has held several senior positions in Uttar Pradesh, including Divisional Commissioner, Bareilly; Secretary, Revenue Department; Housing Commissioner; and Managing Director of various power utilities, including DVVNL and KESCo. He currently serves as Principal Secretary (Energy), Government of Uttar Pradesh, and Chairman of Uttar Pradesh Power Corporation Limited (UPPCL), UP Rajya Vidyut Utpadan Nigam, UP Power Transmission Corporation, and the State Load Dispatch Centre.
                     </p>
                 </div>
             </div>
@@ -691,6 +949,33 @@
         </div>
     </div>
 
+    <!-- Rohit Gupta -->
+    <div class="row speaker_row">
+        <div class="k_list_part">
+            <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
+                <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
+                    <img src="images/2026/speakers/RohitGupta.jpg" alt="Rohit Gupta" class="speaker-photo">
+                </div>
+                <div class="speaker_content" style="flex: 1;">
+                    <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
+                        Rohit Gupta<br/>
+                        Chairman and Managing Director<br/>
+                        Rajasthan Renewable Energy Corporation Limited
+                    </h1>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Dr. Rohit Gupta is a senior Indian Administrative Service officer of the Rajasthan cadre (2006 batch). He is an alumnus of IIT Delhi and holds an MPP and PhD in Public Affairs from Princeton University, USA. With a blend of technical education and policy expertise, he has driven administrative excellence in economic governance, investment promotion, and sustainable development. He currently advances Rajasthan's renewable energy transformation agenda as Chairman and Managing Director (CMD) of the Rajasthan Renewable Energy Corporation Limited (RRECL), fostering collaboration between government, industry, and investors to accelerate clean energy deployment.
+                    </p>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        He has held strategic portfolios including Commissioner of Industries and Bureau of Investment Promotion, Secretary, Finance (Budget), and District Collector in six districts of Rajasthan. He has been integral to major investment facilitation efforts such as the Rising Rajasthan initiative, leveraging technology-led innovation and public-private partnerships. Dr. Gupta has also served as an advisor to the Board of IIM, Udaipur.
+                    </p>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Known for his strategic vision and commitment to public service, Dr. Rohit Gupta continues to shape policy and institutional frameworks that support economic growth, energy transition, and long-term development in Rajasthan and beyond.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
     <!-- Santhosh Nair -->
     <div class="row speaker_row">
         <div class="k_list_part">
@@ -712,6 +997,66 @@
         </div>
     </div>
 
+    <!-- Santosh Kumar -->
+    <div class="row speaker_row">
+        <div class="k_list_part">
+            <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
+                <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
+                    <img src="images/2026/speakers/SantoshKumar.jpg" alt="Santosh Kumar" class="speaker-photo">
+                </div>
+                <div class="speaker_content" style="flex: 1;">
+                    <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
+                        Santosh Kumar<br/>
+                        Chief Operating Officer<br/>
+                        BSES Yamuna Power Limited
+                    </h1>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Santosh Kumar is a senior business leader with more than 25 years of experience across power distribution, business operations, P&amp;L management, and business transformation. He is currently Chief Operating Officer and Senior Vice President at BSES Yamuna Power Limited, where he works across operational performance, business improvement, and modernization of the power distribution business.
+                    </p>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Before joining BSES, he held several business and P&amp;L leadership roles with Schneider Electric, including responsibilities for post-merger integration and large-scale business transformation programmes across the APAC region.
+                    </p>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        His experience spans power distribution and utility operations, strategic planning, digitalization, business transformation, substations and power systems, automation, and organizational leadership.
+                    </p>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        His leadership perspective is further shaped by programmes in Artificial Intelligence at ISB and Innovation Leadership at INSEAD, bringing together technology, innovation, and business transformation.
+                    </p>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        With a career spanning operations, business leadership, technology, and transformation, Santosh Kumar brings a practical and forward-looking perspective to the evolving power sector, operational excellence, digitalization, AI-led transformation, innovation, and the future of electricity distribution.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Saurav Shah -->
+    <div class="row speaker_row">
+        <div class="k_list_part">
+            <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
+                <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
+                    <img src="images/2026/speakers/SauravShah.jpg" alt="Saurav Shah" class="speaker-photo">
+                </div>
+                <div class="speaker_content" style="flex: 1;">
+                    <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
+                        Saurav Shah<br/>
+                        Executive Director<br/>
+                        Power Finance Corporation
+                    </h1>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Mr. Saurav Kumar Shah is a 2009-batch IPS officer of the Bihar cadre currently serving as Executive Director at PFC Limited. Since joining PFC in 2021, he has led the execution of the Government of India's Revamped Distribution Sector Scheme (RDSS), a ₹3,000 billion flagship initiative transforming the power distribution sector. He previously managed the successful closure of the ₹600 million Integrated Power Development Scheme (IPDS) and the Restructured Accelerated Power Distribution and Reforms Programme (R-APDRP).
+                    </p>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Mr. Shah represents the Government of India on the board of the Tamil Nadu Power Distribution Corporation Ltd. (TNPDCL), following a prior board tenure with Andhra Pradesh Power Distribution companies. His public service includes leading the Nehru Yuva Kendra (NYK) and National Service Scheme (NSS) under the Ministry of Youth Affairs &amp; Sports, managing the Ministry of Health's data war room during the COVID-19 pandemic, and serving on the personal staff of the Minister of Railways and Coal.
+                    </p>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Earlier in his career, he spent over eight years in district policing as Superintendent of Police and ASP across five districts. This field experience provided deep insights into rural development and power sector dynamics. Mr. Shah holds a degree in Economics from Shri Ram College of Commerce, Delhi University, and has interests in renewable energy and development studies.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
     <!-- Shalini Agarwal -->
     <div class="row speaker_row">
         <div class="k_list_part">
@@ -727,6 +1072,69 @@
                     </h1>
                     <p style="text-align: justify; line-height: 1.6;">
                         Smt. Shalini Agarwal is a 2005-batch Indian Administrative Service (IAS) officer of the Gujarat cadre and is presently serving as Managing Director, Gujarat Urja Vikas Nigam Limited (GUVNL). She has over two decades of experience across urban governance, revenue administration, finance and energy management. She has previously served as Municipal Commissioner of Surat and Vadodara and as District Collector of Tapi-Vyara, Kheda, Aravalli and Vadodara. She has also served as Additional Commissioner of Commercial Tax in the Finance Department, Government of Gujarat.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Shashank Mishra -->
+    <div class="row speaker_row">
+        <div class="k_list_part">
+            <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
+                <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
+                    <img src="images/2026/speakers/ShashankMishra.jpg" alt="Shashank Mishra" class="speaker-photo">
+                </div>
+                <div class="speaker_content" style="flex: 1;">
+                    <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
+                        Shashank Mishra<br/>
+                        Joint Secretary<br/>
+                        Ministry of Power, Govt. of India
+                    </h1>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Shri Shashank Misra is Government Nominee Director on the Board of REC Limited since August 21, 2023. He is an IAS Officer (Madhya Pradesh: 2007) and holds a B.Tech. in Electrical Engineering from IIT Delhi. Presently, he is posted as Joint Secretary in the Ministry of Power, Government of India. Before joining the Ministry of Power, he served in the Department of Revenue, Ministry of Finance, Government of India.
+                    </p>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        He has also worked in various capacities in the Government of Madhya Pradesh, including Managing Director of Madhya Pradesh Road Development Corporation Limited, Madhya Pradesh Building Development Corporation Limited, and Madhya Pradesh State Asset Management Company Limited; Chairman of Ujjain Smart City Limited; and CEO of Madhya Pradesh Rural Road Development Authority. He is also Government Nominee Director on the Board of Power Finance Corporation Limited.
+                    </p>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Shri Shashank Mishra holds no equity shares in the Company and has no inter-se relation with any other Director or Key Managerial Personnel.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Siva Gunda -->
+    <div class="row speaker_row">
+        <div class="k_list_part">
+            <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
+                <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
+                    <img src="images/2026/speakers/SivaGunda.jpg" alt="Siva Gunda" class="speaker-photo">
+                </div>
+                <div class="speaker_content" style="flex: 1;">
+                    <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
+                        Siva Gunda<br/>
+                        Vice Chair<br/>
+                        California Energy Commission
+                    </h1>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Commissioner Siva Gunda is serving his second term on the California Energy Commission. Governor Gavin Newsom appointed Gunda in 2021 to serve as the Energy Commission's public member and later appointed him Vice Chair in September 2021. Gunda was reappointed in December 2025.
+                    </p>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Gunda has been recognized for advancing solutions to complex energy challenges facing California, including grid reliability, petroleum issues, and implementation of Senate Bill 100. He is the lead commissioner on energy assessments, energy reliability, long-term electricity planning, demand analysis, and data initiatives.
+                    </p>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        From 2017 to 2021, he held multiple roles at the CEC, including manager for the Demand Analysis Office and deputy director for the Energy Assessments Division.
+                    </p>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Before joining the CEC, Gunda worked at the Energy Efficiency Institute at the University of California, Davis from 2011 to 2017. He served as director of research and India initiatives, director of research, and program manager.
+                    </p>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Gunda earned a bachelor of science degree in mechanical engineering from Jawaharlal Nehru Technological University and a master of science degree in mechanical and aeronautical engineering from Utah State University.
+                    </p>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        He is a serious cricket fan and former captain of his college team. He lives with his family in Davis.
                     </p>
                 </div>
             </div>
@@ -773,6 +1181,27 @@
                         </h1>
                         <p>Teppo Hemiä is the founder and CEO of Wirepas. He has 30 years of experience building and scaling global wireless technology businesses, including new ventures and major turnarounds. Before founding Wirepas in 2014, he held senior positions at Nokia, STMicroelectronics and ST-Ericsson.</p>
                     </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Vishnu Shankar Srivastava -->
+    <div class="row speaker_row">
+        <div class="k_list_part">
+            <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
+                <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
+                    <img src="images/2026/speakers/VishnuShankarSrivastava.jpg" alt="Vishnu Shankar Srivastava" class="speaker-photo">
+                </div>
+                <div class="speaker_content" style="flex: 1;">
+                    <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
+                        Vishnu Shankar Srivastava<br/>
+                        Head of Strategic Project<br/>
+                        BSES Rajdhani Power Limited
+                    </h1>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Vishnu Shankar Srivastava, IICC, PMP, FIE, C.Eng., serves as Head of Strategic Project, leveraging over two decades of diverse industry experience and leadership expertise. With a background in Electrical and Electronics Engineering and a Master's in International Business, he is pursuing a doctorate from a European university. Vishnu excels in network operations, business growth strategy, contract planning, P&amp;L analysis, and project management. A certified trainer, he has worked with top companies including Schneider Electric, Areva, ABB, and Cutler Hammer, and has held senior leadership roles.
+                    </p>
+                </div>
             </div>
         </div>
     </div>

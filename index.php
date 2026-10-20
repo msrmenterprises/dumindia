@@ -328,7 +328,7 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 	<br>
 
 		<ul class="k_confirmed_als">
-		<li><a href="https://pelocal.com/" target="_blank" rel="noopener noreferrer"><img src="images/2026/pelocal.png" alt="Pelocal logo" style="height:120px;">Pelocal: conversational payments</a></li>
+		<li><a href="https://pelocal.com/" target="_blank" rel="noopener noreferrer"><img src="images/2026/pelocal.png" alt="Pelocal logo" style="height:120px;">Pelocal</a></li>
 		</ul>
 
 </div>
@@ -365,7 +365,7 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 	<br>
 
 			<ul class="k_confirmed_als">
-			<li><a href="https://energy.rajasthan.gov.in/rrecl/home/dptHome" target="_blank" rel="noopener"><img src="images/2026/RRECL.png" alt="Rajasthan Renewable Energy Corporation Limited" style="height:120px;">Rajasthan Renewable Energy Corporation Limited - पोर्टल, राजस्थान सरकार</a></li>
+			<li><a href="https://energy.rajasthan.gov.in/rrecl/home/dptHome" target="_blank" rel="noopener"><img src="images/2026/RRECL.png" alt="Rajasthan Renewable Energy Corporation Limited" style="height:120px;">Rajasthan Renewable Energy Corporation Limited</a></li>
 
 			</ul>
 
@@ -424,7 +424,7 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 
 	<ul class="k_confirmed_als k_three_per_row">
 		<h5><b>TECHNOLOGY INNOVATION PARTNERS</b></h5>
-		<li><a href="https://www.workongrid.com/" target="_blank"><img src="images/2026/Gridlogo.png" style="height: 100px;" alt="GRID">GRID</a></li>
+		<li><a href="https://www.workongrid.com/" target="_blank"><img src="images/2026/Gridlogo.png" style="height: 100px;" alt="WorkOnGrid">WorkOnGrid</a></li>
 		<li><a href="https://www.eaton.com/us/en-us.html" target="_blank"><img src="images/2026/eaton.png" style="height: 100px;" alt="Eaton">Eaton</a></li>
 		<li><a href="https://reconnectenergy.com/" target="_blank"><img src="/images/2026/reconnectv1.jpg" alt="REConnect Energy" style="height: 100px;">REConnect Energy</a></li>
 		<li><a href="https://www.reformtech.co.kr/en/" target="_blank"><img src="images/2026/Reformtech1.png" style="height: 100px;" alt="Reformtech Co., Ltd">Reformtech Co., Ltd - (주)리폼테크</a></li>
@@ -469,8 +469,7 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 	<ul class="k_confirmed_als">
 		<h5><b>GOLD EXHIBITORS</b></h5>
 		<li><a href="https://www.oracle.com/in/utilities/" target="_blank"><img src="images/2026/OracleUtilities1.png" style="border: 1px solid #aeb4b2; height: 100px;" alt="Oracle">Oracle</a></li>
-		<li><a href="https://www.indiasmartgrid.org/" target="_blank"><img src="images/2026/ISGF.png" style="height:100px;" alt="ISGF">ISGF</a></li>
-		<li><a href="https://www.workongrid.com/" target="_blank"><img src="images/2026/Gridlogo.png" style="height:100px;" alt="GRID">GRID</a></li>
+		<li><a href="https://www.workongrid.com/" target="_blank"><img src="images/2026/Gridlogo.png" style="height:100px;" alt="WorkOnGrid">WorkOnGrid</a></li>
 		<li><a href="https://yitran.com/" target="_blank"><img src="images/2026/yitran-lo.png" style="height:100px;" alt="Yitran Technologies">Yitran Technologies</a></li>
 		<li><a href="https://www.eaton.com/in/en-us.html" target="_blank"><img src="images/2026/eaton.png" style="height:100px;" alt="Eaton">Eaton</a></li>
 		<li><a href="https://rmcindia.in/index.php" target="_blank"><img src="images/2026/rmc.png" style="height:100px;" alt="RMC India">RMC India</a></li>
@@ -485,6 +484,9 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 		<li><a href="https://stelmec.com/" target="_blank"><img src="/images/2026/Stelmac.png" style="border: 1px solid #aeb4b2; height: 120px;" alt="Stelmec Limited">Stelmec Limited</a></li>
 		<li><a href="https://www.future-grid.com/" target="_blank"><img src="images/2026/futuregridlogo.png" style="height:100px;" alt="Future Grid">Future Grid</a></li>
 		<li><a href="https://smsystems.co.in/" target="_blank"><img src="images/2026/SMSystems.jpeg" style="height:100px;" alt="SM Systems">SM Systems</a></li>
+		<li><a href="https://pelocal.com/" target="_blank" rel="noopener"><img src="images/2026/pelocal.png" style="height:100px;" alt="Pelocal">Pelocal</a></li>
+		<li><a href="https://energy.rajasthan.gov.in/rrecl/home/dptHome" target="_blank" rel="noopener"><img src="images/2026/RRECL.png" style="height:100px;" alt="RRECL">RRECL</a></li>
+		<li><a href="https://chandigarhpower.com/" target="_blank" rel="noopener"><img src="images/2026/ChandigarhPower.png" style="height:100px;" alt="Chandigarh Power Distribution Limited">Chandigarh Power Distribution Limited</a></li>
 	</ul>
 
 	</div>

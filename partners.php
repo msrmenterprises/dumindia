@@ -68,8 +68,8 @@
 .k_confirmed_als li img.npcl-logo {
 	width: 180px !important;
 	max-width: 180px !important;
-	height: 72px !important;
-	max-height: 72px !important;
+	height: 96px !important;
+	max-height: 96px !important;
 	object-fit: contain;
 }
 .k_confirmed_als h5 {

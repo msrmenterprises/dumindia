@@ -458,7 +458,7 @@
     </div>
 
     <!-- Gaurav Sharma -->
-    <div class="row speaker_row">
+    <!-- <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
                 <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
@@ -479,7 +479,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
     <!-- Ghanshyam Prasad -->
     <div class="row speaker_row">
@@ -700,27 +700,27 @@
                 </div>
                 <div class="speaker_content" style="flex: 1;">
                     <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
-                        Dr. R.K. Tyagi<br/>
+                        R.K. Tyagi<br/>
                         Director General<br/>
                         Power Foundation of India
                     </h1>
                     <p style="text-align: justify; line-height: 1.6;">
-                        Dr. R.K. Tyagi is Director General, Power Foundation of India (PFI), and a distinguished power sector leader with over 35 years of experience in transmission systems, grid modernization, renewable energy integration, regulatory affairs, and strategic sector development.
+                        R.K. Tyagi is Director General, Power Foundation of India (PFI), and a distinguished power sector leader with over 35 years of experience in transmission systems, grid modernization, renewable energy integration, regulatory affairs, and strategic sector development.
                     </p>
                     <p style="text-align: justify; line-height: 1.6;">
-                        A Fulbright Scholar and former Chairman & Managing Director of POWERGRID, Dr. Tyagi has played a pivotal role in shaping India's power infrastructure and strengthening regional energy cooperation. Throughout his career, he has led several landmark initiatives, including the development of India's 1200 kV transmission system, expansion of the country's inter-regional transmission network, integration of large-scale renewable energy corridors, and enhancement of cross-border electricity interconnections with neighbouring countries.
+                        A Fulbright Scholar and former Chairman & Managing Director of POWERGRID, R.K. Tyagi has played a pivotal role in shaping India's power infrastructure and strengthening regional energy cooperation. Throughout his career, he has led several landmark initiatives, including the development of India's 1200 kV transmission system, expansion of the country's inter-regional transmission network, integration of large-scale renewable energy corridors, and enhancement of cross-border electricity interconnections with neighbouring countries.
                     </p>
                     <p style="text-align: justify; line-height: 1.6;">
-                        As CMD of POWERGRID, he led one of the world's largest transmission utilities, overseeing significant infrastructure expansion, operational excellence, and regulatory engagement. His contributions have been instrumental in advancing grid reliability, transmission technology, asset management practices, and policy frameworks supporting India's energy transition.
+                        As CMD of POWERGRID, R.K. Tyagi led one of the world's largest transmission utilities, overseeing significant infrastructure expansion, operational excellence, and regulatory engagement. His contributions have been instrumental in advancing grid reliability, transmission technology, asset management practices, and policy frameworks supporting India's energy transition.
                     </p>
                     <p style="text-align: justify; line-height: 1.6;">
-                        Dr. Tyagi has actively contributed to national and international standardisation efforts through leadership roles in CIGRE and the International Electrotechnical Commission (IEC). He has been associated with the development of key transmission tariff regulations, technical standards, and grid performance frameworks that continue to guide the sector.
+                        R.K. Tyagi has actively contributed to national and international standardisation efforts through leadership roles in CIGRE and the International Electrotechnical Commission (IEC). He has been associated with the development of key transmission tariff regulations, technical standards, and grid performance frameworks that continue to guide the sector.
                     </p>
                     <p style="text-align: justify; line-height: 1.6;">
-                        At the Power Foundation of India, he is focused on promoting evidence-based research, policy support, capacity building, innovation, consumer awareness, and stakeholder collaboration to support India's vision of a reliable, resilient, inclusive, and sustainable power sector.
+                        At the Power Foundation of India, R.K. Tyagi is focused on promoting evidence-based research, policy support, capacity building, innovation, consumer awareness, and stakeholder collaboration to support India's vision of a reliable, resilient, inclusive, and sustainable power sector.
                     </p>
                     <p style="text-align: justify; line-height: 1.6;">
-                        Dr. Tyagi has received numerous national and international recognitions, including the IEC 1906 Award, BIS National Award, CBIP Individual Award, and the CIGRE Distinguished Member Award. He has also authored and presented over 50 technical papers in leading national and international forums.
+                        R.K. Tyagi has received numerous national and international recognitions, including the IEC 1906 Award, BIS National Award, CBIP Individual Award, and the CIGRE Distinguished Member Award. He has also authored and presented over 50 technical papers in leading national and international forums.
                     </p>
                 </div>
             </div>

@@ -65,6 +65,13 @@
 	margin: 0 auto;
 	border: 0 !important;
 }
+.k_confirmed_als li img.npcl-logo {
+	width: 180px !important;
+	max-width: 180px !important;
+	height: 72px !important;
+	max-height: 72px !important;
+	object-fit: contain;
+}
 .k_confirmed_als h5 {
 	box-sizing: border-box;
 	display: flex;
@@ -158,7 +165,7 @@
 		<li><a href="https://www.tatapower-ddl.com/" target="_blank"><img src="images/utilities2019/tatapowerdlll.png" style="height: 120px;">Tata Power Delhi Distribution Limited</a></li>
 		<li><a href="https://www.bsesdelhi.com/web/bypl" target="_blank"><img src="/images/bses.png" style="border: 2px solid #aeb4b2; height: 120px;">BSES Yamuna Power Limited</a></li>
 		<li><a href="https://www.tatapower.com/" target="_blank"><img src="/images/tatapower.png" style="height: 120px;">Tata Power Company Limited</a></li>
-		<li><a href="https://www.noidapower.com/" target="_blank"><img src="images/utilities2019/npcl.png" style="height: 120px;">NPCL</a></li>
+		<li><a href="https://www.noidapower.com/" target="_blank"><img src="images/utilities2019/npcl.png" class="npcl-logo" alt="Noida Power Company Limited logo">NPCL</a></li>
 		<li><a href="https://chandigarhpower.com/" target="_blank"><img src="images/2026/ChandigarhPower.png" alt="Chandigarh Power Distribution Limited">Chandigarh Power Distribution Limited</a></li>
 		</ul>
 

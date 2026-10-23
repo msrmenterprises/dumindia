@@ -976,21 +976,30 @@
         </div>
     </div>
 
-    <!-- Santhosh Nair -->
+    <!-- Santhosh S. Nair -->
     <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
                 <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
-                    <img src="images/2026/speakers/SanthoshNair.jpg" alt="Santhosh Nair" class="speaker-photo">
+                    <img src="images/2026/speakers/SantoshNairOracle.png" alt="Santhosh S. Nair" class="speaker-photo">
                 </div>
                 <div class="speaker_content" style="flex: 1;">
                     <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
-                        Santhosh Nair<br/>
-                        Director<br/>
-                        Oracle Utilities
+                        Santhosh S. Nair<br/>
+                        Director,<br/>
+                        Oracle Energy &amp; Water
                     </h1>
                     <p style="text-align: justify; line-height: 1.6;">
-                        Santhosh Nair is Director for the Energy & Water Industry segment at Oracle India, where he focuses on digital transformation for utilities. With nearly 40 years of experience, he has held leadership roles at NHPC India, Power Grid India, IBM India and ASEAN, Nokia Solutions & Networks, and Oracle Malaysia. He holds degrees in Electrical Engineering from the College of Engineering Trivandrum, and master's degrees from IIT Chennai and the London School of Economics. Santhosh is a member of AESIEAP, a Fellow of IETE, and a frequent industry speaker.
+                        Santhosh S. Nair is a senior energy-industry leader with over 40 years of professional experience spanning the power sector, digital transformation, enterprise technology, and utility communications. He currently serves as Director, Oracle Energy &amp; Water, where he brings deep industry knowledge and technology leadership to the evolving energy and utilities landscape.
+                    </p>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        His career includes leadership and industry roles with NHPC India, Power Grid India, IBM's Energy Industry vertical across India and Southeast Asia, and Nokia's Energy vertical across India and Southeast Asia. His experience bridges conventional power infrastructure and the digital technologies shaping modern utilities.
+                    </p>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        An active contributor to industry dialogue, Santhosh has served as a speaker, panelist, and author at prominent energy forums and events, including CEPSI, AESIEAP, India Smart Utility Week, and CIRED Malaysia. He is a Fellow of the Institution of Electronics and Telecommunication Engineers (IETE) and a member of AESIEAP.
+                    </p>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        He holds a degree in Electrical Engineering from the College of Engineering Trivandrum, a Master's in Industrial Management from IIT Madras, and a Master's in Information Systems Management from the London School of Economics, UK.
                     </p>
                 </div>
             </div>

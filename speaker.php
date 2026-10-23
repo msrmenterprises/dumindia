@@ -209,6 +209,39 @@
         </div>
     </div>
 
+    <!-- Anil Daulani -->
+    <div class="row speaker_row">
+        <div class="k_list_part">
+            <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
+                <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
+                    <img src="images/2026/speakers/AnilDaulani.jpg" alt="Anil Daulani" class="speaker-photo">
+                </div>
+                <div class="speaker_content" style="flex: 1;">
+                    <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
+                        Anil Daulani<br/>
+                        Senior Partner<br/>
+                        PeLocal Fintech
+                    </h1>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Anil Daulani is a transformational business leader with over 30 years of experience across technology, utilities, digital infrastructure and deep-tech-led transformation. He has a proven track record of driving business turnarounds, growth and building scalable digital platforms.
+                    </p>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        He has held senior leadership positions at HCL, Tech Mahindra and CyanConnode, with responsibilities spanning P&amp;L management, global sales, business strategy, partnerships and operations.
+                    </p>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        His expertise spans power distribution transformation, smart metering, utility communications, AI-led platforms, consumer engagement and digital payments. His work focuses on leveraging technology to improve utility performance, operational efficiency and consumer experience, closely aligning with ISGF's mission to advance smart grids and digital transformation.
+                    </p>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Currently associated with PeLocal Fintech, Anil focuses on scaling conversational AI, WhatsApp-led digital services and embedded payments across utilities and government citizen services.
+                    </p>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        He combines strategic vision, commercial acumen and execution excellence to deliver technology-led transformation at scale.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
     <!-- Anil Kumar -->
     <div class="row speaker_row">
         <div class="k_list_part">
@@ -622,6 +655,33 @@
         </div>
     </div>
 
+    <!-- Nilesh Kane -->
+    <div class="row speaker_row">
+        <div class="k_list_part">
+            <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
+                <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
+                    <img src="images/2026/speakers/NileshKane.jpg" alt="Nilesh Kane" class="speaker-photo">
+                </div>
+                <div class="speaker_content" style="flex: 1;">
+                    <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
+                        Nilesh Kane<br/>
+                        CEO – Transmission Business &amp; Chief – Mumbai Distribution<br/>
+                        Tata Power
+                    </h1>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Dr. Nilesh Kane is currently CEO – Transmission Business &amp; Chief – Mumbai Distribution at Tata Power. He brings over 30 years of diverse experience across generation, transmission, distribution, and renewable energy sectors.
+                    </p>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        An electrical engineer and alumnus of Harvard Business School and IIM Ahmedabad, he holds an MBA in Energy Management and a PhD in Strategy and Power Management. He is also a certified Energy Auditor (BEE) and a member of various standards committees under the Bureau of Indian Standards (BIS).
+                    </p>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Dr. Kane has been instrumental in steering Tata Power's transmission footprint, expansion strategy and executional excellence in Transmission Projects in India. Under his leadership, Tata Power's Mumbai distribution business became one of the most efficient and reliable utilities.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
     <!-- PR Kumar -->
     <div class="row speaker_row">
         <div class="k_list_part">
@@ -721,6 +781,33 @@
                     </p>
                     <p style="text-align: justify; line-height: 1.6;">
                         R.K. Tyagi has received numerous national and international recognitions, including the IEC 1906 Award, BIS National Award, CBIP Individual Award, and the CIGRE Distinguished Member Award. He has also authored and presented over 50 technical papers in leading national and international forums.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- R. S. Selvam -->
+    <div class="row speaker_row">
+        <div class="k_list_part">
+            <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
+                <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
+                    <img src="images/2026/speakers/RSSelvam.jpg" alt="R. S. Selvam" class="speaker-photo">
+                </div>
+                <div class="speaker_content" style="flex: 1;">
+                    <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
+                        R. S. Selvam<br/>
+                        Vice President – Research &amp; Development<br/>
+                        Stelmec Limited
+                    </h1>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Mr. R. S. Selvam has over 40 years of experience in the switchgear industry, with expertise in the in-house design and development of medium-voltage (MV) switchgear products. He has been associated with Stelmec Limited for the past 23 years as Vice President – Research &amp; Development (R&amp;D), contributing to the development of MV switchgear technologies and their evolution from oil- and air-based systems to vacuum circuit breakers, gas-insulated switchgear (GIS) and SF₆-based ring main units (RMUs).
+                    </p>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        His professional experience spans Southern Switchgear, Eswaran &amp; Sons Engineer Ltd., Andrew Yule &amp; Co. Ltd., and ECE Industries Ltd. His expertise covers the design and development, type testing and manufacturing of a wide range of electrical products, including 12–36 kV vacuum circuit breakers, switchgear panels, GIS, RMUs, numerical relays, IoT-based substations and automation systems.
+                    </p>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        He holds a Bachelor of Engineering in Electrical and Electronics from Anna University, Chennai, and an MBA in Operations from Manipal University.
                     </p>
                 </div>
             </div>
@@ -976,6 +1063,30 @@
         </div>
     </div>
 
+    <!-- Salona Chandna -->
+    <div class="row speaker_row">
+        <div class="k_list_part">
+            <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
+                <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
+                    <img src="images/2026/speakers/SalonaChandna.jpg" alt="Salona Chandna" class="speaker-photo">
+                </div>
+                <div class="speaker_content" style="flex: 1;">
+                    <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
+                        Salona Chandna<br/>
+                        Govt &amp; Public Sector Lead<br/>
+                        WhatsApp, Meta
+                    </h1>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Salona Chandna leads Government and Public Sector engagements for WhatsApp in India at Meta, working with central and state government departments, public institutions and ecosystem partners to bring citizen services onto WhatsApp. Her work focuses on using AI &amp; messaging to make government services simpler and more accessible — from information and grievance redressal to document access and service delivery — in multiple Indian languages and at population scale.
+                    </p>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        As part of Meta's India growth &amp; enablement strategy, she also works closely with the solution provider and technology partner ecosystem that builds and deploys these journeys, and on emerging AI-led use cases in public service delivery with Government bodies, to help build the future for Digital Citizen Services.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
     <!-- Santhosh S. Nair -->
     <div class="row speaker_row">
         <div class="k_list_part">
@@ -1190,6 +1301,36 @@
                         </h1>
                         <p>Teppo Hemiä is the founder and CEO of Wirepas. He has 30 years of experience building and scaling global wireless technology businesses, including new ventures and major turnarounds. Before founding Wirepas in 2014, he held senior positions at Nokia, STMicroelectronics and ST-Ericsson.</p>
                     </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Vikas Gaba -->
+    <div class="row speaker_row">
+        <div class="k_list_part">
+            <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
+                <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
+                    <img src="images/2026/speakers/VikasGaba.jpg" alt="Vikas Gaba" class="speaker-photo">
+                </div>
+                <div class="speaker_content" style="flex: 1;">
+                    <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
+                        Vikas Gaba<br/>
+                        Partner &amp; National Head – Power and Utilities<br/>
+                        KPMG in India
+                    </h1>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Vikas Gaba is Partner and National Head – Power and Utilities for KPMG in India with over 22 years of experience in managing complex, large-scale power sector transformation programs across South Asia. He brings deep expertise in developing business strategies, policy, regulation, institutional strengthening, private sector participation frameworks, governance strengthening, structural and market reforms, digitalization initiatives, implementation handholding, capacity building, and training.
+                    </p>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Vikas has worked extensively across all segments of the power sector, including generation, renewable energy, transmission, distribution, power markets, fuels, energy efficiency and emerging segments such as storage, electric vehicles (EVs), new technologies, and smart grids. He has strong familiarity with the power sector across South Asia, including direct experience in Afghanistan, Bangladesh, Bhutan, India, Malaysia, Maldives, Nepal, Southern African Power Pool, Qatar, Oman, Sri Lanka, United Kingdom, and Yemen.
+                    </p>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        He has a proven track record of leading engagements and working closely with a wide variety of stakeholders, including Ministries, country governments, public and private utilities, regulatory authorities, academic institutions, multi-lateral and bi-lateral institutions, and non-government institutions.
+                    </p>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Vikas holds a Master’s degree in Business Economics and Bachelor of Technology in Mechanical Engineering.
+                    </p>
+                </div>
             </div>
         </div>
     </div>

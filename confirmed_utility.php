@@ -118,7 +118,13 @@
 		<li><a href="https://nbpdcl.co.in/" target="_blank"><img src="images/utilities2019/nb.png" alt="North Bihar Power Distribution Company Limited" style="height:120px;">North Bihar Power Distribution Company Limited</a></li>
 		<li><a href="https://www.wbsedcl.in/irj/go/km/docs/internet/new_website/Home.html" target="_blank"><img src="images/2024/wbsedcl.png" alt="WBSEDCL" style="height:120px;">WBSEDCL</a></li>
 		<li><a href="https://www.tpsouthernodisha.com/" target="_blank"><img src="images/2026/TPSODL.png" alt="TP Southern Odisha Distribution Limited" style="height:120px;">TP Southern Odisha Distribution Limited</a></li>
-</ul>
+		<li><a href="https://mepdcl.in/" target="_blank" rel="noopener"><img src="images/2026/MEPDCL.png" alt="Meghalaya Power Distribution Corporation Ltd." style="height:120px;">Meghalaya Power Distribution Corporation Ltd.</a></li>
+		<li><a href="https://portal.mpcz.in/web/" target="_blank" rel="noopener"><img src="images/utilities2019/12. MPMKVVCL logo.jpeg" alt="MP Madhya Kshetra Vidyut Vitaran Company Limited" style="height:120px;">MP Madhya Kshetra Vidyut Vitaran Company Limited</a></li>
+		<li><a href="https://upcl.uk.gov.in/" target="_blank" rel="noopener"><img src="images/images_2018/UPCL.jpg" alt="Uttarakhand Power Corporation Limited" style="height:120px;">Uttarakhand Power Corporation Limited</a></li>
+		<li><a href="https://www.mahadiscom.in/en/home/" target="_blank" rel="noopener"><img src="images/2026/MSEDCL.jpeg" alt="Maharashtra State Electricity Distribution Company Limited" style="height:120px;">Maharashtra State Electricity Distribution Company Limited</a></li>
+		<li><a href="https://www.tpwesternodisha.com/" target="_blank" rel="noopener"><img src="images/2026/TPWODL.png" alt="TP Western Odisha Distribution Limited" style="height:120px;">TP Western Odisha Distribution Limited</a></li>
+		
+	</ul>
 
 <div class="k_cheading">
 		<h1><span class="k_greencolor">DUM 2025 </span>CONFIRMED UTILITIES</h1>

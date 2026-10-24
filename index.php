@@ -622,9 +622,11 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 		<li><a href="https://puvvnl.in/en" target="_blank" rel="noopener"><img src="images/2024/PUVVNL.jpeg" alt="Purvanchal Vidyut Vitran Nigam Ltd" style="height:155px;">Purvanchal Vidyut Vitran Nigam Ltd</a></li>
 		<li><a href="https://www.tpnodl.com/" target="_blank" rel="noopener"><img src="images/2026/TPNODL.png" alt="TP Northern Odisha Distribution Limited" style="height:155px;">TP Northern Odisha Distribution Limited</a></li>
 		<li><a href="https://cescrajasthan.co.in/open.php" target="_blank" rel="noopener"><img src="images/2024/cesc_rajasthan.png" alt="CESC Rajasthan" style="height:155px;">CESC Rajasthan</a></li>
+		<li><a href="https://www.cesc.co.in/" target="_blank" rel="noopener"><img src="images/utilities2019/cesc limited.png" alt="CESC Limited" style="height:120px;">CESC Limited</a></li>
 		<li><a href="https://www.tpcentralodisha.com/" target="_blank"><img src="images/2026/TPCODL.png" alt="TP Central Odisha Distribution Limited" style="height:100px;">TP Central Odisha Distribution Limited</a></li>
 		<li><a href="https://www.mgvcl.com/" target="_blank"><img src="images/2024/mgvcl.png" alt="Madhya Gujarat Vij Company Limited" style="height:100px;">Madhya Gujarat Vij Company Limited</a></li>
 		<li><a href="https://www.ugvcl.com/" target="_blank"><img src="images/2024/UGVCL.png" alt="Uttar Gujarat Vij Company Limited" style="height:100px;">Uttar Gujarat Vij Company Limited</a></li>
+		<li><a href="https://dgvcl.com/" target="_blank" rel="noopener"><img src="images/utilities2019/9. DGVCL logo.jpeg" alt="Dakshin Gujarat Vij Company Ltd" style="height:120px;">Dakshin Gujarat Vij Company Ltd</a></li>
 		<li><a href="https://www.tnpdcl.org/en/tnpdcl/" target="_blank" rel="noopener"><img src="images/2026/TNPDCL.png" alt="Tamil Nadu Power Distribution Corporation Limited" style="height:100px;">Tamil Nadu Power Distribution Corporation Limited</a></li>
 		<li><a href="https://www.torrentpower.com/index.php" target="_blank"><img src="images/2026/Torrent.png" alt="Torrent Power" style="height:120px;">Torrent Power</a></li>
 		<li><a href="https://www.tpadl.com/" target="_blank"><img src="images/TP-Ajmer Distibution Limited.jpg" alt="TP Ajmer Distribution Limited" style="height:120px;">TP Ajmer Distribution Limited</a></li>
@@ -640,6 +642,7 @@ Please contact  : <a href="mailto:Sneha@indiasmartgrid.org">Sneha@indiasmartgrid
 		<li><a href="https://www.mescom.org.in/mescom/main/home" target="_blank"><img src="images/images_2018/MESCOM.jpg" alt="MESCOM" style="height:120px;">MESCOM</a></li>
 		<li><a href="https://www.mpez.co.in/#" target="_blank"><img src="images/2026/MadhyaPradesh.png" alt="Madhya Pradesh Poorv Kshetra Vidyut Vitaran Company Ltd" style="height:120px;">Madhya Pradesh Poorv Kshetra Vidyut Vitaran Company Ltd</a></li>
 		<li><a href="https://nbpdcl.co.in/" target="_blank"><img src="images/utilities2019/nb.png" alt="North Bihar Power Distribution Company Limited" style="height:120px;">North Bihar Power Distribution Company Limited</a></li>
+		<li><a href="https://www.sbpdcl.co.in/" target="_blank" rel="noopener"><img src="images/2026/SBPDCL.png" alt="South Bihar Power Distribution Company Ltd" style="height:120px;">South Bihar Power Distribution Company Ltd</a></li>
 		<li><a href="https://www.wbsedcl.in/irj/go/km/docs/internet/new_website/Home.html" target="_blank"><img src="images/2024/wbsedcl.png" alt="WBSEDCL" style="height:120px;">WBSEDCL</a></li>
 		<li><a href="https://www.tpsouthernodisha.com/" target="_blank"><img src="images/2026/TPSODL.png" alt="TP Southern Odisha Distribution Limited" style="height:120px;">TP Southern Odisha Distribution Limited</a></li>
 		<li><a href="https://mepdcl.in/" target="_blank" rel="noopener"><img src="images/2026/MEPDCL.png" alt="Meghalaya Power Distribution Corporation Ltd." style="height:120px;">Meghalaya Power Distribution Corporation Ltd.</a></li>

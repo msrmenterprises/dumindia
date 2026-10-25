@@ -46,6 +46,21 @@
     border-radius: 10px;
 }
 
+.dum_speaker .speaker-photo-placeholder {
+    width: 200px;
+    height: 240px;
+    max-width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 16px;
+    box-sizing: border-box;
+    border-radius: 10px;
+    background: #f2f4f6;
+    color: #596273;
+    text-align: center;
+}
+
 .dum_speaker .speaker_content {
     flex: 1 1 0;
     box-sizing: border-box;
@@ -88,20 +103,37 @@
 </style>
 
 
-<!-- key objective starts here -->
-<div class="row k_inbanner">
-	<img src="images/baner1.jpg" alt="">
-</div>
-<div class="row dum_container key_div k_key_themes">
+    <!-- Shri Heeralal Nagar -->
+    <div class="row speaker_row">
+        <div class="k_list_part">
+            <div class="col-sm-12 dum_speaker">
+                <div class="speaker_img">
+                    <div class="speaker-photo-placeholder" role="img" aria-label="Photo to be uploaded for Shri Heeralal Nagar">Photo to be uploaded</div>
+                </div>
+                <div class="speaker_content">
+                    <h1 class="key_head">
+                        Shri Heeralal Nagar<br/>
+                        Hon’ble Minister of State for Energy<br/>
+Government of Rajasthan
+                    </h1>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Shri Heeralal Nagar is an accomplished public administrator currently serving as the Minister of State for the Energy in the Government of Rajasthan. Since assuming leadership of the Energy Department in December 2023, Shri Nagar has been the principal architect behind Rajasthan’s ongoing power sector transformation, steering the state toward energy self-sufficiency, operational efficiency, and modern grid resilience.
+                    </p>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        At the helm of Rajasthan’s power sector, Shri Nagar directly oversees the state&#x27;s generation and transmission utilities alongside its three major distribution utilities. His tenure has been marked by a decisive push to strengthen last-mile delivery and revitalize the financial and operational health of the state&#x27;s DISCOMs. He has spearheaded the accelerated execution of the Revamped Distribution Sector Scheme (RDSS) across Rajasthan, focusing intensively on curbing Aggregate Technical and Commercial (AT&amp;C) losses; and ensured reliable, uninterrupted power supply across diverse geographical terrains.
+                    </p>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Shri Nagar has positioned Rajasthan’s distribution framework at the forefront of the clean energy transition. Under his guidance, the state is rapidly expanding rooftop solar adoption and executing massive feeder-level solarization under schemes like PM-KUSUM, fundamentally transforming agricultural power delivery by providing daytime electricity to farmers while reducing cross-subsidy burdens on the DISCOMs.
+                    </p>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Through strategic investment partnerships with central public sector undertakings and private energy developers, Shri Heeralal Nagar continues to build a future-ready, financially viable, and consumer-centric power distribution ecosystem in Rajasthan.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
 
-
-	
-	<div class="k_cheading">
-		<h1><span class="k_greencolor">SPEAKERS OF</span> DUM 2026 </h1>
-		<img src="images/kborder_bottom.png" alt="">
-	</div>
-
-    <!-- Aayush Agarwal -->
+<!-- Aayush Agarwal -->
     <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
@@ -124,6 +156,92 @@
             </div>
         </div>
     </div>
+    <!-- Abhishek Srivastava -->
+    <div class="row speaker_row">
+        <div class="k_list_part">
+            <div class="col-sm-12 dum_speaker">
+                <div class="speaker_img">
+                    <div class="speaker-photo-placeholder" role="img" aria-label="Photo to be uploaded for Abhishek Srivastava">Photo to be uploaded</div>
+                </div>
+                <div class="speaker_content">
+                    <h1 class="key_head">
+                        Abhishek Srivastava<br/>
+                        Head – Data Analytics<br/>
+Power Foundation of India
+                    </h1>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Abhishek Srivastava is a technology and digital transformation expert with over 25 years of experience across government, public health, and corporate sectors. An alumnus of IIM Calcutta and a Computer Science Engineering graduate, he has held key positions at NHSRC, PHFI, Aditya Birla Group, and other leading organizations, advancing innovation, governance, cybersecurity, data management, and digital transformation initiatives.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Ajoy Rajani -->
+    <div class="row speaker_row">
+        <div class="k_list_part">
+            <div class="col-sm-12 dum_speaker">
+                <div class="speaker_img">
+                    <div class="speaker-photo-placeholder" role="img" aria-label="Photo to be uploaded for Ajoy Rajani">Photo to be uploaded</div>
+                </div>
+                <div class="speaker_content">
+                    <h1 class="key_head">
+                        Ajoy Rajani<br/>
+                        Chair – ISGF Working Group on IoT, AI and Analytics
+                    </h1>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Ajoy Rajani is a pioneer and visionary in the field of smart metering and loT solutions, bringing over three decades of innovative contributions to the technology and business sectors. Throughout his career, he has introduced groundbreaking advancements, including India&#x27;s first PLC meter and smart meter, setting new standards in how utilities manage and measure electricity. His contributions extend to deploying the first Automated Meter Reading (AMR) systems across major Indian cities and introducing broadband over powerline technology, significantly enhancing utility operations and customer engagement. He has worked with global utilities and solution providers, enabling cross-border collaborations and adapting smart metering solutions for diverse regulatory and infrastructural environments. Mr. Rajani&#x27;s enduring commitment to innovation and strategic leadership has firmly established him as a transformative force in the technology sector. Currently, as the Executive Vice Chairman and Managing Director of CyanConnode India, Mr. Rajani leverages his extensive experience to advance global smart technology solutions, positioning CyanConnode at the forefront of the industry while continuing to innovate and inspire.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- A. K. Saxena -->
+    <div class="row speaker_row">
+        <div class="k_list_part">
+            <div class="col-sm-12 dum_speaker">
+                <div class="speaker_img">
+                    <div class="speaker-photo-placeholder" role="img" aria-label="Photo to be uploaded for A. K. Saxena">Photo to be uploaded</div>
+                </div>
+                <div class="speaker_content">
+                    <h1 class="key_head">
+                        A. K. Saxena<br/>
+                        Senior Director<br/>
+The Energy and Resources Institute (TERI)
+                    </h1>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Mr. A. K. Saxena is Senior Director and leads the Electricity and Renewables Division at The Energy and Resources Institute (TERI). With over four decades of experience in the power and renewable energy sectors, he has held senior positions with the Central Electricity Authority, Ministry of Power, and Central Electricity Regulatory Commission (CERC), where he also served as Chair/Convenor of various committees. His expertise spans grid management, energy transition, just transition, smart grids and distribution, energy storage, e-mobility, demand-side management, and cross-border electricity trade. He holds master’s degrees in Electrical Engineering and Business Administration and is a Fellow of the Institution of Engineers (India), a member of IEEE, and a member of the Global Energy Prize International Award Committee.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Alekhya Datta -->
+    <div class="row speaker_row">
+        <div class="k_list_part">
+            <div class="col-sm-12 dum_speaker">
+                <div class="speaker_img">
+                    <div class="speaker-photo-placeholder" role="img" aria-label="Photo to be uploaded for Alekhya Datta">Photo to be uploaded</div>
+                </div>
+                <div class="speaker_content">
+                    <h1 class="key_head">
+                        Alekhya Datta<br/>
+                        Director – Electricity and RE Division (ERD)<br/>
+The Energy and Resources Institute (TERI)
+                    </h1>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Mr. Alekhya Datta is an Electrical engineer with Postgraduate Masters and having more than 14 years of research-cum consulting experience in the area of renewable energy, distributed energy resources, smart grids, energy storage, and electric vehicles. He has undertaken various power system related modelling studies including integrated resource planning both at national and state-levels for high renewable energy pathways. He has actively engaged with many of the power distribution utilities, implementing agencies and other key stakeholders for implementation of new emerging smart distribution technologies and solutions.
+                    </p>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Mr. Datta has closely worked with diverse set of stakeholders including state departments, nodal agencies, central ministries, various international, bilateral, and multilateral agencies, and philanthropic organizations for policy advocacy, fund raising and technical assistance support. He has also published many peer-reviewed research papers and articles both in national and international forums.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
 
     <!-- Alok Kumar -->
     <div class="row speaker_row">
@@ -148,6 +266,33 @@
             </div>
         </div>
     </div>
+    <!-- Amit Tomar -->
+    <div class="row speaker_row">
+        <div class="k_list_part">
+            <div class="col-sm-12 dum_speaker">
+                <div class="speaker_img">
+                    <div class="speaker-photo-placeholder" role="img" aria-label="Photo to be uploaded for Amit Tomar">Photo to be uploaded</div>
+                </div>
+                <div class="speaker_content">
+                    <h1 class="key_head">
+                        Amit Tomar<br/>
+                        Head – Engineering<br/>
+BSES Yamuna Power Limited
+                    </h1>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Amit Tomar has been working in Reliance group for more than 22+ years. He joined Reliance group in the year 2004, since then he has been the part of transformation journey of the organization. In his career, he has worked in different portfolio includes EPC Project, O&amp;M Project, Business Development &amp; Consultancy project (Overseas Project Ethiopia, Ghana, Domestic project --UHBVN), Business (New Connections) &amp; Central Engg. in R-Infra, BRPL &amp; BYPL.  His major contribution in the organisation was in the development of New innovation in the field of Network Reliability &amp; improvement, Automation, Loss reduction drive.
+                    </p>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        He has worked extensively in developing New innovation, Processes Improvement. Reducing TAT of Material Procurement, O&amp;M/P&amp;C coordination for Capex &amp; Opex.
+                    </p>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Presently he is heading Central Engg. Services in BSES Yamuna Power Ltd.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
 
     <!-- Anand Budholia -->
     <div class="row speaker_row">
@@ -354,6 +499,48 @@
             </div>
         </div>
     </div>
+    <!-- Avinash Kumar -->
+    <div class="row speaker_row">
+        <div class="k_list_part">
+            <div class="col-sm-12 dum_speaker">
+                <div class="speaker_img">
+                    <div class="speaker-photo-placeholder" role="img" aria-label="Photo to be uploaded for Avinash Kumar">Photo to be uploaded</div>
+                </div>
+                <div class="speaker_content">
+                    <h1 class="key_head">
+                        Avinash Kumar<br/>
+                        AVP<br/>
+BSES Rajdhani Power Limited
+                    </h1>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Avinash Kumar serves as the Assistant Vice President at BSES Rajdhani Power Limited (BRPL). With over 25 years of extensive experience in the Indian power sector, he is a seasoned leader in grid modernization and utility distribution strategies. His career, which began at Reliance Infrastructure Limited, spans the full lifecycle of power infrastructure---from commissioning and operating generation stations to spearheading data-driven efficiency programs that transform urban power distribution. At the forefront of utility innovation, Mr. Kumar has led the execution of landmark technological projects, most notably India&#x27;s first utility-scale, standalone 20 MW/40 MWh Battery Energy Storage System (BESS). His work focuses on integrating cutting-edge analytics with consumer-centric solutions, including behavioral energy efficiency and automated demand response for residential and commercial sectors.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Bhagyasree Nair -->
+    <div class="row speaker_row">
+        <div class="k_list_part">
+            <div class="col-sm-12 dum_speaker">
+                <div class="speaker_img">
+                    <div class="speaker-photo-placeholder" role="img" aria-label="Photo to be uploaded for Bhagyasree Nair">Photo to be uploaded</div>
+                </div>
+                <div class="speaker_content">
+                    <h1 class="key_head">
+                        Bhagyasree Nair<br/>
+                        Energy Advisor<br/>
+GIZ
+                    </h1>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Bhagyasree is an Energy Advisor at GIZ India, where she leads and contributes to various initiatives in the areas of energy storage and e-mobility. Holding a master’s degree in Power Systems Engineering, her work focuses on policy and regulatory frameworks, technical research on battery energy storage systems, EV charging infrastructure, and the integration of circular economy principles in energy and renewable sectors. She has played a key role in collaborative projects with major national ministries such as the Ministry of New and Renewable Energy (MNRE), NITI Aayog, and other government stakeholders, supporting both policy development and implementation on the ground. Prior to joining GIZ, she worked as a lecturer and remains committed to knowledge sharing, capacity building, and continuous learning to support India’s clean energy transition.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
 
     <!-- Brajesh Kumar -->
     <div class="row speaker_row">
@@ -387,27 +574,27 @@
             </div>
         </div>
     </div>
-
-    <!-- C. Nallasivan -->
+    <!-- Chetan Pathak -->
     <div class="row speaker_row">
         <div class="k_list_part">
-            <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
-                <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
-                    <img src="images/2026/speakers/CNallasivan.jpg" alt="C. Nallasivan" class="speaker-photo">
+            <div class="col-sm-12 dum_speaker">
+                <div class="speaker_img">
+                    <img src="images/2026/speakers/chetan_pathak.png" alt="Chetan Pathak" class="speaker-photo">
                 </div>
-                <div class="speaker_content" style="flex: 1;">
-                    <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
-                        C. Nallasivan<br/>
-                        Assistant Executive Engineer<br/>
-                        Tamil Nadu Power Distribution Corporation Limited
+                <div class="speaker_content">
+                    <h1 class="key_head">
+                        Chetan Pathak<br/>
+                        Director – Strategy &amp; Growth<br/>
+IESA
                     </h1>
                     <p style="text-align: justify; line-height: 1.6;">
-                        Er. C. Nallasivan, M.E., M.I.E., (Ph.D.) is a Power System Engineer with over 20 years of experience in the Indian power sector, currently with the Tamil Nadu Power Distribution Corporation Limited (TNP DCL), where he works on Open Access Automated Meter Reading, renewable energy monitoring, and utility digitalization. He is a Ph.D. Research Scholar at Anna University, Chennai, researching Grid-Forming Inverters, Battery Energy Storage Systems, and grid stability in renewable-dominant power systems. He is a member of award-winning teams recognized with the SKOCH Silver Award 2022, ISGF Diamond Award 2023, and India Wind Energy Forum Leadership Award 2023 for renewable energy AMR implementation, and has presented his research internationally, including at the 24th Wind & Solar Integration Workshop (WISO 2025) in Berlin. He is a member of IEEE, the Institution of Engineers (India), IET (UK), and CIGRE.
+                        Chetan Pathak is an energy-transition strategy and policy professional with over 14 years of experience at the intersection of renewable energy, power-system transformation, emerging technologies, digitalization, and energy-transition policy. He has extensive experience advising governments, utilities, industry stakeholders, and senior leadership on strategic initiatives, regulatory frameworks, policy advocacy, and business growth across the clean energy ecosystem. In his current role as Director – Strategy &amp; Growth at the India Energy Storage Alliance (IESA) and through his association with Customized Energy Solutions (CES), he focuses on advancing strategic initiatives in renewable energy, battery energy storage systems (BESS), green hydrogen, and critical minerals. His work emphasizes policy advocacy, regulatory engagement, market intelligence, and stakeholder collaboration to accelerate the adoption of sustainable energy technologies and strengthen India&#x27;s clean energy ecosystem.
                     </p>
                 </div>
             </div>
         </div>
     </div>
+
 
     <!-- Chetan Singh Adhikari -->
     <div class="row speaker_row">
@@ -432,6 +619,48 @@
             </div>
         </div>
     </div>
+
+    <!-- C. Nallasivan -->
+    <div class="row speaker_row">
+        <div class="k_list_part">
+            <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
+                <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
+                    <img src="images/2026/speakers/CNallasivan.jpg" alt="C. Nallasivan" class="speaker-photo">
+                </div>
+                <div class="speaker_content" style="flex: 1;">
+                    <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
+                        C. Nallasivan<br/>
+                        Assistant Executive Engineer<br/>
+                        Tamil Nadu Power Distribution Corporation Limited
+                    </h1>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Er. C. Nallasivan, M.E., M.I.E., (Ph.D.) is a Power System Engineer with over 20 years of experience in the Indian power sector, currently with the Tamil Nadu Power Distribution Corporation Limited (TNP DCL), where he works on Open Access Automated Meter Reading, renewable energy monitoring, and utility digitalization. He is a Ph.D. Research Scholar at Anna University, Chennai, researching Grid-Forming Inverters, Battery Energy Storage Systems, and grid stability in renewable-dominant power systems. He is a member of award-winning teams recognized with the SKOCH Silver Award 2022, ISGF Diamond Award 2023, and India Wind Energy Forum Leadership Award 2023 for renewable energy AMR implementation, and has presented his research internationally, including at the 24th Wind & Solar Integration Workshop (WISO 2025) in Berlin. He is a member of IEEE, the Institution of Engineers (India), IET (UK), and CIGRE.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Deepti Mathur -->
+    <div class="row speaker_row">
+        <div class="k_list_part">
+            <div class="col-sm-12 dum_speaker">
+                <div class="speaker_img">
+                    <div class="speaker-photo-placeholder" role="img" aria-label="Photo to be uploaded for Deepti Mathur">Photo to be uploaded</div>
+                </div>
+                <div class="speaker_content">
+                    <h1 class="key_head">
+                        Deepti Mathur<br/>
+                        SE<br/>
+Jaipur Vidyut Vitran Nigam Limited
+                    </h1>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Ms. Deepti Mathur, SE, JVVNL, is a power distribution professional with over 30 years of experience in energy efficiency, renewable energy integration and decarbonisation. A pioneer in Agriculture Demand Side Management and pump efficiency in India, she has extensive expertise in implementing energy efficiency projects across agricultural, industrial and domestic sectors. She has played a key role in implementing rooftop solar, the PM-KUSUM scheme and the Perform, Achieve and Trade (PAT) scheme of BEE, while contributing to IT initiatives and renewable energy integration for grid stability. As Head of the Rural Electrification Department, she is committed to improving rural livelihoods through reliable, quality power supply, promoting Distributed Energy Resources and reducing T&amp;D losses. Her vision aligns with India’s Net Zero goals, women’s empowerment, climate action and sustainable rural development.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
 
     <!-- Dwijadas Basak -->
     <div class="row speaker_row">
@@ -588,6 +817,27 @@
             </div>
         </div>
     </div>
+    <!-- Jitendra Nalwaya -->
+    <div class="row speaker_row">
+        <div class="k_list_part">
+            <div class="col-sm-12 dum_speaker">
+                <div class="speaker_img">
+                    <div class="speaker-photo-placeholder" role="img" aria-label="Photo to be uploaded for Jitendra Nalwaya">Photo to be uploaded</div>
+                </div>
+                <div class="speaker_content">
+                    <h1 class="key_head">
+                        Jitendra Nalwaya<br/>
+                        Director – Technical<br/>
+PuVVNL
+                    </h1>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Jitendra Nalwaya is a seasoned power sector leader with over 32 years of extensive professional experience across India. Currently, he serves as Director, overseeing technical and power systems for one of a DISCOM  in Uttar Pradesh, where he manages the power distribution landscape across 21 districts, serving 11 Million consumer base. Previously, Jitendra spearheaded the Sustainability and Clean Technology vertical at a premier Power Distribution Utility. Over his career, he has built deep expertise in power distribution operations, turnaround management, and transformations across government, private licensee, and franchisee models. His versatile background spans Commercial, Operations &amp; Maintenance (O&amp;M), and Project Management across the Oil &amp; Gas, Power, and Infrastructure sectors. A skilled strategist, Jitendra has a proven track record of managing P&amp;L for large multi-city organizations, driving change management, orchestrating critical infrastructure for mega events like the Mahakumbh, and leading corporate strategy and structural transformations.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
 
     <!-- Karnati Varun Reddy -->
     <div class="row speaker_row">
@@ -633,6 +883,27 @@
             </div>
         </div>
     </div>
+    <!-- Kishore Narang -->
+    <div class="row speaker_row">
+        <div class="k_list_part">
+            <div class="col-sm-12 dum_speaker">
+                <div class="speaker_img">
+                    <img src="images/2026/speakers/KishorNarang.jpg" alt="Kishore Narang" class="speaker-photo">
+                </div>
+                <div class="speaker_content">
+                    <h1 class="key_head">
+                        Kishore Narang<br/>
+                        Founder<br/>
+Narnix Technologies
+                    </h1>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Mr Kishore Narang is Technology Advisor, Mentor, Design Strategist &amp; Architect in Electrical, Electronics &amp; ICT with over 48 years of professional experience in education, research, design and advisory running an Independent Design House -- NARNIX since 1981. Over 38 years of hardcore Research and Design Development Experience in Solutions, Systems, Products, Hardware, Software &amp; Firmware (Embedded Software) across diverse technology &amp; application domains, and over 10 years of Strategic Advisory Experience to different segments of business &amp; industry. He has over 500 Research &amp; Design Mentees in the Electronics, ICT &amp; STI (Science Technology &amp; Innovation) Ecosystems. He is Member, Academic Council, IIIT, Surat and D Y Patil International University, Pune; Research Advisor, Institute of Informatics and Communication, University of Delhi &amp; Indira Gandhi Delhi Technical University for Women, Delhi; &amp; Member, Academic Committee, Electronics &amp; ICT Academy at National Institute of Technology, Patna.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
 
     <!-- MAKP Singh -->
     <div class="row speaker_row">
@@ -654,6 +925,48 @@
             </div>
         </div>
     </div>
+    <!-- Manoj Kumar -->
+    <div class="row speaker_row">
+        <div class="k_list_part">
+            <div class="col-sm-12 dum_speaker">
+                <div class="speaker_img">
+                    <div class="speaker-photo-placeholder" role="img" aria-label="Photo to be uploaded for Manoj Kumar">Photo to be uploaded</div>
+                </div>
+                <div class="speaker_content">
+                    <h1 class="key_head">
+                        Manoj Kumar<br/>
+                        Member<br/>
+Bihar Electricity Regulatory Commission
+                    </h1>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Shri Manoj Kumar is an Hon’ble Member of the Bihar Electricity Regulatory Commission (BERC) with extensive experience in power generation, transmission, and project management. A graduate in Electrical Engineering from B.C.E. Patna (now NIT Patna), he retired as Executive Director from SJVN in June 2025. He has led major hydroelectric and thermal power projects, including Nathpa Jhakri, Rampur Hydro Power Station, and Buxar Thermal Power Plant, contributing significantly to operational excellence and infrastructure development.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Manu Srivastava -->
+    <div class="row speaker_row">
+        <div class="k_list_part">
+            <div class="col-sm-12 dum_speaker">
+                <div class="speaker_img">
+                    <div class="speaker-photo-placeholder" role="img" aria-label="Photo to be uploaded for Manu Srivastava">Photo to be uploaded</div>
+                </div>
+                <div class="speaker_content">
+                    <h1 class="key_head">
+                        Manu Srivastava<br/>
+                        ACS-RE<br/>
+Government of Madhya Pradesh
+                    </h1>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        A 1991 batch Indian Administrative Service officer, Manu Srivastava holds B.Tech. and M.Tech. degrees in Electrical Engineering from IIT Delhi. Out of the 35 years of experience, Manu has worked for 19 years in energy sector, namely, natural gas, electricity, and renewable energy. He has lead path-breaking innovative projects in the field of solar energy. His 750 MW Rewa Project has proved to be an inflection point in the history of solar energy in India: it was the first project in the country to provide solar energy at rates lower than that of coal-based power; this happened in the year 2017. It is the only project in the country supplying power to an institutional customer - Delhi Metro is running on this project – 65% of its daytime demand is met with solar power from Rewa. The project has been awarded World Bank Group’s President’s Award. Case study on the project is being used in Harvard University and Singapore Management University. His recent 2025 Morena Solar-cum-Storage project provides 440 MW of assured peak power for four hours and up to 440 MW of solar power at an astonishingly low rate of ₹2.70/unit, the lowest rate ever achieved in India.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
 
     <!-- Nilesh Kane -->
     <div class="row speaker_row">
@@ -676,6 +989,150 @@
                     </p>
                     <p style="text-align: justify; line-height: 1.6;">
                         Dr. Kane has been instrumental in steering Tata Power's transmission footprint, expansion strategy and executional excellence in Transmission Projects in India. Under his leadership, Tata Power's Mumbai distribution business became one of the most efficient and reliable utilities.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Nirmal Shaju -->
+    <div class="row speaker_row">
+        <div class="k_list_part">
+            <div class="col-sm-12 dum_speaker">
+                <div class="speaker_img">
+                    <div class="speaker-photo-placeholder" role="img" aria-label="Photo to be uploaded for Nirmal Shaju">Photo to be uploaded</div>
+                </div>
+                <div class="speaker_content">
+                    <h1 class="key_head">
+                        Nirmal Shaju<br/>
+                        Director – Grids of the Future<br/>
+GEAPP
+                    </h1>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Nirmal is a Director in Global Energy Alliance’s Scalable Solutions team, focusing on deploying BESS projects in emerging economies. With seven years of experience, he specializes in energy modeling, forecasting, and market development. Previously at Deloitte, he led energy modeling projects for global organizations like the World Bank and USAID.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Payal Saha -->
+    <div class="row speaker_row">
+        <div class="k_list_part">
+            <div class="col-sm-12 dum_speaker">
+                <div class="speaker_img">
+                    <div class="speaker-photo-placeholder" role="img" aria-label="Photo to be uploaded for Payal Saha">Photo to be uploaded</div>
+                </div>
+                <div class="speaker_content">
+                    <h1 class="key_head">
+                        Payal Saha<br/>
+                        GM – Data Centre &amp; Partnership<br/>
+ReNew
+                    </h1>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Ms Payal Jhaveri Saha is the GM – Data Centre &amp; Partnership at M/s ReNew, where she drives strategic commercial alliances and project development in the green hydrogen and e-fuels sectors. With extensive expertise spanning carbon commercial markets, business development, and renewable energy strategies, she previously served as Deputy General Manager and Head of Project Development for Green Hydrogen at ReNew, following a successful tenure as Business Head (Carbon) and General Manager of Business Development &amp; Commercial at Sembcorp India. Based in Gurugram, India, Payal is a recognized leader in navigating the energy transition, specializing in scaling clean energy ecosystems through robust corporate partnerships and sustainable market mechanisms.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Pramod Kumar Mishra -->
+    <div class="row speaker_row">
+        <div class="k_list_part">
+            <div class="col-sm-12 dum_speaker">
+                <div class="speaker_img">
+                    <img src="images/2026/speakers/Pramod.png" alt="Pramod Kumar Mishra" class="speaker-photo">
+                </div>
+                <div class="speaker_content">
+                    <h1 class="key_head">
+                        Pramod Kumar Mishra<br/>
+                        Vice President &amp; Chief Transformation Officer<br/>
+Chandigarh Power Distribution Limited
+                    </h1>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Mr. Pramod Kumar Mishra, an aluminous of IIT Roorkee and Gorge Town University, USA, having 24 years of transformation experience in Power Distribution. In last two and half decades, he has headed major Power Distribution functions and played pivotal role in multiple transformation projects, nationally and internationally.
+                    </p>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        With his diverse experience, he is presently heading transformational journey in CPDL as VP &amp; CTO.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Pranav Tayal -->
+    <div class="row speaker_row">
+        <div class="k_list_part">
+            <div class="col-sm-12 dum_speaker">
+                <div class="speaker_img">
+                    <div class="speaker-photo-placeholder" role="img" aria-label="Photo to be uploaded for Pranav Tayal">Photo to be uploaded</div>
+                </div>
+                <div class="speaker_content">
+                    <h1 class="key_head">
+                        Pranav Tayal<br/>
+                        Director<br/>
+Ministry of Power, GoI
+                    </h1>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Pranav Tayal is a 2011-batch Direct Recruit Indian Police Service (IPS) officer belonging to the AGMUT (Arunachal Pradesh-Goa-Mizoram and Union Territory) cadre. Hailing from Delhi as his home state, he officially joined the service on December 19, 2011. He is currently serving as a Director in the Ministry of Power, Government of India, a central deputation role he officially assumed in April 2025.
+                    </p>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Within the Ministry of Power, Tayal serves as the Head of Office for specific key segments, overseeing the URSI-I, UR&amp;SI-II, and Distribution sections.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Prashant Verma -->
+    <div class="row speaker_row">
+        <div class="k_list_part">
+            <div class="col-sm-12 dum_speaker">
+                <div class="speaker_img">
+                    <div class="speaker-photo-placeholder" role="img" aria-label="Photo to be uploaded for Prashant Verma">Photo to be uploaded</div>
+                </div>
+                <div class="speaker_content">
+                    <h1 class="key_head">
+                        Prashant Verma<br/>
+                        Director (Commercial)<br/>
+Uttar Pradesh Power Corporation Limited (UPPCL)
+                    </h1>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Shri Prashant Verma is Director (Commercial) at Uttar Pradesh Power Corporation Limited (UPPCL), a position he has held since April 2025. He brings over 25 years of experience in the power distribution sector, with extensive expertise in commercial operations, distribution loss reduction, digital transformation, and operational efficiency.
+                    </p>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        An alumnus of IIT Roorkee, he holds a Bachelor’s degree in Electrical Engineering and a Master’s degree in Computer Science and Technology. He also holds an MBA from JMI, New Delhi, and is a Certified Energy Auditor and Certified Energy Manager accredited by the Bureau of Energy Efficiency (BEE).
+                    </p>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Prior to joining UPPCL, he held key leadership positions at Delhi Vidyut Board and BSES Rajdhani Power Limited (BRPL), where he led initiatives in distribution loss reduction, digitalisation of commercial processes, automated meter reading, distribution automation, and implementation of the Intelligent Outage Management System (IOMS) to enhance network visibility and operational efficiency.
+                    </p>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        At UPPCL, Shri Verma leads commercial operations with a strong focus on smart metering, revenue enhancement, billing and collection efficiency, data-driven decision-making, and digital transformation. He oversees the commercial aspects of UPPCL’s large-scale smart metering programme, supporting improved consumer service, greater transparency, enhanced revenue assurance, and more efficient utility operations.
+                    </p>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        His professional focus is on leveraging technology, data analytics, and innovative commercial practices to advance the modernisation of power distribution utilities and support India’s vision of a reliable, financially sustainable, and consumer-centric power sector.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <!-- Prince Dhawan -->
+    <div class="row speaker_row">
+        <div class="k_list_part">
+            <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
+                <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
+                    <img src="images/2026/speakers/PrinceDhawan.jpg" alt="Prince Dhawan" class="speaker-photo">
+                </div>
+                <div class="speaker_content" style="flex: 1;">
+                    <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
+                        Prince Dhawan<br/>
+                        Executive Director<br/>
+                        REC Limited
+                    </h1>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Mr. Prince Dhawan, Executive Director, REC Limited and Chief Executive Officer (CEO), REC Power Development and Consultancy Limited (REC PDCL, a wholly owned subsidiary of REC Limited), is an IAS officer of the AGMUT Cadre (2012 batch). He holds dual degrees in Electrical Engineering and Information &amp; Communication Technology from IIT Delhi, a Master's degree in Public Administration in International Development from the Harvard Kennedy School, and a Bachelor's in Law. He has served across three State and Union Territory governments and received national and state-level awards for eGovernance and technology-driven public service, notably for his work in Arunachal Pradesh. Before joining REC, he held key assignments including Special Commissioner (GST) and Special Secretary (Finance) in the Government of Delhi.
                     </p>
                 </div>
             </div>
@@ -708,111 +1165,27 @@
             </div>
         </div>
     </div>
-
-    <!-- Prince Dhawan -->
+    <!-- Puneet Chitkara -->
     <div class="row speaker_row">
         <div class="k_list_part">
-            <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
-                <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
-                    <img src="images/2026/speakers/PrinceDhawan.jpg" alt="Prince Dhawan" class="speaker-photo">
+            <div class="col-sm-12 dum_speaker">
+                <div class="speaker_img">
+                    <div class="speaker-photo-placeholder" role="img" aria-label="Photo to be uploaded for Puneet Chitkara">Photo to be uploaded</div>
                 </div>
-                <div class="speaker_content" style="flex: 1;">
-                    <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
-                        Prince Dhawan<br/>
-                        Executive Director<br/>
-                        REC Limited
+                <div class="speaker_content">
+                    <h1 class="key_head">
+                        Puneet Chitkara<br/>
+                        SVP, Strategy<br/>
+India Energy Exchange (IEX)
                     </h1>
                     <p style="text-align: justify; line-height: 1.6;">
-                        Mr. Prince Dhawan, Executive Director, REC Limited and Chief Executive Officer (CEO), REC Power Development and Consultancy Limited (REC PDCL, a wholly owned subsidiary of REC Limited), is an IAS officer of the AGMUT Cadre (2012 batch). He holds dual degrees in Electrical Engineering and Information &amp; Communication Technology from IIT Delhi, a Master's degree in Public Administration in International Development from the Harvard Kennedy School, and a Bachelor's in Law. He has served across three State and Union Territory governments and received national and state-level awards for eGovernance and technology-driven public service, notably for his work in Arunachal Pradesh. Before joining REC, he held key assignments including Special Commissioner (GST) and Special Secretary (Finance) in the Government of Delhi.
+                        Dr. Puneet Chitkara has over 25 years of experience in power system modelling, planning, forecasting, portfolio optimization, transmission pricing, regulatory economics, capacity expansion, and electricity market design. He has advised industries, government ministries, regulators, private equity investors, and international agencies, including the World Bank and USAID. He recently developed STELLAR, a Resource Adequacy model for CEA. His research features in leading international journals, including IEEE Transactions on Power Systems and Applied Energy. An electrical engineer with a Ph.D. in Development Economics, he completed postdoctoral work at the University of Hong Kong (2007) and Johns Hopkins University (2019–2020).
                     </p>
                 </div>
             </div>
         </div>
     </div>
 
-    <!-- R J Vala -->
-    <div class="row speaker_row">
-        <div class="k_list_part">
-            <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
-                <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
-                    <img src="images/2026/speakers/RJVala.jpg" alt="R J Vala" class="speaker-photo">
-                </div>
-                <div class="speaker_content" style="flex: 1;">
-                    <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
-                        R J Vala<br/>
-                        CE (Tech)<br/>
-                        GUVNL
-                    </h1>
-                    <p style="text-align: justify; line-height: 1.6;">
-                        Mr. Vala is the Chief Engineer of Gujarat's largest DISCOM, PGVCL, with over 27 years of experience in the power sector. He is the key person behind Gujarat's success in installing over 4.3 GW of solar rooftops.
-                    </p>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <!-- R.K. Tyagi -->
-    <div class="row speaker_row">
-        <div class="k_list_part">
-            <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
-                <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
-                    <img src="images/2026/speakers/RKTyagi.jpg" alt="R.K. Tyagi" class="speaker-photo">
-                </div>
-                <div class="speaker_content" style="flex: 1;">
-                    <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
-                        R.K. Tyagi<br/>
-                        Director General<br/>
-                        Power Foundation of India
-                    </h1>
-                    <p style="text-align: justify; line-height: 1.6;">
-                        R.K. Tyagi is Director General, Power Foundation of India (PFI), and a distinguished power sector leader with over 35 years of experience in transmission systems, grid modernization, renewable energy integration, regulatory affairs, and strategic sector development.
-                    </p>
-                    <p style="text-align: justify; line-height: 1.6;">
-                        A Fulbright Scholar and former Chairman & Managing Director of POWERGRID, R.K. Tyagi has played a pivotal role in shaping India's power infrastructure and strengthening regional energy cooperation. Throughout his career, he has led several landmark initiatives, including the development of India's 1200 kV transmission system, expansion of the country's inter-regional transmission network, integration of large-scale renewable energy corridors, and enhancement of cross-border electricity interconnections with neighbouring countries.
-                    </p>
-                    <p style="text-align: justify; line-height: 1.6;">
-                        As CMD of POWERGRID, R.K. Tyagi led one of the world's largest transmission utilities, overseeing significant infrastructure expansion, operational excellence, and regulatory engagement. His contributions have been instrumental in advancing grid reliability, transmission technology, asset management practices, and policy frameworks supporting India's energy transition.
-                    </p>
-                    <p style="text-align: justify; line-height: 1.6;">
-                        R.K. Tyagi has actively contributed to national and international standardisation efforts through leadership roles in CIGRE and the International Electrotechnical Commission (IEC). He has been associated with the development of key transmission tariff regulations, technical standards, and grid performance frameworks that continue to guide the sector.
-                    </p>
-                    <p style="text-align: justify; line-height: 1.6;">
-                        At the Power Foundation of India, R.K. Tyagi is focused on promoting evidence-based research, policy support, capacity building, innovation, consumer awareness, and stakeholder collaboration to support India's vision of a reliable, resilient, inclusive, and sustainable power sector.
-                    </p>
-                    <p style="text-align: justify; line-height: 1.6;">
-                        R.K. Tyagi has received numerous national and international recognitions, including the IEC 1906 Award, BIS National Award, CBIP Individual Award, and the CIGRE Distinguished Member Award. He has also authored and presented over 50 technical papers in leading national and international forums.
-                    </p>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <!-- R. S. Selvam -->
-    <div class="row speaker_row">
-        <div class="k_list_part">
-            <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
-                <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
-                    <img src="images/2026/speakers/RSSelvam.jpg" alt="R. S. Selvam" class="speaker-photo">
-                </div>
-                <div class="speaker_content" style="flex: 1;">
-                    <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
-                        R. S. Selvam<br/>
-                        Vice President – Research &amp; Development<br/>
-                        Stelmec Limited
-                    </h1>
-                    <p style="text-align: justify; line-height: 1.6;">
-                        Mr. R. S. Selvam has over 40 years of experience in the switchgear industry, with expertise in the in-house design and development of medium-voltage (MV) switchgear products. He has been associated with Stelmec Limited for the past 23 years as Vice President – Research &amp; Development (R&amp;D), contributing to the development of MV switchgear technologies and their evolution from oil- and air-based systems to vacuum circuit breakers, gas-insulated switchgear (GIS) and SF₆-based ring main units (RMUs).
-                    </p>
-                    <p style="text-align: justify; line-height: 1.6;">
-                        His professional experience spans Southern Switchgear, Eswaran &amp; Sons Engineer Ltd., Andrew Yule &amp; Co. Ltd., and ECE Industries Ltd. His expertise covers the design and development, type testing and manufacturing of a wide range of electrical products, including 12–36 kV vacuum circuit breakers, switchgear panels, GIS, RMUs, numerical relays, IoT-based substations and automation systems.
-                    </p>
-                    <p style="text-align: justify; line-height: 1.6;">
-                        He holds a Bachelor of Engineering in Electrical and Electronics from Anna University, Chennai, and an MBA in Operations from Manipal University.
-                    </p>
-                </div>
-            </div>
-        </div>
-    </div>
 
     <!-- Rahul Kumar -->
     <div class="row speaker_row">
@@ -921,6 +1294,27 @@
             </div>
         </div>
     </div>
+    <!-- Ratan Singh -->
+    <div class="row speaker_row">
+        <div class="k_list_part">
+            <div class="col-sm-12 dum_speaker">
+                <div class="speaker_img">
+                    <div class="speaker-photo-placeholder" role="img" aria-label="Photo to be uploaded for Ratan Singh">Photo to be uploaded</div>
+                </div>
+                <div class="speaker_content">
+                    <h1 class="key_head">
+                        Ratan Singh<br/>
+                        General Manager<br/>
+SECI
+                    </h1>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Ratan Singh serves as General Manager (Projects) at the Solar Energy Corporation of India Limited (SECI), a Navratna Central Public Sector Enterprise under the Ministry of New and Renewable Energy (MNRE), Government of India. He is associated with the engineering and project management of renewable energy initiatives, contributing to the development and deployment of clean energy infrastructure across the country. In his role, Shri Singh is involved in the planning, coordination and execution of utility-scale renewable energy projects, including solar photovoltaic, wind and hybrid energy projects. His responsibilities encompass project engineering, procurement, construction, commissioning and project implementation, supporting the expansion of India&#x27;s renewable energy capacity. His areas of work also include project management consultancy, feasibility assessment, tendering and bid-process management, and construction monitoring for renewable energy projects undertaken in collaboration with government departments and public sector organisations. Emerging areas such as Battery Energy Storage Systems (BESS) and floating solar photovoltaic projects form part of the broader portfolio of technologies being developed to strengthen renewable energy integration and grid reliability.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
 
     <!-- Ravi Seethapathy -->
     <div class="row speaker_row">
@@ -949,6 +1343,30 @@
                     </p>
                     <p style="text-align: justify; line-height: 1.6;">
                         He/his family has endowed an IEEE PES/IAS Award in "Rural Electrification Excellence". He holds a B. Tech (Hons) in Electrical Power from IIT Kharagpur, India, an M. Eng. in Electrical Power from University of Toronto and an MBA from the Schulich School of Business, York University, Toronto, Canada.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Reena Suri -->
+    <div class="row speaker_row">
+        <div class="k_list_part">
+            <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
+                <!-- Speaker Image -->
+                <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
+                    <img src="images/2026/speakers/ReenaSuri.JPG" alt="Reena Suri" class="speaker-photo">
+                </div>
+
+                <!-- Speaker Content -->
+                <div class="speaker_content" style="flex: 1;">
+                    <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
+                        Reena Suri<br/>
+                        Chief Executive Officer<br/>
+                        India Smart Grid Forum
+                    </h1>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Reena Suri, Chief Executive Officer of the India Smart Grid Forum (ISGF) since 2013, brings over 23 years of rich experience in the energy sector. She has played a key role in various ISGF projects, including the Electrification Plan for Public Transportation, Blockchain for Electric Utilities, Energy Storage Roadmap for India, Smart Grid Roadmap, and developing smart grid and EV infrastructure plans for the SAARC Region. Reena also led the World Bank EV Project in Kolkata. As the founder-editor of the Smart Grid Bulletin, Reena has been a voice for smart grid advancements since 2013. She is passionate about increasing gender diversity in the energy sector, leading initiatives to improve networking and mentoring programs for women, raise awareness and technology skills among women, and attract women to technical education by showcasing inspiring role models.
                     </p>
                 </div>
             </div>
@@ -988,24 +1406,57 @@
         </div>
     </div>
 
-    <!-- Reena Suri -->
+    <!-- R J Vala -->
     <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
-                <!-- Speaker Image -->
                 <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
-                    <img src="images/2026/speakers/ReenaSuri.JPG" alt="Reena Suri" class="speaker-photo">
+                    <img src="images/2026/speakers/RJVala.jpg" alt="R J Vala" class="speaker-photo">
                 </div>
-
-                <!-- Speaker Content -->
                 <div class="speaker_content" style="flex: 1;">
                     <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
-                        Reena Suri<br/>
-                        Chief Executive Officer<br/>
-                        India Smart Grid Forum
+                        R J Vala<br/>
+                        CE (Tech)<br/>
+                        GUVNL
                     </h1>
                     <p style="text-align: justify; line-height: 1.6;">
-                        Reena Suri, Chief Executive Officer of the India Smart Grid Forum (ISGF) since 2013, brings over 23 years of rich experience in the energy sector. She has played a key role in various ISGF projects, including the Electrification Plan for Public Transportation, Blockchain for Electric Utilities, Energy Storage Roadmap for India, Smart Grid Roadmap, and developing smart grid and EV infrastructure plans for the SAARC Region. Reena also led the World Bank EV Project in Kolkata. As the founder-editor of the Smart Grid Bulletin, Reena has been a voice for smart grid advancements since 2013. She is passionate about increasing gender diversity in the energy sector, leading initiatives to improve networking and mentoring programs for women, raise awareness and technology skills among women, and attract women to technical education by showcasing inspiring role models.
+                        Mr. Vala is the Chief Engineer of Gujarat's largest DISCOM, PGVCL, with over 27 years of experience in the power sector. He is the key person behind Gujarat's success in installing over 4.3 GW of solar rooftops.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- R.K. Tyagi -->
+    <div class="row speaker_row">
+        <div class="k_list_part">
+            <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
+                <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
+                    <img src="images/2026/speakers/RKTyagi.jpg" alt="R.K. Tyagi" class="speaker-photo">
+                </div>
+                <div class="speaker_content" style="flex: 1;">
+                    <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
+                        R.K. Tyagi<br/>
+                        Director General<br/>
+                        Power Foundation of India
+                    </h1>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        R.K. Tyagi is Director General, Power Foundation of India (PFI), and a distinguished power sector leader with over 35 years of experience in transmission systems, grid modernization, renewable energy integration, regulatory affairs, and strategic sector development.
+                    </p>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        A Fulbright Scholar and former Chairman & Managing Director of POWERGRID, R.K. Tyagi has played a pivotal role in shaping India's power infrastructure and strengthening regional energy cooperation. Throughout his career, he has led several landmark initiatives, including the development of India's 1200 kV transmission system, expansion of the country's inter-regional transmission network, integration of large-scale renewable energy corridors, and enhancement of cross-border electricity interconnections with neighbouring countries.
+                    </p>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        As CMD of POWERGRID, R.K. Tyagi led one of the world's largest transmission utilities, overseeing significant infrastructure expansion, operational excellence, and regulatory engagement. His contributions have been instrumental in advancing grid reliability, transmission technology, asset management practices, and policy frameworks supporting India's energy transition.
+                    </p>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        R.K. Tyagi has actively contributed to national and international standardisation efforts through leadership roles in CIGRE and the International Electrotechnical Commission (IEC). He has been associated with the development of key transmission tariff regulations, technical standards, and grid performance frameworks that continue to guide the sector.
+                    </p>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        At the Power Foundation of India, R.K. Tyagi is focused on promoting evidence-based research, policy support, capacity building, innovation, consumer awareness, and stakeholder collaboration to support India's vision of a reliable, resilient, inclusive, and sustainable power sector.
+                    </p>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        R.K. Tyagi has received numerous national and international recognitions, including the IEC 1906 Award, BIS National Award, CBIP Individual Award, and the CIGRE Distinguished Member Award. He has also authored and presented over 50 technical papers in leading national and international forums.
                     </p>
                 </div>
             </div>
@@ -1063,6 +1514,33 @@
         </div>
     </div>
 
+    <!-- R. S. Selvam -->
+    <div class="row speaker_row">
+        <div class="k_list_part">
+            <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
+                <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
+                    <img src="images/2026/speakers/RSSelvam.jpg" alt="R. S. Selvam" class="speaker-photo">
+                </div>
+                <div class="speaker_content" style="flex: 1;">
+                    <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
+                        R. S. Selvam<br/>
+                        Vice President – Research &amp; Development<br/>
+                        Stelmec Limited
+                    </h1>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Mr. R. S. Selvam has over 40 years of experience in the switchgear industry, with expertise in the in-house design and development of medium-voltage (MV) switchgear products. He has been associated with Stelmec Limited for the past 23 years as Vice President – Research &amp; Development (R&amp;D), contributing to the development of MV switchgear technologies and their evolution from oil- and air-based systems to vacuum circuit breakers, gas-insulated switchgear (GIS) and SF₆-based ring main units (RMUs).
+                    </p>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        His professional experience spans Southern Switchgear, Eswaran &amp; Sons Engineer Ltd., Andrew Yule &amp; Co. Ltd., and ECE Industries Ltd. His expertise covers the design and development, type testing and manufacturing of a wide range of electrical products, including 12–36 kV vacuum circuit breakers, switchgear panels, GIS, RMUs, numerical relays, IoT-based substations and automation systems.
+                    </p>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        He holds a Bachelor of Engineering in Electrical and Electronics from Anna University, Chennai, and an MBA in Operations from Manipal University.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
     <!-- Salona Chandna -->
     <div class="row speaker_row">
         <div class="k_list_part">
@@ -1086,6 +1564,54 @@
             </div>
         </div>
     </div>
+    <!-- Sandeep Bhagia -->
+    <div class="row speaker_row">
+        <div class="k_list_part">
+            <div class="col-sm-12 dum_speaker">
+                <div class="speaker_img">
+                    <div class="speaker-photo-placeholder" role="img" aria-label="Photo to be uploaded for Sandeep Bhagia">Photo to be uploaded</div>
+                </div>
+                <div class="speaker_content">
+                    <h1 class="key_head">
+                        Sandeep Bhagia<br/>
+                        Managing Director<br/>
+MVVNL
+                    </h1>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Sandeep Bhagia is an Indian Administrative Service officer of the 2018 batch from the Uttar Pradesh cadre. Born on 21 April 1989, he holds an M.Tech. in Electrical Engineering from IIT Delhi. He is currently serving as Managing Director at Madhyanchal Vidyut Vitran Nigam Limited (MVVNL), Uttar Pradesh, a position he has held since 10 July 2026. Prior to this, he served as Additional Commissioner. Sandeep Bhagia continues his service in the Indian Administrative Service, contributing to the administration of Uttar Pradesh.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Sanket Srivastava -->
+    <div class="row speaker_row">
+        <div class="k_list_part">
+            <div class="col-sm-12 dum_speaker">
+                <div class="speaker_img">
+                    <div class="speaker-photo-placeholder" role="img" aria-label="Photo to be uploaded for Sanket Srivastava">Photo to be uploaded</div>
+                </div>
+                <div class="speaker_content">
+                    <h1 class="key_head">
+                        Sanket Srivastava<br/>
+                        Power Management, Sustainability &amp; Policy<br/>
+Noida Power Company Limited
+                    </h1>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Mr. Sanket Srivastava has around 17 years of experience in Power Sector which includes 2 years in the field of Power Generation and around 15 years in Power Distribution.
+                    </p>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        He is an alumnus of Indian Institute of Technology, Kanpur and Indian Institute of Foreign Trade, Delhi. Mr. Srivastava is basically an Electrical Engineer with experience in Strategy &amp; Planning particularly in the field of Electricity Markets and Regulatory Affairs.
+                    </p>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        He is currently heading the Power Management, Sustainability &amp; Policy at Noida Power Company Limited.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
 
     <!-- Santhosh S. Nair -->
     <div class="row speaker_row">
@@ -1224,6 +1750,27 @@
             </div>
         </div>
     </div>
+    <!-- Sidharth Sihag -->
+    <div class="row speaker_row">
+        <div class="k_list_part">
+            <div class="col-sm-12 dum_speaker">
+                <div class="speaker_img">
+                    <div class="speaker-photo-placeholder" role="img" aria-label="Photo to be uploaded for Sidharth Sihag">Photo to be uploaded</div>
+                </div>
+                <div class="speaker_content">
+                    <h1 class="key_head">
+                        Sidharth Sihag<br/>
+                        Managing Director<br/>
+Rajasthan Rajya Vidyut Prasaran Nigam Limited
+                    </h1>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Shri Sidharth Sihag, IAS, is a 2012-batch Indian Administrative Service officer of the Rajasthan cadre. He has served in key administrative roles, including District Collector and District Magistrate, and as Special Secretary to the Chief Minister of Rajasthan. He received the Prime Minister’s Award for Excellence in Public Administration for his work on the Khelo India initiative in Churu district. He holds a B.A., LL.B. from NALSAR University of Law, Hyderabad.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
 
     <!-- Siva Gunda -->
     <div class="row speaker_row">
@@ -1287,6 +1834,75 @@
             </div>
         </div>
     </div>
+    <!-- Sudhir Jain -->
+    <div class="row speaker_row">
+        <div class="k_list_part">
+            <div class="col-sm-12 dum_speaker">
+                <div class="speaker_img">
+                    <div class="speaker-photo-placeholder" role="img" aria-label="Photo to be uploaded for Sudhir Jain">Photo to be uploaded</div>
+                </div>
+                <div class="speaker_content">
+                    <h1 class="key_head">
+                        Sudhir Jain<br/>
+                        CE<br/>
+Rajasthan SLDC
+                    </h1>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Mr. Sudhir Jain is the Chief Engineer (Load Despatch) at Rajasthan Rajya Vidyut Prasaran Nigam Limited (RVPN), where he heads the State Load Despatch Centre (SLDC) in Rajasthan.
+                    </p>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        A seasoned power sector professional with over 32 years of extensive experience in grid operations and management, he plays a pivotal role in supervising more than 650 Extra High Voltage (EHV) substations, managing Wide Area SCADA/EMS applications, and directing advanced data communication systems. His strategic leadership is central to accelerating renewable energy integration, enhancing grid efficiency through mechanisms like Security-Constrained Economic Dispatch (SCED), and driving the implementation of upcoming Security and Network Operations Centres (SOC/NOC).
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Sunil Wadhwa -->
+    <div class="row speaker_row">
+        <div class="k_list_part">
+            <div class="col-sm-12 dum_speaker">
+                <div class="speaker_img">
+                    <div class="speaker-photo-placeholder" role="img" aria-label="Photo to be uploaded for Sunil Wadhwa">Photo to be uploaded</div>
+                </div>
+                <div class="speaker_content">
+                    <h1 class="key_head">
+                        Sunil Wadhwa<br/>
+                        Founder and CEO<br/>
+Multiple Orbits Consulting
+                    </h1>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Mr. Sunil Wadhwa is the Founder and CEO of Multiple Orbits Consulting and a distinguished power sector leader with over three decades of executive experience. He previously served as Managing Director of Tata Power Delhi Distribution Limited (TPDDL) and GE T&amp;D India Limited. At TPDDL, he led a remarkable turnaround, reducing AT&amp;C losses from 58% to 10%. He is a rank-holding Chartered Accountant and an alumnus of Shri Ram College of Commerce, University of Delhi.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Tarun Batra -->
+    <div class="row speaker_row">
+        <div class="k_list_part">
+            <div class="col-sm-12 dum_speaker">
+                <div class="speaker_img">
+                    <div class="speaker-photo-placeholder" role="img" aria-label="Photo to be uploaded for Tarun Batra">Photo to be uploaded</div>
+                </div>
+                <div class="speaker_content">
+                    <h1 class="key_head">
+                        Tarun Batra<br/>
+                        CIO and Head- IT &amp; Automation<br/>
+Noida Power Company Limited
+                    </h1>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        A management professional, over two decades of cross-functional experience within the entire value chain of the Power Sector. His expertise encompasses Information Technology, Operational Technology, Geographic Information Systems (GIS), Customer Services and Project Management.
+                    </p>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Currently, he holds the position of Head-D&amp;IT at Tata Power Delhi Distribution Limited, Delhi. In this capacity, he is spearheading the implementation of a comprehensive ecosystem comprising cyber-secured IT and OT solutions, AMI and AI &amp; ML driven BOT, analytical solutions etc. for enriching customer’s experience.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
 
     <!-- Teppo Hemiä -->
     <div class="row speaker_row">
@@ -1350,6 +1966,14 @@
                     </h1>
                     <p style="text-align: justify; line-height: 1.6;">
                         Vishnu Shankar Srivastava, IICC, PMP, FIE, C.Eng., serves as Head of Strategic Project, leveraging over two decades of diverse industry experience and leadership expertise. With a background in Electrical and Electronics Engineering and a Master's in International Business, he is pursuing a doctorate from a European university. Vishnu excels in network operations, business growth strategy, contract planning, P&amp;L analysis, and project management. A certified trainer, he has worked with top companies including Schneider Electric, Areva, ABB, and Cutler Hammer, and has held senior leadership roles.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- ============================================ -->
+    gement. A certified trainer, he has worked with top companies including Schneider Electric, Areva, ABB, and Cutler Hammer, and has held senior leadership roles.
                     </p>
                 </div>
             </div>

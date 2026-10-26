@@ -87,6 +87,15 @@
 }
 </style>
 
+<!-- key objective starts here -->
+<div class="row k_inbanner">
+	<img src="images/baner1.jpg" alt="">
+</div>
+<div class="row dum_container key_div k_key_themes">
+	<div class="k_cheading">
+		<h1><span class="k_greencolor">SPEAKERS OF</span> DUM 2026 </h1>
+		<img src="images/kborder_bottom.png" alt="">
+	</div>
 
     <!-- Shri Heeralal Nagar -->
     <div class="row speaker_row">

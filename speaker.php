@@ -46,21 +46,6 @@
     border-radius: 10px;
 }
 
-.dum_speaker .speaker-photo-placeholder {
-    width: 200px;
-    height: 240px;
-    max-width: 100%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    padding: 16px;
-    box-sizing: border-box;
-    border-radius: 10px;
-    background: #f2f4f6;
-    color: #596273;
-    text-align: center;
-}
-
 .dum_speaker .speaker_content {
     flex: 1 1 0;
     box-sizing: border-box;

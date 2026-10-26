@@ -102,7 +102,7 @@
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker">
                 <div class="speaker_img">
-                    <div class="speaker-photo-placeholder" role="img" aria-label="Photo to be uploaded for Shri Heeralal Nagar">Photo to be uploaded</div>
+                    <img src="images/2026/speakers/HeeralalNagar.png" alt="Shri Heeralal Nagar" class="speaker-photo">
                 </div>
                 <div class="speaker_content">
                     <h1 class="key_head">
@@ -155,7 +155,7 @@ Government of Rajasthan
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker">
                 <div class="speaker_img">
-                    <div class="speaker-photo-placeholder" role="img" aria-label="Photo to be uploaded for Abhishek Srivastava">Photo to be uploaded</div>
+                    <img src="images/2026/speakers/AbhishekSrivastava.jpg" alt="Abhishek Srivastava" class="speaker-photo">
                 </div>
                 <div class="speaker_content">
                     <h1 class="key_head">
@@ -176,7 +176,7 @@ Power Foundation of India
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker">
                 <div class="speaker_img">
-                    <div class="speaker-photo-placeholder" role="img" aria-label="Photo to be uploaded for Ajoy Rajani">Photo to be uploaded</div>
+                    <img src="images/2026/speakers/AjoyRajani.jpg" alt="Ajoy Rajani" class="speaker-photo">
                 </div>
                 <div class="speaker_content">
                     <h1 class="key_head">
@@ -196,7 +196,7 @@ Power Foundation of India
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker">
                 <div class="speaker_img">
-                    <div class="speaker-photo-placeholder" role="img" aria-label="Photo to be uploaded for A. K. Saxena">Photo to be uploaded</div>
+                    <img src="images/2026/speakers/AKSaxena.jpg" alt="A. K. Saxena" class="speaker-photo">
                 </div>
                 <div class="speaker_content">
                     <h1 class="key_head">
@@ -265,7 +265,7 @@ The Energy and Resources Institute (TERI)
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker">
                 <div class="speaker_img">
-                    <div class="speaker-photo-placeholder" role="img" aria-label="Photo to be uploaded for Amit Tomar">Photo to be uploaded</div>
+                    <img src="images/2026/speakers/AmitTomar.jpg" alt="Amit Tomar" class="speaker-photo">
                 </div>
                 <div class="speaker_content">
                     <h1 class="key_head">
@@ -386,7 +386,7 @@ BSES Yamuna Power Limited
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
                 <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
-                    <img src="images/2026/speakers/AnilKumar.jpg" alt="Anil Kumar" class="speaker-photo">
+                    <img src="images/2026/speakers/AnilKumar.png" alt="Anil Kumar" class="speaker-photo">
                 </div>
                 <div class="speaker_content" style="flex: 1;">
                     <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
@@ -410,7 +410,7 @@ BSES Yamuna Power Limited
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
                 <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
-                    <img src="images/2026/speakers/AnilNarayanRaghav.jpg" alt="Anil Narayan Raghav" class="speaker-photo">
+                    <img src="images/2026/speakers/AnilNarayanRaghav.png" alt="Anil Narayan Raghav" class="speaker-photo">
                 </div>
                 <div class="speaker_content" style="flex: 1;">
                     <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
@@ -498,7 +498,7 @@ BSES Yamuna Power Limited
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker">
                 <div class="speaker_img">
-                    <div class="speaker-photo-placeholder" role="img" aria-label="Photo to be uploaded for Avinash Kumar">Photo to be uploaded</div>
+                    <img src="images/2026/speakers/AvinashKumar.png" alt="Avinash Kumar" class="speaker-photo">
                 </div>
                 <div class="speaker_content">
                     <h1 class="key_head">
@@ -519,7 +519,7 @@ BSES Rajdhani Power Limited
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker">
                 <div class="speaker_img">
-                    <div class="speaker-photo-placeholder" role="img" aria-label="Photo to be uploaded for Bhagyasree Nair">Photo to be uploaded</div>
+                    <img src="images/2026/speakers/BhagyasreeNair.png" alt="Bhagyasree Nair" class="speaker-photo">
                 </div>
                 <div class="speaker_content">
                     <h1 class="key_head">
@@ -595,7 +595,7 @@ IESA
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
                 <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
-                    <img src="images/2026/speakers/ChetanSinghAdhikari.jpg" alt="Chetan Singh Adhikari" class="speaker-photo">
+                    <img src="images/2026/speakers/ChetanSinghAdhikari.png" alt="Chetan Singh Adhikari" class="speaker-photo">
                 </div>
                 <div class="speaker_content" style="flex: 1;">
                     <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
@@ -639,7 +639,7 @@ IESA
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker">
                 <div class="speaker_img">
-                    <div class="speaker-photo-placeholder" role="img" aria-label="Photo to be uploaded for Deepti Mathur">Photo to be uploaded</div>
+                    <img src="images/2026/speakers/DeeptiMathur.jpg" alt="Deepti Mathur" class="speaker-photo">
                 </div>
                 <div class="speaker_content">
                     <h1 class="key_head">
@@ -661,7 +661,7 @@ Jaipur Vidyut Vitran Nigam Limited
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
                 <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
-                    <img src="images/2026/speakers/DwijadasBasak.jpg" alt="Dwijadas Basak" class="speaker-photo">
+                    <img src="images/2026/speakers/DwijadasBasak.png" alt="Dwijadas Basak" class="speaker-photo">
                 </div>
                 <div class="speaker_content" style="flex: 1;">
                     <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
@@ -682,7 +682,7 @@ Jaipur Vidyut Vitran Nigam Limited
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
                 <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
-                    <img src="images/2026/speakers/GajananSKale.png" alt="Gajanan S. Kale" class="speaker-photo">
+                    <img src="images/2026/speakers/GajananSKale.jpg" alt="Gajanan S. Kale" class="speaker-photo">
                 </div>
                 <div class="speaker_content" style="flex: 1;">
                     <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
@@ -742,7 +742,7 @@ Jaipur Vidyut Vitran Nigam Limited
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
                 <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
-                    <img src="images/2026/speakers/GhanshyamPrasad.jpg" alt="Ghanshyam Prasad" class="speaker-photo">
+                    <img src="images/2026/speakers/GhanshyamPrasad.png" alt="Ghanshyam Prasad" class="speaker-photo">
                 </div>
                 <div class="speaker_content" style="flex: 1;">
                     <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
@@ -763,7 +763,7 @@ Jaipur Vidyut Vitran Nigam Limited
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
                 <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
-                    <img src="images/2026/speakers/HemantVerma.jpg" alt="Hemant Verma" class="speaker-photo">
+                    <img src="images/2026/speakers/HemantVerma.png" alt="Hemant Verma" class="speaker-photo">
                 </div>
                 <div class="speaker_content" style="flex: 1;">
                     <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
@@ -793,7 +793,7 @@ Jaipur Vidyut Vitran Nigam Limited
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
                 <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
-                    <img src="images/2026/speakers/JaideepSingh.jpg" alt="Jaideep Singh" class="speaker-photo">
+                    <img src="images/2026/speakers/JaideepSingh.png" alt="Jaideep Singh" class="speaker-photo">
                 </div>
                 <div class="speaker_content" style="flex: 1;">
                     <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
@@ -816,7 +816,7 @@ Jaipur Vidyut Vitran Nigam Limited
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker">
                 <div class="speaker_img">
-                    <div class="speaker-photo-placeholder" role="img" aria-label="Photo to be uploaded for Jitendra Nalwaya">Photo to be uploaded</div>
+                    <img src="images/2026/speakers/JitendraNalwaya.jpg" alt="Jitendra Nalwaya" class="speaker-photo">
                 </div>
                 <div class="speaker_content">
                     <h1 class="key_head">
@@ -882,7 +882,7 @@ PuVVNL
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker">
                 <div class="speaker_img">
-                    <img src="images/2026/speakers/KishorNarang.jpg" alt="Kishore Narang" class="speaker-photo">
+                    <img src="images/2026/speakers/KishorNarang.png" alt="Kishore Narang" class="speaker-photo">
                 </div>
                 <div class="speaker_content">
                     <h1 class="key_head">
@@ -904,7 +904,7 @@ Narnix Technologies
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
                 <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
-                    <img src="images/2026/speakers/MAKPSingh.jpg" alt="MAKP Singh" class="speaker-photo">
+                    <img src="images/2026/speakers/MAKPSingh.png" alt="MAKP Singh" class="speaker-photo">
                 </div>
                 <div class="speaker_content" style="flex: 1;">
                     <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
@@ -924,7 +924,7 @@ Narnix Technologies
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker">
                 <div class="speaker_img">
-                    <div class="speaker-photo-placeholder" role="img" aria-label="Photo to be uploaded for Manoj Kumar">Photo to be uploaded</div>
+                    <img src="images/2026/speakers/ManojKumar.jpg" alt="Manoj Kumar" class="speaker-photo">
                 </div>
                 <div class="speaker_content">
                     <h1 class="key_head">
@@ -945,7 +945,7 @@ Bihar Electricity Regulatory Commission
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker">
                 <div class="speaker_img">
-                    <div class="speaker-photo-placeholder" role="img" aria-label="Photo to be uploaded for Manu Srivastava">Photo to be uploaded</div>
+                    <img src="images/2026/speakers/ManuSrivastava.png" alt="Manu Srivastava" class="speaker-photo">
                 </div>
                 <div class="speaker_content">
                     <h1 class="key_head">
@@ -967,7 +967,7 @@ Government of Madhya Pradesh
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
                 <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
-                    <img src="images/2026/speakers/NileshKane.jpg" alt="Nilesh Kane" class="speaker-photo">
+                    <img src="images/2026/speakers/NileshKane.png" alt="Nilesh Kane" class="speaker-photo">
                 </div>
                 <div class="speaker_content" style="flex: 1;">
                     <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
@@ -993,7 +993,7 @@ Government of Madhya Pradesh
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker">
                 <div class="speaker_img">
-                    <div class="speaker-photo-placeholder" role="img" aria-label="Photo to be uploaded for Nirmal Shaju">Photo to be uploaded</div>
+                    <img src="images/2026/speakers/NirmalShaju.png" alt="Nirmal Shaju" class="speaker-photo">
                 </div>
                 <div class="speaker_content">
                     <h1 class="key_head">
@@ -1014,7 +1014,7 @@ GEAPP
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker">
                 <div class="speaker_img">
-                    <div class="speaker-photo-placeholder" role="img" aria-label="Photo to be uploaded for Payal Saha">Photo to be uploaded</div>
+                    <img src="images/2026/speakers/PayalSaha.jpg" alt="Payal Saha" class="speaker-photo">
                 </div>
                 <div class="speaker_content">
                     <h1 class="key_head">
@@ -1059,7 +1059,7 @@ Chandigarh Power Distribution Limited
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker">
                 <div class="speaker_img">
-                    <div class="speaker-photo-placeholder" role="img" aria-label="Photo to be uploaded for Pranav Tayal">Photo to be uploaded</div>
+                    <img src="images/2026/speakers/PranavTayal.png" alt="Pranav Tayal" class="speaker-photo">
                 </div>
                 <div class="speaker_content">
                     <h1 class="key_head">
@@ -1083,7 +1083,7 @@ Ministry of Power, GoI
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker">
                 <div class="speaker_img">
-                    <div class="speaker-photo-placeholder" role="img" aria-label="Photo to be uploaded for Prashant Verma">Photo to be uploaded</div>
+                    <img src="images/2026/speakers/PrashantVerma.jpg" alt="Prashant Verma" class="speaker-photo">
                 </div>
                 <div class="speaker_content">
                     <h1 class="key_head">
@@ -1138,7 +1138,7 @@ Uttar Pradesh Power Corporation Limited (UPPCL)
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
                 <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
-                    <img src="images/2026/speakers/PRKumar.jpg" alt="PR Kumar" class="speaker-photo">
+                    <img src="images/2026/speakers/PRKumar.png" alt="PR Kumar" class="speaker-photo">
                 </div>
                 <div class="speaker_content" style="flex: 1;">
                     <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
@@ -1164,7 +1164,7 @@ Uttar Pradesh Power Corporation Limited (UPPCL)
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker">
                 <div class="speaker_img">
-                    <div class="speaker-photo-placeholder" role="img" aria-label="Photo to be uploaded for Puneet Chitkara">Photo to be uploaded</div>
+                    <img src="images/2026/speakers/PuneetChitkara.png" alt="Puneet Chitkara" class="speaker-photo">
                 </div>
                 <div class="speaker_content">
                     <h1 class="key_head">
@@ -1186,7 +1186,7 @@ India Energy Exchange (IEX)
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
                 <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
-                    <img src="images/2026/speakers/RahulKumar_NBPDCL.jpg" alt="Rahul Kumar" class="speaker-photo">
+                    <img src="images/2026/speakers/RahulKumar_NBPDCL.png" alt="Rahul Kumar" class="speaker-photo">
                 </div>
                 <div class="speaker_content" style="flex: 1;">
                     <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
@@ -1207,7 +1207,7 @@ India Energy Exchange (IEX)
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
                 <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
-                    <img src="images/2026/speakers/RahulTongia.jpg" alt="Rahul Tongia" class="speaker-photo">
+                    <img src="images/2026/speakers/RahulTongia.png" alt="Rahul Tongia" class="speaker-photo">
                 </div>
                 <div class="speaker_content" style="flex: 1;">
                     <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
@@ -1293,7 +1293,7 @@ India Energy Exchange (IEX)
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker">
                 <div class="speaker_img">
-                    <div class="speaker-photo-placeholder" role="img" aria-label="Photo to be uploaded for Ratan Singh">Photo to be uploaded</div>
+                    <img src="images/2026/speakers/RatanSingh.png" alt="Ratan Singh" class="speaker-photo">
                 </div>
                 <div class="speaker_content">
                     <h1 class="key_head">
@@ -1405,7 +1405,7 @@ SECI
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
                 <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
-                    <img src="images/2026/speakers/RJVala.jpg" alt="R J Vala" class="speaker-photo">
+                    <img src="images/2026/speakers/RJVala.png" alt="R J Vala" class="speaker-photo">
                 </div>
                 <div class="speaker_content" style="flex: 1;">
                     <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
@@ -1462,7 +1462,7 @@ SECI
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
                 <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
-                    <img src="images/2026/speakers/RohitBajaj.jpg" alt="Rohit Bajaj" class="speaker-photo">
+                    <img src="images/2026/speakers/RohitBajaj.png" alt="Rohit Bajaj" class="speaker-photo">
                 </div>
                 <div class="speaker_content" style="flex: 1;">
                     <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
@@ -1563,7 +1563,7 @@ SECI
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker">
                 <div class="speaker_img">
-                    <div class="speaker-photo-placeholder" role="img" aria-label="Photo to be uploaded for Sandeep Bhagia">Photo to be uploaded</div>
+                    <img src="images/2026/speakers/SandeepBhagia.png" alt="Sandeep Bhagia" class="speaker-photo">
                 </div>
                 <div class="speaker_content">
                     <h1 class="key_head">
@@ -1584,7 +1584,7 @@ MVVNL
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker">
                 <div class="speaker_img">
-                    <div class="speaker-photo-placeholder" role="img" aria-label="Photo to be uploaded for Sanket Srivastava">Photo to be uploaded</div>
+                    <img src="images/2026/speakers/SanketSrivastava.jpg" alt="Sanket Srivastava" class="speaker-photo">
                 </div>
                 <div class="speaker_content">
                     <h1 class="key_head">
@@ -1675,7 +1675,7 @@ Noida Power Company Limited
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
                 <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
-                    <img src="images/2026/speakers/SauravShah.jpg" alt="Saurav Shah" class="speaker-photo">
+                    <img src="images/2026/speakers/SauravShah.png" alt="Saurav Shah" class="speaker-photo">
                 </div>
                 <div class="speaker_content" style="flex: 1;">
                     <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
@@ -1723,7 +1723,7 @@ Noida Power Company Limited
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
                 <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
-                    <img src="images/2026/speakers/ShashankMishra.jpg" alt="Shashank Mishra" class="speaker-photo">
+                    <img src="images/2026/speakers/ShashankMishra.png" alt="Shashank Mishra" class="speaker-photo">
                 </div>
                 <div class="speaker_content" style="flex: 1;">
                     <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
@@ -1749,7 +1749,7 @@ Noida Power Company Limited
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker">
                 <div class="speaker_img">
-                    <div class="speaker-photo-placeholder" role="img" aria-label="Photo to be uploaded for Sidharth Sihag">Photo to be uploaded</div>
+                    <img src="images/2026/speakers/SidharthSihag.jpg" alt="Sidharth Sihag" class="speaker-photo">
                 </div>
                 <div class="speaker_content">
                     <h1 class="key_head">
@@ -1833,7 +1833,7 @@ Rajasthan Rajya Vidyut Prasaran Nigam Limited
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker">
                 <div class="speaker_img">
-                    <div class="speaker-photo-placeholder" role="img" aria-label="Photo to be uploaded for Sudhir Jain">Photo to be uploaded</div>
+                    <img src="images/2026/speakers/SudhirJain.jpg" alt="Sudhir Jain" class="speaker-photo">
                 </div>
                 <div class="speaker_content">
                     <h1 class="key_head">
@@ -1857,7 +1857,7 @@ Rajasthan SLDC
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker">
                 <div class="speaker_img">
-                    <div class="speaker-photo-placeholder" role="img" aria-label="Photo to be uploaded for Sunil Wadhwa">Photo to be uploaded</div>
+                    <img src="images/2026/speakers/SunilWadhwa.jpg" alt="Sunil Wadhwa" class="speaker-photo">
                 </div>
                 <div class="speaker_content">
                     <h1 class="key_head">
@@ -1878,7 +1878,7 @@ Multiple Orbits Consulting
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker">
                 <div class="speaker_img">
-                    <div class="speaker-photo-placeholder" role="img" aria-label="Photo to be uploaded for Tarun Batra">Photo to be uploaded</div>
+                    <img src="images/2026/speakers/TarunBatra.jpg" alt="Tarun Batra" class="speaker-photo">
                 </div>
                 <div class="speaker_content">
                     <h1 class="key_head">
@@ -2692,7 +2692,7 @@ Noida Power Company Limited
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
                 <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
-                    <img src="images/2026/speakers/DwijadasBasak.jpg" alt="Dwijadas Basak" class="speaker-photo">
+                    <img src="images/2026/speakers/DwijadasBasak.png" alt="Dwijadas Basak" class="speaker-photo">
                 </div>
                 <div class="speaker_content" style="flex: 1;">
                     <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
@@ -2713,7 +2713,7 @@ Noida Power Company Limited
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
                 <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
-                    <img src="images/2026/speakers/GajananSKale.png" alt="AtulBali" class="speaker-photo">
+                    <img src="images/2026/speakers/GajananSKale.jpg" alt="AtulBali" class="speaker-photo">
                 </div>
                 <div class="speaker_content" style="flex: 1;">
                     <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
@@ -2980,7 +2980,7 @@ Noida Power Company Limited
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
                 <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
-                    <img src="images/2026/speakers/KishorNarang.jpg" alt="Kishor Narang" class="speaker-photo">
+                    <img src="images/2026/speakers/KishorNarang.png" alt="Kishor Narang" class="speaker-photo">
                 </div>
                 <div class="speaker_content" style="flex: 1;">
                     <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
@@ -3158,7 +3158,7 @@ Noida Power Company Limited
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
                 <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
-                    <img src="images/2026/speakers/NileshKane.jpg" alt="Dr Nilesh Kane" class="speaker-photo">
+                    <img src="images/2026/speakers/NileshKane.png" alt="Dr Nilesh Kane" class="speaker-photo">
                 </div>
                 <div class="speaker_content" style="flex: 1;">
                     <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">

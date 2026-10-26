@@ -995,7 +995,7 @@
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
                 <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
-                    <img src="images/2026/speakers/DwijadasBasak.jpg" alt="Dwijadas Basak" class="speaker-photo">
+                    <img src="images/2026/speakers/DwijadasBasak.png" alt="Dwijadas Basak" class="speaker-photo">
                 </div>
                 <div class="speaker_content" style="flex: 1;">
                     <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
@@ -1017,7 +1017,7 @@
             <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
                 <!-- Speaker Image -->
                 <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
-                    <img src="images/2026/speakers/GajananSKale.png" alt="AtulBali" class="speaker-photo">
+                    <img src="images/2026/speakers/GajananSKale.jpg" alt="AtulBali" class="speaker-photo">
                 </div>
 
                 <!-- Speaker Content -->
@@ -1317,7 +1317,7 @@
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
                 <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
-                    <img src="images/2026/speakers/KishorNarang.jpg" alt="Kishor Narang" class="speaker-photo">
+                    <img src="images/2026/speakers/KishorNarang.png" alt="Kishor Narang" class="speaker-photo">
                 </div>
                 <div class="speaker_content" style="flex: 1;">
                     <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
@@ -1516,7 +1516,7 @@
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
                 <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
-                    <img src="images/2026/speakers/NileshKane.jpg" alt="Dr Nilesh Kane" class="speaker-photo">
+                    <img src="images/2026/speakers/NileshKane.png" alt="Dr Nilesh Kane" class="speaker-photo">
                 </div>
                 <div class="speaker_content" style="flex: 1;">
                     <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">

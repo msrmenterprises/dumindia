@@ -1235,16 +1235,16 @@ India Energy Exchange (IEX)
         </div>
     </div>
 
-    <!-- Rajesh Pandey -->
+    <!-- Rajesh sharma -->
     <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
                 <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
-                    <img src="images/2026/speakers/RajeshPandey.jpg" alt="Rajesh Pandey" class="speaker-photo">
+                    <img src="images/2026/speakers/RajeshPandey.jpg" alt="Rajesh Sharma" class="speaker-photo">
                 </div>
                 <div class="speaker_content" style="flex: 1;">
                     <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
-                        Rajesh Pandey<br/>
+                        Rajesh Sharma<br/>
                         Chairman<br/>
                         Rajasthan Electricity Regulatory Commission
                     </h1>

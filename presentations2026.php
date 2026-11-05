@@ -28,7 +28,7 @@ $hasValidPassword = is_string($submittedPassword)
                 Incorrect password. Please try again.
             </p>
         <?php } ?>
-        <form method="POST" action="presentations2026.php" class="k_form" style="text-align:center;">
+        <form method="POST" action="https://dumindia.in/presentations2026.php" class="k_form" style="text-align:center;">
             Enter Password To Open Presentation
             <br>
             <input type="password" name="pass" aria-label="DUM 2026 password" required>

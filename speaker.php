@@ -176,7 +176,7 @@ Power Foundation of India
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker">
                 <div class="speaker_img">
-                    <img src="images/2026/speakers/AjoyRajani.jpg" alt="Ajoy Rajani" class="speaker-photo">
+                    <img src="images/speakers/AjoyRajaniv1.PNG" alt="Ajoy Rajani" class="speaker-photo">
                 </div>
                 <div class="speaker_content">
                     <h1 class="key_head">

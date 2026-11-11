@@ -217,7 +217,7 @@ The Energy and Resources Institute (TERI)
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker">
                 <div class="speaker_img">
-                    <div class="speaker-photo-placeholder" role="img" aria-label="Photo to be uploaded for Alekhya Datta">Photo to be uploaded</div>
+                    <img src="images/speakers/AlekhyaDattaTERI.jpg" alt="Alekhya Datta" class="speaker-photo">
                 </div>
                 <div class="speaker_content">
                     <h1 class="key_head">

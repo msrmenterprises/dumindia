@@ -132,6 +132,7 @@
         </div>
     </div>
     <!-- Abhishek Srivastava -->
+    <!--
     <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker">
@@ -151,6 +152,7 @@ Power Foundation of India
             </div>
         </div>
     </div>
+    -->
     <!-- Ajoy Rajani -->
     <div class="row speaker_row">
         <div class="k_list_part">
@@ -263,6 +265,7 @@ BSES Yamuna Power Limited
         </div>
     </div>
     <!-- Anand Budholia -->
+    <!--
     <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
@@ -297,6 +300,7 @@ BSES Yamuna Power Limited
             </div>
         </div>
     </div>
+    -->
     <!-- Aneesh Thomas -->
     <div class="row speaker_row">
         <div class="k_list_part">
@@ -396,6 +400,7 @@ BSES Yamuna Power Limited
         </div>
     </div>
     <!-- Anil Rawal -->
+    <!--
     <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
@@ -421,6 +426,7 @@ BSES Yamuna Power Limited
             </div>
         </div>
     </div>
+    -->
     <!-- Animesh -->
     <div class="row speaker_row">
         <div class="k_list_part">
@@ -521,6 +527,7 @@ GIZ
         </div>
     </div>
     <!-- Brajesh Kumar -->
+    <!--
     <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
@@ -552,6 +559,7 @@ GIZ
             </div>
         </div>
     </div>
+    -->
     <!-- Chetan Pathak -->
     <div class="row speaker_row">
         <div class="k_list_part">
@@ -673,6 +681,7 @@ Jaipur Vidyut Vitran Nigam Limited
         </div>
     </div>
     <!-- Dwijadas Basak -->
+    <!--
     <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
@@ -692,6 +701,7 @@ Jaipur Vidyut Vitran Nigam Limited
             </div>
         </div>
     </div>
+    -->
     <!-- Gajanan S. Kale -->
     <div class="row speaker_row">
         <div class="k_list_part">
@@ -916,6 +926,7 @@ PuVVNL
         </div>
     </div>
     <!-- Karnati Varun Reddy -->
+    <!--
     <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
@@ -938,6 +949,7 @@ PuVVNL
             </div>
         </div>
     </div>
+    -->
     <!-- Kashmir Singh -->
     <div class="row speaker_row">
         <div class="k_list_part">
@@ -1025,6 +1037,7 @@ Narnix Technologies
         </div>
     </div>
     <!-- MAKP Singh -->
+    <!--
     <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
@@ -1044,6 +1057,7 @@ Narnix Technologies
             </div>
         </div>
     </div>
+    -->
     <!-- Manoj Kumar -->
     <div class="row speaker_row">
         <div class="k_list_part">
@@ -1065,6 +1079,7 @@ Bihar Electricity Regulatory Commission
         </div>
     </div>
     <!-- Manu Srivastava -->
+    <!--
     <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker">
@@ -1084,6 +1099,7 @@ Government of Madhya Pradesh
             </div>
         </div>
     </div>
+    -->
     <!-- Naoki Sakai -->
     <div class="row speaker_row">
         <div class="k_list_part">
@@ -1105,6 +1121,7 @@ Government of Madhya Pradesh
         </div>
     </div>
     <!-- Nilesh Kane -->
+    <!--
     <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
@@ -1130,6 +1147,7 @@ Government of Madhya Pradesh
             </div>
         </div>
     </div>
+    -->
     <!-- Nirmal Shaju -->
     <div class="row speaker_row">
         <div class="k_list_part">
@@ -1194,6 +1212,7 @@ Chandigarh Power Distribution Limited
         </div>
     </div>
     <!-- Pranav Tayal -->
+    <!--
     <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker">
@@ -1216,7 +1235,9 @@ Ministry of Power, GoI
             </div>
         </div>
     </div>
+    -->
     <!-- Prashant Verma -->
+    <!--
     <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker">
@@ -1248,6 +1269,7 @@ Uttar Pradesh Power Corporation Limited (UPPCL)
             </div>
         </div>
     </div>
+    -->
     <!-- Prince Dhawan -->
     <div class="row speaker_row">
         <div class="k_list_part">
@@ -1315,6 +1337,7 @@ India Energy Exchange (IEX)
         </div>
     </div>
     <!-- Rahul Kumar -->
+    <!--
     <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
@@ -1334,6 +1357,7 @@ India Energy Exchange (IEX)
             </div>
         </div>
     </div>
+    -->
     <!-- Rahul Tongia -->
     <div class="row speaker_row">
         <div class="k_list_part">
@@ -1396,6 +1420,7 @@ India Energy Exchange (IEX)
         </div>
     </div>
     <!-- Ranvir Prasad -->
+    <!--
     <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
@@ -1418,6 +1443,7 @@ India Energy Exchange (IEX)
             </div>
         </div>
     </div>
+    -->
     <!-- Ratan Singh -->
     <div class="row speaker_row">
         <div class="k_list_part">
@@ -1526,6 +1552,7 @@ SECI
         </div>
     </div>
     <!-- R J Vala -->
+    <!--
     <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
@@ -1545,6 +1572,7 @@ SECI
             </div>
         </div>
     </div>
+    -->
     <!-- R.K. Tyagi -->
     <div class="row speaker_row">
         <div class="k_list_part">
@@ -1581,6 +1609,7 @@ SECI
         </div>
     </div>
     <!-- Rohit Bajaj -->
+    <!--
     <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
@@ -1603,6 +1632,7 @@ SECI
             </div>
         </div>
     </div>
+    -->
     <!-- Rohit Gupta -->
     <div class="row speaker_row">
         <div class="k_list_part">
@@ -1656,6 +1686,7 @@ SECI
         </div>
     </div>
     <!-- Salona Chandna -->
+    <!--
     <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
@@ -1678,7 +1709,9 @@ SECI
             </div>
         </div>
     </div>
+    -->
     <!-- Sandeep Bhagia -->
+    <!--
     <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker">
@@ -1698,7 +1731,9 @@ MVVNL
             </div>
         </div>
     </div>
+    -->
     <!-- Sanket Srivastava -->
+    <!--
     <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker">
@@ -1724,6 +1759,7 @@ Noida Power Company Limited
             </div>
         </div>
     </div>
+    -->
     <!-- Santhosh S. Nair -->
     <div class="row speaker_row">
         <div class="k_list_part">
@@ -1786,6 +1822,7 @@ Noida Power Company Limited
         </div>
     </div>
     <!-- Saurav Shah -->
+    <!--
     <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
@@ -1811,6 +1848,7 @@ Noida Power Company Limited
             </div>
         </div>
     </div>
+    -->
     <!-- Shalini Agarwal -->
     <div class="row speaker_row">
         <div class="k_list_part">
@@ -1832,6 +1870,7 @@ Noida Power Company Limited
         </div>
     </div>
     <!-- Shashank Mishra -->
+    <!--
     <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
@@ -1857,7 +1896,9 @@ Noida Power Company Limited
             </div>
         </div>
     </div>
+    -->
     <!-- Sidharth Sihag -->
+    <!--
     <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker">
@@ -1877,6 +1918,7 @@ Rajasthan Rajya Vidyut Prasaran Nigam Limited
             </div>
         </div>
     </div>
+    -->
     <!-- Siva Gunda -->
     <div class="row speaker_row">
         <div class="k_list_part">
@@ -2005,6 +2047,7 @@ Rajasthan SLDC
         </div>
     </div>
     <!-- Sunil Wadhwa -->
+    <!--
     <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker">
@@ -2024,6 +2067,7 @@ Multiple Orbits Consulting
             </div>
         </div>
     </div>
+    -->
     <!-- Tarun Batra -->
     <div class="row speaker_row">
         <div class="k_list_part">

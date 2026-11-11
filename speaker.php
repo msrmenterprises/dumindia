@@ -46,6 +46,17 @@
     border-radius: 10px;
 }
 
+.speaker-photo-placeholder {
+    width: 200px;
+    height: 240px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #666;
+    background: #f2f2f2;
+    border-radius: 10px;
+}
+
 .dum_speaker .speaker_content {
     flex: 1 1 0;
     box-sizing: border-box;
@@ -97,36 +108,6 @@
 		<img src="images/kborder_bottom.png" alt="">
 	</div>
 
-    <!-- Shri Heeralal Nagar -->
-    <div class="row speaker_row">
-        <div class="k_list_part">
-            <div class="col-sm-12 dum_speaker">
-                <div class="speaker_img">
-                    <img src="images/2026/speakers/HeeralalNagar.png" alt="Shri Heeralal Nagar" class="speaker-photo">
-                </div>
-                <div class="speaker_content">
-                    <h1 class="key_head">
-                        Shri Heeralal Nagar<br/>
-                        Hon’ble Minister of State for Energy<br/>
-Government of Rajasthan
-                    </h1>
-                    <p style="text-align: justify; line-height: 1.6;">
-                        Shri Heeralal Nagar is an accomplished public administrator currently serving as the Minister of State for the Energy in the Government of Rajasthan. Since assuming leadership of the Energy Department in December 2023, Shri Nagar has been the principal architect behind Rajasthan’s ongoing power sector transformation, steering the state toward energy self-sufficiency, operational efficiency, and modern grid resilience.
-                    </p>
-                    <p style="text-align: justify; line-height: 1.6;">
-                        At the helm of Rajasthan’s power sector, Shri Nagar directly oversees the state&#x27;s generation and transmission utilities alongside its three major distribution utilities. His tenure has been marked by a decisive push to strengthen last-mile delivery and revitalize the financial and operational health of the state&#x27;s DISCOMs. He has spearheaded the accelerated execution of the Revamped Distribution Sector Scheme (RDSS) across Rajasthan, focusing intensively on curbing Aggregate Technical and Commercial (AT&amp;C) losses; and ensured reliable, uninterrupted power supply across diverse geographical terrains.
-                    </p>
-                    <p style="text-align: justify; line-height: 1.6;">
-                        Shri Nagar has positioned Rajasthan’s distribution framework at the forefront of the clean energy transition. Under his guidance, the state is rapidly expanding rooftop solar adoption and executing massive feeder-level solarization under schemes like PM-KUSUM, fundamentally transforming agricultural power delivery by providing daytime electricity to farmers while reducing cross-subsidy burdens on the DISCOMs.
-                    </p>
-                    <p style="text-align: justify; line-height: 1.6;">
-                        Through strategic investment partnerships with central public sector undertakings and private energy developers, Shri Heeralal Nagar continues to build a future-ready, financially viable, and consumer-centric power distribution ecosystem in Rajasthan.
-                    </p>
-                </div>
-            </div>
-        </div>
-    </div>
-
 <!-- Aayush Agarwal -->
     <div class="row speaker_row">
         <div class="k_list_part">
@@ -170,7 +151,6 @@ Power Foundation of India
             </div>
         </div>
     </div>
-
     <!-- Ajoy Rajani -->
     <div class="row speaker_row">
         <div class="k_list_part">
@@ -190,7 +170,6 @@ Power Foundation of India
             </div>
         </div>
     </div>
-
     <!-- A. K. Saxena -->
     <div class="row speaker_row">
         <div class="k_list_part">
@@ -211,7 +190,6 @@ The Energy and Resources Institute (TERI)
             </div>
         </div>
     </div>
-
     <!-- Alekhya Datta -->
     <div class="row speaker_row">
         <div class="k_list_part">
@@ -235,8 +213,6 @@ The Energy and Resources Institute (TERI)
             </div>
         </div>
     </div>
-
-
     <!-- Alok Kumar -->
     <div class="row speaker_row">
         <div class="k_list_part">
@@ -286,8 +262,6 @@ BSES Yamuna Power Limited
             </div>
         </div>
     </div>
-
-
     <!-- Anand Budholia -->
     <div class="row speaker_row">
         <div class="k_list_part">
@@ -323,7 +297,6 @@ BSES Yamuna Power Limited
             </div>
         </div>
     </div>
-
     <!-- Aneesh Thomas -->
     <div class="row speaker_row">
         <div class="k_list_part">
@@ -347,7 +320,6 @@ BSES Yamuna Power Limited
             </div>
         </div>
     </div>
-
     <!-- Anil Daulani -->
     <div class="row speaker_row">
         <div class="k_list_part">
@@ -380,7 +352,6 @@ BSES Yamuna Power Limited
             </div>
         </div>
     </div>
-
     <!-- Anil Kumar -->
     <div class="row speaker_row">
         <div class="k_list_part">
@@ -404,7 +375,6 @@ BSES Yamuna Power Limited
             </div>
         </div>
     </div>
-
     <!-- Anil Narayan Raghav -->
     <div class="row speaker_row">
         <div class="k_list_part">
@@ -425,7 +395,6 @@ BSES Yamuna Power Limited
             </div>
         </div>
     </div>
-
     <!-- Anil Rawal -->
     <div class="row speaker_row">
         <div class="k_list_part">
@@ -452,7 +421,26 @@ BSES Yamuna Power Limited
             </div>
         </div>
     </div>
-
+    <!-- Animesh -->
+    <div class="row speaker_row">
+        <div class="k_list_part">
+            <div class="col-sm-12 dum_speaker">
+                <div class="speaker_img">
+                    <div class="speaker-photo-placeholder" role="img" aria-label="Portrait not available for Animesh">Portrait not available</div>
+                </div>
+                <div class="speaker_content">
+                    <h1 class="key_head">
+                        Animesh<br/>
+                        Head-CEO Cell<br/>
+                        Chandigarh Power Distribution Limited (CPDL)
+                    </h1>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Animesh is Head–CEO Cell at Chandigarh Power Distribution Limited, RP Sanjiv Goenka Group, with over 22 years of experience in the power distribution sector. His expertise spans business excellence, digital transformation, project management, process improvement and loss reduction. Previously associated with BSES Yamuna Power Limited for over two decades, he has contributed to initiatives involving smart metering, process automation, data analytics and consumer service improvements. In his current role, he supports strategic planning, performance management, CAPEX monitoring and cross-functional coordination, with a focus on operational efficiency and technology-led utility transformation
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
     <!-- Anish Kalucha -->
     <div class="row speaker_row">
         <div class="k_list_part">
@@ -473,7 +461,6 @@ BSES Yamuna Power Limited
             </div>
         </div>
     </div>
-
     <!-- Arti Dogra -->
     <div class="row speaker_row">
         <div class="k_list_part">
@@ -513,7 +500,6 @@ BSES Rajdhani Power Limited
             </div>
         </div>
     </div>
-
     <!-- Bhagyasree Nair -->
     <div class="row speaker_row">
         <div class="k_list_part">
@@ -534,8 +520,6 @@ GIZ
             </div>
         </div>
     </div>
-
-
     <!-- Brajesh Kumar -->
     <div class="row speaker_row">
         <div class="k_list_part">
@@ -573,7 +557,7 @@ GIZ
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker">
                 <div class="speaker_img">
-                    <img src="images/2026/speakers/chetan_pathak.png" alt="Chetan Pathak" class="speaker-photo">
+                    <img src="images/2026/speakers/ChetanPathak.png" alt="Chetan Pathak" class="speaker-photo">
                 </div>
                 <div class="speaker_content">
                     <h1 class="key_head">
@@ -588,8 +572,6 @@ IESA
             </div>
         </div>
     </div>
-
-
     <!-- Chetan Singh Adhikari -->
     <div class="row speaker_row">
         <div class="k_list_part">
@@ -613,7 +595,6 @@ IESA
             </div>
         </div>
     </div>
-
     <!-- C. Nallasivan -->
     <div class="row speaker_row">
         <div class="k_list_part">
@@ -654,8 +635,43 @@ Jaipur Vidyut Vitran Nigam Limited
             </div>
         </div>
     </div>
-
-
+    <!-- Dinesh Hanumandas Agarwal -->
+    <div class="row speaker_row">
+        <div class="k_list_part">
+            <div class="col-sm-12 dum_speaker">
+                <div class="speaker_img">
+                    <div class="speaker-photo-placeholder" role="img" aria-label="Portrait not available for Dinesh Hanumandas Agarwal">Portrait not available</div>
+                </div>
+                <div class="speaker_content">
+                    <h1 class="key_head">
+                        Dinesh Hanumandas Agarwal<br/>
+                        Executive Director (Power Purchase)<br/>
+                        Maharashtra State Electricity Distribution Company Limited
+                    </h1>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Mr Dinesh Hanumandas Agrawal serves as the Executive Director (Power Purchase) at the Maharashtra State Electricity Distribution Company Limited (MSEDCL) Corporate Office in Mumbai. Bringing over three decades of distinguished service to Maharashtra’s power sector, he began his journey with the erstwhile MSEB as a Junior Engineer in 1994. Over the years, he has steadily advanced through key leadership roles—including Executive Engineer, Superintending Engineer, and Chief Engineer across diverse operational zones such as Nanded, Pune, Vasai, and Kalyan, as well as the Corporate Office.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Disha Khosla -->
+    <div class="row speaker_row">
+        <div class="k_list_part">
+            <div class="col-sm-12 dum_speaker">
+                <div class="speaker_img">
+                    <div class="speaker-photo-placeholder" role="img" aria-label="Portrait not available for Disha Khosla">Portrait not available</div>
+                </div>
+                <div class="speaker_content">
+                    <h1 class="key_head">
+                        Disha Khosla<br/>
+                        AGM – Technical Services<br/>
+                        India Smart Grid Forum
+                    </h1>
+                </div>
+            </div>
+        </div>
+    </div>
     <!-- Dwijadas Basak -->
     <div class="row speaker_row">
         <div class="k_list_part">
@@ -676,7 +692,6 @@ Jaipur Vidyut Vitran Nigam Limited
             </div>
         </div>
     </div>
-
     <!-- Gajanan S. Kale -->
     <div class="row speaker_row">
         <div class="k_list_part">
@@ -736,7 +751,29 @@ Jaipur Vidyut Vitran Nigam Limited
             </div>
         </div>
     </div> -->
-
+    <!-- Gautam Kumar -->
+    <div class="row speaker_row">
+        <div class="k_list_part">
+            <div class="col-sm-12 dum_speaker">
+                <div class="speaker_img">
+                    <div class="speaker-photo-placeholder" role="img" aria-label="Portrait not available for Gautam Kumar">Portrait not available</div>
+                </div>
+                <div class="speaker_content">
+                    <h1 class="key_head">
+                        Gautam Kumar<br/>
+                        CTO &amp; CSO<br/>
+                        IntelliSmart
+                    </h1>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Mr Gautam Kumar is the Chief Strategy Officer at IntelliSmart Infra. He has over three decades of experience in business transformation, AMI deployments, IoT technologies, AI-enabled solutions, and large-scale program delivery in Utilities.
+                    </p>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        He has successfully lead engineering/design, implementation of several unique digital transformation projects in Utility industry including large ICT Infrastructure setups, ERP implementations across domestic and international Utilities.  Prior to Intellismart, he worked with companies like CyanConnode , UK , Tech Mahindra, BSES Rajdhani, HCL Infosystems, Secure Meters.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
     <!-- Ghanshyam Prasad -->
     <div class="row speaker_row">
         <div class="k_list_part">
@@ -757,7 +794,35 @@ Jaipur Vidyut Vitran Nigam Limited
             </div>
         </div>
     </div>
-
+    <!-- Shri Heeralal Nagar -->
+    <div class="row speaker_row">
+        <div class="k_list_part">
+            <div class="col-sm-12 dum_speaker">
+                <div class="speaker_img">
+                    <img src="images/2026/speakers/HeeralalNagar.png" alt="Shri Heeralal Nagar" class="speaker-photo">
+                </div>
+                <div class="speaker_content">
+                    <h1 class="key_head">
+                        Shri Heeralal Nagar<br/>
+                        Hon’ble Minister of State for Energy<br/>
+Government of Rajasthan
+                    </h1>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Shri Heeralal Nagar is an accomplished public administrator currently serving as the Minister of State for the Energy in the Government of Rajasthan. Since assuming leadership of the Energy Department in December 2023, Shri Nagar has been the principal architect behind Rajasthan’s ongoing power sector transformation, steering the state toward energy self-sufficiency, operational efficiency, and modern grid resilience.
+                    </p>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        At the helm of Rajasthan’s power sector, Shri Nagar directly oversees the state&#x27;s generation and transmission utilities alongside its three major distribution utilities. His tenure has been marked by a decisive push to strengthen last-mile delivery and revitalize the financial and operational health of the state&#x27;s DISCOMs. He has spearheaded the accelerated execution of the Revamped Distribution Sector Scheme (RDSS) across Rajasthan, focusing intensively on curbing Aggregate Technical and Commercial (AT&amp;C) losses; and ensured reliable, uninterrupted power supply across diverse geographical terrains.
+                    </p>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Shri Nagar has positioned Rajasthan’s distribution framework at the forefront of the clean energy transition. Under his guidance, the state is rapidly expanding rooftop solar adoption and executing massive feeder-level solarization under schemes like PM-KUSUM, fundamentally transforming agricultural power delivery by providing daytime electricity to farmers while reducing cross-subsidy burdens on the DISCOMs.
+                    </p>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Through strategic investment partnerships with central public sector undertakings and private energy developers, Shri Heeralal Nagar continues to build a future-ready, financially viable, and consumer-centric power distribution ecosystem in Rajasthan.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
     <!-- Hemant Verma -->
     <div class="row speaker_row">
         <div class="k_list_part">
@@ -787,7 +852,26 @@ Jaipur Vidyut Vitran Nigam Limited
             </div>
         </div>
     </div>
-
+    <!-- Himanshu Chawla -->
+    <div class="row speaker_row">
+        <div class="k_list_part">
+            <div class="col-sm-12 dum_speaker">
+                <div class="speaker_img">
+                    <img src="images/2026/speakers/HimanshuChawla.jpg" alt="Himanshu Chawla" class="speaker-photo">
+                </div>
+                <div class="speaker_content">
+                    <h1 class="key_head">
+                        Himanshu Chawla<br/>
+                        Head – Regulatory and Research<br/>
+                        Power Foundation of India
+                    </h1>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Mr. Himanshu Chawla has an experience of around 18 years in the Power Sector across various domains. He has served in various capacities at State Electricity Regulatory Commissions, wherein he has effectively utilized his Techno-commercial educational qualifications of Power Management, Power Engineering and Climate Change from University of British Columbia. His last position was Joint Director (Tariff-Engineering) in Delhi Electricity Regulatory Commission. For his commendable efforts in promoting Renewable Energy through Net Metering, GNM &amp; VNM in Delhi through various Policy &amp; Regulatory reforms, he has been awarded the title of Renewable Energy leader in the country in the categories “Top 40 under 40” in 2022 and “Top 50 under 50” in 2025.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
     <!-- Jaideep Singh -->
     <div class="row speaker_row">
         <div class="k_list_part">
@@ -831,8 +915,6 @@ PuVVNL
             </div>
         </div>
     </div>
-
-
     <!-- Karnati Varun Reddy -->
     <div class="row speaker_row">
         <div class="k_list_part">
@@ -856,7 +938,29 @@ PuVVNL
             </div>
         </div>
     </div>
-
+    <!-- Kashmir Singh -->
+    <div class="row speaker_row">
+        <div class="k_list_part">
+            <div class="col-sm-12 dum_speaker">
+                <div class="speaker_img">
+                    <div class="speaker-photo-placeholder" role="img" aria-label="Portrait not available for Kashmir Singh">Portrait not available</div>
+                </div>
+                <div class="speaker_content">
+                    <h1 class="key_head">
+                        Kashmir Singh<br/>
+                        AVP<br/>
+                        BSES Rajdhani Power Limited
+                    </h1>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Mr. Kashmir Singh is the Additional Vice President (AVP) and Head of the Customer Management Group (CMG) and Meter Management Group (MMG) at BSES Rajdhani Power Limited (BRPL). A strategic, performance-oriented senior leader with over 22 years of extensive experience in the power distribution sector, he has consistently driven operational excellence, digital transformation, and process efficiency across various leadership roles.
+                    </p>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        An alumnus of the Indian Institute of Management, Calcutta (IIM Calcutta) Senior Management Programme, Mr. Singh combines modern corporate finance and strategic marketing methodologies with people-centric leadership to foster continuous operational improvements and future-ready utility ecosystems.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
     <!-- Kiran Gupta -->
     <div class="row speaker_row">
         <div class="k_list_part">
@@ -877,12 +981,35 @@ PuVVNL
             </div>
         </div>
     </div>
+    <!-- Kiran Sabbineni -->
+    <div class="row speaker_row">
+        <div class="k_list_part">
+            <div class="col-sm-12 dum_speaker">
+                <div class="speaker_img">
+                    <div class="speaker-photo-placeholder" role="img" aria-label="Portrait not available for Kiran Sabbineni">Portrait not available</div>
+                </div>
+                <div class="speaker_content">
+                    <h1 class="key_head">
+                        Kiran Sabbineni<br/>
+                        Lead Specialist – Energy<br/>
+                        Coalition for Disaster Resilient Infrastructure (CDRI)
+                    </h1>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Kiran Sabbineni is the Lead Specialist for Energy Sector Resilience at the Coalition for Disaster Resilient Infrastructure (CDRI). With over 15 years of international experience spanning Asia, the Pacific, and North America, Kiran is a recognized power systems and grid operations expert Asia Clean Energy Forum. His work focuses on advancing secure, resilient, inclusive, and intelligent energy systems to mitigate climate vulnerabilities and handle modern disruptions Asia Clean Energy Forum.
+                    </p>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Kiran holds a Master’s degree in Electrical Engineering from the University of North Carolina at Charlotte, specializing in Smart Grids and advanced power system analysis. Throughout his career, he has collaborated with multi-lateral organizations, governments, and industry stakeholders to shape sustainable energy pathways, enhance grid stability, and promote robust power distribution frameworks across diverse geographical terrains.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
     <!-- Kishore Narang -->
     <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker">
                 <div class="speaker_img">
-                    <img src="images/2026/speakers/KishorNarang.png" alt="Kishore Narang" class="speaker-photo">
+                    <img src="images/2026/speakers/KishoreNarang.png" alt="Kishore Narang" class="speaker-photo">
                 </div>
                 <div class="speaker_content">
                     <h1 class="key_head">
@@ -897,8 +1024,6 @@ Narnix Technologies
             </div>
         </div>
     </div>
-
-
     <!-- MAKP Singh -->
     <div class="row speaker_row">
         <div class="k_list_part">
@@ -939,7 +1064,6 @@ Bihar Electricity Regulatory Commission
             </div>
         </div>
     </div>
-
     <!-- Manu Srivastava -->
     <div class="row speaker_row">
         <div class="k_list_part">
@@ -960,8 +1084,26 @@ Government of Madhya Pradesh
             </div>
         </div>
     </div>
-
-
+    <!-- Naoki Sakai -->
+    <div class="row speaker_row">
+        <div class="k_list_part">
+            <div class="col-sm-12 dum_speaker">
+                <div class="speaker_img">
+                    <div class="speaker-photo-placeholder" role="img" aria-label="Portrait not available for Naoki Sakai">Portrait not available</div>
+                </div>
+                <div class="speaker_content">
+                    <h1 class="key_head">
+                        Naoki Sakai<br/>
+                        Founder and CEO<br/>
+                        D – Sharing
+                    </h1>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Naoki Sakai is CEO of D-Sharing, which he founded in 2017, and CEO of the Hourly Matching Promotion Council, a position he has held since 2025 alongside his continuing role at D-Sharing. His current work promotes local peer-to-peer sharing of renewable energy, hourly matching of electricity generation and consumption, and smart-meter applications. Through D-Sharing, he leads climate change mitigation projects supported by the Japanese government. Sakai began his career at Tokyo Electric Power Company in 1987, working in corporate strategy. He joined the Asian Development Bank (ADB) in 2000 and remained with the bank until 2017, serving as a Senior Climate Change Specialist in the Energy Division of its South Asia Department. He led financing operations for state transmission utilities in Gujarat and Rajasthan, India, supporting transmission infrastructure for large-scale solar parks. This included serving as mission leader for the Gujarat Solar Power Transmission Project. He earned a bachelor's degree in economics from the University of Tokyo in 1987 and an MBA from the University of Chicago in 1998.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
     <!-- Nilesh Kane -->
     <div class="row speaker_row">
         <div class="k_list_part">
@@ -1008,7 +1150,6 @@ GEAPP
             </div>
         </div>
     </div>
-
     <!-- Payal Saha -->
     <div class="row speaker_row">
         <div class="k_list_part">
@@ -1029,13 +1170,12 @@ ReNew
             </div>
         </div>
     </div>
-
     <!-- Pramod Kumar Mishra -->
     <div class="row speaker_row">
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker">
                 <div class="speaker_img">
-                    <img src="images/2026/speakers/Pramod.png" alt="Pramod Kumar Mishra" class="speaker-photo">
+                    <img src="images/2026/speakers/PramodMishra.jpg" alt="Pramod Kumar Mishra" class="speaker-photo">
                 </div>
                 <div class="speaker_content">
                     <h1 class="key_head">
@@ -1053,7 +1193,6 @@ Chandigarh Power Distribution Limited
             </div>
         </div>
     </div>
-
     <!-- Pranav Tayal -->
     <div class="row speaker_row">
         <div class="k_list_part">
@@ -1077,7 +1216,6 @@ Ministry of Power, GoI
             </div>
         </div>
     </div>
-
     <!-- Prashant Verma -->
     <div class="row speaker_row">
         <div class="k_list_part">
@@ -1110,8 +1248,6 @@ Uttar Pradesh Power Corporation Limited (UPPCL)
             </div>
         </div>
     </div>
-
-
     <!-- Prince Dhawan -->
     <div class="row speaker_row">
         <div class="k_list_part">
@@ -1132,7 +1268,6 @@ Uttar Pradesh Power Corporation Limited (UPPCL)
             </div>
         </div>
     </div>
-
     <!-- PR Kumar -->
     <div class="row speaker_row">
         <div class="k_list_part">
@@ -1179,8 +1314,6 @@ India Energy Exchange (IEX)
             </div>
         </div>
     </div>
-
-
     <!-- Rahul Kumar -->
     <div class="row speaker_row">
         <div class="k_list_part">
@@ -1201,7 +1334,6 @@ India Energy Exchange (IEX)
             </div>
         </div>
     </div>
-
     <!-- Rahul Tongia -->
     <div class="row speaker_row">
         <div class="k_list_part">
@@ -1234,7 +1366,6 @@ India Energy Exchange (IEX)
             </div>
         </div>
     </div>
-
     <!-- Rajesh sharma -->
     <div class="row speaker_row">
         <div class="k_list_part">
@@ -1264,7 +1395,6 @@ India Energy Exchange (IEX)
             </div>
         </div>
     </div>
-
     <!-- Ranvir Prasad -->
     <div class="row speaker_row">
         <div class="k_list_part">
@@ -1308,8 +1438,6 @@ SECI
             </div>
         </div>
     </div>
-
-
     <!-- Ravi Seethapathy -->
     <div class="row speaker_row">
         <div class="k_list_part">
@@ -1342,7 +1470,6 @@ SECI
             </div>
         </div>
     </div>
-
     <!-- Reena Suri -->
     <div class="row speaker_row">
         <div class="k_list_part">
@@ -1366,7 +1493,6 @@ SECI
             </div>
         </div>
     </div>
-
     <!-- Reji Kumar Pillai -->
     <div class="row speaker_row">
         <div class="k_list_part">
@@ -1399,7 +1525,6 @@ SECI
             </div>
         </div>
     </div>
-
     <!-- R J Vala -->
     <div class="row speaker_row">
         <div class="k_list_part">
@@ -1420,7 +1545,6 @@ SECI
             </div>
         </div>
     </div>
-
     <!-- R.K. Tyagi -->
     <div class="row speaker_row">
         <div class="k_list_part">
@@ -1456,7 +1580,6 @@ SECI
             </div>
         </div>
     </div>
-
     <!-- Rohit Bajaj -->
     <div class="row speaker_row">
         <div class="k_list_part">
@@ -1480,7 +1603,6 @@ SECI
             </div>
         </div>
     </div>
-
     <!-- Rohit Gupta -->
     <div class="row speaker_row">
         <div class="k_list_part">
@@ -1507,7 +1629,6 @@ SECI
             </div>
         </div>
     </div>
-
     <!-- R. S. Selvam -->
     <div class="row speaker_row">
         <div class="k_list_part">
@@ -1534,7 +1655,6 @@ SECI
             </div>
         </div>
     </div>
-
     <!-- Salona Chandna -->
     <div class="row speaker_row">
         <div class="k_list_part">
@@ -1578,7 +1698,6 @@ MVVNL
             </div>
         </div>
     </div>
-
     <!-- Sanket Srivastava -->
     <div class="row speaker_row">
         <div class="k_list_part">
@@ -1605,8 +1724,6 @@ Noida Power Company Limited
             </div>
         </div>
     </div>
-
-
     <!-- Santhosh S. Nair -->
     <div class="row speaker_row">
         <div class="k_list_part">
@@ -1636,7 +1753,6 @@ Noida Power Company Limited
             </div>
         </div>
     </div>
-
     <!-- Santosh Kumar -->
     <div class="row speaker_row">
         <div class="k_list_part">
@@ -1669,7 +1785,6 @@ Noida Power Company Limited
             </div>
         </div>
     </div>
-
     <!-- Saurav Shah -->
     <div class="row speaker_row">
         <div class="k_list_part">
@@ -1696,7 +1811,6 @@ Noida Power Company Limited
             </div>
         </div>
     </div>
-
     <!-- Shalini Agarwal -->
     <div class="row speaker_row">
         <div class="k_list_part">
@@ -1717,7 +1831,6 @@ Noida Power Company Limited
             </div>
         </div>
     </div>
-
     <!-- Shashank Mishra -->
     <div class="row speaker_row">
         <div class="k_list_part">
@@ -1764,8 +1877,6 @@ Rajasthan Rajya Vidyut Prasaran Nigam Limited
             </div>
         </div>
     </div>
-
-
     <!-- Siva Gunda -->
     <div class="row speaker_row">
         <div class="k_list_part">
@@ -1801,7 +1912,29 @@ Rajasthan Rajya Vidyut Prasaran Nigam Limited
             </div>
         </div>
     </div>
-
+    <!-- SK Soonee -->
+    <div class="row speaker_row">
+        <div class="k_list_part">
+            <div class="col-sm-12 dum_speaker">
+                <div class="speaker_img">
+                    <div class="speaker-photo-placeholder" role="img" aria-label="Portrait not available for SK Soonee">Portrait not available</div>
+                </div>
+                <div class="speaker_content">
+                    <h1 class="key_head">
+                        SK Soonee<br/>
+                        Former CMD<br/>
+                        GRID INDIA
+                    </h1>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Mr. Sushil Kumar (S.K.) Soonee is a prominent figure in the Indian power sector, best known as the founder Chief Executive Officer of the Power System Operation Corporation (POSOCO), now known as Grid India.
+                    </p>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        An alumnus of IIT Kharagpur, he has dedicated over four decades to the evolution of India's electrical infrastructure. He is widely credited with spearheading the complex transition of the Indian power system from a fragmented network of regional grids into a unified, synchronous National Grid.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
     <!-- Song Youngsub -->
     <div class="row speaker_row">
         <div class="k_list_part">
@@ -1851,7 +1984,26 @@ Rajasthan SLDC
             </div>
         </div>
     </div>
-
+    <!-- Sudhir Kumar R -->
+    <div class="row speaker_row">
+        <div class="k_list_part">
+            <div class="col-sm-12 dum_speaker">
+                <div class="speaker_img">
+                    <div class="speaker-photo-placeholder" role="img" aria-label="Portrait not available for Sudhir Kumar R">Portrait not available</div>
+                </div>
+                <div class="speaker_content">
+                    <h1 class="key_head">
+                        Sudhir Kumar R<br/>
+                        Additional Director<br/>
+                        Central Power Research Institute (CPRI)
+                    </h1>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Sudhir Kumar received a B.E. degree from Gulbarga University in 1992 and has been associated with the Central Power Research Institute (CPRI) since 1993. A Certified Energy Auditor, he has extensive experience in energy audits, energy efficiency studies, and renewable energy technologies, particularly Solar Photovoltaics. He has led and conducted over 50 energy audits and efficiency studies across thermal and hydroelectric power stations, process industries, high-rise buildings, and port trusts. He has also led long-term, hands-on training programmes of 30 days each for engineers of the Zimbabwe Power Corporation at their thermal power plant in Hwange. He has worked with the Distribution Systems Division on prestigious projects, including APDRP, R-APDRP, and RGGVY. In 2019, he represented India as part of a group of senior officials at the BRICS Summit in Moscow. He holds two patents and has published more than 70 research papers.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
     <!-- Sunil Wadhwa -->
     <div class="row speaker_row">
         <div class="k_list_part">
@@ -1872,7 +2024,6 @@ Multiple Orbits Consulting
             </div>
         </div>
     </div>
-
     <!-- Tarun Batra -->
     <div class="row speaker_row">
         <div class="k_list_part">
@@ -1896,8 +2047,6 @@ Noida Power Company Limited
             </div>
         </div>
     </div>
-
-
     <!-- Teppo Hemiä -->
     <div class="row speaker_row">
         <div class="k_list_part ">
@@ -1914,7 +2063,26 @@ Noida Power Company Limited
             </div>
         </div>
     </div>
-
+    <!-- Vibhay Kumar -->
+    <div class="row speaker_row">
+        <div class="k_list_part">
+            <div class="col-sm-12 dum_speaker">
+                <div class="speaker_img">
+                    <div class="speaker-photo-placeholder" role="img" aria-label="Portrait not available for Vibhay Kumar">Portrait not available</div>
+                </div>
+                <div class="speaker_content">
+                    <h1 class="key_head">
+                        Vibhay Kumar<br/>
+                        Expert – Transmission<br/>
+                        Power Foundation of India
+                    </h1>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Vibhay Kumar brings four decades of experience in power transmission, spanning asset management, operations, engineering, quality assurance, and EHV project execution up to 765 kV. At POWERGRID, he served as Executive Director and Regional Head of Western Region-I, leading initiatives in asset management, technology development, ESG and Net Zero. He holds a BE in Electrical Engineering from MNNIT Allahabad and an MBA in Finance from IGNOU. At PFI, he supports strategic initiatives for resilient, future-ready transmission.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
     <!-- Vikas Gaba -->
     <div class="row speaker_row">
         <div class="k_list_part">
@@ -1944,7 +2112,6 @@ Noida Power Company Limited
             </div>
         </div>
     </div>
-
     <!-- Vishnu Shankar Srivastava -->
     <div class="row speaker_row">
         <div class="k_list_part">
@@ -1965,9 +2132,41 @@ Noida Power Company Limited
             </div>
         </div>
     </div>
-
-    <!-- ============================================ -->
-    gement. A certified trainer, he has worked with top companies including Schneider Electric, Areva, ABB, and Cutler Hammer, and has held senior leadership roles.
+    <!-- Vivekanand Tripathi -->
+    <div class="row speaker_row">
+        <div class="k_list_part">
+            <div class="col-sm-12 dum_speaker">
+                <div class="speaker_img">
+                    <div class="speaker-photo-placeholder" role="img" aria-label="Portrait not available for Vivekanand Tripathi">Portrait not available</div>
+                </div>
+                <div class="speaker_content">
+                    <h1 class="key_head">
+                        Vivekanand Tripathi<br/>
+                        Co-Founder &amp; CEO<br/>
+                        Pelocal Fintech Private Limited
+                    </h1>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        Vivekanand Tripathi is the Founder and CEO of PeLocal Fintech. He has spent more than 25 years building technology that brings large organisations closer to the millions of customers they serve. Before founding PeLocal, Vivekanand has led technology as CIO, CDO and Head of IT at Hathway, Max New York Life and Aegon Life. In those roles he ran enterprise IT and led digital programmes in sectors where service, billing and trust have to work at mass scale. Under his leadership, PeLocal has become WhatsApp-first infrastructure for India’s DISCOMs. It brings conversational AI, embedded payments and multilingual servicing to power utilities, and extends the same model to transit, municipal and financial services. Vivekanand brings an understanding of enterprise technology to a founder’s focus on the end consumer. His aim is to make every interaction with an essential service as simple as sending a message.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- V Srinivas -->
+    <div class="row speaker_row">
+        <div class="k_list_part">
+            <div class="col-sm-12 dum_speaker">
+                <div class="speaker_img">
+                    <div class="speaker-photo-placeholder" role="img" aria-label="Portrait not available for V Srinivas">Portrait not available</div>
+                </div>
+                <div class="speaker_content">
+                    <h1 class="key_head">
+                        V Srinivas<br/>
+                        Chief Secretary<br/>
+                        Government of Rajasthan
+                    </h1>
+                    <p style="text-align: justify; line-height: 1.6;">
+                        V Srinivas, a 1989 batch IAS officer of the Rajasthan cadre, currently serves as Chief Secretary at Rajasthan since November 16, 2025. He holds graduate and postgraduate degrees in Chemical Engineering. His extensive career includes roles such as Secretary, Special Secretary, Director General, Additional Secretary, Chairman, Joint Secretary, Adviser to Executive Director, Private Secretary, Deputy Secretary, District Collector and Magistrate, and Additional Commissioner. He has received numerous awards, including the Rajbhasha Kirti Puraskar (2024, 2025), Digital India Award 2020, AIIMS Leadership Excellence Award 2017, and multiple letters of appreciation from national and international dignitaries.
                     </p>
                 </div>
             </div>
@@ -2458,7 +2657,7 @@ Noida Power Company Limited
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker">
                 <div class="speaker_img">
-                    <img src="images/2026/speakers/chetan_pathak.png" alt="Chetan Pathak" class="speaker-photo">
+                    <img src="images/2026/speakers/ChetanPathak.png" alt="Chetan Pathak" class="speaker-photo">
                 </div>
                 <div class="speaker_content">
                     <h1 class="key_head">
@@ -2980,7 +3179,7 @@ Noida Power Company Limited
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker" style="display: flex; align-items: flex-start;">
                 <div class="speaker_img" style="flex: 0 0 23%; text-align: center;">
-                    <img src="images/2026/speakers/KishorNarang.png" alt="Kishor Narang" class="speaker-photo">
+                    <img src="images/2026/speakers/KishoreNarang.png" alt="Kishor Narang" class="speaker-photo">
                 </div>
                 <div class="speaker_content" style="flex: 1;">
                     <h1 class="key_head" style="font-size: 25px; text-align: left; text-transform: capitalize; margin-bottom: 15px; margin-top: 0;">
@@ -3395,7 +3594,7 @@ Noida Power Company Limited
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker">
                 <div class="speaker_img">
-                    <img src="images/2026/speakers/Pramod.png" alt="Pramod Mishra" class="speaker-photo">
+                    <img src="images/2026/speakers/PramodMishra.jpg" alt="Pramod Mishra" class="speaker-photo">
                 </div>
                 <div class="speaker_content">
                     <h1 class="key_head">

@@ -426,7 +426,7 @@ BSES Yamuna Power Limited
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker">
                 <div class="speaker_img">
-                    <div class="speaker-photo-placeholder" role="img" aria-label="Portrait not available for Animesh">Portrait not available</div>
+                    <img src="images/2026/speakers/AnimeshCPDL.jpg" alt="Animesh" class="speaker-photo">
                 </div>
                 <div class="speaker_content">
                     <h1 class="key_head">
@@ -640,7 +640,7 @@ Jaipur Vidyut Vitran Nigam Limited
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker">
                 <div class="speaker_img">
-                    <div class="speaker-photo-placeholder" role="img" aria-label="Portrait not available for Dinesh Hanumandas Agarwal">Portrait not available</div>
+                    <img src="images/2026/speakers/DineshAgarwalMSEDCL.jpg" alt="Dinesh Hanumandas Agarwal" class="speaker-photo">
                 </div>
                 <div class="speaker_content">
                     <h1 class="key_head">
@@ -857,7 +857,7 @@ Government of Rajasthan
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker">
                 <div class="speaker_img">
-                    <img src="images/2026/speakers/HimanshuChawla.jpg" alt="Himanshu Chawla" class="speaker-photo">
+                    <img src="images/2026/speakers/HimanshuChawlaPFI.jpg" alt="Himanshu Chawla" class="speaker-photo">
                 </div>
                 <div class="speaker_content">
                     <h1 class="key_head">
@@ -986,7 +986,7 @@ PuVVNL
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker">
                 <div class="speaker_img">
-                    <div class="speaker-photo-placeholder" role="img" aria-label="Portrait not available for Kiran Sabbineni">Portrait not available</div>
+                    <img src="images/2026/speakers/KiranSabbineniCDRI.jpg" alt="Kiran Sabbineni" class="speaker-photo">
                 </div>
                 <div class="speaker_content">
                     <h1 class="key_head">
@@ -1089,7 +1089,7 @@ Government of Madhya Pradesh
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker">
                 <div class="speaker_img">
-                    <div class="speaker-photo-placeholder" role="img" aria-label="Portrait not available for Naoki Sakai">Portrait not available</div>
+                    <img src="images/2026/speakers/NaokiSakaiDSharing.png" alt="Naoki Sakai" class="speaker-photo">
                 </div>
                 <div class="speaker_content">
                     <h1 class="key_head">
@@ -1917,7 +1917,7 @@ Rajasthan Rajya Vidyut Prasaran Nigam Limited
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker">
                 <div class="speaker_img">
-                    <div class="speaker-photo-placeholder" role="img" aria-label="Portrait not available for SK Soonee">Portrait not available</div>
+                    <img src="images/2026/speakers/SKSooneeGridIndia.jpg" alt="SK Soonee" class="speaker-photo">
                 </div>
                 <div class="speaker_content">
                     <h1 class="key_head">
@@ -1989,7 +1989,7 @@ Rajasthan SLDC
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker">
                 <div class="speaker_img">
-                    <div class="speaker-photo-placeholder" role="img" aria-label="Portrait not available for Sudhir Kumar R">Portrait not available</div>
+                    <img src="images/2026/speakers/SudhirKumarRCPRI.jpg" alt="Sudhir Kumar R" class="speaker-photo">
                 </div>
                 <div class="speaker_content">
                     <h1 class="key_head">
@@ -2137,7 +2137,7 @@ Noida Power Company Limited
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker">
                 <div class="speaker_img">
-                    <div class="speaker-photo-placeholder" role="img" aria-label="Portrait not available for Vivekanand Tripathi">Portrait not available</div>
+                    <img src="images/2026/speakers/VivekanandTripathiPeLocal.jpg" alt="Vivekanand Tripathi" class="speaker-photo">
                 </div>
                 <div class="speaker_content">
                     <h1 class="key_head">
@@ -2157,7 +2157,7 @@ Noida Power Company Limited
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker">
                 <div class="speaker_img">
-                    <div class="speaker-photo-placeholder" role="img" aria-label="Portrait not available for V Srinivas">Portrait not available</div>
+                    <img src="images/2026/speakers/VSrinivasGovtRajasthan.png" alt="V Srinivas" class="speaker-photo">
                 </div>
                 <div class="speaker_content">
                     <h1 class="key_head">

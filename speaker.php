@@ -668,7 +668,7 @@ Jaipur Vidyut Vitran Nigam Limited
         <div class="k_list_part">
             <div class="col-sm-12 dum_speaker">
                 <div class="speaker_img">
-                    <div class="speaker-photo-placeholder" role="img" aria-label="Portrait not available for Disha Khosla">Portrait not available</div>
+                     <img src="images/2026/speakers/DishaKhosla.png" alt="Disha Khosla" class="speaker-photo">
                 </div>
                 <div class="speaker_content">
                     <h1 class="key_head">

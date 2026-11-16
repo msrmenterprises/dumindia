@@ -2,42 +2,85 @@
     .presentation-table-wrapper {
         margin: 12px 0 24px;
         overflow-x: auto;
+        border: 1px solid #d6e2e8;
+        border-radius: 6px;
+        box-shadow: 0 2px 8px rgba(20, 58, 76, 0.08);
     }
 
     .presentation-table {
         width: 100%;
         min-width: 760px;
-        border-collapse: collapse;
+        border-collapse: separate;
+        border-spacing: 0;
+        background-color: #fff;
     }
 
     .presentation-table th,
     .presentation-table td {
-        padding: 8px;
+        padding: 10px 12px;
         text-align: left;
         vertical-align: top;
-        border: 1px solid #ddd;
+        border-right: 1px solid #e1e9ed;
+        border-bottom: 1px solid #e1e9ed;
     }
 
     .presentation-table th {
-        background-color: #f2f2f2;
+        color: #fff;
+        background-color: #164e63;
+        border-bottom: 3px solid #8cc63e;
+        font-weight: 600;
     }
 
     .presentation-table tbody tr:nth-child(even) {
-        background-color: #f9f9f9;
+        background-color: #f4f8fa;
+    }
+
+    .presentation-table tbody tr:hover {
+        background-color: #eaf3f5;
+    }
+
+    .presentation-table th:last-child,
+    .presentation-table td:last-child {
+        border-right: 0;
+    }
+
+    .presentation-table tbody tr:last-child td {
+        border-bottom: 0;
+    }
+
+    .presentation-table a {
+        color: #126782;
+        font-weight: 600;
+        text-decoration: none;
+    }
+
+    .presentation-table a:hover,
+    .presentation-table a:focus {
+        color: #0c4e65;
+        text-decoration: underline;
     }
 
     .presentation-day {
-        margin-top: 20px;
+        margin-top: 24px;
+        padding: 12px 16px;
+        color: #fff;
+        background-color: #164e63;
+        border-left: 5px solid #8cc63e;
+        border-radius: 3px;
+        font-size: 17px;
+        font-weight: 600;
     }
 
     .presentation-session {
         margin-top: 16px;
+        padding: 10px 14px;
+        color: #164e63;
+        background-color: #eef5f7;
+        border-left: 4px solid #8cc63e;
+        border-radius: 3px;
+        font-weight: 600;
     }
 
-    .presentation-event-photo {
-        text-align: center;
-        margin: 12px 0 24px;
-    }
 </style>
 
 <?php
@@ -235,14 +278,38 @@ $hasValidPassword = is_string($submittedPassword)
                 <?php
             }
             ?>
-            <div class="header presentation-session">
-                <?= htmlspecialchars($presentationGroup['title'], ENT_QUOTES, 'UTF-8') ?>
-            </div>
+            <?php if ($presentationGroup['speakers'] !== []) { ?>
+                <div class="header presentation-session">
+                    <?= htmlspecialchars($presentationGroup['title'], ENT_QUOTES, 'UTF-8') ?>
+                </div>
+            <?php } ?>
 
             <?php if ($presentationGroup['speakers'] === []) { ?>
-                <p class="presentation-event-photo">
-                    <a href="<?= htmlspecialchars($presentationGroup['photo'], ENT_QUOTES, 'UTF-8') ?>" target="_blank" rel="noopener noreferrer">Photo</a>
-                </p>
+                <div class="presentation-table-wrapper">
+                    <table class="presentation-table">
+                        <thead>
+                            <tr>
+                                <th>S.No</th>
+                                <th>Name</th>
+                                <th>Designation</th>
+                                <th>Organisation</th>
+                                <th>Category</th>
+                                <th>Presentation/Speech</th>
+                                <th>Video Link</th>
+                                <th>Photo Link</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>43</td>
+                                <td colspan="6"><?= htmlspecialchars($presentationGroup['title'], ENT_QUOTES, 'UTF-8') ?></td>
+                                <td>
+                                    <a href="<?= htmlspecialchars($presentationGroup['photo'], ENT_QUOTES, 'UTF-8') ?>" target="_blank" rel="noopener noreferrer">Photo</a>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
             <?php } else { ?>
                 <div class="presentation-table-wrapper">
                     <table class="presentation-table">

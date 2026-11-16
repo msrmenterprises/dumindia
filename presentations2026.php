@@ -2,85 +2,55 @@
     .presentation-table-wrapper {
         margin: 12px 0 24px;
         overflow-x: auto;
-        border: 1px solid #d6e2e8;
-        border-radius: 6px;
-        box-shadow: 0 2px 8px rgba(20, 58, 76, 0.08);
     }
 
     .presentation-table {
         width: 100%;
         min-width: 760px;
-        border-collapse: separate;
-        border-spacing: 0;
-        background-color: #fff;
+        border-collapse: collapse;
+        margin-bottom: 20px;
     }
 
     .presentation-table th,
     .presentation-table td {
-        padding: 10px 12px;
+        padding: 5px !important;
         text-align: left;
         vertical-align: top;
-        border-right: 1px solid #e1e9ed;
-        border-bottom: 1px solid #e1e9ed;
+        border: 1px solid #ddd;
     }
 
     .presentation-table th {
-        color: #fff;
-        background-color: #164e63;
-        border-bottom: 3px solid #8cc63e;
-        font-weight: 600;
+        background-color: #f2f2f2;
     }
 
     .presentation-table tbody tr:nth-child(even) {
-        background-color: #f4f8fa;
+        background-color: #f9f9f9;
     }
 
-    .presentation-table tbody tr:hover {
-        background-color: #eaf3f5;
+    .header {
+        background-color: #8cc63e;
+        color: white;
+        padding: 15px;
+        text-align: center;
+        font-size: 18px;
     }
 
-    .presentation-table th:last-child,
-    .presentation-table td:last-child {
-        border-right: 0;
-    }
-
-    .presentation-table tbody tr:last-child td {
-        border-bottom: 0;
-    }
-
-    .presentation-table a {
-        color: #126782;
-        font-weight: 600;
-        text-decoration: none;
-    }
-
-    .presentation-table a:hover,
-    .presentation-table a:focus {
-        color: #0c4e65;
-        text-decoration: underline;
-    }
+    .ppone { width: 5%; }
+    .pptwo { width: 15%; }
+    .ppthree { width: 30%; }
+    .ppfour { width: 20%; }
+    .ppfive { width: 15%; }
+    .ppsix { width: 5%; }
+    .ppseven { width: 5%; }
+    .ppeight { width: 5%; }
 
     .presentation-day {
-        margin-top: 24px;
-        padding: 12px 16px;
-        color: #fff;
-        background-color: #164e63;
-        border-left: 5px solid #8cc63e;
-        border-radius: 3px;
-        font-size: 17px;
-        font-weight: 600;
+        margin-top: 20px;
     }
 
     .presentation-session {
         margin-top: 16px;
-        padding: 10px 14px;
-        color: #164e63;
-        background-color: #eef5f7;
-        border-left: 4px solid #8cc63e;
-        border-radius: 3px;
-        font-weight: 600;
     }
-
 </style>
 
 <?php
@@ -289,14 +259,14 @@ $hasValidPassword = is_string($submittedPassword)
                     <table class="presentation-table">
                         <thead>
                             <tr>
-                                <th>S.No</th>
-                                <th>Name</th>
-                                <th>Designation</th>
-                                <th>Organisation</th>
-                                <th>Category</th>
-                                <th>Presentation/Speech</th>
-                                <th>Video Link</th>
-                                <th>Photo Link</th>
+                                <th class="ppone">S.No</th>
+                                <th class="pptwo">Name</th>
+                                <th class="ppthree">Designation</th>
+                                <th class="ppfour">Organisation</th>
+                                <th class="ppfive">Category</th>
+                                <th class="ppsix">Presentation/Speech</th>
+                                <th class="ppseven">Video Link</th>
+                                <th class="ppeight">Photo Link</th>
                             </tr>
                         </thead>
                         <tbody>
@@ -315,14 +285,14 @@ $hasValidPassword = is_string($submittedPassword)
                     <table class="presentation-table">
                         <thead>
                             <tr>
-                                <th>S.No</th>
-                                <th>Name</th>
-                                <th>Designation</th>
-                                <th>Organisation</th>
-                                <th>Category</th>
-                                <th>Presentation/Speech</th>
-                                <th>Video Link</th>
-                                <th>Photo Link</th>
+                                <th class="ppone">S.No</th>
+                                <th class="pptwo">Name</th>
+                                <th class="ppthree">Designation</th>
+                                <th class="ppfour">Organisation</th>
+                                <th class="ppfive">Category</th>
+                                <th class="ppsix">Presentation/Speech</th>
+                                <th class="ppseven">Video Link</th>
+                                <th class="ppeight">Photo Link</th>
                             </tr>
                         </thead>
                         <tbody>

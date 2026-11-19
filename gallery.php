@@ -131,6 +131,134 @@
 
 		<div class="tab-pane fade in active" id="photos">
 			<div class="gallery-photo-caption">
+				<h2>Glimpses of DUM 2026</h2>
+				<h4>DISTRIBUTION UTILITY MEET (DUM) 2026 | JAIPUR, RAJASTHAN</h4>
+			</div>
+
+			<div class="row">
+				<div class="col-md-12 gallery-card">
+					<div class="gallery-photo-title">
+						DUM 2026 | INAUGURAL CONFERENCE SESSION | 27 OCTOBER 2026
+					</div>
+					<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720336565216" title="DUM 2026 | Inauguration of Conference Session">
+						<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/55630521032_eeb571f4ba_c.jpg" width="800" height="600" alt="DUM 2026 | Inauguration of Conference Session"/>
+					</a>
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="col-md-12 gallery-card">
+					<div class="gallery-photo-title">
+						DUM 2026 | EXHIBITION INAUGURAL | 27 OCTOBER 2026
+					</div>
+					<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720336909159" title="DUM 2026 | Exhibition Inaugural | 27 October 2026">
+						<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/55635480036_970caf3d1b_c.jpg" width="800" height="600" alt="DUM 2026 | Exhibition Inaugural | 27 October 2026"/>
+					</a>
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="col-md-12 gallery-card">
+					<div class="gallery-photo-title">
+						DUM 2026 | SESSION 1: DISCOMs FINANCIAL TRANSFORMATION AND CAPITAL MARKET READINESS | Session Partner: Power Foundation of India (PFI) | 27 OCTOBER 2026
+					</div>
+					<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720336677745" title="DUM 2026 | Session 1: DISCOMs Financial Transformation and Capital Market Readiness | Session Partner: Power Foundation of India (PFI)">
+						<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/55631723444_d47e4e3e2b_c.jpg" width="800" height="600" alt="DUM 2026 | Session 1: DISCOMs Financial Transformation and Capital Market Readiness | Session Partner: Power Foundation of India (PFI)"/>
+					</a>
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="col-md-12 gallery-card">
+					<div class="gallery-photo-title">
+						DUM 2026 | SESSION 2: SCALING DIGITAL INTELLIGENCE AND ADVANCED SMART METER DATA ANALYTICS | Session Partner: Oracle | 27 OCTOBER 2026
+					</div>
+					<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720336565291" title="DUM 2026 | Session 2: Scaling Digital Intelligence and Advanced Smart Meter Data Analytics | Session Partner: Oracle">
+						<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/55631733469_48ebd31b83_c.jpg" width="800" height="600" alt="DUM 2026 | Session 2: Scaling Digital Intelligence and Advanced Smart Meter Data Analytics | Session Partner: Oracle"/>
+					</a>
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="col-md-12 gallery-card">
+					<div class="gallery-photo-title">
+						DUM 2026 | SESSION 3: ROLE OF RE IN MANAGING NEW AND EMERGING LOADS AND ENSURING SUPPLY RELIABILITY AND POWER QUALITY | Session Partners: Enspar and RRECL | 27 OCTOBER 2026
+					</div>
+					<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720336733147" title="DUM 2026 | Session 3: Role of RE in Managing New and Emerging Loads and Ensuring Supply Reliability and Power Quality | Session Partners: Enspar and Rajasthan Renewable Energy Corporation Limited (RRECL)">
+						<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/55631539421_78ebb9786e_c.jpg" width="800" height="600" alt="DUM 2026 | Session 3: Role of RE in Managing New and Emerging Loads and Ensuring Supply Reliability and Power Quality | Session Partners: Enspar and Rajasthan Renewable Energy Corporation Limited (RRECL)"/>
+					</a>
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="col-md-12 gallery-card">
+					<div class="gallery-photo-title">
+						DUM 2026 | WELCOME RECEPTION, GALA DINNER AND CULTURAL PROGRAM FOLLOWED BY LIVE BAND | 27 OCTOBER 2026
+					</div>
+					<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720336711490" title="DUM 2026 | Welcome Reception, Gala Dinner and Cultural Program followed by Live Band">
+						<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/55635714379_6ebb007f0b_c.jpg" width="800" height="600" alt="DUM 2026 | Welcome Reception, Gala Dinner and Cultural Program followed by Live Band"/>
+					</a>
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="col-md-12 gallery-card">
+					<div class="gallery-photo-title">
+						DUM 2026 | SESSION 4: FLEXIBILITY SOLUTIONS FOR DISTRIBUTION NETWORKS AND CEA STANDARDS FOR SOLAR PV AND BESS | Session Partner: All India DISCOMs Association (AIDA) | 28 OCTOBER 2026
+					</div>
+					<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720336744823" title="DUM 2026 | Session 4: Flexibility Solutions for Distribution Networks and CEA Standards for Solar PV and BESS | Session Partner: All India DISCOMs Association (AIDA)">
+						<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/55631677798_8b95636f08_c.jpg" width="800" height="600" alt="DUM 2026 | Session 4: Flexibility Solutions for Distribution Networks and CEA Standards for Solar PV and BESS | Session Partner: All India DISCOMs Association (AIDA)"/>
+					</a>
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="col-md-12 gallery-card">
+					<div class="gallery-photo-title">
+						DUM 2026 | SESSION 5: CLIMATE RESILIENCE AND SECURING THE PHYSICAL ASSETS OF DISCOMs | 28 OCTOBER 2026
+					</div>
+					<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720336677845" title="DUM 2026 | Session 5: Climate Resilience and Securing the Physical Assets of DISCOMs">
+						<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/55631750099_1c0bc1d9e7_c.jpg" width="800" height="600" alt="DUM 2026 | Session 5: Climate Resilience and Securing the Physical Assets of DISCOMs"/>
+					</a>
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="col-md-12 gallery-card">
+					<div class="gallery-photo-title">
+						DUM 2026 | SESSION 6: INDIA ENERGY STACK (IES), DATA EXCHANGE FRAMEWORK, CYBER SECURITY AND DATA PRIVACY FOR THE DIGITAL GRIDS | Session Partner: Power Foundation of India (PFI) | 28 OCTOBER 2026
+					</div>
+					<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720336677885" title="DUM 2026 | Session 6: India Energy Stack (IES), Data Exchange Framework, Cyber Security and Data Privacy for the Digital Grids | Session Partner: Power Foundation of India (PFI)">
+						<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/55631754614_def3cddc03_c.jpg" width="800" height="600" alt="DUM 2026 | Session 6: India Energy Stack (IES), Data Exchange Framework, Cyber Security and Data Privacy for the Digital Grids | Session Partner: Power Foundation of India (PFI)"/>
+					</a>
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="col-md-12 gallery-card">
+					<div class="gallery-photo-title">
+						DUM 2026 | SESSION 7: BESS APPLICATIONS IN POWER DISTRIBUTION - SELECT CASE STUDIES | Session Partner: The Energy and Resources Institute (TERI) | 28 OCTOBER 2026
+					</div>
+					<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720336733262" title="DUM 2026 | Session 7: BESS Applications in Power Distribution - Select Case Studies | Session Partner: The Energy and Resources Institute (TERI)">
+						<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/55631690998_d6534f6635_c.jpg" width="800" height="600" alt="DUM 2026 | Session 7: BESS Applications in Power Distribution - Select Case Studies | Session Partner: The Energy and Resources Institute (TERI)"/>
+					</a>
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="col-md-12 gallery-card">
+					<div class="gallery-photo-title">
+						DUM 2026 | VALEDICTORY SESSION | 28 OCTOBER 2026
+					</div>
+					<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720336598016" title="DUM 2026 | Valedictory Session | 28th October 2026">
+						<img class="gallery-photo-img" src="https://live.staticflickr.com/65535/55635489586_eb2614a03b_c.jpg" width="800" height="600" alt="DUM 2026 | Valedictory Session | 28th October 2026"/>
+					</a>
+				</div>
+			</div>
+
+			<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+			<div class="gallery-photo-caption">
 				<h2>Glimpses of DUM 2025</h2>
 				<h4>DISTRIBUTION UTILITY MEET (DUM) 2025 | MUMBAI, MAHARASHTRA</h4>
 			</div>

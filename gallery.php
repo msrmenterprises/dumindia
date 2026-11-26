@@ -1155,6 +1155,96 @@
         <div class="tab-pane fade" id="videos">
 
 
+			<!-- DUM 2026 Videos Section -->
+			<div class="row">
+				<div class="gallery-photo-caption">
+					<h2 class="text-center">Glimpses of DUM 2026 Videos</h2>
+					<h4>DISTRIBUTION UTILITY MEET (DUM) 2026 | JAIPUR, RAJASTHAN</h4>
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="col-md-12 gallery-card text-center">
+					<h3>DUM 2026 | Inauguration of DUM 2026 Conference and Exhibition</h3>
+					<div class="embed-responsive embed-responsive-16by9" style="max-width:560px; margin:0 auto;">
+						<iframe width="560" height="315" src="https://www.youtube.com/embed/CuXkB4Byus8?si=_L1Lb3bNnUOpkq4I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+					</div>
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="col-md-12 gallery-card text-center">
+					<h3>DUM 2026 | Session 1: DISCOMs Financial Transformation and Capital Market Readiness | Session Partner: Power Foundation of India</h3>
+					<div class="embed-responsive embed-responsive-16by9" style="max-width:560px; margin:0 auto;">
+						<iframe width="560" height="315" src="https://www.youtube.com/embed/LjSh6t_EK-0?si=c2ifKZzUWX693_vV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+					</div>
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="col-md-12 gallery-card text-center">
+					<h3>DUM 2026 | Session 2: Scaling Digital Intelligence and Advanced Smart Meter Data Analytics | Session Partner: Oracle</h3>
+					<div class="embed-responsive embed-responsive-16by9" style="max-width:560px; margin:0 auto;">
+						<iframe width="560" height="315" src="https://www.youtube.com/embed/CGhSRyericw?si=m9jVGvAM-e9p5hZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+					</div>
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="col-md-12 gallery-card text-center">
+					<h3>DUM 2026 | Session 3: Role of RE in Managing New and Emerging Loads and Ensuring Supply Reliability and Power Quality | Session Partners: Enspar and RRECL</h3>
+					<div class="embed-responsive embed-responsive-16by9" style="max-width:560px; margin:0 auto;">
+						<iframe width="560" height="315" src="https://www.youtube.com/embed/KkNgMaNyppo?si=ZcomrHOM5gL37vVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+					</div>
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="col-md-12 gallery-card text-center">
+					<h3>DUM 2026 | Session 4: Flexibility Solutions for Distribution Networks and CEA Standards for Solar PV and BESS | Session Partner: All India DISCOMs Association</h3>
+					<div class="embed-responsive embed-responsive-16by9" style="max-width:560px; margin:0 auto;">
+						<iframe width="560" height="315" src="https://www.youtube.com/embed/KfFweaP3JcI?si=iYXHK5oT9NpFmNJK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+					</div>
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="col-md-12 gallery-card text-center">
+					<h3>DUM 2026 | Session 5: Climate Resilience and Securing the Physical Assets of DISCOMs</h3>
+					<div class="embed-responsive embed-responsive-16by9" style="max-width:560px; margin:0 auto;">
+						<iframe width="560" height="315" src="https://www.youtube.com/embed/bklNVNi5ozA?si=A5ZnmUrfZncI-UYX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+					</div>
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="col-md-12 gallery-card text-center">
+					<h3>DUM 2026 | Session 6: India Energy Stack (IES), Data Exchange Framework, Cyber Security and Data Privacy for the Digital Grids | Session Partner: Power Foundation of India</h3>
+					<div class="embed-responsive embed-responsive-16by9" style="max-width:560px; margin:0 auto;">
+						<iframe width="560" height="315" src="https://www.youtube.com/embed/7F2xIvlNBmw?si=ypluw77Gb8EUib6d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+					</div>
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="col-md-12 gallery-card text-center">
+					<h3>DUM 2026 | Session 7: BESS Applications in Power Distribution - Select Case Studies | Session Partner: The Energy and Resources Institute (TERI)</h3>
+					<div class="embed-responsive embed-responsive-16by9" style="max-width:560px; margin:0 auto;">
+						<iframe width="560" height="315" src="https://www.youtube.com/embed/2cG1EfzaY7s?si=DVpoyETfFlbjNi7s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+					</div>
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="col-md-12 gallery-card text-center">
+					<h3>DUM 2026 | Valedictory Session</h3>
+					<div class="embed-responsive embed-responsive-16by9" style="max-width:560px; margin:0 auto;">
+						<iframe width="560" height="315" src="https://www.youtube.com/embed/lswuUsNkeN8?si=lSwWYMzNMRB7jlzl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+					</div>
+				</div>
+			</div>
+
+
 			<!-- DUM 2025 Videos Section -->
 			<div class="row">
 				<div class="gallery-photo-caption">

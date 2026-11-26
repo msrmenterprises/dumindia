@@ -93,6 +93,7 @@ $hasValidPassword = is_string($submittedPassword)
                 'day' => 'DAY - 1: 27 OCTOBER 2026 (TUESDAY)',
                 'title' => 'Inauguration of DUM 2026 Conference and Exhibition',
                 'photo' => 'https://flic.kr/s/aHBqjD9JJC',
+                'video' => 'https://youtu.be/CuXkB4Byus8?si=t_zZIqPA1xLsUYhY',
                 'speakers' => [
                     [1, 'Reji Kumar Pillai', 'President', 'India Smart Grid Forum', 'Welcome Address', 'Speech'],
                     [2, 'Arti Dogra', 'Secretary – Energy and CMD', 'Govt. of Rajasthan and JVVNL', 'Welcome Address', 'Speech'],
@@ -113,6 +114,7 @@ $hasValidPassword = is_string($submittedPassword)
                 'day' => 'DAY - 1: 27 OCTOBER 2026 (TUESDAY)',
                 'title' => 'Session 1: DISCOMs Financial Transformation and Capital Market Readiness | Session Partner: Power Foundation of India (PFI)',
                 'photo' => 'https://flic.kr/s/aHBqjDajbM',
+                'video' => 'https://youtu.be/LjSh6t_EK-0?si=V3AdHLRBFJU10iBg',
                 'speakers' => [
                     [14, 'Alok Kumar', 'Director General', 'All India Discoms Association', 'Chair', 'Speech'],
                     [15, 'Himanshu Chawla', 'Head - Regulatory and Research', 'Power Foundation of India', 'Moderator and Presentation', 'View/Download'],
@@ -128,6 +130,7 @@ $hasValidPassword = is_string($submittedPassword)
                 'day' => 'DAY - 1: 27 OCTOBER 2026 (TUESDAY)',
                 'title' => 'Session 2: Scaling Digital Intelligence and Advanced Smart Meter Data Analytics | Session Partner: Oracle',
                 'photo' => 'https://flic.kr/s/aHBqjD9JKV',
+                'video' => 'https://youtu.be/CGhSRyericw?si=X9J7mBI0jMjCFAWl',
                 'speakers' => [
                     [22, 'Reji Kumar Pillai', 'President', 'India Smart Grid Forum', 'Welcome Address', 'Speech'],
                     [23, 'Ajoy Rajani', 'Chair - IoT, AI and Analytics Working Group', 'India Smart Grid Forum', 'Moderator', 'Speech'],
@@ -145,6 +148,7 @@ $hasValidPassword = is_string($submittedPassword)
                 'day' => 'DAY - 1: 27 OCTOBER 2026 (TUESDAY)',
                 'title' => 'Session 3: Role of RE in Managing New and Emerging Loads and Ensuring Supply Reliability and Power Quality | Session Partners: Enspar and Rajasthan Renewable Energy Corporation Limited (RRECL)',
                 'photo' => 'https://flic.kr/s/aHBqjDaADZ',
+                'video' => 'https://youtu.be/KkNgMaNyppo?si=TBCKIydX2Y7fmBIE',
                 'speakers' => [
                     [32, 'Ghanshyam Prasad', 'Chairperson', 'Central Electricity Authority, GoI', 'Chair', 'Speech'],
                     [33, 'Reena Suri', 'Chief Executive Officer', 'India Smart Grid Forum', 'Moderator', 'Speech'],
@@ -169,6 +173,7 @@ $hasValidPassword = is_string($submittedPassword)
                 'day' => 'DAY - 2: 28 OCTOBER 2026 (WEDNESDAY)',
                 'title' => 'Session 4: Flexibility Solutions for Distribution Networks and CEA Standards for Solar PV and BESS | Session Partner: All India DISCOMs Association (AIDA)',
                 'photo' => 'https://flic.kr/s/aHBqjDaE8i',
+                'video' => 'https://youtu.be/KfFweaP3JcI?si=Wb79Ne55qe7NJuGs',
                 'speakers' => [
                     [44, 'Alok Kumar', 'Director General', 'All India Discoms Association', 'Chair', 'Speech'],
                     [45, 'Vikas Gaba', 'Partner', 'KPMG', 'Moderator', 'Speech'],
@@ -183,6 +188,7 @@ $hasValidPassword = is_string($submittedPassword)
                 'day' => 'DAY - 2: 28 OCTOBER 2026 (WEDNESDAY)',
                 'title' => 'Session 5: Climate Resilience and Securing the Physical Assets of DISCOMs',
                 'photo' => 'https://flic.kr/s/aHBqjDajdv',
+                'video' => 'https://youtu.be/bklNVNi5ozA?si=4gB3B6T4DjZMuXbL',
                 'speakers' => [
                     [51, 'Ravi Seethapathy', 'Executive Chairman and Advisor', 'Biosirus Inc. and India Smart Grid Forum', 'Chair and Moderator', 'Speech'],
                     [52, 'Kiran Sabbineni', 'Lead Specialist – Energy', 'Coalition for Disaster Resilient Infrastructure', 'Theme Presentation', 'View/Download'],
@@ -198,6 +204,7 @@ $hasValidPassword = is_string($submittedPassword)
                 'day' => 'DAY - 2: 28 OCTOBER 2026 (WEDNESDAY)',
                 'title' => 'Session 6: India Energy Stack (IES), Data Exchange Framework, Cyber Security and Data Privacy for the Digital Grids | Session Partner: Power Foundation of India (PFI)',
                 'photo' => 'https://flic.kr/s/aHBqjDajec',
+                'video' => 'https://youtu.be/7F2xIvlNBmw?si=5dXyaoPFvi1eE37u',
                 'speakers' => [
                     [59, 'Prince Dhawan', 'Executive Director and Task Force', 'REC Limited and India Energy Stack', 'Chair', 'View/Download'],
                     [60, 'Himanshu Chawla', 'Head - Regulatory and Research', 'Power Foundation of India', 'Moderator', 'Speech'],
@@ -214,6 +221,7 @@ $hasValidPassword = is_string($submittedPassword)
                 'day' => 'DAY - 2: 28 OCTOBER 2026 (WEDNESDAY)',
                 'title' => 'Session 7: BESS Applications in Power Distribution - Select Case Studies | Session Partner: The Energy and Resources Institute (TERI)',
                 'photo' => 'https://flic.kr/s/aHBqjDaAFY',
+                'video' => 'https://youtu.be/2cG1EfzaY7s?si=KfSgPZX5elaxAb2D',
                 'speakers' => [
                     [68, 'A K Saxena', 'Senior Director', 'The Energy and Resources Institute', 'Chair and Moderator', 'Speech'],
                     [69, 'Bhagyasree Nair', 'Energy Advisor', 'GIZ', 'Presentation', 'View/Download'],
@@ -230,6 +238,7 @@ $hasValidPassword = is_string($submittedPassword)
                 'day' => 'DAY - 2: 28 OCTOBER 2026 (WEDNESDAY)',
                 'title' => 'Valedictory Session',
                 'photo' => 'https://flic.kr/s/aHBqjD9Uu9',
+                'video' => 'https://youtu.be/lswuUsNkeN8?si=2RUddleYR5hj55hV',
                 'speakers' => [
                     [77, 'Reji Kumar Pillai', 'President', 'India Smart Grid Forum', 'Vote of Thanks', 'Speech'],
                     [78, 'Reena Suri', 'Chief Executive Officer', 'India Smart Grid Forum', 'Vote of Thanks', 'Speech'],
@@ -316,7 +325,9 @@ $hasValidPassword = is_string($submittedPassword)
                                             <?= htmlspecialchars($speaker[5], ENT_QUOTES, 'UTF-8') ?>
                                         <?php } ?>
                                     </td>
-                                    <td>Video</td>
+                                    <td>
+                                        <a href="<?= htmlspecialchars($presentationGroup['video'], ENT_QUOTES, 'UTF-8') ?>" target="_blank" rel="noopener noreferrer">Video</a>
+                                    </td>
                                     <td>
                                         <a href="<?= htmlspecialchars($presentationGroup['photo'], ENT_QUOTES, 'UTF-8') ?>" target="_blank" rel="noopener noreferrer">Photo</a>
                                     </td>
@@ -353,3 +364,9 @@ $hasValidPassword = is_string($submittedPassword)
 </div>
 
 <?php include "include/footer.php"; ?>
+<script>
+    document.querySelectorAll('a[href]').forEach((link) => {
+        link.target = '_blank';
+        link.relList.add('noopener', 'noreferrer');
+    });
+</script>
